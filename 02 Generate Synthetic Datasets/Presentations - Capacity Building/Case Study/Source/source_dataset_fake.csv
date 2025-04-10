@@ -1,0 +1,1501 @@
+id,first_name,last_name,sex,dob,village_name,occupation,covid_19_first_vacc_date,age_on_first_vacc,vacc_manufacturer
+GIL799750,Mary,Zuberi,Male,9/16/1995,Gilgil,Mason,1/8/2021,26,Oxford-AstraZeneca
+BAH473486,Michael,Mwakalinga,Female,1/5/1986,Bahati,Mason,5/20/2022,36,Sinopharm
+MOL599001,Sarah,Ngoma,Male,12/14/1972,Molo,Farmer,8/8/2021,49,Sputnik V
+BAH986148,Elizabeth,Ngoma,Female,2/6/1957,Bahati,Carpenter,10/5/2021,64,Moderna
+BAH571703,Paul,Mcharo,Female,2/22/1992,Bahati,Carpenter,12/6/2022,30,Moderna
+BAH442666,David,Mcharo,Female,3/9/2002,Bahati,Tailor,5/22/2022,20,Johnson and Johnson
+NAI176846,Joseph,Zuberi,Male,1/20/1992,Naivasha,Tailor,10/5/2021,29,Johnson and Johnson
+SUB884293,Rahma,Mwashigadi,Male,12/14/1979,Subukia,Trader,1/26/2021,42,Johnson and Johnson
+RON369464,Omar,Chilambo,Male,1/20/1966,Rongai,Fisherman,2/26/2021,55,Moderna
+RON329336,Sauda,Chilambo,Male,4/17/1995,Rongai,Farmer,8/10/2021,26,Moderna
+SUB803327,Mary,Mtambo,Male,4/9/1975,Subukia,Mason,3/13/2022,47,Johnson and Johnson
+RON266628,Michael,Mwakalinga,Female,1/13/1974,Rongai,Tailor,8/31/2021,47,Johnson and Johnson
+MOL949392,Sarah,Mtambo,Female,7/26/1974,Molo,Tailor,9/12/2022,48,Sinopharm
+RON115946,Elizabeth,Mwadime,Male,4/14/2003,Rongai,Mason,3/15/2022,19,Sinopharm
+NAI315209,Paul,Chilambo,Male,3/10/1990,Naivasha,Carpenter,4/24/2022,32,Pfizer
+GIL162501,David,Mcharo,Male,11/20/1979,Gilgil,Teacher,10/31/2021,42,Oxford-AstraZeneca
+RON744175,Joseph,Mwadime,Male,5/15/1984,Rongai,Teacher,9/15/2022,38,Oxford-AstraZeneca
+GIL923115,Rahma,Zuberi,Female,11/11/1955,Gilgil,Mason,7/13/2021,66,Sinopharm
+BAH732864,Omar,Mwakalinga,Male,11/14/2000,Bahati,Carpenter,1/5/2021,21,Pfizer
+NJO428998,Sauda,Ngoma,Male,6/28/2001,Njoro,Farmer,5/30/2022,21,Moderna
+GIL182443,Mary,Ngoma,Male,4/1/1967,Gilgil,Farmer,10/2/2021,54,Sputnik V
+MOL269401,Michael,Musa,Female,1/21/1956,Molo,Fisherman,6/2/2022,66,Pfizer
+NJO764793,Sarah,Mwakalinga,Male,11/14/1993,Njoro,Teacher,4/1/2022,29,Sputnik V
+GIL139932,Elizabeth,Mwashigadi,Male,3/28/1973,Gilgil,Mason,1/6/2021,48,Johnson and Johnson
+RON187495,Paul,Zuberi,Female,1/19/1956,Rongai,Fisherman,10/8/2022,66,Pfizer
+GIL718020,David,Nyaga,Female,7/16/1975,Gilgil,Teacher,11/29/2022,47,Sinopharm
+NAI937903,Joseph,Mwadime,Female,7/23/1996,Naivasha,Carpenter,10/22/2022,26,Moderna
+BAH124303,Rahma,Nyaga,Female,11/15/1963,Bahati,Carpenter,5/31/2021,58,Sputnik V
+SUB652005,Omar,Nyaga,Male,8/3/1981,Subukia,Teacher,6/20/2022,41,Sputnik V
+SUB311035,Sauda,Mwakalinga,Female,1/1/1975,Subukia,Farmer,2/17/2022,47,Oxford-AstraZeneca
+NJO195135,Mary,Mtambo,Male,5/21/1994,Njoro,Mason,1/9/2022,28,Johnson and Johnson
+SUB435802,Michael,Mwadime,Female,5/17/1969,Subukia,Fisherman,9/30/2022,53,Pfizer
+SUB163919,Sarah,Mwakalinga,Male,1/31/1968,Subukia,Trader,7/6/2022,54,Moderna
+RON155113,Elizabeth,Nyaga,Male,5/29/1962,Rongai,Fisherman,10/5/2021,59,Pfizer
+NAI116066,Paul,Nyaga,Male,7/25/1998,Naivasha,Fisherman,3/15/2022,24,Oxford-AstraZeneca
+RON892247,David,Mtambo,Male,6/24/1999,Rongai,Fisherman,4/28/2021,22,Pfizer
+BAH235180,Joseph,Chilambo,Male,11/22/1986,Bahati,Carpenter,7/6/2021,35,Sinopharm
+NJO877029,Rahma,Zuberi,Male,1/12/1997,Njoro,Fisherman,1/11/2022,25,Johnson and Johnson
+MOL824768,Omar,Zuberi,Male,9/18/1983,Molo,Mason,10/5/2021,38,Sputnik V
+BAH245430,Sauda,Mwakalinga,Male,9/27/1956,Bahati,Trader,5/7/2022,66,Sputnik V
+SUB531987,Mary,Nyaga,Male,12/26/2006,Subukia,Carpenter,4/18/2022,16,Moderna
+RON612066,Michael,Chilambo,Male,8/9/1967,Rongai,Mason,8/13/2021,54,Moderna
+BAH271190,Sarah,Mcharo,Male,3/23/2002,Bahati,Tailor,3/26/2021,19,Sputnik V
+GIL776380,Elizabeth,Zuberi,Male,4/3/1972,Gilgil,Fisherman,3/3/2022,50,Johnson and Johnson
+MOL788654,Paul,Mwashigadi,Male,1/11/2004,Molo,Trader,5/20/2022,18,Oxford-AstraZeneca
+GIL827693,David,Musa,Male,1/26/1977,Gilgil,Farmer,3/16/2021,44,Moderna
+SUB147448,Joseph,Mwadime,Male,10/22/1973,Subukia,Tailor,11/15/2022,49,Johnson and Johnson
+NAI804891,Rahma,Mtambo,Male,12/17/1956,Naivasha,Teacher,6/23/2021,65,Johnson and Johnson
+RON736871,Omar,Chilambo,Male,6/28/1959,Rongai,Teacher,10/25/2022,63,Moderna
+NAI900111,Sauda,Mwashigadi,Female,5/27/1990,Naivasha,Mason,8/3/2022,32,Sputnik V
+SUB656509,Mary,Mwashigadi,Male,5/13/1972,Subukia,Farmer,8/6/2021,49,Sputnik V
+RON336926,Michael,Chilambo,Male,7/9/1955,Rongai,Tailor,7/13/2022,67,Johnson and Johnson
+BAH184522,Sarah,Mwashigadi,Female,4/13/1994,Bahati,Carpenter,3/17/2021,27,Pfizer
+NJO561315,Elizabeth,Mcharo,Male,2/15/2003,Njoro,Mason,9/22/2021,18,Pfizer
+RON504043,Paul,Mwashigadi,Female,11/4/1961,Rongai,Teacher,6/17/2022,61,Moderna
+BAH835556,David,Nyaga,Male,7/7/1973,Bahati,Trader,3/31/2021,48,Oxford-AstraZeneca
+BAH469190,Joseph,Mwakalinga,Female,9/28/1967,Bahati,Tailor,3/7/2022,55,Moderna
+NAI209348,Rahma,Mwashigadi,Female,10/21/1996,Naivasha,Trader,1/5/2021,25,Johnson and Johnson
+RON512081,Omar,Mcharo,Female,9/6/1999,Rongai,Farmer,4/9/2021,22,Oxford-AstraZeneca
+BAH460193,Sauda,Mcharo,Male,11/29/1956,Bahati,Tailor,7/18/2022,66,Pfizer
+NJO880271,Mary,Mcharo,Female,10/11/2006,Njoro,Trader,6/5/2021,15,Johnson and Johnson
+RON861555,Michael,Mtambo,Female,7/17/1970,Rongai,Fisherman,4/4/2021,51,Sputnik V
+BAH434179,Sarah,Mwadime,Male,4/7/1996,Bahati,Tailor,5/22/2022,26,Sputnik V
+NAI101746,Elizabeth,Mtambo,Female,9/10/1970,Naivasha,Fisherman,3/11/2021,51,Moderna
+RON470666,Paul,Mtambo,Female,5/31/1969,Rongai,Teacher,8/10/2022,53,Sinopharm
+NJO822950,David,Ngoma,Female,7/16/1956,Njoro,Mason,1/28/2021,65,Sputnik V
+NJO813813,Joseph,Ngoma,Female,1/20/1955,Njoro,Teacher,3/29/2022,67,Sputnik V
+BAH398482,Rahma,Mcharo,Male,3/19/1998,Bahati,Farmer,6/19/2021,23,Sinopharm
+BAH657887,Omar,Nyaga,Female,6/8/1998,Bahati,Fisherman,7/26/2022,24,Sinopharm
+NAI115847,Sauda,Zuberi,Female,5/23/1975,Naivasha,Farmer,11/13/2021,46,Johnson and Johnson
+GIL684710,Mary,Zuberi,Female,7/18/1989,Gilgil,Trader,8/2/2021,32,Sputnik V
+SUB416351,Michael,Chilambo,Male,12/15/1966,Subukia,Teacher,8/8/2021,55,Pfizer
+SUB677886,Sarah,Mwashigadi,Female,1/11/1972,Subukia,Teacher,6/17/2022,50,Moderna
+SUB522496,Elizabeth,Nyaga,Female,8/5/1965,Subukia,Farmer,8/25/2022,57,Sinopharm
+NJO106393,Paul,Mwakalinga,Male,4/30/2006,Njoro,Fisherman,9/9/2022,16,Johnson and Johnson
+RON832478,David,Musa,Male,12/17/1997,Rongai,Tailor,7/5/2021,24,Pfizer
+SUB526212,Joseph,Mtambo,Female,8/7/1997,Subukia,Mason,8/18/2022,25,Sputnik V
+GIL892334,Rahma,Chilambo,Male,11/27/1958,Gilgil,Farmer,11/17/2022,64,Johnson and Johnson
+SUB861158,Omar,Musa,Female,6/1/1991,Subukia,Teacher,8/1/2022,31,Johnson and Johnson
+BAH337720,Sauda,Chilambo,Female,10/2/1999,Bahati,Tailor,3/17/2021,22,Oxford-AstraZeneca
+NAI508448,Mary,Mtambo,Female,12/22/2004,Naivasha,Trader,2/19/2021,17,Oxford-AstraZeneca
+NAI963179,Michael,Musa,Female,11/17/1992,Naivasha,Mason,7/3/2022,30,Sputnik V
+NJO760322,Sarah,Chilambo,Female,7/21/1974,Njoro,Farmer,8/29/2021,47,Johnson and Johnson
+SUB682164,Elizabeth,Mtambo,Male,3/10/1979,Subukia,Mason,11/1/2021,42,Moderna
+NAI651998,Paul,Chilambo,Male,11/7/1990,Naivasha,Farmer,2/9/2022,32,Johnson and Johnson
+MOL224482,David,Ngoma,Male,7/10/1992,Molo,Tailor,2/18/2022,30,Sinopharm
+NAI362108,Joseph,Mtambo,Male,11/5/1965,Naivasha,Trader,10/10/2022,57,Oxford-AstraZeneca
+NJO189747,Rahma,Mwadime,Female,11/23/1955,Njoro,Farmer,6/7/2022,67,Johnson and Johnson
+BAH449668,Omar,Mwashigadi,Female,8/17/2006,Bahati,Fisherman,10/1/2022,16,Sputnik V
+NJO764086,Sauda,Mwakalinga,Male,7/17/1978,Njoro,Farmer,5/24/2022,44,Johnson and Johnson
+MOL972301,Mary,Ngoma,Female,11/17/1960,Molo,Fisherman,8/12/2022,62,Sinopharm
+SUB546525,Michael,Mwashigadi,Male,8/26/2002,Subukia,Trader,10/4/2021,19,Oxford-AstraZeneca
+RON684695,Sarah,Chilambo,Male,3/24/1994,Rongai,Carpenter,5/12/2022,28,Sinopharm
+MOL448857,Elizabeth,Musa,Female,10/11/1970,Molo,Tailor,6/22/2022,52,Moderna
+GIL541454,Paul,Mwashigadi,Male,7/5/1957,Gilgil,Farmer,1/25/2022,65,Oxford-AstraZeneca
+SUB330141,David,Nyaga,Male,3/12/1988,Subukia,Tailor,10/10/2021,33,Moderna
+BAH705295,Joseph,Mtambo,Male,3/15/1973,Bahati,Mason,4/13/2021,48,Oxford-AstraZeneca
+BAH786965,Rahma,Mwashigadi,Female,10/20/1956,Bahati,Teacher,9/29/2021,65,Sputnik V
+MOL839154,Omar,Mwashigadi,Male,6/1/1987,Molo,Fisherman,4/1/2021,34,Pfizer
+RON129726,Sauda,Mtambo,Female,4/15/1990,Rongai,Teacher,8/7/2022,32,Johnson and Johnson
+RON749342,Mary,Mwashigadi,Female,3/10/1983,Rongai,Tailor,12/26/2021,38,Sinopharm
+SUB537823,Michael,Musa,Male,5/22/1971,Subukia,Fisherman,4/9/2022,51,Oxford-AstraZeneca
+MOL323921,Sarah,Mwakalinga,Male,11/18/1957,Molo,Fisherman,5/27/2022,65,Moderna
+MOL120268,Elizabeth,Mtambo,Female,9/12/1994,Molo,Carpenter,9/2/2022,28,Pfizer
+GIL630460,Paul,Chilambo,Male,12/19/1980,Gilgil,Carpenter,6/27/2021,41,Oxford-AstraZeneca
+NJO793898,David,Mwakalinga,Female,12/25/1994,Njoro,Fisherman,7/2/2022,28,Oxford-AstraZeneca
+BAH172534,Joseph,Mwadime,Male,10/18/1979,Bahati,Teacher,8/25/2021,42,Pfizer
+RON662238,Rahma,Musa,Female,8/31/1985,Rongai,Fisherman,5/4/2021,36,Sputnik V
+MOL615082,Omar,Zuberi,Female,10/14/1976,Molo,Fisherman,8/24/2022,46,Oxford-AstraZeneca
+SUB154724,Sauda,Musa,Male,1/25/1985,Subukia,Trader,12/4/2022,37,Oxford-AstraZeneca
+NJO919688,Mary,Chilambo,Male,1/20/1988,Njoro,Carpenter,7/30/2022,34,Moderna
+NJO372035,Michael,Mwadime,Male,1/15/1986,Njoro,Fisherman,9/28/2021,35,Moderna
+MOL823544,Sarah,Mcharo,Male,1/8/1989,Molo,Trader,4/10/2021,32,Pfizer
+GIL863418,Elizabeth,Mcharo,Male,6/17/1973,Gilgil,Tailor,5/28/2021,48,Johnson and Johnson
+RON771847,Paul,Chilambo,Female,5/27/1956,Rongai,Tailor,4/18/2021,65,Pfizer
+NJO509796,David,Mwakalinga,Female,11/1/1974,Njoro,Fisherman,8/20/2021,47,Moderna
+BAH334955,Joseph,Mwashigadi,Female,9/2/1963,Bahati,Fisherman,7/29/2022,59,Sinopharm
+NAI213636,Rahma,Ngoma,Male,5/4/1958,Naivasha,Mason,9/4/2022,64,Oxford-AstraZeneca
+SUB877352,Omar,Mwashigadi,Male,5/23/1976,Subukia,Mason,8/22/2022,46,Johnson and Johnson
+MOL512050,Sauda,Nyaga,Male,6/16/1976,Molo,Farmer,1/18/2022,46,Sputnik V
+MOL872063,Mary,Chilambo,Male,1/15/2000,Molo,Farmer,5/17/2022,22,Moderna
+RON984328,Michael,Nyaga,Female,9/2/2005,Rongai,Tailor,8/21/2021,16,Sinopharm
+GIL289703,Sarah,Ngoma,Male,6/3/1999,Gilgil,Farmer,10/20/2022,23,Sputnik V
+NJO122247,Elizabeth,Mwashigadi,Male,12/20/1989,Njoro,Farmer,10/22/2021,32,Moderna
+SUB122419,Paul,Nyaga,Female,1/22/1997,Subukia,Farmer,8/31/2021,24,Pfizer
+NJO388070,David,Zuberi,Male,1/22/1980,Njoro,Tailor,5/10/2022,42,Johnson and Johnson
+GIL926968,Joseph,Ngoma,Female,2/11/1965,Gilgil,Fisherman,2/25/2021,56,Moderna
+BAH575103,Rahma,Mwashigadi,Male,3/26/1957,Bahati,Teacher,12/14/2022,65,Oxford-AstraZeneca
+MOL206409,Omar,Mwakalinga,Male,10/9/1973,Molo,Farmer,12/22/2022,49,Oxford-AstraZeneca
+SUB879224,Sauda,Chilambo,Female,7/23/1981,Subukia,Carpenter,8/31/2021,40,Oxford-AstraZeneca
+NAI176259,Mary,Ngoma,Male,8/23/1971,Naivasha,Tailor,5/13/2021,50,Moderna
+GIL135718,Michael,Ngoma,Male,4/25/1988,Gilgil,Mason,12/13/2021,33,Pfizer
+GIL553695,Sarah,Nyaga,Female,9/10/2000,Gilgil,Tailor,8/26/2021,21,Oxford-AstraZeneca
+GIL726539,Elizabeth,Mwakalinga,Male,8/24/1954,Gilgil,Farmer,11/22/2022,68,Johnson and Johnson
+NJO957220,Paul,Mcharo,Male,1/20/1976,Njoro,Teacher,9/8/2021,45,Oxford-AstraZeneca
+BAH265313,David,Mwashigadi,Male,12/27/2000,Bahati,Tailor,6/10/2022,22,Moderna
+RON108474,Joseph,Chilambo,Female,2/18/1960,Rongai,Tailor,5/19/2021,61,Sinopharm
+RON759118,Rahma,Musa,Male,7/7/1989,Rongai,Fisherman,4/6/2022,33,Johnson and Johnson
+RON225976,Omar,Mwadime,Male,9/27/1970,Rongai,Carpenter,6/8/2021,51,Moderna
+RON638118,Sauda,Zuberi,Female,9/7/1998,Rongai,Teacher,2/5/2021,23,Johnson and Johnson
+MOL447516,Mary,Mwakalinga,Male,8/10/1999,Molo,Tailor,3/13/2022,23,Moderna
+MOL822392,Michael,Chilambo,Male,2/1/1962,Molo,Teacher,10/13/2022,60,Sinopharm
+MOL728138,Sarah,Chilambo,Male,7/5/1995,Molo,Farmer,1/2/2022,27,Sinopharm
+RON727038,Elizabeth,Musa,Male,2/17/2001,Rongai,Fisherman,4/7/2022,21,Oxford-AstraZeneca
+NJO911449,Paul,Nyaga,Male,3/22/1973,Njoro,Tailor,12/26/2022,49,Sputnik V
+GIL657556,David,Ngoma,Female,6/18/1961,Gilgil,Farmer,9/7/2021,60,Sputnik V
+SUB826633,Joseph,Chilambo,Male,5/23/1960,Subukia,Tailor,10/21/2021,61,Oxford-AstraZeneca
+RON311045,Rahma,Mtambo,Female,2/13/1963,Rongai,Tailor,1/28/2021,58,Johnson and Johnson
+SUB845650,Omar,Mcharo,Female,4/9/1993,Subukia,Fisherman,9/6/2021,28,Oxford-AstraZeneca
+MOL704216,Sauda,Mwashigadi,Male,11/21/1998,Molo,Fisherman,9/1/2022,24,Moderna
+MOL217242,Mary,Mcharo,Male,7/29/2003,Molo,Fisherman,12/15/2021,18,Sinopharm
+BAH211479,Michael,Musa,Male,12/18/1954,Bahati,Trader,3/30/2022,68,Sputnik V
+NJO991696,Sarah,Mwakalinga,Male,6/29/1979,Njoro,Farmer,1/26/2021,42,Pfizer
+BAH615856,Elizabeth,Mcharo,Male,8/1/1956,Bahati,Tailor,12/22/2021,65,Moderna
+BAH146891,Paul,Mtambo,Female,9/9/1966,Bahati,Tailor,9/27/2021,55,Moderna
+GIL515793,David,Mtambo,Male,4/16/1955,Gilgil,Trader,2/25/2022,67,Sinopharm
+RON101656,Joseph,Zuberi,Male,5/25/1973,Rongai,Teacher,2/18/2021,48,Johnson and Johnson
+BAH501213,Rahma,Ngoma,Female,7/16/1966,Bahati,Teacher,2/10/2021,55,Sinopharm
+BAH806107,Omar,Ngoma,Male,5/25/1975,Bahati,Carpenter,6/15/2021,46,Sinopharm
+SUB225151,Sauda,Musa,Male,11/23/2000,Subukia,Farmer,7/2/2021,21,Moderna
+MOL958404,Mary,Mwashigadi,Female,4/19/1978,Molo,Teacher,2/3/2022,44,Oxford-AstraZeneca
+RON678596,Michael,Mtambo,Male,10/8/1974,Rongai,Mason,1/7/2022,48,Moderna
+MOL520124,Sarah,Ngoma,Male,1/30/1974,Molo,Fisherman,5/19/2021,47,Moderna
+NAI780478,Elizabeth,Mwakalinga,Male,2/16/1955,Naivasha,Carpenter,2/16/2021,66,Moderna
+SUB117667,Paul,Musa,Female,12/16/1969,Subukia,Carpenter,2/19/2022,53,Oxford-AstraZeneca
+GIL758393,David,Mcharo,Female,8/14/2006,Gilgil,Farmer,11/8/2021,15,Johnson and Johnson
+RON816039,Joseph,Nyaga,Female,5/27/1965,Rongai,Tailor,12/7/2022,57,Sinopharm
+NJO112522,Rahma,Mtambo,Male,11/24/1964,Njoro,Carpenter,11/15/2022,58,Sputnik V
+BAH277501,Omar,Mwashigadi,Male,3/15/1967,Bahati,Tailor,2/3/2021,54,Sputnik V
+SUB772280,Sauda,Musa,Female,8/11/2005,Subukia,Mason,6/11/2022,17,Oxford-AstraZeneca
+BAH499004,Mary,Ngoma,Female,6/23/1975,Bahati,Tailor,7/19/2022,47,Sinopharm
+SUB502228,Michael,Musa,Female,11/6/1969,Subukia,Trader,3/3/2021,52,Pfizer
+SUB492042,Sarah,Zuberi,Female,2/23/1996,Subukia,Fisherman,1/27/2022,26,Sputnik V
+GIL848983,Elizabeth,Mwakalinga,Male,12/5/1969,Gilgil,Fisherman,4/17/2021,52,Sinopharm
+NAI366520,Paul,Chilambo,Male,4/11/1986,Naivasha,Mason,11/14/2021,35,Sinopharm
+NJO286904,David,Zuberi,Female,8/4/1998,Njoro,Carpenter,7/9/2022,24,Pfizer
+RON858361,Joseph,Mcharo,Male,5/8/1998,Rongai,Fisherman,12/24/2022,24,Pfizer
+SUB762291,Rahma,Mwashigadi,Male,11/7/1993,Subukia,Trader,12/19/2021,28,Pfizer
+SUB677573,Omar,Mwadime,Male,9/17/1997,Subukia,Tailor,11/18/2022,25,Pfizer
+SUB792746,Sauda,Mwadime,Female,5/5/1983,Subukia,Carpenter,7/7/2021,38,Oxford-AstraZeneca
+NJO507190,Mary,Ngoma,Female,8/3/2002,Njoro,Farmer,10/5/2022,20,Sputnik V
+MOL678784,Michael,Mwashigadi,Male,1/24/1979,Molo,Teacher,2/8/2021,42,Sputnik V
+GIL847837,Sarah,Musa,Female,8/14/1995,Gilgil,Teacher,2/28/2022,27,Oxford-AstraZeneca
+NAI941833,Elizabeth,Nyaga,Female,5/12/2005,Naivasha,Carpenter,7/2/2021,16,Johnson and Johnson
+NJO246113,Paul,Zuberi,Female,2/5/2004,Njoro,Farmer,4/14/2021,17,Moderna
+BAH441179,David,Mwadime,Male,7/28/2001,Bahati,Tailor,12/3/2021,20,Johnson and Johnson
+GIL338140,Joseph,Chilambo,Male,1/17/1985,Gilgil,Teacher,8/15/2022,37,Sputnik V
+RON267368,Rahma,Mwashigadi,Female,9/6/2002,Rongai,Fisherman,4/24/2021,19,Oxford-AstraZeneca
+RON385698,Omar,Mwadime,Female,6/14/1989,Rongai,Farmer,10/31/2021,32,Oxford-AstraZeneca
+SUB475626,Sauda,Mwashigadi,Female,5/16/1988,Subukia,Farmer,6/21/2021,33,Sinopharm
+MOL360292,Mary,Zuberi,Male,8/15/1995,Molo,Mason,9/22/2021,26,Sputnik V
+BAH934871,Michael,Mtambo,Female,10/8/1966,Bahati,Mason,11/12/2022,56,Moderna
+RON671191,Sarah,Ngoma,Male,4/25/1980,Rongai,Teacher,4/23/2022,42,Johnson and Johnson
+NJO551336,Elizabeth,Ngoma,Female,1/3/1982,Njoro,Fisherman,4/16/2022,40,Johnson and Johnson
+NJO345321,Paul,Mcharo,Female,3/12/1983,Njoro,Trader,4/6/2022,39,Sinopharm
+BAH805501,David,Mwashigadi,Female,10/26/2002,Bahati,Farmer,8/7/2022,20,Pfizer
+GIL930442,Joseph,Mwakalinga,Female,7/25/1957,Gilgil,Mason,1/27/2021,64,Sinopharm
+SUB935198,Rahma,Chilambo,Male,9/29/1959,Subukia,Fisherman,3/16/2021,62,Sinopharm
+MOL237389,Omar,Musa,Female,9/29/1964,Molo,Mason,7/3/2022,58,Moderna
+MOL231575,Sauda,Ngoma,Female,9/30/1991,Molo,Trader,8/30/2021,30,Sputnik V
+MOL692576,Mary,Chilambo,Female,9/14/1965,Molo,Fisherman,5/22/2021,56,Johnson and Johnson
+MOL973599,Michael,Nyaga,Female,2/22/1965,Molo,Farmer,6/10/2021,56,Moderna
+SUB628269,Sarah,Mcharo,Male,3/18/1961,Subukia,Mason,12/19/2022,61,Pfizer
+NJO100832,Elizabeth,Chilambo,Male,2/22/1976,Njoro,Teacher,8/30/2021,45,Sinopharm
+RON681636,Paul,Mwadime,Male,10/18/1954,Rongai,Mason,7/22/2021,67,Johnson and Johnson
+NJO112580,David,Chilambo,Female,7/30/2000,Njoro,Farmer,9/17/2022,22,Sinopharm
+GIL726737,Joseph,Mwashigadi,Female,1/24/2005,Gilgil,Mason,4/22/2021,16,Sinopharm
+NJO162698,Rahma,Ngoma,Female,3/30/1969,Njoro,Tailor,4/25/2022,53,Sputnik V
+GIL320142,Omar,Mwadime,Male,3/31/1956,Gilgil,Teacher,8/31/2022,66,Oxford-AstraZeneca
+BAH729376,Sauda,Mwashigadi,Male,8/9/1962,Bahati,Teacher,7/2/2021,59,Pfizer
+RON624412,Mary,Mtambo,Female,12/4/1962,Rongai,Mason,7/24/2021,59,Johnson and Johnson
+MOL909732,Michael,Mwashigadi,Female,6/13/1981,Molo,Teacher,3/28/2021,40,Moderna
+BAH847162,Sarah,Mcharo,Female,1/25/1992,Bahati,Mason,4/18/2021,29,Johnson and Johnson
+SUB779401,Elizabeth,Nyaga,Male,1/25/1972,Subukia,Fisherman,7/22/2022,50,Oxford-AstraZeneca
+BAH669781,Paul,Ngoma,Female,2/17/1955,Bahati,Trader,10/4/2022,67,Pfizer
+RON152891,David,Nyaga,Male,7/24/1976,Rongai,Tailor,10/22/2022,46,Sputnik V
+MOL841795,Joseph,Musa,Male,3/29/1962,Molo,Mason,10/11/2021,59,Johnson and Johnson
+GIL290740,Rahma,Ngoma,Female,2/18/1970,Gilgil,Trader,9/18/2022,52,Oxford-AstraZeneca
+NAI469706,Omar,Chilambo,Female,10/5/1981,Naivasha,Carpenter,4/29/2022,41,Sinopharm
+BAH353607,Sauda,Mcharo,Male,5/5/1972,Bahati,Mason,1/17/2022,50,Sinopharm
+NJO933171,Mary,Mtambo,Male,6/3/1967,Njoro,Teacher,10/16/2022,55,Sinopharm
+NAI868624,Michael,Mwadime,Female,9/27/1995,Naivasha,Mason,8/19/2021,26,Moderna
+GIL615335,Sarah,Mtambo,Male,2/28/1975,Gilgil,Fisherman,5/6/2021,46,Pfizer
+NAI363637,Elizabeth,Mwadime,Female,6/11/1998,Naivasha,Tailor,5/20/2022,24,Oxford-AstraZeneca
+GIL968715,Paul,Chilambo,Male,5/28/2000,Gilgil,Trader,11/29/2021,21,Sinopharm
+MOL163979,David,Ngoma,Male,3/16/2006,Molo,Trader,11/1/2022,16,Sinopharm
+NAI356635,Joseph,Nyaga,Male,12/7/1974,Naivasha,Trader,8/22/2022,48,Oxford-AstraZeneca
+SUB710203,Rahma,Chilambo,Male,9/6/1960,Subukia,Tailor,4/24/2021,61,Moderna
+SUB723716,Omar,Ngoma,Female,7/6/1979,Subukia,Carpenter,2/2/2021,42,Sinopharm
+NJO174356,Sauda,Musa,Female,1/19/1995,Njoro,Tailor,8/17/2021,26,Johnson and Johnson
+BAH347130,Mary,Mwadime,Female,12/1/1982,Bahati,Tailor,3/2/2022,40,Pfizer
+BAH717011,Michael,Mwakalinga,Female,7/15/1996,Bahati,Fisherman,10/10/2021,25,Pfizer
+BAH787689,Sarah,Musa,Female,6/10/1979,Bahati,Tailor,6/28/2021,42,Moderna
+NJO253098,Elizabeth,Musa,Female,8/23/1999,Njoro,Carpenter,3/25/2021,22,Johnson and Johnson
+NJO631575,Paul,Nyaga,Female,7/6/1954,Njoro,Tailor,1/19/2022,68,Sputnik V
+MOL610423,David,Zuberi,Female,8/26/1955,Molo,Carpenter,8/8/2022,67,Pfizer
+NAI740488,Joseph,Mcharo,Male,11/11/1987,Naivasha,Trader,1/21/2022,35,Pfizer
+BAH672789,Rahma,Mtambo,Female,10/14/1987,Bahati,Tailor,9/22/2022,35,Oxford-AstraZeneca
+MOL368368,Omar,Mcharo,Female,5/11/1997,Molo,Mason,6/30/2021,24,Pfizer
+RON808539,Sauda,Chilambo,Female,10/2/1976,Rongai,Fisherman,3/11/2021,45,Oxford-AstraZeneca
+MOL362221,Mary,Mcharo,Female,2/20/1963,Molo,Tailor,4/26/2021,58,Moderna
+NJO366457,Michael,Nyaga,Male,4/22/1970,Njoro,Tailor,10/18/2022,52,Johnson and Johnson
+RON291243,Sarah,Mtambo,Male,5/26/2002,Rongai,Tailor,7/29/2022,20,Pfizer
+MOL304573,Elizabeth,Mwashigadi,Female,6/27/1960,Molo,Trader,9/12/2021,61,Moderna
+MOL267631,Paul,Ngoma,Female,9/21/1964,Molo,Tailor,4/23/2022,58,Moderna
+RON688240,David,Zuberi,Female,12/30/1976,Rongai,Fisherman,12/3/2022,46,Sinopharm
+NAI965145,Joseph,Chilambo,Male,11/3/1985,Naivasha,Trader,8/18/2021,36,Oxford-AstraZeneca
+SUB276716,Rahma,Mcharo,Female,1/10/1973,Subukia,Tailor,5/4/2021,48,Sputnik V
+SUB405340,Omar,Mtambo,Female,1/6/1965,Subukia,Trader,5/22/2021,56,Sputnik V
+BAH555070,Sauda,Chilambo,Female,8/28/1993,Bahati,Fisherman,9/25/2022,29,Pfizer
+GIL305561,Mary,Mwashigadi,Male,7/6/1980,Gilgil,Teacher,4/3/2022,42,Sinopharm
+NAI314303,Michael,Mwashigadi,Female,7/12/1964,Naivasha,Tailor,11/3/2022,58,Johnson and Johnson
+NAI691685,Sarah,Musa,Male,8/20/1969,Naivasha,Teacher,5/16/2021,52,Moderna
+SUB605696,Elizabeth,Ngoma,Female,12/24/2002,Subukia,Farmer,4/4/2021,19,Pfizer
+SUB409885,Paul,Nyaga,Female,3/31/1960,Subukia,Farmer,9/18/2021,61,Pfizer
+MOL878360,David,Mwadime,Male,4/24/1980,Molo,Tailor,7/17/2021,41,Sinopharm
+NJO420431,Joseph,Chilambo,Male,4/13/1997,Njoro,Carpenter,6/27/2021,24,Sputnik V
+NJO695916,Rahma,Mcharo,Male,4/18/1958,Njoro,Mason,8/18/2022,64,Moderna
+BAH587456,Omar,Ngoma,Male,8/8/1971,Bahati,Teacher,12/2/2022,51,Sputnik V
+RON812782,Sauda,Mwadime,Male,9/19/1955,Rongai,Trader,2/13/2022,67,Moderna
+MOL340565,Mary,Chilambo,Male,9/17/1970,Molo,Teacher,10/17/2022,52,Pfizer
+MOL707713,Michael,Mcharo,Female,2/13/1999,Molo,Fisherman,12/2/2022,23,Johnson and Johnson
+SUB678463,Sarah,Zuberi,Female,1/3/1979,Subukia,Trader,12/8/2022,43,Sputnik V
+RON816875,Elizabeth,Zuberi,Male,10/6/1960,Rongai,Tailor,10/20/2021,61,Sinopharm
+BAH759744,Paul,Mwakalinga,Female,2/10/1973,Bahati,Trader,9/13/2021,48,Johnson and Johnson
+MOL114328,David,Nyaga,Male,2/23/1989,Molo,Carpenter,7/9/2021,32,Moderna
+NJO466429,Joseph,Mcharo,Male,10/13/1977,Njoro,Carpenter,1/11/2021,44,Oxford-AstraZeneca
+SUB477142,Rahma,Mtambo,Male,5/18/1957,Subukia,Teacher,8/3/2021,64,Johnson and Johnson
+MOL144930,Omar,Chilambo,Female,3/31/1974,Molo,Teacher,1/26/2021,47,Sinopharm
+RON802084,Sauda,Musa,Male,2/24/1988,Rongai,Carpenter,8/10/2022,34,Johnson and Johnson
+NJO250031,Mary,Zuberi,Male,6/22/1984,Njoro,Teacher,5/17/2021,37,Sputnik V
+BAH704653,Michael,Mwadime,Male,6/4/1998,Bahati,Carpenter,6/27/2022,24,Sputnik V
+SUB252947,Sarah,Zuberi,Female,4/11/1976,Subukia,Carpenter,2/21/2021,45,Johnson and Johnson
+GIL249053,Elizabeth,Nyaga,Male,10/20/1988,Gilgil,Mason,11/19/2021,33,Moderna
+GIL908227,Paul,Ngoma,Female,8/2/1960,Gilgil,Teacher,7/10/2021,61,Sinopharm
+NJO289711,David,Mwadime,Female,6/21/1975,Njoro,Tailor,6/15/2022,47,Pfizer
+GIL842418,Joseph,Nyaga,Male,2/9/1973,Gilgil,Carpenter,9/13/2021,48,Pfizer
+RON184610,Rahma,Zuberi,Male,8/4/1979,Rongai,Teacher,3/2/2022,43,Pfizer
+NJO102265,Omar,Mwadime,Female,9/22/1962,Njoro,Fisherman,11/11/2021,59,Oxford-AstraZeneca
+BAH964960,Sauda,Nyaga,Male,10/21/1987,Bahati,Farmer,9/11/2021,34,Johnson and Johnson
+NAI170864,Mary,Mwakalinga,Female,4/30/1956,Naivasha,Carpenter,8/20/2022,66,Pfizer
+NAI397065,Michael,Mcharo,Female,8/7/1972,Naivasha,Carpenter,5/3/2021,49,Sinopharm
+BAH189702,Sarah,Zuberi,Female,2/25/1960,Bahati,Trader,2/3/2022,62,Oxford-AstraZeneca
+NJO789355,Elizabeth,Mcharo,Female,12/3/1959,Njoro,Carpenter,10/25/2021,62,Moderna
+NAI510329,Paul,Mwashigadi,Male,4/3/1994,Naivasha,Farmer,2/18/2021,27,Sinopharm
+RON846850,David,Mtambo,Female,3/26/1980,Rongai,Fisherman,7/3/2022,42,Moderna
+BAH688833,Joseph,Zuberi,Female,12/3/2003,Bahati,Carpenter,12/16/2022,19,Johnson and Johnson
+NAI559393,Rahma,Mwakalinga,Male,1/21/2005,Naivasha,Fisherman,9/21/2021,16,Pfizer
+SUB475653,Omar,Zuberi,Female,9/20/1984,Subukia,Fisherman,2/28/2022,38,Sputnik V
+NJO363178,Sauda,Mwashigadi,Male,7/11/1975,Njoro,Tailor,4/16/2021,46,Moderna
+NAI519979,Mary,Ngoma,Female,5/15/1997,Naivasha,Mason,4/22/2022,25,Pfizer
+MOL613306,Michael,Mwashigadi,Male,4/2/1992,Molo,Trader,3/23/2021,29,Pfizer
+SUB911071,Sarah,Zuberi,Male,6/16/1961,Subukia,Mason,7/14/2022,61,Johnson and Johnson
+MOL787425,Elizabeth,Chilambo,Male,6/20/1981,Molo,Tailor,4/3/2021,40,Moderna
+GIL156736,Paul,Zuberi,Female,4/4/1969,Gilgil,Tailor,6/18/2022,53,Johnson and Johnson
+RON989221,David,Mwadime,Female,12/5/1978,Rongai,Carpenter,2/18/2022,44,Moderna
+RON554630,Joseph,Chilambo,Female,7/19/1963,Rongai,Carpenter,6/12/2022,59,Sinopharm
+NAI466481,Rahma,Mcharo,Male,6/16/1985,Naivasha,Carpenter,2/28/2022,37,Sputnik V
+NAI703355,Omar,Ngoma,Male,9/30/1970,Naivasha,Teacher,10/11/2021,51,Moderna
+NJO901301,Sauda,Ngoma,Male,10/4/1959,Njoro,Mason,10/31/2022,63,Sputnik V
+NAI313741,Mary,Mwakalinga,Female,7/30/1986,Naivasha,Farmer,11/24/2022,36,Pfizer
+BAH396293,Michael,Chilambo,Male,11/21/1973,Bahati,Fisherman,10/16/2021,48,Oxford-AstraZeneca
+NJO546796,Sarah,Mwakalinga,Female,2/1/1999,Njoro,Fisherman,7/12/2021,22,Sinopharm
+GIL965242,Elizabeth,Nyaga,Male,3/28/1966,Gilgil,Trader,4/10/2022,56,Johnson and Johnson
+MOL174163,Paul,Musa,Male,2/20/1967,Molo,Teacher,12/2/2021,54,Sputnik V
+BAH608150,David,Mtambo,Male,4/11/1961,Bahati,Trader,6/11/2022,61,Oxford-AstraZeneca
+NJO144438,Joseph,Mwashigadi,Male,2/4/1998,Njoro,Carpenter,9/5/2021,23,Pfizer
+RON409656,Rahma,Mwashigadi,Male,1/23/1995,Rongai,Tailor,8/19/2021,26,Oxford-AstraZeneca
+MOL163509,Omar,Mwakalinga,Female,7/6/1994,Molo,Carpenter,8/8/2022,28,Sputnik V
+GIL370734,Sauda,Mtambo,Male,9/3/1986,Gilgil,Mason,11/18/2022,36,Sputnik V
+SUB607902,Mary,Mwadime,Female,7/14/1985,Subukia,Tailor,7/25/2021,36,Johnson and Johnson
+BAH759713,Michael,Mcharo,Male,9/9/1958,Bahati,Carpenter,6/5/2021,63,Sinopharm
+MOL372831,Sarah,Nyaga,Female,8/14/1964,Molo,Fisherman,3/9/2022,58,Pfizer
+GIL574406,Elizabeth,Zuberi,Female,1/22/1982,Gilgil,Mason,7/2/2021,39,Moderna
+NAI219839,Paul,Ngoma,Female,9/19/1958,Naivasha,Fisherman,11/27/2021,63,Moderna
+BAH272723,David,Ngoma,Male,4/7/1955,Bahati,Teacher,10/2/2022,67,Sinopharm
+NJO208189,Joseph,Zuberi,Male,9/20/1956,Njoro,Farmer,10/17/2021,65,Moderna
+GIL964630,Rahma,Mwakalinga,Female,4/16/1970,Gilgil,Tailor,11/8/2022,52,Moderna
+SUB215649,Omar,Mcharo,Male,2/24/1963,Subukia,Mason,8/21/2021,58,Moderna
+BAH308219,Sauda,Ngoma,Female,7/10/1985,Bahati,Mason,6/4/2022,37,Moderna
+SUB437166,Mary,Mwakalinga,Male,12/24/1976,Subukia,Tailor,6/21/2022,46,Oxford-AstraZeneca
+NJO406214,Michael,Chilambo,Male,5/5/1964,Njoro,Teacher,4/2/2022,58,Oxford-AstraZeneca
+BAH280744,Sarah,Mwashigadi,Male,2/1/1960,Bahati,Farmer,4/26/2021,61,Johnson and Johnson
+SUB858846,Elizabeth,Mwadime,Male,2/5/1992,Subukia,Tailor,3/17/2021,29,Oxford-AstraZeneca
+GIL922838,Paul,Chilambo,Female,11/16/1968,Gilgil,Teacher,11/3/2021,53,Sinopharm
+GIL465949,David,Mcharo,Female,11/6/1976,Gilgil,Carpenter,11/5/2021,45,Johnson and Johnson
+RON666714,Joseph,Chilambo,Female,1/16/1981,Rongai,Trader,11/11/2022,41,Pfizer
+RON715233,Rahma,Ngoma,Male,1/13/1961,Rongai,Trader,11/11/2022,61,Moderna
+NAI240375,Omar,Mtambo,Female,10/8/2001,Naivasha,Carpenter,9/7/2021,20,Johnson and Johnson
+GIL336117,Sauda,Chilambo,Female,1/23/2007,Gilgil,Teacher,9/5/2021,14,Johnson and Johnson
+RON601883,Mary,Zuberi,Female,11/16/1998,Rongai,Trader,12/23/2022,24,Moderna
+GIL769862,Michael,Mwashigadi,Female,10/16/1977,Gilgil,Carpenter,4/5/2022,45,Pfizer
+GIL815671,Sarah,Mwadime,Male,7/10/1971,Gilgil,Tailor,3/1/2021,50,Moderna
+BAH816528,Elizabeth,Nyaga,Female,4/24/1986,Bahati,Carpenter,6/2/2021,35,Pfizer
+MOL451906,Paul,Ngoma,Female,3/14/1990,Molo,Farmer,7/5/2021,31,Oxford-AstraZeneca
+SUB770429,David,Mwashigadi,Male,3/11/2005,Subukia,Tailor,8/18/2022,17,Oxford-AstraZeneca
+MOL861835,Joseph,Chilambo,Female,1/16/1997,Molo,Teacher,7/21/2021,24,Oxford-AstraZeneca
+GIL658310,Rahma,Zuberi,Male,10/5/2004,Gilgil,Carpenter,1/8/2021,17,Moderna
+BAH550258,Omar,Chilambo,Male,2/12/1996,Bahati,Teacher,5/22/2022,26,Moderna
+SUB123474,Sauda,Mwakalinga,Female,2/26/1957,Subukia,Farmer,11/27/2021,64,Oxford-AstraZeneca
+MOL903486,Mary,Musa,Male,3/8/1982,Molo,Farmer,10/7/2021,39,Pfizer
+GIL693950,Michael,Ngoma,Female,2/14/1989,Gilgil,Farmer,6/4/2022,33,Johnson and Johnson
+NJO783527,Sarah,Nyaga,Female,10/7/1993,Njoro,Farmer,6/10/2021,28,Sputnik V
+NAI337834,Elizabeth,Mwakalinga,Female,1/14/1962,Naivasha,Trader,7/9/2022,60,Pfizer
+GIL702782,Paul,Zuberi,Female,12/20/1958,Gilgil,Farmer,7/20/2022,64,Oxford-AstraZeneca
+SUB908031,David,Mcharo,Female,11/16/1967,Subukia,Mason,10/31/2021,54,Oxford-AstraZeneca
+SUB583509,Joseph,Zuberi,Female,5/5/1980,Subukia,Carpenter,12/16/2021,41,Sinopharm
+BAH798122,Rahma,Mtambo,Male,1/27/1988,Bahati,Trader,8/30/2021,33,Johnson and Johnson
+SUB818643,Omar,Chilambo,Male,7/4/1991,Subukia,Carpenter,9/6/2021,30,Oxford-AstraZeneca
+GIL181112,Sauda,Zuberi,Female,4/15/1955,Gilgil,Farmer,5/22/2021,66,Oxford-AstraZeneca
+MOL727190,Mary,Mwadime,Female,10/31/1981,Molo,Teacher,3/9/2022,41,Pfizer
+NJO824264,Michael,Nyaga,Female,5/4/1976,Njoro,Mason,7/5/2022,46,Moderna
+GIL587178,Sarah,Mwakalinga,Female,1/1/2000,Gilgil,Trader,6/25/2022,22,Sinopharm
+NJO409971,Elizabeth,Mcharo,Male,7/3/1983,Njoro,Farmer,12/31/2021,38,Johnson and Johnson
+GIL915202,Paul,Mwashigadi,Female,3/16/1989,Gilgil,Carpenter,9/10/2021,32,Oxford-AstraZeneca
+NJO990772,David,Musa,Female,1/18/1979,Njoro,Farmer,12/20/2022,43,Moderna
+BAH729372,Joseph,Ngoma,Male,4/5/1973,Bahati,Fisherman,11/20/2022,49,Sputnik V
+BAH750401,Rahma,Musa,Female,5/10/1977,Bahati,Mason,9/23/2022,45,Johnson and Johnson
+MOL515249,Omar,Mwashigadi,Female,5/26/1972,Molo,Carpenter,6/12/2021,49,Moderna
+NAI955075,Sauda,Mwadime,Male,12/10/1971,Naivasha,Tailor,7/3/2021,50,Moderna
+NJO524769,Mary,Musa,Female,10/20/1990,Njoro,Mason,9/21/2021,31,Moderna
+SUB987300,Michael,Mcharo,Male,5/12/1979,Subukia,Farmer,3/17/2022,43,Johnson and Johnson
+SUB985303,Sarah,Nyaga,Female,6/13/1955,Subukia,Farmer,6/16/2022,67,Sinopharm
+SUB522445,Elizabeth,Chilambo,Female,10/6/1969,Subukia,Farmer,8/26/2022,53,Moderna
+RON542739,Paul,Chilambo,Female,12/24/2005,Rongai,Farmer,11/8/2022,17,Johnson and Johnson
+BAH878824,David,Zuberi,Female,1/26/1963,Bahati,Trader,10/10/2021,58,Pfizer
+RON785359,Joseph,Mwashigadi,Female,5/21/1958,Rongai,Mason,6/19/2021,63,Sputnik V
+MOL211772,Rahma,Mwakalinga,Male,7/7/1980,Molo,Farmer,8/14/2021,41,Sputnik V
+NAI236768,Omar,Mwakalinga,Male,8/9/1972,Naivasha,Tailor,7/24/2021,49,Moderna
+MOL889325,Sauda,Chilambo,Female,10/8/1993,Molo,Mason,1/31/2022,29,Sputnik V
+NAI521435,Mary,Musa,Female,2/12/1982,Naivasha,Tailor,10/6/2021,39,Pfizer
+NAI533568,Michael,Mwadime,Female,7/23/2001,Naivasha,Mason,7/4/2022,21,Moderna
+NJO483203,Sarah,Nyaga,Female,7/19/1980,Njoro,Trader,7/21/2022,42,Sputnik V
+RON794836,Elizabeth,Mwakalinga,Female,10/12/2006,Rongai,Fisherman,4/13/2021,15,Pfizer
+BAH510060,Paul,Mtambo,Female,6/27/1986,Bahati,Trader,6/23/2022,36,Pfizer
+NAI245163,David,Ngoma,Male,8/21/1978,Naivasha,Trader,2/23/2021,43,Oxford-AstraZeneca
+NJO844609,Joseph,Mcharo,Female,7/13/1960,Njoro,Fisherman,7/12/2022,62,Oxford-AstraZeneca
+NAI107555,Rahma,Musa,Male,6/20/1986,Naivasha,Farmer,6/14/2022,36,Johnson and Johnson
+SUB859747,Omar,Musa,Male,10/8/2006,Subukia,Trader,7/18/2021,15,Oxford-AstraZeneca
+RON258435,Sauda,Mwadime,Female,1/16/1975,Rongai,Carpenter,5/3/2021,46,Sputnik V
+GIL472909,Mary,Nyaga,Male,3/27/1991,Gilgil,Tailor,6/3/2021,30,Johnson and Johnson
+NAI256299,Michael,Mwashigadi,Female,10/21/1983,Naivasha,Carpenter,6/29/2021,38,Pfizer
+NAI362842,Sarah,Ngoma,Female,11/17/2001,Naivasha,Carpenter,5/30/2022,21,Johnson and Johnson
+NJO223101,Elizabeth,Mtambo,Male,5/7/1956,Njoro,Trader,4/26/2022,66,Oxford-AstraZeneca
+NJO133859,Paul,Zuberi,Male,7/21/1973,Njoro,Tailor,8/8/2021,48,Sputnik V
+NJO271995,David,Nyaga,Female,12/13/1956,Njoro,Fisherman,3/30/2021,65,Sinopharm
+SUB994031,Joseph,Nyaga,Male,12/25/1970,Subukia,Fisherman,8/21/2022,52,Sinopharm
+NAI671433,Rahma,Mcharo,Male,2/21/1983,Naivasha,Carpenter,7/2/2022,39,Sinopharm
+GIL128349,Omar,Mwakalinga,Male,6/29/1989,Gilgil,Carpenter,7/26/2022,33,Sinopharm
+NJO347893,Sauda,Chilambo,Male,12/15/2003,Njoro,Farmer,5/26/2022,19,Moderna
+MOL267519,Mary,Nyaga,Male,4/8/1972,Molo,Fisherman,7/21/2022,50,Oxford-AstraZeneca
+MOL840120,Michael,Nyaga,Female,7/12/1976,Molo,Mason,1/27/2021,45,Johnson and Johnson
+RON141704,Sarah,Mwashigadi,Male,1/3/1970,Rongai,Carpenter,10/8/2021,51,Sinopharm
+SUB106122,Elizabeth,Zuberi,Male,1/20/1971,Subukia,Farmer,4/10/2022,51,Johnson and Johnson
+BAH495338,Paul,Mwadime,Male,5/24/1972,Bahati,Tailor,6/2/2022,50,Pfizer
+SUB342690,David,Mwashigadi,Female,2/22/1958,Subukia,Fisherman,12/24/2022,64,Johnson and Johnson
+SUB466668,Joseph,Mtambo,Male,6/14/2003,Subukia,Carpenter,9/27/2022,19,Moderna
+MOL944342,Rahma,Mtambo,Male,11/9/1970,Molo,Fisherman,7/20/2021,51,Moderna
+NJO965986,Omar,Mcharo,Female,4/16/1961,Njoro,Tailor,1/5/2021,60,Pfizer
+MOL206371,Sauda,Mcharo,Female,8/6/1983,Molo,Mason,12/18/2021,38,Moderna
+RON780121,Mary,Mcharo,Female,4/11/1960,Rongai,Tailor,9/25/2021,61,Pfizer
+GIL556921,Michael,Mcharo,Female,6/26/1985,Gilgil,Mason,7/30/2022,37,Johnson and Johnson
+SUB694096,Sarah,Mwadime,Female,7/9/1980,Subukia,Trader,10/17/2022,42,Oxford-AstraZeneca
+SUB281548,Elizabeth,Chilambo,Female,7/1/1989,Subukia,Fisherman,8/10/2022,33,Oxford-AstraZeneca
+GIL410717,Paul,Mwadime,Male,1/25/1993,Gilgil,Teacher,2/7/2021,28,Sputnik V
+GIL632090,David,Mwadime,Female,1/9/1995,Gilgil,Fisherman,12/21/2021,26,Sputnik V
+MOL413280,Joseph,Ngoma,Male,9/22/1995,Molo,Carpenter,10/28/2022,27,Sputnik V
+NJO513135,Rahma,Zuberi,Female,2/5/1988,Njoro,Farmer,12/13/2022,34,Pfizer
+MOL586718,Omar,Nyaga,Male,5/12/1989,Molo,Tailor,11/22/2022,33,Johnson and Johnson
+NJO317704,Sauda,Chilambo,Male,9/29/1968,Njoro,Tailor,1/2/2021,53,Sputnik V
+MOL904371,Mary,Mwakalinga,Male,1/23/1963,Molo,Mason,6/22/2021,58,Oxford-AstraZeneca
+BAH166516,Michael,Musa,Female,7/9/1974,Bahati,Teacher,9/23/2022,48,Oxford-AstraZeneca
+NAI907764,Sarah,Mcharo,Male,3/22/1957,Naivasha,Mason,1/15/2021,64,Sputnik V
+MOL841805,Elizabeth,Mcharo,Male,11/22/1998,Molo,Fisherman,12/8/2022,24,Oxford-AstraZeneca
+NAI482982,Paul,Mwakalinga,Female,10/3/1978,Naivasha,Mason,4/24/2022,44,Sinopharm
+MOL935846,David,Mwashigadi,Male,1/31/1968,Molo,Trader,6/8/2021,53,Pfizer
+BAH409780,Joseph,Mwashigadi,Male,5/21/2003,Bahati,Tailor,6/8/2021,18,Pfizer
+MOL326452,Rahma,Mwakalinga,Female,3/29/1971,Molo,Tailor,12/1/2022,51,Sinopharm
+RON192798,Omar,Mwashigadi,Female,2/22/2007,Rongai,Farmer,7/17/2022,15,Moderna
+MOL330290,Sauda,Mwashigadi,Female,6/7/1990,Molo,Farmer,12/19/2022,32,Oxford-AstraZeneca
+RON172929,Mary,Musa,Male,3/26/1969,Rongai,Carpenter,7/28/2022,53,Oxford-AstraZeneca
+GIL228488,Michael,Ngoma,Female,11/15/1999,Gilgil,Fisherman,6/23/2022,23,Pfizer
+BAH116972,Sarah,Mwadime,Female,3/20/1987,Bahati,Fisherman,3/5/2022,35,Sputnik V
+SUB999610,Elizabeth,Zuberi,Male,7/13/1998,Subukia,Farmer,1/10/2022,24,Pfizer
+RON666622,Paul,Nyaga,Male,11/15/1983,Rongai,Carpenter,4/17/2021,38,Sputnik V
+BAH433829,David,Nyaga,Male,3/5/1984,Bahati,Mason,6/19/2022,38,Johnson and Johnson
+RON290766,Joseph,Mwashigadi,Male,8/2/1991,Rongai,Tailor,9/10/2021,30,Sinopharm
+NJO789121,Rahma,Mwadime,Female,3/6/1993,Njoro,Teacher,1/31/2021,28,Oxford-AstraZeneca
+MOL146987,Omar,Mtambo,Female,5/10/1983,Molo,Teacher,8/5/2022,39,Moderna
+RON653662,Sauda,Ngoma,Male,6/25/1992,Rongai,Teacher,5/7/2021,29,Oxford-AstraZeneca
+NAI922114,Mary,Mwashigadi,Female,11/26/1978,Naivasha,Trader,8/10/2022,44,Sinopharm
+NAI429854,Michael,Mwakalinga,Male,11/5/1997,Naivasha,Tailor,11/10/2021,24,Oxford-AstraZeneca
+NJO158034,Sarah,Mwadime,Female,2/3/1985,Njoro,Fisherman,3/2/2022,37,Moderna
+GIL315672,Elizabeth,Nyaga,Male,1/27/1960,Gilgil,Fisherman,1/19/2022,62,Moderna
+NJO214723,Paul,Mwakalinga,Male,11/25/1968,Njoro,Trader,4/24/2021,53,Sinopharm
+NAI738713,David,Mtambo,Male,10/8/1995,Naivasha,Fisherman,2/5/2022,27,Pfizer
+NJO693678,Joseph,Zuberi,Female,2/13/1959,Njoro,Trader,7/8/2022,63,Moderna
+RON430877,Rahma,Mwashigadi,Female,3/5/1973,Rongai,Fisherman,4/9/2022,49,Moderna
+BAH323132,Omar,Mwashigadi,Female,5/3/1959,Bahati,Farmer,7/31/2022,63,Pfizer
+SUB599779,Sauda,Mwakalinga,Male,5/20/1977,Subukia,Mason,6/8/2021,44,Oxford-AstraZeneca
+NJO750175,Mary,Musa,Female,12/2/1962,Njoro,Carpenter,2/24/2022,60,Johnson and Johnson
+MOL205956,Michael,Nyaga,Female,12/28/1989,Molo,Tailor,3/17/2022,33,Sinopharm
+GIL964384,Sarah,Zuberi,Female,6/30/1981,Gilgil,Tailor,9/19/2022,41,Pfizer
+BAH874031,Elizabeth,Ngoma,Female,7/29/1978,Bahati,Trader,7/10/2021,43,Pfizer
+SUB608379,Paul,Musa,Female,3/9/2000,Subukia,Teacher,1/14/2022,22,Sputnik V
+NJO358088,David,Mwadime,Male,8/3/1997,Njoro,Mason,5/25/2022,25,Sputnik V
+NJO742694,Joseph,Mcharo,Female,3/10/2006,Njoro,Trader,8/1/2021,15,Sinopharm
+BAH465726,Rahma,Musa,Male,3/7/2000,Bahati,Trader,12/25/2022,22,Sputnik V
+NAI265721,Omar,Nyaga,Female,5/17/1956,Naivasha,Mason,1/22/2022,66,Moderna
+NAI565775,Sauda,Mwakalinga,Female,6/12/1967,Naivasha,Tailor,8/13/2022,55,Sinopharm
+NJO403010,Mary,Mwadime,Female,1/9/1990,Njoro,Farmer,10/9/2022,32,Oxford-AstraZeneca
+GIL411022,Michael,Mwakalinga,Male,4/2/1983,Gilgil,Farmer,11/15/2022,39,Pfizer
+GIL149579,Sarah,Mcharo,Female,12/6/2001,Gilgil,Tailor,12/15/2022,21,Pfizer
+NJO805130,Elizabeth,Musa,Female,9/23/1972,Njoro,Mason,12/26/2022,50,Pfizer
+GIL802019,Paul,Mwashigadi,Male,7/31/1966,Gilgil,Farmer,10/2/2021,55,Oxford-AstraZeneca
+MOL902207,David,Chilambo,Male,12/26/2000,Molo,Teacher,12/14/2022,22,Johnson and Johnson
+GIL139907,Joseph,Mcharo,Male,8/13/1985,Gilgil,Teacher,5/14/2021,36,Sputnik V
+NAI311097,Rahma,Mtambo,Male,9/13/1976,Naivasha,Tailor,2/2/2022,46,Moderna
+GIL435042,Omar,Mwashigadi,Male,8/31/1991,Gilgil,Farmer,11/27/2022,31,Johnson and Johnson
+BAH572057,Sauda,Mwadime,Female,2/21/1974,Bahati,Farmer,2/4/2021,47,Oxford-AstraZeneca
+NJO271646,Mary,Mtambo,Male,6/28/1991,Njoro,Teacher,9/21/2022,31,Pfizer
+NAI346501,Michael,Musa,Female,3/30/1977,Naivasha,Fisherman,4/11/2022,45,Sputnik V
+GIL837689,Sarah,Musa,Female,10/13/1990,Gilgil,Trader,4/5/2022,32,Pfizer
+RON909987,Elizabeth,Mcharo,Male,11/22/1995,Rongai,Carpenter,5/18/2021,26,Moderna
+BAH649437,Paul,Ngoma,Female,2/29/1980,Bahati,Fisherman,10/7/2021,41,Pfizer
+SUB520003,David,Ngoma,Female,12/5/1994,Subukia,Farmer,10/1/2022,28,Oxford-AstraZeneca
+GIL472640,Joseph,Mwadime,Male,12/3/2001,Gilgil,Fisherman,10/18/2021,20,Sinopharm
+SUB160631,Rahma,Mwashigadi,Male,2/21/1971,Subukia,Carpenter,9/21/2022,51,Sputnik V
+MOL512626,Omar,Mwakalinga,Male,10/10/1966,Molo,Farmer,3/28/2022,56,Sinopharm
+GIL280004,Sauda,Ngoma,Female,12/25/1970,Gilgil,Trader,2/9/2021,51,Oxford-AstraZeneca
+MOL645132,Mary,Mwakalinga,Male,6/19/1962,Molo,Tailor,9/21/2021,59,Moderna
+BAH792956,Michael,Zuberi,Female,2/23/1972,Bahati,Mason,8/13/2021,49,Sputnik V
+SUB428860,Sarah,Mwashigadi,Female,6/27/2005,Subukia,Farmer,7/23/2022,17,Sputnik V
+NAI189081,Elizabeth,Mtambo,Male,5/22/1989,Naivasha,Fisherman,8/22/2022,33,Sinopharm
+NJO703492,Paul,Ngoma,Female,11/14/1984,Njoro,Trader,10/17/2021,37,Sinopharm
+BAH527258,David,Ngoma,Male,11/23/1982,Bahati,Fisherman,6/18/2021,39,Oxford-AstraZeneca
+GIL947792,Joseph,Mtambo,Male,8/10/1985,Gilgil,Trader,1/1/2022,37,Johnson and Johnson
+RON821845,Rahma,Chilambo,Female,11/13/2003,Rongai,Farmer,8/13/2022,19,Oxford-AstraZeneca
+NJO543121,Omar,Nyaga,Male,8/2/1955,Njoro,Carpenter,7/8/2021,66,Sinopharm
+MOL859904,Sauda,Zuberi,Female,6/12/1959,Molo,Mason,8/24/2021,62,Pfizer
+NJO121847,Mary,Mtambo,Male,4/15/1978,Njoro,Trader,2/12/2021,43,Johnson and Johnson
+SUB964927,Michael,Nyaga,Female,7/11/1990,Subukia,Mason,6/20/2022,32,Sputnik V
+MOL788212,Sarah,Mwakalinga,Male,5/21/1964,Molo,Trader,5/30/2022,58,Oxford-AstraZeneca
+GIL273368,Elizabeth,Musa,Female,2/25/1990,Gilgil,Mason,2/12/2021,31,Oxford-AstraZeneca
+GIL506434,Paul,Mwashigadi,Female,3/14/1975,Gilgil,Trader,5/28/2022,47,Pfizer
+SUB833268,David,Mcharo,Female,12/22/1987,Subukia,Fisherman,8/11/2022,35,Sinopharm
+GIL197570,Joseph,Mwadime,Female,4/16/1955,Gilgil,Teacher,3/23/2022,67,Moderna
+GIL810284,Rahma,Mwakalinga,Male,9/23/2003,Gilgil,Carpenter,7/13/2021,18,Johnson and Johnson
+BAH130800,Omar,Mtambo,Female,6/16/1963,Bahati,Mason,10/26/2021,58,Moderna
+SUB763505,Sauda,Mwadime,Male,8/2/1974,Subukia,Teacher,7/20/2022,48,Sputnik V
+MOL690301,Mary,Nyaga,Female,5/15/1969,Molo,Teacher,7/11/2022,53,Moderna
+SUB361478,Michael,Zuberi,Female,10/30/1977,Subukia,Carpenter,1/22/2021,44,Sputnik V
+MOL405396,Sarah,Mcharo,Female,3/25/1988,Molo,Mason,3/15/2021,33,Moderna
+NJO657443,Elizabeth,Zuberi,Female,9/27/1978,Njoro,Trader,4/11/2021,43,Sinopharm
+NAI715274,Paul,Mcharo,Male,10/28/2004,Naivasha,Trader,12/14/2021,17,Sinopharm
+NAI181678,David,Mwashigadi,Female,3/9/2005,Naivasha,Fisherman,4/18/2021,16,Pfizer
+MOL275308,Joseph,Mwashigadi,Male,12/4/1974,Molo,Farmer,8/26/2022,48,Johnson and Johnson
+SUB594794,Rahma,Mwashigadi,Female,12/19/1959,Subukia,Mason,12/23/2021,62,Moderna
+NAI747820,Omar,Mwakalinga,Male,9/19/1980,Naivasha,Fisherman,1/25/2021,41,Moderna
+NAI718764,Sauda,Mtambo,Female,3/25/1977,Naivasha,Trader,3/1/2022,45,Sinopharm
+SUB951354,Mary,Mwadime,Female,5/11/2000,Subukia,Mason,12/19/2021,21,Sputnik V
+MOL452713,Michael,Mcharo,Male,12/30/1954,Molo,Tailor,3/22/2021,67,Sputnik V
+SUB449922,Sarah,Nyaga,Male,2/2/1968,Subukia,Teacher,12/2/2021,53,Johnson and Johnson
+NJO945880,Elizabeth,Mcharo,Female,8/22/1966,Njoro,Fisherman,2/2/2021,55,Sputnik V
+RON684455,Paul,Mtambo,Female,10/13/1961,Rongai,Farmer,5/10/2022,61,Johnson and Johnson
+SUB300946,David,Mtambo,Female,11/7/1995,Subukia,Carpenter,6/1/2022,27,Pfizer
+RON833147,Joseph,Musa,Male,11/21/1994,Rongai,Mason,11/27/2021,27,Moderna
+GIL636037,Rahma,Ngoma,Male,4/14/1956,Gilgil,Farmer,2/25/2021,65,Johnson and Johnson
+SUB376477,Omar,Mwadime,Female,6/21/2002,Subukia,Fisherman,7/2/2022,20,Pfizer
+RON233096,Sauda,Zuberi,Male,8/31/1976,Rongai,Carpenter,3/28/2021,45,Moderna
+NAI908318,Mary,Musa,Female,5/30/1974,Naivasha,Farmer,6/13/2021,47,Sinopharm
+BAH561742,Michael,Musa,Male,9/3/1958,Bahati,Mason,9/2/2022,64,Moderna
+RON489410,Sarah,Mwashigadi,Female,6/27/1989,Rongai,Fisherman,4/13/2021,32,Pfizer
+BAH477598,Elizabeth,Mwashigadi,Male,8/21/1996,Bahati,Farmer,11/9/2021,25,Johnson and Johnson
+NAI339581,Paul,Mwakalinga,Female,8/12/1988,Naivasha,Tailor,2/19/2022,34,Sinopharm
+RON879523,David,Mwashigadi,Female,2/18/1972,Rongai,Teacher,4/12/2021,49,Sputnik V
+BAH153506,Joseph,Mtambo,Male,9/11/1990,Bahati,Farmer,7/10/2022,32,Moderna
+RON612817,Rahma,Mwashigadi,Male,10/2/1969,Rongai,Fisherman,9/22/2022,53,Pfizer
+MOL226177,Omar,Ngoma,Male,3/16/1955,Molo,Mason,2/13/2021,66,Sputnik V
+RON171032,Sauda,Ngoma,Male,8/15/1963,Rongai,Trader,12/24/2021,58,Oxford-AstraZeneca
+RON982017,Mary,Mwashigadi,Male,7/17/1998,Rongai,Fisherman,11/14/2021,23,Pfizer
+GIL485928,Michael,Nyaga,Female,6/23/1966,Gilgil,Trader,2/24/2021,55,Moderna
+RON808146,Sarah,Mwashigadi,Male,7/28/1957,Rongai,Tailor,9/13/2021,64,Oxford-AstraZeneca
+RON108478,Elizabeth,Ngoma,Female,9/26/1995,Rongai,Trader,11/29/2022,27,Sputnik V
+NAI323432,Paul,Ngoma,Female,10/12/1977,Naivasha,Fisherman,4/30/2022,45,Sinopharm
+MOL377562,David,Mtambo,Female,10/1/1994,Molo,Farmer,5/19/2021,27,Moderna
+NJO395415,Joseph,Chilambo,Male,9/8/1984,Njoro,Teacher,12/24/2022,38,Pfizer
+MOL263011,Rahma,Musa,Female,12/28/1965,Molo,Teacher,12/14/2022,57,Johnson and Johnson
+GIL151991,Omar,Ngoma,Female,7/31/1981,Gilgil,Mason,10/9/2021,40,Sinopharm
+NAI704361,Sauda,Zuberi,Male,5/2/1986,Naivasha,Trader,9/24/2022,36,Pfizer
+BAH900912,Mary,Mwakalinga,Male,7/14/1965,Bahati,Farmer,7/10/2022,57,Sinopharm
+BAH130556,Michael,Mcharo,Female,9/7/2004,Bahati,Teacher,6/9/2022,18,Moderna
+NJO514064,Sarah,Ngoma,Male,1/6/1974,Njoro,Fisherman,3/31/2021,47,Pfizer
+MOL343686,Elizabeth,Ngoma,Female,2/27/1976,Molo,Teacher,12/17/2022,46,Oxford-AstraZeneca
+MOL147728,Paul,Mwadime,Male,1/15/1969,Molo,Mason,2/12/2022,53,Pfizer
+NJO946589,David,Mwadime,Male,12/2/1981,Njoro,Carpenter,4/8/2021,40,Pfizer
+RON916134,Joseph,Mcharo,Male,4/1/1981,Rongai,Teacher,7/23/2022,41,Pfizer
+SUB609789,Rahma,Mcharo,Female,9/7/1989,Subukia,Fisherman,6/27/2022,33,Moderna
+MOL241499,Omar,Mcharo,Female,3/21/1996,Molo,Teacher,6/15/2021,25,Sinopharm
+NJO402330,Sauda,Chilambo,Male,1/13/1957,Njoro,Teacher,7/29/2021,64,Oxford-AstraZeneca
+BAH722026,Mary,Musa,Female,2/26/1963,Bahati,Trader,10/10/2021,58,Johnson and Johnson
+NAI250573,Michael,Mcharo,Male,3/6/1959,Naivasha,Tailor,5/22/2021,62,Sputnik V
+MOL209431,Sarah,Mcharo,Female,8/18/1997,Molo,Carpenter,10/2/2022,25,Moderna
+MOL631561,Elizabeth,Nyaga,Male,7/10/1981,Molo,Carpenter,11/3/2022,41,Oxford-AstraZeneca
+RON857657,Paul,Mwadime,Male,8/23/1972,Rongai,Tailor,1/16/2022,50,Sputnik V
+RON762576,David,Musa,Female,4/24/1974,Rongai,Fisherman,2/16/2022,48,Sputnik V
+RON537783,Joseph,Zuberi,Female,6/30/1975,Rongai,Fisherman,6/24/2021,46,Pfizer
+RON758282,Rahma,Mwadime,Male,5/28/1957,Rongai,Mason,4/17/2022,65,Johnson and Johnson
+GIL662822,Omar,Musa,Male,3/14/1985,Gilgil,Mason,5/11/2021,36,Pfizer
+NAI710473,Sauda,Mwadime,Female,11/13/1985,Naivasha,Tailor,10/17/2022,37,Pfizer
+SUB588848,Mary,Mwadime,Female,7/4/1989,Subukia,Teacher,3/2/2022,33,Sputnik V
+NAI940903,Michael,Zuberi,Female,4/4/1965,Naivasha,Tailor,2/21/2022,57,Sinopharm
+NJO517442,Sarah,Mcharo,Male,9/15/1974,Njoro,Carpenter,5/19/2022,48,Johnson and Johnson
+BAH863509,Elizabeth,Mtambo,Female,7/29/1959,Bahati,Carpenter,4/14/2021,62,Sputnik V
+MOL409190,Paul,Mwakalinga,Male,8/26/2003,Molo,Carpenter,8/17/2021,18,Pfizer
+GIL437858,David,Mcharo,Male,12/3/1999,Gilgil,Farmer,2/26/2022,23,Sinopharm
+NJO700413,Joseph,Ngoma,Male,1/10/1969,Njoro,Trader,8/14/2021,52,Oxford-AstraZeneca
+SUB428297,Rahma,Mcharo,Female,11/23/2001,Subukia,Tailor,7/27/2022,21,Johnson and Johnson
+NAI984720,Omar,Mwadime,Male,10/17/1976,Naivasha,Mason,2/10/2021,45,Sputnik V
+GIL469887,Sauda,Mtambo,Female,5/17/1987,Gilgil,Trader,2/1/2022,35,Johnson and Johnson
+MOL769198,Mary,Musa,Male,4/2/1974,Molo,Fisherman,9/20/2022,48,Sputnik V
+MOL418676,Michael,Zuberi,Male,10/31/2004,Molo,Tailor,9/8/2021,17,Johnson and Johnson
+RON568438,Sarah,Mwakalinga,Male,11/20/1974,Rongai,Trader,9/19/2022,48,Pfizer
+MOL580036,Elizabeth,Mwashigadi,Male,3/29/1990,Molo,Farmer,8/30/2021,31,Oxford-AstraZeneca
+GIL556994,Paul,Ngoma,Female,3/25/1960,Gilgil,Fisherman,9/21/2022,62,Sputnik V
+NAI844431,David,Ngoma,Male,3/31/1978,Naivasha,Tailor,7/7/2022,44,Johnson and Johnson
+NJO932934,Joseph,Mtambo,Male,8/10/2000,Njoro,Tailor,6/11/2021,21,Pfizer
+BAH471489,Rahma,Mwadime,Male,5/17/1965,Bahati,Tailor,3/31/2021,56,Johnson and Johnson
+SUB980238,Omar,Ngoma,Male,3/6/1962,Subukia,Farmer,10/20/2022,60,Moderna
+SUB571342,Sauda,Mwashigadi,Male,6/29/1993,Subukia,Fisherman,3/19/2022,29,Moderna
+RON416348,Mary,Nyaga,Male,3/8/2002,Rongai,Fisherman,5/13/2022,20,Sinopharm
+RON699124,Michael,Nyaga,Female,10/23/1965,Rongai,Mason,1/14/2022,57,Pfizer
+BAH947587,Sarah,Mtambo,Female,9/20/1965,Bahati,Fisherman,6/2/2022,57,Sputnik V
+BAH269229,Elizabeth,Zuberi,Male,3/26/1998,Bahati,Teacher,4/30/2021,23,Pfizer
+GIL915586,Paul,Mwadime,Female,12/13/1973,Gilgil,Mason,12/27/2021,48,Moderna
+NJO756436,David,Musa,Male,7/15/1958,Njoro,Teacher,8/20/2022,64,Pfizer
+MOL897771,Joseph,Nyaga,Female,10/16/1982,Molo,Farmer,10/26/2022,40,Johnson and Johnson
+NJO489509,Rahma,Mwadime,Male,3/9/1997,Njoro,Teacher,5/18/2022,25,Oxford-AstraZeneca
+NJO467260,Omar,Musa,Male,11/6/1974,Njoro,Carpenter,11/7/2022,48,Sputnik V
+GIL415080,Sauda,Mtambo,Female,4/27/1974,Gilgil,Mason,1/20/2022,48,Moderna
+NJO427336,Mary,Zuberi,Male,5/6/1975,Njoro,Fisherman,11/21/2021,46,Moderna
+GIL118034,Michael,Ngoma,Male,4/20/1961,Gilgil,Carpenter,9/27/2022,61,Moderna
+NJO401257,Sarah,Zuberi,Female,8/29/1986,Njoro,Teacher,8/21/2021,35,Sinopharm
+BAH606911,Elizabeth,Mwashigadi,Female,8/28/1994,Bahati,Teacher,10/21/2022,28,Sputnik V
+BAH508340,Paul,Musa,Male,2/8/1970,Bahati,Carpenter,5/9/2021,51,Moderna
+MOL957337,David,Nyaga,Male,9/5/2000,Molo,Farmer,1/5/2021,21,Johnson and Johnson
+NAI710950,Joseph,Mwashigadi,Male,4/10/1969,Naivasha,Carpenter,8/14/2021,52,Pfizer
+RON491033,Rahma,Mcharo,Male,6/13/1976,Rongai,Teacher,5/8/2021,45,Johnson and Johnson
+BAH542430,Omar,Ngoma,Male,1/27/1986,Bahati,Fisherman,1/26/2021,35,Sinopharm
+MOL686370,Sauda,Mcharo,Male,12/30/1999,Molo,Mason,4/11/2021,22,Sinopharm
+MOL879929,Mary,Mwashigadi,Male,12/11/1993,Molo,Mason,7/3/2022,29,Sinopharm
+SUB326915,Michael,Chilambo,Female,1/14/1967,Subukia,Teacher,11/2/2022,55,Oxford-AstraZeneca
+NAI982016,Sarah,Mtambo,Female,6/10/2006,Naivasha,Carpenter,4/18/2022,16,Oxford-AstraZeneca
+RON933051,Elizabeth,Nyaga,Male,12/9/1957,Rongai,Tailor,7/24/2022,65,Johnson and Johnson
+MOL672322,Paul,Mwakalinga,Male,10/27/1955,Molo,Farmer,12/22/2021,66,Sinopharm
+SUB406736,David,Ngoma,Male,3/6/1984,Subukia,Teacher,8/18/2021,37,Pfizer
+SUB909204,Joseph,Mwakalinga,Male,9/8/1979,Subukia,Mason,2/3/2021,42,Moderna
+MOL101964,Rahma,Mwadime,Female,10/4/2000,Molo,Tailor,12/2/2022,22,Sinopharm
+SUB726959,Omar,Mwakalinga,Female,10/19/1955,Subukia,Farmer,12/2/2022,67,Oxford-AstraZeneca
+NAI589881,Sauda,Mtambo,Male,11/13/1990,Naivasha,Trader,10/16/2022,32,Sinopharm
+MOL597265,Mary,Nyaga,Female,1/30/1958,Molo,Trader,8/10/2021,63,Oxford-AstraZeneca
+SUB531966,Michael,Mcharo,Female,3/9/1966,Subukia,Mason,5/18/2021,55,Moderna
+MOL814638,Sarah,Mwakalinga,Female,10/7/1959,Molo,Trader,7/13/2021,62,Oxford-AstraZeneca
+SUB744865,Elizabeth,Mtambo,Male,9/10/1955,Subukia,Farmer,5/1/2022,67,Sputnik V
+MOL814744,Paul,Mwashigadi,Female,8/30/1983,Molo,Tailor,6/29/2022,39,Pfizer
+NAI433376,David,Chilambo,Male,10/17/1966,Naivasha,Mason,12/23/2022,56,Pfizer
+BAH776506,Joseph,Chilambo,Female,3/27/1998,Bahati,Carpenter,4/13/2022,24,Pfizer
+GIL774928,Rahma,Mtambo,Male,1/15/1965,Gilgil,Farmer,9/16/2022,57,Moderna
+GIL901831,Omar,Mwakalinga,Male,6/5/1972,Gilgil,Trader,5/28/2021,49,Oxford-AstraZeneca
+MOL533767,Sauda,Zuberi,Female,10/5/1970,Molo,Mason,6/15/2022,52,Oxford-AstraZeneca
+GIL807329,Mary,Ngoma,Male,7/10/1971,Gilgil,Teacher,7/19/2022,51,Sinopharm
+RON373037,Michael,Ngoma,Male,4/8/1991,Rongai,Mason,4/24/2022,31,Sputnik V
+NAI473238,Sarah,Mtambo,Male,8/19/1957,Naivasha,Tailor,7/5/2021,64,Pfizer
+MOL425775,Elizabeth,Nyaga,Female,9/28/1963,Molo,Farmer,5/15/2021,58,Moderna
+NAI981399,Paul,Mwakalinga,Female,10/25/1990,Naivasha,Tailor,2/15/2021,31,Oxford-AstraZeneca
+BAH962947,David,Mwadime,Male,5/8/1975,Bahati,Carpenter,8/4/2021,46,Sinopharm
+BAH882721,Joseph,Mtambo,Male,5/25/1978,Bahati,Carpenter,12/1/2022,44,Sputnik V
+BAH219220,Rahma,Nyaga,Male,7/8/1956,Bahati,Farmer,9/18/2022,66,Oxford-AstraZeneca
+GIL775934,Omar,Ngoma,Male,5/11/1992,Gilgil,Teacher,7/3/2022,30,Pfizer
+BAH176836,Sauda,Mwakalinga,Male,1/9/1988,Bahati,Tailor,2/9/2021,33,Oxford-AstraZeneca
+GIL970386,Mary,Mwadime,Female,11/26/1971,Gilgil,Fisherman,11/17/2021,50,Sputnik V
+BAH253389,Michael,Ngoma,Male,12/2/1956,Bahati,Fisherman,12/14/2022,66,Oxford-AstraZeneca
+MOL654471,Sarah,Ngoma,Female,9/25/1995,Molo,Mason,9/26/2021,26,Sinopharm
+NAI489666,Elizabeth,Mwadime,Female,12/1/1993,Naivasha,Carpenter,9/29/2021,28,Sinopharm
+SUB101394,Paul,Mtambo,Male,7/28/1972,Subukia,Farmer,1/5/2022,50,Pfizer
+SUB671937,David,Musa,Female,12/26/1961,Subukia,Fisherman,3/6/2022,61,Sputnik V
+RON380520,Joseph,Mwakalinga,Female,11/4/1987,Rongai,Trader,4/21/2021,34,Johnson and Johnson
+GIL294933,Rahma,Zuberi,Male,12/23/1975,Gilgil,Fisherman,5/11/2022,47,Pfizer
+BAH782617,Omar,Musa,Male,2/6/1970,Bahati,Tailor,11/28/2022,52,Moderna
+NJO555748,Sauda,Zuberi,Female,10/6/1956,Njoro,Teacher,10/27/2022,66,Pfizer
+NJO834250,Mary,Mtambo,Female,1/13/1966,Njoro,Fisherman,1/31/2022,56,Oxford-AstraZeneca
+NAI221263,Michael,Mwashigadi,Male,7/7/1990,Naivasha,Trader,3/4/2022,32,Sinopharm
+RON312019,Sarah,Nyaga,Female,9/30/1976,Rongai,Mason,4/17/2022,46,Sputnik V
+NJO974205,Elizabeth,Musa,Female,6/19/1968,Njoro,Trader,6/20/2021,53,Oxford-AstraZeneca
+MOL333414,Paul,Musa,Female,12/26/1963,Molo,Teacher,3/21/2022,59,Sputnik V
+MOL701378,David,Musa,Female,3/31/2006,Molo,Fisherman,5/30/2021,15,Moderna
+SUB130260,Joseph,Mwadime,Male,10/28/1960,Subukia,Farmer,1/8/2021,61,Johnson and Johnson
+BAH852707,Rahma,Ngoma,Female,5/3/1991,Bahati,Trader,7/22/2022,31,Pfizer
+GIL997603,Omar,Zuberi,Female,12/14/1975,Gilgil,Fisherman,11/13/2022,47,Sputnik V
+RON583706,Sauda,Ngoma,Male,5/12/1961,Rongai,Mason,5/28/2022,61,Oxford-AstraZeneca
+NJO292364,Mary,Mwakalinga,Female,4/24/1958,Njoro,Teacher,9/6/2022,64,Sinopharm
+GIL839756,Michael,Mwakalinga,Male,2/21/1965,Gilgil,Farmer,4/2/2021,56,Moderna
+GIL664508,Sarah,Mcharo,Male,5/13/1955,Gilgil,Teacher,4/27/2021,66,Johnson and Johnson
+GIL227943,Elizabeth,Chilambo,Female,7/19/1975,Gilgil,Trader,4/29/2021,46,Sinopharm
+GIL691488,Paul,Zuberi,Female,7/15/1974,Gilgil,Fisherman,10/29/2022,48,Pfizer
+NJO510122,David,Mwakalinga,Female,11/11/1987,Njoro,Farmer,1/28/2021,34,Pfizer
+GIL487601,Joseph,Mcharo,Male,6/9/1980,Gilgil,Fisherman,10/27/2021,41,Moderna
+GIL392163,Rahma,Mcharo,Female,5/7/1960,Gilgil,Tailor,9/11/2022,62,Sputnik V
+RON657193,Omar,Zuberi,Male,1/13/1988,Rongai,Teacher,6/25/2021,33,Oxford-AstraZeneca
+SUB307287,Sauda,Zuberi,Female,11/6/1960,Subukia,Mason,11/4/2022,62,Pfizer
+MOL299602,Mary,Mwashigadi,Female,8/14/1984,Molo,Teacher,9/25/2022,38,Sputnik V
+SUB588025,Michael,Mwashigadi,Female,5/25/2005,Subukia,Fisherman,12/9/2022,17,Pfizer
+RON467300,Sarah,Ngoma,Male,10/31/1956,Rongai,Tailor,5/15/2021,65,Oxford-AstraZeneca
+NAI191274,Elizabeth,Nyaga,Female,12/13/1965,Naivasha,Mason,1/6/2022,57,Sinopharm
+SUB650047,Paul,Mwakalinga,Female,11/21/2006,Subukia,Fisherman,2/15/2022,16,Moderna
+SUB248118,David,Chilambo,Male,7/29/1986,Subukia,Fisherman,10/22/2021,35,Johnson and Johnson
+BAH511750,Joseph,Mwadime,Female,5/25/1973,Bahati,Mason,3/12/2022,49,Pfizer
+NAI971981,Rahma,Mcharo,Female,3/4/1957,Naivasha,Carpenter,8/7/2021,64,Oxford-AstraZeneca
+NJO559409,Omar,Zuberi,Male,1/17/2004,Njoro,Carpenter,9/5/2021,17,Moderna
+MOL694199,Sauda,Ngoma,Male,3/2/2001,Molo,Fisherman,6/9/2022,21,Johnson and Johnson
+GIL284263,Mary,Ngoma,Female,6/22/2000,Gilgil,Farmer,2/20/2021,21,Moderna
+GIL683576,Michael,Mwadime,Male,8/26/1960,Gilgil,Trader,2/4/2022,62,Sputnik V
+GIL735568,Sarah,Nyaga,Male,9/29/1958,Gilgil,Tailor,3/22/2022,64,Sinopharm
+NAI876608,Elizabeth,Mtambo,Female,12/3/1965,Naivasha,Carpenter,12/25/2022,57,Moderna
+SUB847581,Paul,Ngoma,Male,6/13/1991,Subukia,Trader,12/14/2021,30,Sputnik V
+SUB829297,David,Ngoma,Male,4/13/1999,Subukia,Tailor,6/15/2022,23,Pfizer
+BAH842576,Joseph,Mwakalinga,Male,1/4/1984,Bahati,Farmer,12/20/2021,37,Sinopharm
+SUB499601,Rahma,Mwadime,Female,7/3/1957,Subukia,Fisherman,2/10/2022,65,Pfizer
+MOL480392,Omar,Chilambo,Female,1/4/2003,Molo,Fisherman,11/29/2021,18,Oxford-AstraZeneca
+RON469945,Sauda,Mtambo,Female,7/17/1976,Rongai,Farmer,1/21/2021,45,Sinopharm
+RON854143,Mary,Mwashigadi,Male,3/15/2007,Rongai,Tailor,9/27/2022,15,Oxford-AstraZeneca
+NAI721719,Michael,Mwashigadi,Male,8/21/1984,Naivasha,Fisherman,1/29/2022,38,Sputnik V
+SUB983033,Sarah,Mwadime,Female,12/13/1975,Subukia,Farmer,5/3/2022,47,Oxford-AstraZeneca
+MOL528440,Elizabeth,Mtambo,Male,12/20/1989,Molo,Tailor,9/28/2022,33,Pfizer
+RON458369,Paul,Zuberi,Male,7/6/1965,Rongai,Farmer,1/18/2021,56,Johnson and Johnson
+NAI287857,David,Mwakalinga,Male,7/3/1972,Naivasha,Carpenter,1/9/2022,50,Sinopharm
+MOL635738,Joseph,Musa,Male,12/21/1971,Molo,Tailor,6/29/2022,51,Pfizer
+SUB894204,Rahma,Zuberi,Male,8/31/2006,Subukia,Fisherman,11/25/2022,16,Sinopharm
+GIL619833,Omar,Mwadime,Male,7/3/1961,Gilgil,Mason,12/5/2022,61,Sinopharm
+SUB578706,Sauda,Mtambo,Male,9/11/1994,Subukia,Fisherman,4/27/2021,27,Pfizer
+BAH329009,Mary,Nyaga,Female,5/5/1968,Bahati,Teacher,11/11/2022,54,Sputnik V
+SUB506844,Michael,Mcharo,Male,12/29/1995,Subukia,Teacher,8/2/2022,27,Oxford-AstraZeneca
+NJO721444,Sarah,Mcharo,Female,5/16/1992,Njoro,Tailor,5/4/2021,29,Sinopharm
+BAH592161,Elizabeth,Mtambo,Male,4/24/1979,Bahati,Mason,4/6/2021,42,Sputnik V
+GIL966465,Paul,Nyaga,Female,12/5/1968,Gilgil,Trader,11/21/2021,53,Johnson and Johnson
+SUB795633,David,Ngoma,Male,7/20/1973,Subukia,Fisherman,8/23/2021,48,Johnson and Johnson
+BAH173892,Joseph,Mtambo,Male,8/9/2004,Bahati,Fisherman,5/31/2022,18,Oxford-AstraZeneca
+MOL770572,Rahma,Chilambo,Male,6/24/1963,Molo,Carpenter,4/16/2021,58,Oxford-AstraZeneca
+BAH783501,Omar,Mwadime,Male,11/10/1973,Bahati,Fisherman,3/18/2022,49,Sinopharm
+NAI812233,Sauda,Mwadime,Female,4/21/1968,Naivasha,Teacher,9/15/2021,53,Oxford-AstraZeneca
+SUB576471,Mary,Mcharo,Male,9/1/1999,Subukia,Teacher,11/17/2022,23,Johnson and Johnson
+RON516917,Michael,Chilambo,Male,2/20/1996,Rongai,Teacher,12/1/2022,26,Sinopharm
+NJO705434,Sarah,Mcharo,Female,1/17/1969,Njoro,Mason,9/28/2021,52,Moderna
+NJO383673,Elizabeth,Mwakalinga,Male,10/15/1996,Njoro,Trader,11/15/2022,26,Pfizer
+NJO400231,Paul,Zuberi,Female,10/13/2006,Njoro,Teacher,11/6/2022,16,Sinopharm
+GIL710751,David,Mtambo,Male,8/11/1983,Gilgil,Teacher,5/30/2021,38,Oxford-AstraZeneca
+NJO550893,Joseph,Chilambo,Male,10/4/1983,Njoro,Trader,8/10/2022,39,Moderna
+SUB109367,Rahma,Mcharo,Male,12/29/1963,Subukia,Tailor,6/9/2022,59,Johnson and Johnson
+GIL830771,Omar,Mwakalinga,Male,11/23/1979,Gilgil,Fisherman,10/23/2021,42,Pfizer
+GIL926382,Sauda,Zuberi,Female,9/4/1989,Gilgil,Mason,6/27/2021,32,Oxford-AstraZeneca
+MOL803538,Mary,Mtambo,Male,5/13/1999,Molo,Mason,8/4/2022,23,Sinopharm
+MOL285089,Michael,Mcharo,Female,12/29/1960,Molo,Fisherman,6/23/2022,62,Oxford-AstraZeneca
+MOL443299,Sarah,Musa,Male,9/19/2001,Molo,Tailor,7/8/2022,21,Moderna
+NAI464434,Elizabeth,Mcharo,Male,8/3/1955,Naivasha,Tailor,10/20/2022,67,Sinopharm
+NAI880113,Paul,Zuberi,Female,1/23/1964,Naivasha,Mason,1/21/2021,57,Sinopharm
+GIL598238,David,Chilambo,Female,9/29/1971,Gilgil,Teacher,4/11/2022,51,Pfizer
+NJO817460,Joseph,Chilambo,Female,5/13/1986,Njoro,Mason,7/23/2022,36,Sinopharm
+RON358939,Rahma,Mtambo,Female,3/23/1992,Rongai,Carpenter,3/19/2021,29,Sputnik V
+NJO822132,Omar,Mwadime,Male,7/4/1970,Njoro,Mason,11/25/2021,51,Sinopharm
+MOL933992,Sauda,Chilambo,Male,8/1/1993,Molo,Fisherman,8/18/2021,28,Sinopharm
+MOL925055,Mary,Musa,Female,5/13/2000,Molo,Teacher,12/6/2022,22,Sputnik V
+MOL374952,Michael,Chilambo,Female,4/25/2006,Molo,Farmer,8/10/2021,15,Pfizer
+NJO261917,Sarah,Ngoma,Male,9/17/1999,Njoro,Mason,8/22/2021,22,Sinopharm
+MOL248601,Elizabeth,Mtambo,Male,3/27/1960,Molo,Carpenter,1/10/2022,62,Sputnik V
+GIL299966,Paul,Zuberi,Female,4/8/1996,Gilgil,Mason,7/1/2021,25,Moderna
+MOL399688,David,Ngoma,Female,8/28/1975,Molo,Farmer,12/6/2022,47,Oxford-AstraZeneca
+MOL252481,Joseph,Mtambo,Male,1/13/1956,Molo,Fisherman,3/5/2022,66,Oxford-AstraZeneca
+RON977854,Rahma,Mwashigadi,Male,7/15/1971,Rongai,Tailor,1/2/2022,51,Johnson and Johnson
+NJO194096,Omar,Mwadime,Male,9/10/1976,Njoro,Teacher,1/19/2021,45,Johnson and Johnson
+MOL427664,Sauda,Chilambo,Female,10/18/1996,Molo,Trader,4/30/2022,26,Sinopharm
+NAI408442,Mary,Mtambo,Male,4/23/1989,Naivasha,Mason,1/21/2022,33,Pfizer
+NJO379185,Michael,Zuberi,Male,4/6/1963,Njoro,Tailor,10/25/2021,58,Moderna
+BAH858227,Sarah,Mtambo,Male,12/30/1975,Bahati,Teacher,9/14/2021,46,Sinopharm
+MOL629152,Elizabeth,Musa,Male,9/6/1987,Molo,Mason,1/26/2021,34,Pfizer
+GIL855912,Paul,Ngoma,Female,2/6/1964,Gilgil,Mason,4/16/2021,57,Moderna
+MOL508137,David,Mtambo,Male,12/2/1970,Molo,Tailor,2/16/2022,52,Sputnik V
+BAH214943,Joseph,Mtambo,Female,2/16/1993,Bahati,Tailor,7/26/2021,28,Oxford-AstraZeneca
+NAI203647,Rahma,Chilambo,Female,11/6/1963,Naivasha,Tailor,1/6/2022,59,Sinopharm
+NJO889146,Omar,Mtambo,Female,10/16/1987,Njoro,Teacher,8/23/2022,35,Pfizer
+GIL379724,Sauda,Ngoma,Female,1/16/1970,Gilgil,Mason,8/14/2022,52,Pfizer
+RON803025,Mary,Mwakalinga,Female,1/17/1967,Rongai,Carpenter,1/17/2021,54,Moderna
+RON651961,Michael,Mwakalinga,Male,10/27/2004,Rongai,Carpenter,8/3/2022,18,Sinopharm
+GIL666601,Sarah,Zuberi,Male,9/29/1994,Gilgil,Carpenter,3/29/2021,27,Johnson and Johnson
+SUB746225,Elizabeth,Ngoma,Female,10/28/1967,Subukia,Tailor,9/3/2021,54,Pfizer
+NJO343101,Paul,Chilambo,Female,9/2/1993,Njoro,Mason,10/29/2022,29,Johnson and Johnson
+NAI503126,David,Mtambo,Male,9/21/1958,Naivasha,Mason,8/10/2021,63,Sinopharm
+SUB711513,Joseph,Ngoma,Female,9/20/2002,Subukia,Carpenter,8/23/2021,19,Oxford-AstraZeneca
+GIL302411,Rahma,Nyaga,Male,9/16/1971,Gilgil,Tailor,7/30/2021,50,Oxford-AstraZeneca
+NAI394829,Omar,Zuberi,Female,12/5/1968,Naivasha,Mason,2/1/2021,53,Johnson and Johnson
+NAI242754,Sauda,Mtambo,Male,2/5/1997,Naivasha,Carpenter,7/9/2022,25,Pfizer
+MOL697985,Mary,Mwadime,Male,1/6/2006,Molo,Mason,3/30/2021,15,Moderna
+MOL297398,Michael,Mwashigadi,Female,2/13/1981,Molo,Tailor,8/30/2021,40,Sinopharm
+GIL921795,Sarah,Zuberi,Male,12/17/1993,Gilgil,Fisherman,2/20/2021,28,Sputnik V
+GIL213670,Elizabeth,Mwashigadi,Female,1/10/1974,Gilgil,Carpenter,10/30/2021,47,Moderna
+NJO421995,Paul,Mcharo,Male,8/14/2001,Njoro,Mason,9/19/2022,21,Pfizer
+MOL407854,David,Chilambo,Female,3/22/1973,Molo,Tailor,5/2/2021,48,Oxford-AstraZeneca
+RON947145,Joseph,Mwashigadi,Female,10/8/1989,Rongai,Farmer,9/6/2022,33,Pfizer
+NAI654762,Rahma,Mwadime,Male,2/10/1967,Naivasha,Tailor,3/2/2021,54,Moderna
+BAH423859,Omar,Chilambo,Male,7/24/1995,Bahati,Trader,11/19/2021,26,Sinopharm
+RON313891,Sauda,Mwashigadi,Female,9/22/2006,Rongai,Fisherman,10/27/2021,15,Sinopharm
+NAI392514,Mary,Mwadime,Female,7/8/1963,Naivasha,Teacher,1/22/2021,58,Johnson and Johnson
+MOL861175,Michael,Musa,Male,7/13/1979,Molo,Mason,12/8/2021,42,Johnson and Johnson
+NAI217166,Sarah,Mwadime,Female,5/25/1996,Naivasha,Farmer,6/25/2021,25,Oxford-AstraZeneca
+NJO261008,Elizabeth,Ngoma,Female,1/21/2000,Njoro,Teacher,10/17/2021,21,Oxford-AstraZeneca
+NAI809824,Paul,Mwakalinga,Female,5/7/1958,Naivasha,Mason,6/28/2022,64,Sputnik V
+NAI333428,David,Ngoma,Male,4/23/1979,Naivasha,Carpenter,5/28/2022,43,Johnson and Johnson
+SUB782783,Joseph,Mtambo,Female,5/23/1977,Subukia,Trader,11/5/2022,45,Oxford-AstraZeneca
+MOL195774,Rahma,Musa,Female,3/8/1995,Molo,Tailor,2/14/2021,26,Sputnik V
+NJO111092,Omar,Mwadime,Male,11/17/1980,Njoro,Tailor,1/31/2021,41,Sinopharm
+NJO892845,Sauda,Chilambo,Male,5/10/1991,Njoro,Mason,3/18/2021,30,Johnson and Johnson
+RON532954,Mary,Chilambo,Female,4/1/1966,Rongai,Fisherman,3/29/2022,56,Pfizer
+RON932708,Michael,Mtambo,Male,1/31/1956,Rongai,Carpenter,10/17/2022,66,Pfizer
+RON453379,Sarah,Zuberi,Male,9/4/1997,Rongai,Farmer,12/23/2022,25,Oxford-AstraZeneca
+NAI838347,Elizabeth,Mwashigadi,Male,5/16/1957,Naivasha,Fisherman,9/22/2021,64,Moderna
+NJO730521,Paul,Mwadime,Female,10/25/1982,Njoro,Mason,6/26/2021,39,Pfizer
+BAH516887,David,Nyaga,Male,3/25/1986,Bahati,Teacher,10/6/2022,36,Oxford-AstraZeneca
+NAI646963,Joseph,Mcharo,Female,2/21/1995,Naivasha,Carpenter,4/22/2021,26,Pfizer
+GIL479286,Rahma,Mwakalinga,Female,6/15/1982,Gilgil,Carpenter,3/28/2021,39,Sinopharm
+GIL142153,Omar,Musa,Female,3/22/2002,Gilgil,Trader,4/7/2021,19,Pfizer
+BAH652145,Sauda,Zuberi,Female,5/31/2005,Bahati,Carpenter,3/20/2022,17,Pfizer
+BAH482837,Mary,Musa,Female,3/13/2003,Bahati,Teacher,2/7/2021,18,Oxford-AstraZeneca
+BAH771994,Michael,Nyaga,Female,4/25/2002,Bahati,Farmer,4/10/2021,19,Sputnik V
+GIL532362,Sarah,Nyaga,Female,3/26/1980,Gilgil,Tailor,3/12/2022,42,Moderna
+GIL209035,Elizabeth,Nyaga,Male,9/14/1978,Gilgil,Mason,1/30/2021,43,Pfizer
+BAH649185,Paul,Zuberi,Female,4/9/1959,Bahati,Fisherman,4/20/2021,62,Sinopharm
+RON364127,David,Mcharo,Female,9/28/1970,Rongai,Trader,12/18/2021,51,Sinopharm
+GIL779930,Joseph,Mwadime,Female,4/12/1981,Gilgil,Mason,1/9/2022,41,Sputnik V
+NJO381074,Rahma,Ngoma,Male,5/15/1983,Njoro,Tailor,4/8/2021,38,Pfizer
+MOL165264,Omar,Musa,Male,11/28/1990,Molo,Tailor,9/18/2022,32,Johnson and Johnson
+GIL553249,Sauda,Musa,Male,9/2/1998,Gilgil,Trader,9/23/2021,23,Johnson and Johnson
+GIL734507,Mary,Chilambo,Female,6/24/1961,Gilgil,Fisherman,10/20/2022,61,Oxford-AstraZeneca
+NJO223510,Michael,Musa,Male,12/26/1978,Njoro,Teacher,1/9/2021,43,Pfizer
+NJO530554,Sarah,Mwadime,Female,12/14/1967,Njoro,Carpenter,6/11/2021,54,Moderna
+BAH670311,Elizabeth,Chilambo,Female,8/16/1969,Bahati,Mason,10/6/2022,53,Sinopharm
+NJO279444,Paul,Mwadime,Female,12/9/1994,Njoro,Trader,3/1/2021,27,Johnson and Johnson
+NJO415446,David,Mwadime,Female,2/8/2006,Njoro,Carpenter,12/28/2021,15,Sinopharm
+SUB258363,Joseph,Mcharo,Female,7/18/2000,Subukia,Farmer,11/16/2022,22,Oxford-AstraZeneca
+NAI247536,Rahma,Mtambo,Female,4/13/1976,Naivasha,Fisherman,8/11/2021,45,Johnson and Johnson
+SUB266182,Omar,Ngoma,Male,11/15/1965,Subukia,Tailor,12/19/2021,56,Pfizer
+GIL385039,Sauda,Mtambo,Female,3/2/1974,Gilgil,Tailor,1/28/2022,48,Sinopharm
+SUB842239,Mary,Mwakalinga,Male,3/14/1980,Subukia,Fisherman,1/1/2021,41,Moderna
+GIL980624,Michael,Zuberi,Female,8/8/1968,Gilgil,Tailor,11/22/2022,54,Sinopharm
+BAH790432,Sarah,Zuberi,Female,3/29/2002,Bahati,Carpenter,10/26/2021,19,Pfizer
+MOL278368,Elizabeth,Mtambo,Male,11/29/1969,Molo,Carpenter,4/11/2021,52,Oxford-AstraZeneca
+SUB148641,Paul,Chilambo,Male,4/2/1984,Subukia,Teacher,5/6/2021,37,Johnson and Johnson
+NJO679803,David,Mwashigadi,Male,12/25/2005,Njoro,Mason,7/5/2022,17,Moderna
+BAH657323,Joseph,Zuberi,Female,10/16/2005,Bahati,Carpenter,10/7/2022,17,Johnson and Johnson
+GIL859524,Rahma,Ngoma,Female,2/2/2006,Gilgil,Fisherman,1/19/2021,15,Moderna
+NJO135320,Omar,Chilambo,Male,1/9/1996,Njoro,Farmer,9/2/2021,25,Moderna
+MOL960601,Sauda,Zuberi,Male,3/1/1962,Molo,Teacher,7/7/2021,59,Sinopharm
+RON533501,Mary,Mcharo,Female,9/10/1987,Rongai,Tailor,12/20/2022,35,Sinopharm
+GIL520150,Michael,Nyaga,Male,12/22/1959,Gilgil,Teacher,4/12/2021,62,Johnson and Johnson
+RON136124,Sarah,Mwashigadi,Female,10/30/1979,Rongai,Mason,9/25/2021,42,Johnson and Johnson
+SUB255045,Elizabeth,Musa,Female,6/10/1968,Subukia,Tailor,1/8/2022,54,Sinopharm
+GIL882779,Paul,Chilambo,Female,2/4/1990,Gilgil,Tailor,7/4/2022,32,Sputnik V
+MOL899206,David,Zuberi,Female,5/9/1983,Molo,Farmer,5/31/2021,38,Oxford-AstraZeneca
+BAH765141,Joseph,Mtambo,Male,11/20/1958,Bahati,Farmer,1/23/2022,64,Oxford-AstraZeneca
+RON827289,Rahma,Mwakalinga,Female,10/19/1960,Rongai,Mason,2/24/2021,61,Johnson and Johnson
+BAH333904,Omar,Zuberi,Male,4/24/1974,Bahati,Tailor,12/19/2022,48,Sputnik V
+BAH494908,Sauda,Mwashigadi,Male,8/30/1990,Bahati,Carpenter,8/19/2021,31,Sinopharm
+RON535103,Mary,Mwadime,Female,11/26/1962,Rongai,Carpenter,7/23/2022,60,Johnson and Johnson
+MOL710398,Michael,Ngoma,Male,4/29/1971,Molo,Tailor,10/2/2021,50,Moderna
+NJO809717,Sarah,Chilambo,Female,6/13/1967,Njoro,Fisherman,7/6/2021,54,Johnson and Johnson
+SUB819262,Elizabeth,Mtambo,Female,10/14/2006,Subukia,Farmer,3/13/2021,15,Oxford-AstraZeneca
+MOL745657,Paul,Nyaga,Female,1/6/1983,Molo,Fisherman,2/27/2021,38,Pfizer
+SUB662017,David,Mwakalinga,Female,2/25/1995,Subukia,Fisherman,9/16/2021,26,Oxford-AstraZeneca
+BAH543835,Joseph,Nyaga,Male,1/15/1973,Bahati,Mason,2/15/2022,49,Oxford-AstraZeneca
+RON693518,Rahma,Mwadime,Female,9/19/1978,Rongai,Teacher,2/17/2021,43,Pfizer
+MOL424537,Omar,Nyaga,Male,12/19/1987,Molo,Mason,9/17/2022,35,Moderna
+NJO683752,Sauda,Nyaga,Female,1/1/1971,Njoro,Farmer,6/6/2021,50,Oxford-AstraZeneca
+NJO461295,Mary,Mtambo,Female,2/15/2005,Njoro,Mason,4/24/2022,17,Johnson and Johnson
+RON359400,Michael,Mwakalinga,Female,10/19/1982,Rongai,Teacher,7/16/2022,40,Sinopharm
+RON455898,Sarah,Mcharo,Female,6/3/1955,Rongai,Trader,8/5/2022,67,Oxford-AstraZeneca
+RON979591,Elizabeth,Mtambo,Male,3/5/2001,Rongai,Farmer,11/27/2022,21,Pfizer
+NAI443929,Paul,Zuberi,Female,12/2/1959,Naivasha,Teacher,11/4/2022,63,Pfizer
+BAH701391,David,Zuberi,Female,3/3/1980,Bahati,Farmer,5/13/2021,41,Oxford-AstraZeneca
+BAH458367,Joseph,Mwakalinga,Female,5/3/1983,Bahati,Farmer,8/12/2022,39,Johnson and Johnson
+BAH229471,Rahma,Mcharo,Male,11/24/1958,Bahati,Trader,9/22/2022,64,Moderna
+RON954465,Omar,Mcharo,Female,1/4/1963,Rongai,Carpenter,2/5/2022,59,Sinopharm
+SUB751022,Sauda,Musa,Male,4/17/1993,Subukia,Farmer,3/28/2022,29,Johnson and Johnson
+GIL983392,Mary,Mcharo,Female,1/20/2001,Gilgil,Trader,6/19/2022,21,Sputnik V
+MOL745183,Michael,Nyaga,Female,9/26/1956,Molo,Farmer,12/12/2021,65,Oxford-AstraZeneca
+RON977799,Sarah,Mtambo,Male,10/17/1983,Rongai,Tailor,11/26/2022,39,Johnson and Johnson
+GIL987900,Elizabeth,Mtambo,Female,7/1/1986,Gilgil,Trader,11/18/2021,35,Sputnik V
+MOL254965,Paul,Mwakalinga,Male,1/7/1966,Molo,Trader,4/12/2021,55,Moderna
+BAH414010,David,Mtambo,Female,9/22/1959,Bahati,Tailor,3/4/2022,63,Moderna
+MOL178095,Joseph,Nyaga,Female,6/3/1970,Molo,Mason,1/4/2021,51,Sputnik V
+NJO399801,Rahma,Mwakalinga,Female,2/20/1992,Njoro,Trader,6/25/2021,29,Sputnik V
+RON577174,Omar,Nyaga,Female,3/13/1978,Rongai,Teacher,1/6/2021,43,Johnson and Johnson
+MOL183067,Sauda,Zuberi,Female,8/29/2005,Molo,Trader,4/21/2022,17,Pfizer
+SUB592841,Mary,Nyaga,Male,9/17/1954,Subukia,Teacher,12/25/2021,67,Moderna
+MOL441412,Michael,Ngoma,Female,2/8/1964,Molo,Tailor,4/5/2022,58,Sputnik V
+GIL624206,Sarah,Mcharo,Female,1/20/2001,Gilgil,Carpenter,5/2/2021,20,Sputnik V
+SUB512722,Elizabeth,Zuberi,Female,1/9/1978,Subukia,Mason,1/7/2021,43,Johnson and Johnson
+SUB128894,Paul,Mwashigadi,Male,5/28/1972,Subukia,Tailor,12/15/2022,50,Pfizer
+GIL785346,David,Mwakalinga,Female,4/5/1984,Gilgil,Farmer,9/28/2021,37,Sinopharm
+NAI518535,Joseph,Mtambo,Female,4/5/1960,Naivasha,Mason,6/11/2022,62,Oxford-AstraZeneca
+MOL476362,Rahma,Ngoma,Male,3/19/1956,Molo,Teacher,1/23/2022,66,Sputnik V
+MOL644195,Omar,Musa,Female,10/15/2006,Molo,Farmer,7/10/2022,16,Johnson and Johnson
+MOL386839,Sauda,Mtambo,Male,4/13/1996,Molo,Fisherman,4/30/2022,26,Sinopharm
+SUB153136,Mary,Chilambo,Female,6/6/1995,Subukia,Trader,9/18/2022,27,Sputnik V
+GIL568350,Michael,Chilambo,Female,7/8/1974,Gilgil,Tailor,7/12/2021,47,Johnson and Johnson
+NJO265625,Sarah,Mcharo,Female,9/21/1983,Njoro,Carpenter,10/26/2021,38,Johnson and Johnson
+MOL710581,Elizabeth,Mwakalinga,Male,8/19/1989,Molo,Mason,10/6/2022,33,Moderna
+NAI291539,Paul,Ngoma,Male,4/28/1994,Naivasha,Fisherman,8/14/2022,28,Sinopharm
+RON490956,David,Mwadime,Female,1/18/1971,Rongai,Carpenter,12/16/2021,50,Moderna
+NAI469452,Joseph,Mwadime,Female,11/21/1989,Naivasha,Fisherman,9/29/2022,33,Sinopharm
+SUB700844,Rahma,Mwashigadi,Male,10/2/1985,Subukia,Farmer,10/10/2021,36,Pfizer
+RON823618,Omar,Musa,Male,2/11/1956,Rongai,Tailor,6/14/2021,65,Moderna
+SUB205143,Sauda,Chilambo,Male,12/10/1988,Subukia,Fisherman,8/27/2022,34,Pfizer
+SUB878809,Mary,Mtambo,Female,8/31/1960,Subukia,Carpenter,2/28/2022,62,Johnson and Johnson
+SUB527917,Michael,Nyaga,Female,5/18/1989,Subukia,Tailor,5/12/2021,32,Oxford-AstraZeneca
+NAI829837,Sarah,Musa,Male,10/6/1980,Naivasha,Teacher,4/24/2021,41,Johnson and Johnson
+GIL357335,Elizabeth,Mtambo,Female,9/14/1968,Gilgil,Teacher,11/18/2022,54,Johnson and Johnson
+NJO496020,Paul,Mwakalinga,Male,4/5/1994,Njoro,Tailor,9/10/2022,28,Oxford-AstraZeneca
+GIL914022,David,Mtambo,Female,12/4/1987,Gilgil,Mason,2/19/2021,34,Sputnik V
+BAH390052,Joseph,Mwakalinga,Male,5/2/1995,Bahati,Carpenter,11/17/2021,26,Pfizer
+MOL835002,Rahma,Ngoma,Female,6/29/1979,Molo,Fisherman,11/10/2022,43,Moderna
+MOL237080,Omar,Zuberi,Male,6/27/2003,Molo,Fisherman,1/2/2022,19,Pfizer
+SUB735874,Sauda,Mcharo,Male,4/23/1989,Subukia,Mason,4/15/2022,33,Pfizer
+SUB624374,Mary,Mwakalinga,Male,10/20/2005,Subukia,Teacher,11/6/2022,17,Sinopharm
+RON826823,Michael,Zuberi,Female,4/5/1963,Rongai,Mason,6/19/2022,59,Oxford-AstraZeneca
+RON681744,Sarah,Nyaga,Male,12/28/1990,Rongai,Tailor,5/28/2022,32,Moderna
+GIL856887,Elizabeth,Mcharo,Female,4/7/1988,Gilgil,Tailor,1/30/2021,33,Johnson and Johnson
+BAH412154,Paul,Nyaga,Female,4/5/1997,Bahati,Trader,8/2/2022,25,Oxford-AstraZeneca
+BAH408700,David,Zuberi,Female,8/26/1999,Bahati,Mason,9/5/2021,22,Moderna
+GIL183148,Joseph,Ngoma,Male,3/3/1999,Gilgil,Mason,5/4/2022,23,Sinopharm
+NAI563507,Rahma,Zuberi,Female,10/5/1961,Naivasha,Farmer,10/13/2021,60,Johnson and Johnson
+GIL107118,Omar,Nyaga,Male,3/19/1984,Gilgil,Teacher,4/4/2021,37,Oxford-AstraZeneca
+NJO589122,Sauda,Mwadime,Female,10/15/1984,Njoro,Trader,6/7/2021,37,Pfizer
+GIL991735,Mary,Mwadime,Male,1/23/1990,Gilgil,Trader,7/25/2022,32,Moderna
+NAI928980,Michael,Mwashigadi,Female,1/2/1959,Naivasha,Teacher,3/7/2022,63,Pfizer
+NAI764012,Sarah,Mcharo,Male,11/24/1996,Naivasha,Trader,4/10/2021,25,Moderna
+GIL832630,Elizabeth,Ngoma,Male,1/4/1996,Gilgil,Farmer,1/25/2021,25,Oxford-AstraZeneca
+MOL498240,Paul,Zuberi,Female,1/17/1980,Molo,Tailor,7/13/2022,42,Moderna
+SUB948866,David,Mwadime,Male,11/22/1969,Subukia,Fisherman,5/18/2022,53,Pfizer
+NAI430120,Joseph,Ngoma,Male,11/6/1966,Naivasha,Trader,12/28/2021,55,Oxford-AstraZeneca
+BAH290086,Rahma,Nyaga,Female,4/6/2005,Bahati,Mason,8/29/2022,17,Johnson and Johnson
+NAI741579,Omar,Ngoma,Female,5/22/1978,Naivasha,Mason,11/25/2022,44,Johnson and Johnson
+GIL466167,Sauda,Mwakalinga,Male,1/22/1958,Gilgil,Farmer,5/26/2022,64,Moderna
+RON541019,Mary,Mtambo,Female,5/4/1967,Rongai,Teacher,4/10/2021,54,Oxford-AstraZeneca
+NAI936858,Michael,Mwakalinga,Female,11/14/1973,Naivasha,Carpenter,1/4/2021,48,Oxford-AstraZeneca
+MOL700437,Sarah,Mcharo,Female,9/8/1987,Molo,Carpenter,7/26/2022,35,Oxford-AstraZeneca
+RON638956,Elizabeth,Mwakalinga,Male,4/25/1983,Rongai,Farmer,10/14/2021,38,Sinopharm
+MOL615449,Paul,Zuberi,Female,3/26/2000,Molo,Tailor,3/10/2022,22,Sputnik V
+RON938088,David,Ngoma,Female,11/18/1995,Rongai,Mason,2/7/2021,26,Sinopharm
+NJO472919,Joseph,Musa,Male,4/30/1972,Njoro,Teacher,6/15/2021,49,Oxford-AstraZeneca
+SUB381357,Rahma,Musa,Male,8/24/1979,Subukia,Fisherman,2/19/2021,42,Moderna
+NAI933778,Omar,Mwadime,Female,3/7/1994,Naivasha,Teacher,1/5/2022,28,Sputnik V
+RON228989,Sauda,Nyaga,Male,3/29/1959,Rongai,Tailor,9/10/2021,62,Sputnik V
+BAH920580,Mary,Mwadime,Male,9/11/1990,Bahati,Carpenter,7/15/2022,32,Pfizer
+NAI526244,Michael,Mtambo,Male,8/24/1955,Naivasha,Teacher,8/11/2021,66,Oxford-AstraZeneca
+SUB416546,Sarah,Mtambo,Female,9/5/1980,Subukia,Tailor,2/8/2022,42,Sinopharm
+NJO857531,Elizabeth,Mwakalinga,Female,5/7/1958,Njoro,Carpenter,1/14/2021,63,Johnson and Johnson
+MOL547529,Paul,Nyaga,Male,10/9/1997,Molo,Mason,2/4/2021,24,Sinopharm
+GIL721777,David,Mcharo,Male,3/27/2003,Gilgil,Carpenter,9/7/2021,18,Moderna
+GIL560631,Joseph,Mwakalinga,Female,1/25/2006,Gilgil,Mason,5/21/2021,15,Oxford-AstraZeneca
+BAH483787,Rahma,Mcharo,Male,3/19/1968,Bahati,Trader,10/22/2021,53,Sputnik V
+SUB721730,Omar,Nyaga,Female,5/7/1984,Subukia,Mason,5/20/2021,37,Oxford-AstraZeneca
+RON692258,Sauda,Mwadime,Female,8/10/2002,Rongai,Mason,11/6/2022,20,Sputnik V
+RON388952,Mary,Ngoma,Female,3/26/1979,Rongai,Fisherman,4/3/2022,43,Pfizer
+NAI973788,Michael,Mtambo,Female,11/19/1954,Naivasha,Farmer,8/16/2022,68,Oxford-AstraZeneca
+MOL541939,Sarah,Mtambo,Female,9/20/1976,Molo,Teacher,1/5/2021,45,Pfizer
+NAI575366,Elizabeth,Mwakalinga,Female,6/16/2006,Naivasha,Mason,8/22/2021,15,Oxford-AstraZeneca
+NJO609452,Paul,Mwakalinga,Female,5/3/1982,Njoro,Carpenter,10/5/2022,40,Pfizer
+RON572901,David,Mtambo,Female,3/10/1968,Rongai,Fisherman,10/16/2022,54,Pfizer
+RON763873,Joseph,Zuberi,Female,5/6/1998,Rongai,Carpenter,11/3/2022,24,Sinopharm
+BAH152386,Rahma,Mwadime,Male,4/16/1959,Bahati,Fisherman,11/20/2022,63,Sinopharm
+GIL979526,Omar,Mcharo,Female,11/1/1978,Gilgil,Tailor,5/22/2021,43,Sinopharm
+SUB531690,Sauda,Chilambo,Female,6/28/1995,Subukia,Fisherman,7/26/2022,27,Pfizer
+BAH186592,Mary,Musa,Male,6/17/1981,Bahati,Fisherman,2/5/2022,41,Johnson and Johnson
+NAI503035,Michael,Nyaga,Male,8/25/1982,Naivasha,Fisherman,7/4/2022,40,Moderna
+RON176671,Sarah,Mwakalinga,Female,9/4/2003,Rongai,Tailor,5/30/2021,18,Pfizer
+NAI134898,Elizabeth,Mwakalinga,Male,1/27/1991,Naivasha,Mason,9/1/2022,31,Johnson and Johnson
+BAH814576,Paul,Mwashigadi,Male,11/1/1955,Bahati,Trader,12/6/2021,66,Pfizer
+BAH985858,David,Mwashigadi,Female,4/26/1990,Bahati,Carpenter,1/23/2022,32,Moderna
+NJO658159,Joseph,Mwashigadi,Male,7/25/1959,Njoro,Trader,3/9/2021,62,Sinopharm
+BAH207774,Rahma,Mwashigadi,Male,2/12/1962,Bahati,Farmer,11/28/2021,59,Sinopharm
+NJO193391,Omar,Mwakalinga,Female,7/5/1996,Njoro,Fisherman,1/7/2021,25,Sputnik V
+RON472820,Sauda,Mcharo,Female,10/25/1984,Rongai,Fisherman,12/26/2022,38,Sinopharm
+NJO349026,Mary,Mwakalinga,Male,3/25/1966,Njoro,Farmer,10/14/2021,55,Oxford-AstraZeneca
+NJO424792,Michael,Zuberi,Male,12/22/1987,Njoro,Carpenter,11/5/2021,34,Pfizer
+GIL191590,Sarah,Zuberi,Female,11/12/1963,Gilgil,Teacher,3/16/2021,58,Pfizer
+MOL276878,Elizabeth,Mtambo,Female,11/25/1994,Molo,Fisherman,1/9/2021,27,Moderna
+NAI308897,Paul,Chilambo,Male,8/26/1976,Naivasha,Fisherman,3/9/2021,45,Pfizer
+NAI264591,David,Mtambo,Female,12/18/1987,Naivasha,Trader,9/20/2021,34,Oxford-AstraZeneca
+BAH260865,Joseph,Mtambo,Male,11/10/1962,Bahati,Farmer,7/6/2021,59,Sinopharm
+NAI334434,Rahma,Musa,Male,8/17/1977,Naivasha,Carpenter,1/20/2021,44,Oxford-AstraZeneca
+NAI202976,Omar,Musa,Female,3/6/2003,Naivasha,Farmer,11/5/2022,19,Sinopharm
+RON656590,Sauda,Mwadime,Male,3/24/1977,Rongai,Tailor,2/28/2021,44,Oxford-AstraZeneca
+GIL977445,Mary,Mcharo,Female,12/10/1986,Gilgil,Trader,3/15/2021,35,Oxford-AstraZeneca
+BAH686950,Michael,Zuberi,Female,7/7/1995,Bahati,Teacher,1/24/2022,27,Oxford-AstraZeneca
+NJO893554,Sarah,Mwashigadi,Female,9/25/1958,Njoro,Trader,3/23/2021,63,Oxford-AstraZeneca
+BAH739435,Elizabeth,Mwadime,Female,7/3/1965,Bahati,Mason,9/5/2021,56,Sputnik V
+GIL430892,Paul,Mwashigadi,Female,2/14/1973,Gilgil,Teacher,10/9/2022,49,Moderna
+BAH827969,David,Mtambo,Female,11/3/1991,Bahati,Farmer,10/5/2021,30,Sinopharm
+NJO532942,Joseph,Mwadime,Female,11/8/1966,Njoro,Mason,11/4/2021,55,Johnson and Johnson
+SUB307035,Rahma,Mcharo,Male,1/25/1957,Subukia,Fisherman,5/26/2021,64,Pfizer
+GIL946197,Omar,Ngoma,Female,11/21/1957,Gilgil,Tailor,7/23/2022,65,Moderna
+GIL954727,Sauda,Mcharo,Female,5/14/1997,Gilgil,Fisherman,3/15/2021,24,Sinopharm
+SUB439166,Mary,Musa,Female,8/2/1999,Subukia,Mason,7/12/2021,22,Pfizer
+SUB434346,Michael,Mwakalinga,Male,11/27/2003,Subukia,Teacher,11/11/2022,19,Moderna
+MOL734462,Sarah,Chilambo,Female,11/4/1988,Molo,Fisherman,7/3/2022,34,Sinopharm
+NAI194227,Elizabeth,Ngoma,Female,5/1/1990,Naivasha,Farmer,1/20/2022,32,Sputnik V
+NJO910341,Paul,Mcharo,Male,7/23/1969,Njoro,Farmer,6/5/2021,52,Moderna
+MOL142494,David,Zuberi,Male,7/22/1962,Molo,Carpenter,1/14/2022,60,Pfizer
+GIL980292,Joseph,Ngoma,Female,9/6/1981,Gilgil,Farmer,12/11/2021,40,Oxford-AstraZeneca
+RON168462,Rahma,Nyaga,Male,7/22/2005,Rongai,Farmer,11/2/2021,16,Johnson and Johnson
+NJO392138,Omar,Musa,Male,2/8/2007,Njoro,Mason,11/25/2021,14,Sputnik V
+NJO602439,Sauda,Ngoma,Male,12/27/1996,Njoro,Farmer,12/30/2021,25,Johnson and Johnson
+NAI745516,Mary,Mwakalinga,Female,5/25/1973,Naivasha,Carpenter,12/11/2021,48,Oxford-AstraZeneca
+NAI954333,Michael,Ngoma,Male,4/22/1982,Naivasha,Mason,12/13/2022,40,Pfizer
+MOL129911,Sarah,Mwakalinga,Male,2/23/1955,Molo,Fisherman,6/9/2022,67,Pfizer
+RON328072,Elizabeth,Mtambo,Male,5/14/1994,Rongai,Fisherman,11/30/2021,27,Sinopharm
+SUB214302,Paul,Nyaga,Female,7/4/1979,Subukia,Tailor,12/16/2021,42,Pfizer
+SUB394904,David,Nyaga,Male,10/4/1954,Subukia,Tailor,7/16/2022,68,Moderna
+GIL298977,Joseph,Musa,Male,7/20/1997,Gilgil,Farmer,4/5/2021,24,Moderna
+NAI230385,Rahma,Mtambo,Male,8/19/1961,Naivasha,Trader,7/3/2022,61,Oxford-AstraZeneca
+MOL589289,Omar,Mwashigadi,Female,7/30/1973,Molo,Farmer,4/6/2022,49,Oxford-AstraZeneca
+GIL509336,Sauda,Nyaga,Female,6/2/1988,Gilgil,Farmer,4/15/2021,33,Pfizer
+SUB451505,Mary,Mtambo,Female,10/29/1958,Subukia,Fisherman,9/8/2022,64,Oxford-AstraZeneca
+GIL674646,Michael,Mwakalinga,Female,3/30/1978,Gilgil,Carpenter,10/16/2021,43,Pfizer
+GIL740193,Sarah,Mtambo,Female,5/5/1976,Gilgil,Carpenter,10/6/2021,45,Sinopharm
+MOL213667,Elizabeth,Nyaga,Male,12/2/1961,Molo,Teacher,11/24/2022,61,Pfizer
+SUB395234,Paul,Ngoma,Male,2/20/1985,Subukia,Farmer,11/3/2022,37,Johnson and Johnson
+BAH328838,David,Musa,Male,8/9/1954,Bahati,Mason,8/19/2022,68,Moderna
+GIL111639,Joseph,Nyaga,Female,11/17/2006,Gilgil,Carpenter,2/6/2021,15,Moderna
+NJO465881,Rahma,Mcharo,Female,8/4/2006,Njoro,Trader,11/9/2021,15,Pfizer
+NAI352199,Omar,Mwadime,Male,12/1/1970,Naivasha,Fisherman,9/7/2021,51,Moderna
+RON171937,Sauda,Mcharo,Male,2/16/1976,Rongai,Tailor,10/23/2021,45,Sputnik V
+MOL227338,Mary,Musa,Male,6/24/1971,Molo,Trader,9/5/2021,50,Pfizer
+SUB770655,Michael,Mcharo,Male,3/21/1988,Subukia,Trader,8/14/2022,34,Moderna
+MOL913353,Sarah,Mwakalinga,Female,9/17/1981,Molo,Carpenter,10/13/2022,41,Sputnik V
+GIL705003,Elizabeth,Chilambo,Male,3/7/1975,Gilgil,Farmer,8/31/2022,47,Johnson and Johnson
+SUB926986,Paul,Mwadime,Male,10/19/1963,Subukia,Carpenter,3/3/2021,58,Oxford-AstraZeneca
+SUB299474,David,Musa,Female,4/11/1954,Subukia,Mason,5/13/2022,68,Sputnik V
+GIL202406,Joseph,Zuberi,Female,12/15/1996,Gilgil,Carpenter,12/4/2021,25,Sinopharm
+SUB161350,Rahma,Mcharo,Female,2/1/2003,Subukia,Trader,6/27/2022,19,Moderna
+GIL169926,Omar,Mtambo,Male,1/4/1965,Gilgil,Fisherman,11/13/2021,56,Johnson and Johnson
+NJO891541,Sauda,Mcharo,Female,2/19/1980,Njoro,Mason,12/28/2022,42,Sinopharm
+SUB763742,Mary,Mwashigadi,Female,6/23/1958,Subukia,Carpenter,6/29/2022,64,Oxford-AstraZeneca
+NJO324700,Michael,Zuberi,Male,8/21/2004,Njoro,Teacher,4/24/2022,18,Oxford-AstraZeneca
+GIL306434,Sarah,Nyaga,Male,1/16/2000,Gilgil,Carpenter,5/21/2022,22,Oxford-AstraZeneca
+BAH155942,Elizabeth,Mwadime,Female,7/14/1973,Bahati,Fisherman,11/8/2021,48,Sinopharm
+RON470530,Paul,Musa,Female,10/30/1989,Rongai,Carpenter,1/24/2021,32,Moderna
+NJO850737,David,Ngoma,Female,6/14/1962,Njoro,Tailor,11/4/2021,59,Sinopharm
+GIL268220,Joseph,Mwadime,Male,1/10/1989,Gilgil,Teacher,3/16/2022,33,Oxford-AstraZeneca
+MOL299598,Rahma,Mwashigadi,Female,10/27/1989,Molo,Mason,1/26/2021,32,Pfizer
+BAH874421,Omar,Mwakalinga,Female,8/4/1973,Bahati,Carpenter,1/8/2022,49,Johnson and Johnson
+SUB765679,Sauda,Mcharo,Male,3/1/2004,Subukia,Tailor,12/26/2021,17,Pfizer
+NJO459095,Mary,Nyaga,Female,5/6/1983,Njoro,Tailor,9/14/2022,39,Oxford-AstraZeneca
+NJO955908,Michael,Ngoma,Male,2/25/1985,Njoro,Tailor,1/21/2022,37,Moderna
+RON721552,Sarah,Chilambo,Female,7/23/1980,Rongai,Trader,11/13/2021,41,Moderna
+NAI402650,Elizabeth,Zuberi,Male,1/15/1969,Naivasha,Carpenter,4/28/2021,52,Sputnik V
+BAH224261,Paul,Mwakalinga,Male,3/15/1956,Bahati,Tailor,3/18/2021,65,Pfizer
+RON338233,David,Chilambo,Male,12/23/2006,Rongai,Carpenter,8/25/2022,16,Sputnik V
+GIL312273,Joseph,Mcharo,Female,2/5/1983,Gilgil,Carpenter,10/15/2022,39,Pfizer
+MOL636474,Rahma,Mwashigadi,Male,1/1/1958,Molo,Mason,10/1/2021,63,Oxford-AstraZeneca
+RON139193,Omar,Mwakalinga,Male,8/25/1984,Rongai,Carpenter,8/1/2022,38,Sputnik V
+BAH853301,Sauda,Musa,Female,6/27/1992,Bahati,Fisherman,12/27/2021,29,Sinopharm
+BAH211466,Mary,Zuberi,Male,7/14/1994,Bahati,Trader,5/28/2021,27,Moderna
+MOL581062,Michael,Chilambo,Female,3/19/2002,Molo,Tailor,4/30/2021,19,Johnson and Johnson
+SUB188935,Sarah,Mwashigadi,Female,5/16/1960,Subukia,Mason,6/7/2021,61,Johnson and Johnson
+BAH286507,Elizabeth,Mwakalinga,Male,7/10/1976,Bahati,Fisherman,5/25/2021,45,Johnson and Johnson
+MOL504741,Paul,Mwadime,Male,5/24/1999,Molo,Carpenter,12/9/2022,23,Oxford-AstraZeneca
+MOL481348,David,Mtambo,Male,5/17/1972,Molo,Carpenter,11/10/2021,49,Sinopharm
+NAI669221,Joseph,Nyaga,Female,1/6/1972,Naivasha,Mason,12/2/2022,50,Oxford-AstraZeneca
+BAH247886,Rahma,Ngoma,Male,8/9/1991,Bahati,Carpenter,7/8/2021,30,Oxford-AstraZeneca
+NJO961735,Omar,Nyaga,Male,1/9/1986,Njoro,Trader,7/27/2022,36,Oxford-AstraZeneca
+SUB434003,Sauda,Mcharo,Male,1/11/1973,Subukia,Tailor,8/28/2022,49,Oxford-AstraZeneca
+BAH354559,Mary,Mwakalinga,Male,8/6/1963,Bahati,Tailor,7/27/2022,59,Johnson and Johnson
+NJO463451,Michael,Chilambo,Male,8/25/1956,Njoro,Trader,3/14/2022,66,Moderna
+GIL133083,Sarah,Mwadime,Male,1/9/2007,Gilgil,Mason,6/30/2021,14,Johnson and Johnson
+GIL282855,Elizabeth,Chilambo,Male,4/24/1957,Gilgil,Tailor,10/28/2021,64,Moderna
+SUB567659,Paul,Zuberi,Male,9/26/1957,Subukia,Mason,6/2/2021,64,Moderna
+NAI992687,David,Nyaga,Male,7/27/1989,Naivasha,Teacher,3/2/2022,33,Johnson and Johnson
+MOL811981,Joseph,Mtambo,Male,2/11/1977,Molo,Farmer,10/16/2021,44,Sinopharm
+NJO370393,Rahma,Mtambo,Male,8/14/1989,Njoro,Mason,12/1/2021,32,Moderna
+NJO161301,Omar,Nyaga,Male,10/27/1981,Njoro,Fisherman,2/5/2021,40,Pfizer
+MOL166198,Sauda,Mwakalinga,Male,1/20/2003,Molo,Fisherman,9/17/2021,18,Sinopharm
+SUB791513,Mary,Mwashigadi,Male,8/26/1977,Subukia,Farmer,7/3/2022,45,Pfizer
+GIL177417,Michael,Mtambo,Male,12/9/1972,Gilgil,Farmer,6/21/2022,50,Johnson and Johnson
+SUB646289,Sarah,Ngoma,Male,12/10/1979,Subukia,Carpenter,7/6/2021,42,Johnson and Johnson
+SUB445730,Elizabeth,Mwakalinga,Male,8/6/1980,Subukia,Carpenter,9/26/2021,41,Johnson and Johnson
+GIL157904,Paul,Zuberi,Female,3/28/1988,Gilgil,Tailor,5/21/2022,34,Johnson and Johnson
+GIL489218,David,Ngoma,Female,6/17/2002,Gilgil,Fisherman,7/18/2022,20,Sputnik V
+BAH108167,Joseph,Mcharo,Male,6/19/1990,Bahati,Carpenter,9/21/2021,31,Moderna
+NAI997203,Rahma,Mwakalinga,Male,7/2/1966,Naivasha,Mason,2/27/2021,55,Johnson and Johnson
+SUB120690,Omar,Zuberi,Male,12/24/2003,Subukia,Mason,1/11/2022,19,Johnson and Johnson
+MOL239248,Sauda,Mtambo,Male,9/14/1978,Molo,Trader,8/16/2022,44,Oxford-AstraZeneca
+NAI644033,Mary,Mcharo,Male,4/8/1956,Naivasha,Tailor,6/20/2022,66,Sputnik V
+SUB657753,Michael,Chilambo,Male,2/26/1971,Subukia,Tailor,7/15/2022,51,Sputnik V
+MOL677905,Sarah,Zuberi,Male,6/20/1957,Molo,Carpenter,1/26/2021,64,Oxford-AstraZeneca
+NJO744720,Elizabeth,Nyaga,Male,9/30/1984,Njoro,Carpenter,1/19/2021,37,Sputnik V
+NJO364136,Paul,Mwakalinga,Male,3/9/1990,Njoro,Farmer,2/17/2021,31,Johnson and Johnson
+NAI892219,David,Musa,Male,11/30/1979,Naivasha,Carpenter,2/1/2022,43,Oxford-AstraZeneca
+RON303213,Joseph,Nyaga,Male,8/21/1974,Rongai,Teacher,11/3/2022,48,Oxford-AstraZeneca
+RON992471,Rahma,Mwashigadi,Female,12/1/2001,Rongai,Mason,10/17/2022,21,Sputnik V
+SUB632452,Omar,Zuberi,Male,7/18/2006,Subukia,Fisherman,3/24/2021,15,Pfizer
+NJO823988,Sauda,Nyaga,Female,8/21/1988,Njoro,Tailor,10/20/2022,34,Moderna
+RON940607,Mary,Zuberi,Male,5/1/1989,Rongai,Mason,3/13/2022,33,Johnson and Johnson
+RON561531,Michael,Mwakalinga,Male,3/28/1956,Rongai,Tailor,6/15/2021,65,Johnson and Johnson
+SUB364757,Sarah,Musa,Male,4/8/1994,Subukia,Carpenter,12/23/2022,28,Pfizer
+NAI175732,Elizabeth,Mwashigadi,Female,10/10/2005,Naivasha,Tailor,12/10/2022,17,Moderna
+NAI852929,Paul,Nyaga,Female,9/13/2006,Naivasha,Tailor,1/8/2022,16,Pfizer
+RON963488,David,Mtambo,Male,8/2/1978,Rongai,Trader,12/3/2021,43,Johnson and Johnson
+RON810199,Joseph,Mwadime,Female,2/11/1970,Rongai,Mason,1/15/2021,51,Sputnik V
+RON256818,Rahma,Musa,Male,1/3/1976,Rongai,Carpenter,5/12/2022,46,Oxford-AstraZeneca
+SUB194102,Omar,Ngoma,Male,11/29/1999,Subukia,Mason,7/27/2021,22,Sputnik V
+GIL308035,Sauda,Mcharo,Female,8/16/1999,Gilgil,Trader,2/3/2021,22,Pfizer
+RON653804,Mary,Nyaga,Female,8/10/1988,Rongai,Carpenter,1/8/2021,33,Pfizer
+SUB328301,Michael,Mtambo,Female,1/27/1972,Subukia,Trader,5/8/2021,49,Sputnik V
+RON159441,Sarah,Mwashigadi,Female,11/28/1954,Rongai,Fisherman,6/17/2022,68,Sputnik V
+SUB753109,Elizabeth,Musa,Male,5/10/1991,Subukia,Fisherman,6/23/2022,31,Sinopharm
+NAI168322,Paul,Mwashigadi,Male,8/12/1956,Naivasha,Trader,2/8/2021,65,Sinopharm
+NAI555691,David,Nyaga,Male,7/1/1984,Naivasha,Fisherman,2/26/2022,38,Sinopharm
+NJO287532,Joseph,Mwadime,Female,4/22/1989,Njoro,Carpenter,3/28/2022,33,Moderna
+BAH180148,Rahma,Musa,Female,9/27/1986,Bahati,Carpenter,1/14/2021,35,Pfizer
+BAH606403,Omar,Mcharo,Male,3/26/1992,Bahati,Farmer,10/9/2022,30,Sputnik V
+NAI796955,Sauda,Nyaga,Female,9/17/1996,Naivasha,Mason,9/14/2021,25,Pfizer
+GIL422392,Mary,Mwashigadi,Female,5/9/2006,Gilgil,Fisherman,8/23/2022,16,Moderna
+NJO712037,Michael,Musa,Male,5/2/1996,Njoro,Farmer,1/29/2022,26,Johnson and Johnson
+NAI999565,Sarah,Ngoma,Male,3/9/1994,Naivasha,Tailor,5/6/2021,27,Moderna
+NAI876492,Elizabeth,Nyaga,Male,5/16/1974,Naivasha,Teacher,7/18/2021,47,Sputnik V
+MOL309655,Paul,Nyaga,Male,12/6/1992,Molo,Tailor,10/21/2022,30,Moderna
+MOL692803,David,Mwadime,Female,9/9/1987,Molo,Tailor,11/21/2022,35,Sputnik V
+GIL645170,Joseph,Ngoma,Female,11/14/1997,Gilgil,Fisherman,12/3/2022,25,Oxford-AstraZeneca
+NJO370288,Rahma,Mwashigadi,Female,12/6/1977,Njoro,Teacher,2/16/2021,44,Sinopharm
+GIL899945,Omar,Zuberi,Female,8/2/1957,Gilgil,Teacher,8/19/2021,64,Sinopharm
+NJO675746,Sauda,Mwashigadi,Male,6/28/1997,Njoro,Farmer,2/15/2021,24,Pfizer
+NJO753931,Mary,Ngoma,Male,2/27/1988,Njoro,Trader,7/16/2021,33,Sinopharm
+GIL567647,Michael,Mtambo,Male,1/8/2002,Gilgil,Mason,7/29/2021,19,Moderna
+RON134922,Sarah,Mwakalinga,Male,9/22/1998,Rongai,Trader,7/20/2022,24,Sinopharm
+MOL702618,Elizabeth,Chilambo,Male,10/17/1991,Molo,Trader,5/11/2021,30,Pfizer
+RON707581,Paul,Mcharo,Male,12/5/1980,Rongai,Carpenter,5/2/2022,42,Johnson and Johnson
+NJO111911,David,Mcharo,Male,9/29/1996,Njoro,Mason,2/10/2022,26,Johnson and Johnson
+MOL179887,Joseph,Musa,Female,4/6/1978,Molo,Mason,11/24/2022,44,Sputnik V
+BAH318426,Rahma,Nyaga,Female,9/13/1968,Bahati,Fisherman,4/16/2021,53,Oxford-AstraZeneca
+GIL274271,Omar,Mwashigadi,Female,9/3/1966,Gilgil,Mason,7/29/2021,55,Johnson and Johnson
+MOL992267,Sauda,Zuberi,Male,3/31/1966,Molo,Teacher,7/22/2021,55,Sputnik V
+SUB704412,Mary,Mcharo,Male,6/6/2000,Subukia,Tailor,6/25/2021,21,Sputnik V
+GIL400484,Michael,Ngoma,Male,1/23/1966,Gilgil,Trader,7/19/2021,55,Oxford-AstraZeneca
+BAH434655,Sarah,Ngoma,Female,7/19/2003,Bahati,Carpenter,10/16/2021,18,Pfizer
+GIL356791,Elizabeth,Chilambo,Female,5/18/1997,Gilgil,Trader,2/15/2021,24,Pfizer
+NJO896425,Paul,Mwakalinga,Female,4/7/1974,Njoro,Mason,11/21/2021,47,Moderna
+GIL455617,David,Mwadime,Male,7/16/1967,Gilgil,Fisherman,1/16/2021,54,Moderna
+SUB338032,Joseph,Mwadime,Female,10/16/1963,Subukia,Fisherman,12/24/2021,58,Oxford-AstraZeneca
+SUB852116,Rahma,Mwashigadi,Female,12/26/2000,Subukia,Fisherman,12/21/2022,22,Sinopharm
+SUB710362,Omar,Mwadime,Male,2/11/1999,Subukia,Teacher,8/11/2022,23,Pfizer
+NJO175384,Sauda,Mtambo,Male,5/5/1958,Njoro,Trader,12/12/2022,64,Pfizer
+BAH476012,Mary,Chilambo,Female,7/4/1994,Bahati,Mason,6/30/2021,27,Johnson and Johnson
+BAH941516,Michael,Mcharo,Male,9/11/1955,Bahati,Carpenter,1/5/2022,67,Moderna
+RON157339,Sarah,Mwadime,Male,6/7/1956,Rongai,Teacher,12/10/2022,66,Johnson and Johnson
+MOL495529,Elizabeth,Zuberi,Male,3/19/1999,Molo,Trader,3/16/2021,22,Oxford-AstraZeneca
+GIL886278,Paul,Mcharo,Female,12/12/1960,Gilgil,Fisherman,6/28/2022,62,Johnson and Johnson
+RON195570,David,Mwashigadi,Female,6/4/1961,Rongai,Mason,8/17/2021,60,Oxford-AstraZeneca
+NJO486440,Joseph,Ngoma,Female,9/7/2002,Njoro,Farmer,1/1/2022,20,Johnson and Johnson
+NAI464608,Rahma,Mcharo,Female,3/26/1966,Naivasha,Tailor,7/29/2022,56,Sinopharm
+BAH322140,Omar,Mwashigadi,Female,12/17/1990,Bahati,Trader,6/28/2021,31,Sputnik V
+BAH505811,Sauda,Mwakalinga,Female,9/13/1981,Bahati,Farmer,5/1/2022,41,Sputnik V
+GIL242604,Mary,Mwadime,Female,6/1/2004,Gilgil,Tailor,11/14/2021,17,Pfizer
+NAI212988,Michael,Mtambo,Female,1/10/1966,Naivasha,Mason,11/9/2022,56,Moderna
+MOL702922,Sarah,Mwakalinga,Female,2/25/2007,Molo,Tailor,10/4/2022,15,Sinopharm
+NJO438154,Elizabeth,Mtambo,Male,12/3/1965,Njoro,Fisherman,12/14/2021,56,Sputnik V
+GIL348613,Paul,Ngoma,Male,5/1/2005,Gilgil,Farmer,6/29/2021,16,Moderna
+SUB590850,David,Mcharo,Female,1/14/1976,Subukia,Mason,5/5/2021,45,Oxford-AstraZeneca
+BAH984456,Joseph,Ngoma,Female,12/23/1964,Bahati,Trader,5/25/2022,58,Sinopharm
+NJO225476,Rahma,Mcharo,Female,3/25/1995,Njoro,Teacher,2/14/2022,27,Oxford-AstraZeneca
+MOL589404,Omar,Mwashigadi,Male,3/6/1972,Molo,Fisherman,1/14/2022,50,Johnson and Johnson
+MOL796648,Sauda,Chilambo,Female,3/24/1972,Molo,Carpenter,1/27/2022,50,Sputnik V
+NAI314329,Mary,Zuberi,Female,6/2/1991,Naivasha,Teacher,3/13/2022,31,Moderna
+BAH984554,Michael,Mtambo,Female,12/3/1992,Bahati,Carpenter,2/6/2022,30,Oxford-AstraZeneca
+NJO969211,Sarah,Chilambo,Female,4/21/1992,Njoro,Tailor,4/13/2022,30,Pfizer
+SUB662603,Elizabeth,Mwashigadi,Female,2/21/1955,Subukia,Carpenter,4/23/2022,67,Sinopharm
+NAI344650,Paul,Zuberi,Female,4/16/1985,Naivasha,Carpenter,7/26/2021,36,Sputnik V
+SUB862000,David,Chilambo,Female,10/28/2001,Subukia,Tailor,10/27/2022,21,Sinopharm
+MOL255288,Joseph,Mtambo,Male,10/25/1992,Molo,Tailor,1/17/2021,29,Sputnik V
+NJO440634,Rahma,Mtambo,Male,4/4/1963,Njoro,Teacher,3/8/2022,59,Sinopharm
+RON240965,Omar,Mwakalinga,Male,3/7/1987,Rongai,Teacher,3/27/2021,34,Sputnik V
+RON454278,Sauda,Mcharo,Female,6/26/1961,Rongai,Teacher,10/19/2022,61,Oxford-AstraZeneca
+RON416121,Mary,Zuberi,Female,12/11/1962,Rongai,Trader,8/4/2022,60,Moderna
+SUB842079,Michael,Ngoma,Male,10/10/1998,Subukia,Carpenter,7/14/2021,23,Sputnik V
+MOL865423,Sarah,Ngoma,Male,1/3/1980,Molo,Carpenter,6/1/2021,41,Pfizer
+BAH765767,Elizabeth,Ngoma,Male,6/1/1955,Bahati,Tailor,9/19/2021,66,Moderna
+NAI910669,Paul,Mwashigadi,Female,9/24/1991,Naivasha,Trader,6/26/2022,31,Sinopharm
+NAI393269,David,Mwadime,Male,8/22/1991,Naivasha,Farmer,5/2/2021,30,Johnson and Johnson
+BAH984220,Joseph,Musa,Male,10/28/1963,Bahati,Fisherman,5/9/2022,59,Sputnik V
+RON935632,Rahma,Mwakalinga,Male,6/10/1982,Rongai,Farmer,1/1/2021,39,Moderna
+GIL124192,Omar,Chilambo,Male,1/9/1960,Gilgil,Trader,3/22/2022,62,Pfizer
+GIL275871,Sauda,Mcharo,Male,6/20/1987,Gilgil,Farmer,9/17/2021,34,Sinopharm
+BAH653029,Mary,Mwashigadi,Female,7/14/1973,Bahati,Teacher,10/23/2021,48,Sinopharm
+SUB854976,Michael,Zuberi,Male,10/18/2002,Subukia,Trader,12/8/2022,20,Johnson and Johnson
+NJO438352,Sarah,Ngoma,Male,9/5/1960,Njoro,Mason,3/7/2022,62,Sinopharm
+NAI849863,Elizabeth,Chilambo,Male,6/27/1966,Naivasha,Farmer,6/6/2022,56,Oxford-AstraZeneca
+GIL387350,Paul,Ngoma,Female,4/29/1959,Gilgil,Farmer,3/26/2021,62,Moderna
+NJO289053,David,Nyaga,Female,2/14/2005,Njoro,Teacher,3/30/2022,17,Johnson and Johnson
+SUB442380,Joseph,Mwakalinga,Male,12/9/1992,Subukia,Carpenter,5/18/2022,30,Sputnik V
+SUB201620,Rahma,Ngoma,Male,8/24/1978,Subukia,Farmer,5/22/2022,44,Sputnik V
+NJO436444,Omar,Zuberi,Male,4/2/1958,Njoro,Mason,8/20/2021,63,Sputnik V
+NJO791209,Sauda,Mtambo,Female,3/24/1976,Njoro,Tailor,12/7/2022,46,Sinopharm
+MOL490023,Mary,Mwakalinga,Female,8/22/1954,Molo,Mason,5/20/2021,67,Sputnik V
+MOL470482,Michael,Mwakalinga,Female,3/29/2004,Molo,Farmer,11/6/2022,18,Moderna
+NJO960634,Sarah,Mwadime,Female,10/7/1993,Njoro,Tailor,9/4/2021,28,Johnson and Johnson
+MOL783382,Elizabeth,Mwadime,Female,9/2/2001,Molo,Carpenter,2/6/2022,21,Oxford-AstraZeneca
+RON915111,Paul,Ngoma,Female,3/28/1977,Rongai,Trader,5/16/2021,44,Sinopharm
+GIL682126,David,Mwashigadi,Female,5/9/1970,Gilgil,Farmer,10/16/2021,51,Pfizer
+RON327661,Joseph,Chilambo,Male,7/18/1959,Rongai,Farmer,11/10/2021,62,Pfizer
+RON306989,Rahma,Ngoma,Male,12/26/2002,Rongai,Farmer,8/30/2022,20,Moderna
+SUB202885,Omar,Mwakalinga,Female,9/9/1963,Subukia,Mason,7/4/2021,58,Johnson and Johnson
+GIL469122,Sauda,Ngoma,Male,3/1/1959,Gilgil,Mason,8/4/2021,62,Pfizer
+SUB747757,Mary,Musa,Female,3/5/2004,Subukia,Mason,3/30/2021,17,Oxford-AstraZeneca
+NAI724614,Michael,Ngoma,Female,9/22/1991,Naivasha,Mason,2/19/2022,31,Johnson and Johnson
+SUB133076,Sarah,Chilambo,Male,6/17/1988,Subukia,Mason,5/8/2021,33,Oxford-AstraZeneca
+GIL657883,Elizabeth,Zuberi,Male,4/12/1964,Gilgil,Mason,2/12/2022,58,Johnson and Johnson
+RON867930,Paul,Chilambo,Male,12/15/1971,Rongai,Carpenter,8/7/2021,50,Johnson and Johnson
+NJO661273,David,Mwashigadi,Female,2/7/2002,Njoro,Tailor,2/13/2022,20,Johnson and Johnson
+RON738585,Joseph,Mwadime,Male,7/16/1999,Rongai,Tailor,10/7/2021,22,Oxford-AstraZeneca
+NJO920454,Rahma,Zuberi,Male,9/9/1980,Njoro,Fisherman,2/7/2022,42,Pfizer
+BAH360399,Omar,Mcharo,Male,12/9/1965,Bahati,Fisherman,3/17/2021,56,Sinopharm
+MOL256597,Sauda,Mwakalinga,Female,7/28/1973,Molo,Tailor,2/23/2022,49,Moderna
+BAH598742,Mary,Chilambo,Female,4/29/1980,Bahati,Fisherman,9/22/2022,42,Sinopharm
+GIL649999,Michael,Mcharo,Male,10/23/1979,Gilgil,Farmer,10/24/2021,42,Johnson and Johnson
+MOL809282,Sarah,Mwashigadi,Male,3/20/1955,Molo,Carpenter,10/6/2021,66,Johnson and Johnson
+RON381233,Elizabeth,Chilambo,Male,9/10/1980,Rongai,Trader,1/22/2022,42,Oxford-AstraZeneca
+NJO602207,Paul,Mcharo,Female,4/22/1970,Njoro,Fisherman,8/9/2021,51,Pfizer
+MOL808790,David,Mcharo,Female,10/26/1984,Molo,Trader,8/13/2022,38,Oxford-AstraZeneca
+NJO577417,Joseph,Mwashigadi,Male,2/1/1961,Njoro,Tailor,8/29/2022,61,Pfizer
+NAI102565,Rahma,Mcharo,Female,5/27/1980,Naivasha,Tailor,1/23/2022,42,Oxford-AstraZeneca
+MOL355304,Omar,Nyaga,Female,3/19/2006,Molo,Mason,3/13/2022,16,Moderna
+NAI476715,Sauda,Ngoma,Male,7/22/1975,Naivasha,Fisherman,5/28/2022,47,Moderna
+NAI338893,Mary,Musa,Female,4/17/2003,Naivasha,Mason,10/16/2022,19,Oxford-AstraZeneca
+NAI172634,Michael,Mwakalinga,Female,9/15/1989,Naivasha,Fisherman,8/11/2021,32,Moderna
+SUB603227,Sarah,Chilambo,Male,7/12/1999,Subukia,Fisherman,9/21/2022,23,Pfizer
+RON690272,Elizabeth,Zuberi,Female,9/22/1985,Rongai,Trader,5/11/2022,37,Johnson and Johnson
+GIL463893,Paul,Mwashigadi,Male,5/11/1992,Gilgil,Farmer,2/17/2022,30,Oxford-AstraZeneca
+RON429283,David,Musa,Female,11/8/1986,Rongai,Tailor,6/12/2021,35,Sputnik V
+MOL911639,Joseph,Musa,Male,5/10/1990,Molo,Teacher,12/5/2021,31,Pfizer
+NJO757956,Rahma,Mcharo,Female,2/8/1971,Njoro,Tailor,2/17/2021,50,Pfizer
+NAI509869,Omar,Mwashigadi,Male,8/4/1963,Naivasha,Trader,10/9/2022,59,Johnson and Johnson
+GIL463186,Sauda,Mtambo,Female,11/9/1966,Gilgil,Farmer,5/31/2022,56,Sinopharm
+NJO108065,Mary,Musa,Female,1/8/1993,Njoro,Farmer,2/14/2022,29,Oxford-AstraZeneca
+GIL719332,Michael,Zuberi,Female,11/30/1979,Gilgil,Fisherman,3/23/2022,43,Moderna
+SUB212687,Sarah,Mtambo,Male,5/12/1999,Subukia,Trader,2/11/2022,23,Johnson and Johnson
+BAH610816,Elizabeth,Musa,Male,4/13/1986,Bahati,Mason,11/13/2021,35,Johnson and Johnson
+BAH518681,Paul,Mwashigadi,Female,11/12/1964,Bahati,Trader,11/17/2022,58,Sputnik V
+NJO791136,David,Mwadime,Male,3/4/1986,Njoro,Fisherman,7/7/2022,36,Moderna
+SUB175721,Joseph,Musa,Female,8/29/1995,Subukia,Tailor,10/13/2022,27,Moderna
+NAI560554,Rahma,Mwakalinga,Female,9/13/1986,Naivasha,Mason,7/21/2021,35,Pfizer
+BAH197311,Omar,Ngoma,Male,11/22/1978,Bahati,Fisherman,1/15/2021,43,Johnson and Johnson
+MOL900217,Sauda,Zuberi,Female,12/22/2003,Molo,Tailor,5/20/2021,18,Oxford-AstraZeneca
+NJO413782,Mary,Mwadime,Male,4/24/1966,Njoro,Tailor,2/26/2021,55,Sputnik V
+SUB904418,Michael,Musa,Male,1/15/2005,Subukia,Carpenter,10/20/2022,17,Oxford-AstraZeneca
+RON611959,Sarah,Mwakalinga,Female,3/21/1995,Rongai,Mason,3/2/2022,27,Moderna
+NAI665475,Elizabeth,Zuberi,Male,9/10/2004,Naivasha,Tailor,4/7/2022,18,Moderna
+NAI165357,Paul,Zuberi,Female,5/23/1981,Naivasha,Teacher,1/12/2021,40,Oxford-AstraZeneca
+NJO291183,David,Mwashigadi,Male,2/2/1959,Njoro,Fisherman,7/1/2022,63,Pfizer
+RON456000,Joseph,Nyaga,Female,5/31/1965,Rongai,Trader,1/6/2021,56,Moderna
+BAH978711,Rahma,Mcharo,Male,12/10/1962,Bahati,Fisherman,1/10/2022,60,Moderna
+RON517676,Omar,Mcharo,Female,1/5/1973,Rongai,Tailor,9/20/2021,48,Moderna
+SUB873623,Sauda,Chilambo,Male,5/9/1972,Subukia,Farmer,5/11/2022,50,Oxford-AstraZeneca
+SUB353407,Mary,Mtambo,Male,8/29/1961,Subukia,Trader,7/20/2021,60,Moderna
+RON438952,Michael,Musa,Female,1/27/1992,Rongai,Trader,4/19/2021,29,Pfizer
+NJO744634,Sarah,Mtambo,Female,8/25/1983,Njoro,Tailor,1/15/2021,38,Pfizer
+RON764474,Elizabeth,Nyaga,Female,10/6/1964,Rongai,Teacher,3/26/2021,57,Johnson and Johnson
+BAH302305,Paul,Mwakalinga,Male,12/20/1999,Bahati,Teacher,5/27/2022,23,Sputnik V
+RON777285,David,Musa,Female,7/30/1997,Rongai,Carpenter,9/3/2021,24,Moderna
+GIL169787,Joseph,Mtambo,Male,12/4/1984,Gilgil,Fisherman,4/2/2022,38,Sputnik V
+BAH165427,Rahma,Musa,Male,12/29/2005,Bahati,Fisherman,12/6/2021,16,Johnson and Johnson
+SUB637724,Omar,Mcharo,Male,10/27/1997,Subukia,Tailor,2/13/2021,24,Moderna
+GIL175624,Sauda,Zuberi,Female,4/24/1980,Gilgil,Mason,1/11/2022,42,Moderna
+MOL611715,Mary,Nyaga,Male,10/31/1960,Molo,Teacher,10/7/2022,62,Oxford-AstraZeneca
+MOL325474,Michael,Mwashigadi,Male,10/9/2004,Molo,Teacher,1/7/2021,17,Oxford-AstraZeneca
+GIL940711,Sarah,Zuberi,Female,7/14/1954,Gilgil,Teacher,4/23/2022,68,Sinopharm
+BAH664815,Elizabeth,Mwadime,Male,3/12/1984,Bahati,Teacher,7/14/2022,38,Moderna
+GIL156057,Paul,Nyaga,Female,5/28/1995,Gilgil,Carpenter,11/12/2021,26,Oxford-AstraZeneca
+RON486179,David,Zuberi,Male,12/3/1972,Rongai,Trader,8/30/2022,50,Moderna
+GIL281704,Joseph,Musa,Male,9/19/1954,Gilgil,Farmer,7/26/2021,67,Sinopharm
+SUB491562,Rahma,Mwadime,Male,7/23/1994,Subukia,Tailor,3/17/2022,28,Sputnik V
+MOL854559,Omar,Musa,Male,11/17/1998,Molo,Trader,4/23/2021,23,Pfizer
+NJO130514,Sauda,Mtambo,Male,5/31/2004,Njoro,Trader,9/23/2021,17,Sputnik V
+GIL694563,Mary,Mwashigadi,Female,6/25/1999,Gilgil,Tailor,5/15/2022,23,Johnson and Johnson
+SUB144554,Michael,Nyaga,Male,12/10/1968,Subukia,Fisherman,8/9/2022,54,Sinopharm
+GIL969975,Sarah,Mwadime,Female,8/1/1985,Gilgil,Mason,12/21/2021,36,Pfizer
+MOL248806,Elizabeth,Mtambo,Male,4/8/2006,Molo,Fisherman,4/24/2022,16,Oxford-AstraZeneca
+NJO121484,Paul,Nyaga,Male,10/29/1988,Njoro,Tailor,8/27/2022,34,Sputnik V
+GIL363437,David,Musa,Male,12/31/2003,Gilgil,Tailor,1/7/2021,18,Johnson and Johnson
+GIL601926,Joseph,Mwashigadi,Female,9/2/1981,Gilgil,Trader,2/16/2021,40,Johnson and Johnson
+NJO985004,Rahma,Zuberi,Female,6/18/1995,Njoro,Mason,7/8/2021,26,Johnson and Johnson
+NJO116905,Omar,Mwashigadi,Male,2/24/1976,Njoro,Teacher,2/3/2022,46,Oxford-AstraZeneca
+SUB619085,Sauda,Mwadime,Female,4/30/1969,Subukia,Teacher,11/26/2022,53,Oxford-AstraZeneca
+GIL242743,Mary,Chilambo,Female,5/23/1985,Gilgil,Carpenter,3/6/2021,36,Johnson and Johnson
+GIL605518,Michael,Mwakalinga,Male,12/24/1977,Gilgil,Carpenter,2/7/2022,45,Johnson and Johnson
+NAI527065,Sarah,Zuberi,Male,7/29/1993,Naivasha,Carpenter,5/13/2021,28,Pfizer
+MOL293395,Elizabeth,Mwakalinga,Male,1/3/1985,Molo,Tailor,10/6/2022,37,Oxford-AstraZeneca
+BAH383721,Paul,Mcharo,Male,5/9/1970,Bahati,Mason,4/10/2021,51,Pfizer
+MOL530838,David,Mcharo,Male,5/22/1955,Molo,Carpenter,5/25/2021,66,Moderna
+NJO914939,Joseph,Nyaga,Male,1/16/1984,Njoro,Trader,9/25/2022,38,Pfizer
+GIL834044,Rahma,Zuberi,Female,7/8/1993,Gilgil,Fisherman,5/22/2022,29,Johnson and Johnson
+NJO528119,Omar,Mwashigadi,Male,4/23/1956,Njoro,Farmer,9/18/2021,65,Johnson and Johnson
+GIL467001,Sauda,Mwashigadi,Male,1/22/1955,Gilgil,Farmer,5/28/2021,66,Oxford-AstraZeneca
+RON131629,Mary,Musa,Female,8/1/1987,Rongai,Carpenter,8/21/2022,35,Moderna
+BAH624936,Michael,Mwakalinga,Female,4/23/1977,Bahati,Tailor,6/15/2022,45,Sputnik V
+GIL749371,Sarah,Mcharo,Female,12/24/2003,Gilgil,Mason,8/21/2022,19,Oxford-AstraZeneca
+NJO718938,Elizabeth,Chilambo,Female,4/5/1959,Njoro,Carpenter,6/9/2021,62,Sputnik V
+SUB520149,Paul,Mtambo,Male,12/19/1982,Subukia,Mason,2/27/2022,40,Moderna
+GIL937047,David,Musa,Female,12/13/1985,Gilgil,Trader,12/3/2021,36,Oxford-AstraZeneca
+NAI218140,Joseph,Mcharo,Male,10/31/1960,Naivasha,Mason,4/9/2021,61,Johnson and Johnson
+SUB736922,Rahma,Mwadime,Female,11/27/1969,Subukia,Trader,5/5/2021,52,Sputnik V
+BAH435358,Omar,Mwashigadi,Male,1/2/2004,Bahati,Mason,9/18/2022,18,Pfizer
+RON394564,Sauda,Mwashigadi,Female,3/20/1960,Rongai,Tailor,10/4/2022,62,Pfizer
+NJO981207,Mary,Mcharo,Female,2/14/1996,Njoro,Fisherman,7/28/2022,26,Oxford-AstraZeneca
+NAI682180,Michael,Mcharo,Female,12/21/1986,Naivasha,Trader,1/25/2022,36,Sinopharm
+NJO234289,Sarah,Musa,Female,3/25/1993,Njoro,Tailor,4/1/2021,28,Oxford-AstraZeneca
+SUB125724,Elizabeth,Ngoma,Male,3/26/1992,Subukia,Tailor,2/24/2021,29,Sinopharm
+SUB687602,Paul,Mwadime,Male,7/7/1957,Subukia,Mason,1/8/2022,65,Sinopharm
+RON514608,David,Mwakalinga,Male,8/2/1985,Rongai,Carpenter,7/27/2022,37,Moderna
+NAI208745,Joseph,Mtambo,Male,3/19/2001,Naivasha,Farmer,4/12/2022,21,Oxford-AstraZeneca
+RON335044,Rahma,Mwashigadi,Female,12/4/1966,Rongai,Farmer,4/6/2021,55,Sinopharm
+NJO437178,Omar,Ngoma,Female,3/12/2000,Njoro,Teacher,3/22/2022,22,Moderna
+GIL630919,Sauda,Ngoma,Male,12/8/1978,Gilgil,Carpenter,2/11/2022,44,Johnson and Johnson
+SUB724908,Mary,Ngoma,Male,10/18/2001,Subukia,Trader,10/21/2022,21,Sputnik V
+RON514158,Michael,Chilambo,Female,4/28/1977,Rongai,Carpenter,1/12/2021,44,Oxford-AstraZeneca
+NJO486803,Sarah,Mwadime,Female,6/9/2004,Njoro,Teacher,9/11/2021,17,Sputnik V
+MOL883672,Elizabeth,Mwashigadi,Male,4/25/1969,Molo,Tailor,11/27/2021,52,Sinopharm
+RON567762,Paul,Mwakalinga,Male,5/11/1969,Rongai,Tailor,2/4/2021,52,Johnson and Johnson
+GIL324817,David,Mcharo,Male,5/11/1991,Gilgil,Mason,9/9/2021,30,Sinopharm
+BAH187556,Joseph,Mwadime,Male,8/19/1960,Bahati,Tailor,9/25/2022,62,Oxford-AstraZeneca
+MOL218291,Rahma,Mwashigadi,Female,12/3/2004,Molo,Trader,9/27/2022,18,Sinopharm
+SUB804743,Omar,Mwakalinga,Female,3/25/1988,Subukia,Teacher,8/21/2022,34,Moderna
+SUB249441,Sauda,Nyaga,Male,1/11/1971,Subukia,Trader,3/19/2022,51,Pfizer
+NJO373084,Mary,Nyaga,Male,5/6/1964,Njoro,Tailor,3/15/2022,58,Johnson and Johnson
+MOL132858,Michael,Mcharo,Male,6/30/1966,Molo,Carpenter,12/13/2022,56,Sputnik V
+NJO153419,Sarah,Nyaga,Male,12/1/2003,Njoro,Tailor,6/15/2021,18,Pfizer
+MOL865441,Elizabeth,Zuberi,Male,5/2/1977,Molo,Teacher,8/1/2021,44,Moderna
+GIL488434,Paul,Mwashigadi,Male,12/23/1988,Gilgil,Tailor,8/12/2022,34,Johnson and Johnson
+GIL844435,David,Mwadime,Male,9/1/1975,Gilgil,Trader,3/29/2021,46,Moderna
+MOL765356,Joseph,Mwadime,Male,3/11/1984,Molo,Mason,12/23/2022,38,Sputnik V
+RON574048,Rahma,Ngoma,Female,6/1/1961,Rongai,Trader,10/21/2022,61,Pfizer
+RON540666,Omar,Chilambo,Female,12/4/1973,Rongai,Mason,5/8/2022,49,Johnson and Johnson
+BAH417929,Sauda,Mcharo,Female,3/29/1964,Bahati,Trader,11/21/2021,57,Sputnik V
+RON314260,Mary,Mtambo,Female,12/21/2001,Rongai,Fisherman,8/28/2021,20,Johnson and Johnson
+BAH328416,Michael,Zuberi,Male,11/25/1997,Bahati,Carpenter,9/5/2021,24,Sinopharm
+NAI742327,Sarah,Nyaga,Male,5/17/1965,Naivasha,Mason,6/16/2021,56,Johnson and Johnson
+RON382094,Elizabeth,Mwakalinga,Female,5/17/1984,Rongai,Trader,6/17/2022,38,Moderna
+NJO190405,Paul,Mwadime,Female,3/15/1959,Njoro,Farmer,5/20/2022,63,Pfizer
+RON330275,David,Mwadime,Male,11/3/2001,Rongai,Fisherman,5/6/2021,20,Pfizer
+RON432823,Joseph,Ngoma,Female,11/5/1974,Rongai,Mason,11/7/2022,48,Oxford-AstraZeneca
+RON250854,Rahma,Mcharo,Female,12/16/1976,Rongai,Mason,10/13/2022,46,Sputnik V
+MOL500057,Omar,Mwakalinga,Male,3/23/1971,Molo,Mason,6/24/2022,51,Sputnik V
+NAI318763,Sauda,Mcharo,Female,2/7/1971,Naivasha,Trader,2/21/2021,50,Moderna
+BAH472141,Mary,Nyaga,Male,11/18/1976,Bahati,Trader,3/17/2021,45,Sinopharm
+BAH849984,Michael,Mwashigadi,Male,3/22/2000,Bahati,Farmer,9/29/2021,21,Sputnik V
+BAH453272,Sarah,Musa,Female,2/11/2007,Bahati,Trader,1/15/2021,14,Sinopharm
+NJO186061,Elizabeth,Mwakalinga,Male,5/22/1958,Njoro,Farmer,2/25/2021,63,Pfizer
+GIL455118,Paul,Zuberi,Male,9/3/1969,Gilgil,Carpenter,4/28/2022,53,Sinopharm
+MOL928255,David,Ngoma,Male,4/1/1980,Molo,Mason,7/16/2022,42,Sinopharm
+NJO663538,Joseph,Mcharo,Male,9/28/1981,Njoro,Tailor,1/11/2021,40,Pfizer
+GIL943963,Rahma,Mcharo,Male,10/18/1990,Gilgil,Trader,6/14/2022,32,Sputnik V
+NAI997466,Omar,Mwadime,Female,7/8/1966,Naivasha,Fisherman,8/9/2022,56,Sputnik V
+RON789374,Sauda,Musa,Male,11/21/1986,Rongai,Mason,9/23/2022,36,Sputnik V
+SUB223848,Mary,Nyaga,Female,8/14/1995,Subukia,Mason,9/25/2021,26,Johnson and Johnson
+NAI801370,Michael,Mtambo,Male,8/15/1982,Naivasha,Carpenter,4/28/2021,39,Moderna
+SUB100977,Sarah,Musa,Male,4/8/1999,Subukia,Trader,12/20/2022,23,Moderna
+NAI130683,Elizabeth,Musa,Male,7/19/1972,Naivasha,Trader,1/8/2022,50,Johnson and Johnson
+SUB588639,Paul,Zuberi,Male,4/14/2005,Subukia,Farmer,1/20/2022,17,Moderna
+GIL504473,David,Musa,Male,2/11/2002,Gilgil,Fisherman,10/26/2021,19,Sinopharm
+RON166939,Joseph,Mwadime,Female,10/7/1978,Rongai,Tailor,10/8/2022,44,Johnson and Johnson
+MOL614784,Rahma,Chilambo,Male,12/27/1975,Molo,Farmer,7/17/2022,47,Moderna
+NAI721874,Omar,Zuberi,Male,7/26/1974,Naivasha,Carpenter,4/22/2022,48,Moderna
+GIL331945,Sauda,Nyaga,Male,9/8/1984,Gilgil,Fisherman,12/15/2022,38,Pfizer
+MOL267610,Mary,Nyaga,Male,2/23/1988,Molo,Teacher,4/20/2022,34,Sinopharm
+SUB436820,Michael,Mtambo,Male,12/19/1998,Subukia,Farmer,9/5/2022,24,Johnson and Johnson
+RON672255,Sarah,Zuberi,Male,4/2/2003,Rongai,Fisherman,4/24/2021,18,Johnson and Johnson
+RON555739,Elizabeth,Chilambo,Male,9/14/1980,Rongai,Teacher,3/25/2021,41,Johnson and Johnson
+NJO142820,Paul,Mwashigadi,Female,8/17/1979,Njoro,Farmer,12/21/2021,42,Johnson and Johnson
+SUB624693,David,Musa,Male,8/14/1970,Subukia,Trader,2/20/2021,51,Oxford-AstraZeneca
+MOL390717,Joseph,Zuberi,Male,5/15/1967,Molo,Fisherman,8/6/2022,55,Oxford-AstraZeneca
+MOL252976,Rahma,Ngoma,Male,5/23/1974,Molo,Teacher,6/26/2021,47,Sinopharm
+NJO902925,Omar,Mwadime,Male,12/5/2000,Njoro,Mason,10/12/2021,21,Oxford-AstraZeneca
+NAI810824,Sauda,Mcharo,Male,4/2/2006,Naivasha,Tailor,11/4/2022,16,Johnson and Johnson
+SUB833635,Mary,Mwadime,Male,2/1/1981,Subukia,Farmer,8/9/2021,40,Pfizer
+RON147256,Michael,Musa,Male,6/6/1985,Rongai,Mason,9/17/2022,37,Johnson and Johnson
+NJO720753,Sarah,Zuberi,Female,10/4/1977,Njoro,Tailor,12/30/2021,44,Johnson and Johnson
+BAH942464,Elizabeth,Ngoma,Female,8/3/1982,Bahati,Mason,2/3/2022,40,Pfizer
+BAH448131,Paul,Zuberi,Male,2/28/1976,Bahati,Carpenter,4/7/2021,45,Sputnik V
+BAH125889,David,Mwashigadi,Female,5/22/1995,Bahati,Carpenter,5/5/2021,26,Moderna
+GIL470621,Joseph,Mwadime,Male,2/18/1976,Gilgil,Trader,7/19/2021,45,Johnson and Johnson
+NAI870090,Rahma,Mcharo,Male,6/10/1991,Naivasha,Teacher,5/4/2022,31,Oxford-AstraZeneca
+RON400529,Omar,Mwashigadi,Female,3/14/1967,Rongai,Teacher,2/27/2022,55,Sinopharm
+RON717953,Sauda,Mtambo,Male,8/27/1973,Rongai,Carpenter,3/23/2021,48,Moderna
+SUB857915,Mary,Mwakalinga,Male,5/12/2003,Subukia,Farmer,9/19/2022,19,Moderna
+GIL738084,Michael,Chilambo,Female,7/30/1982,Gilgil,Teacher,4/5/2021,39,Moderna
+SUB184303,Sarah,Chilambo,Male,7/27/1968,Subukia,Tailor,9/3/2022,54,Oxford-AstraZeneca
+SUB310829,Elizabeth,Mwashigadi,Male,9/1/1980,Subukia,Tailor,9/30/2022,42,Johnson and Johnson
+RON136984,Paul,Mcharo,Male,8/4/1967,Rongai,Trader,5/25/2021,54,Sinopharm
+NJO490690,David,Chilambo,Male,11/3/1965,Njoro,Farmer,11/16/2022,57,Oxford-AstraZeneca
+MOL139895,Joseph,Mcharo,Female,1/18/1988,Molo,Mason,8/1/2021,33,Sputnik V
+MOL981885,Rahma,Ngoma,Female,3/8/1994,Molo,Tailor,7/24/2021,27,Sputnik V
+NAI881815,Omar,Musa,Female,6/21/1984,Naivasha,Farmer,10/16/2021,37,Oxford-AstraZeneca
+GIL808852,Sauda,Zuberi,Female,7/24/1980,Gilgil,Mason,12/25/2021,41,Johnson and Johnson
+SUB923400,Mary,Mwashigadi,Male,5/16/1978,Subukia,Carpenter,11/28/2022,44,Moderna
+MOL538220,Michael,Chilambo,Female,5/13/1957,Molo,Carpenter,12/2/2021,64,Pfizer
+SUB551097,Sarah,Nyaga,Female,11/1/1958,Subukia,Mason,10/10/2022,64,Johnson and Johnson
+NAI506073,Elizabeth,Nyaga,Female,8/19/1961,Naivasha,Carpenter,1/12/2021,60,Sputnik V
+MOL605754,Paul,Musa,Female,12/8/1987,Molo,Carpenter,10/29/2022,35,Johnson and Johnson
+MOL668019,David,Zuberi,Male,2/22/1984,Molo,Tailor,5/13/2022,38,Sinopharm
+MOL322729,Joseph,Mtambo,Female,12/23/1960,Molo,Tailor,11/15/2021,61,Pfizer
+SUB272693,Rahma,Nyaga,Female,5/8/1998,Subukia,Tailor,6/29/2022,24,Johnson and Johnson
+GIL318878,Omar,Mwashigadi,Male,8/27/1995,Gilgil,Teacher,7/19/2021,26,Moderna
+NJO818312,Sauda,Chilambo,Male,5/18/1955,Njoro,Tailor,10/20/2022,67,Sputnik V
+GIL666028,Mary,Mtambo,Male,11/8/1999,Gilgil,Tailor,3/12/2022,23,Sinopharm
+SUB605580,Michael,Mcharo,Male,4/27/1962,Subukia,Farmer,3/8/2022,60,Oxford-AstraZeneca
+NJO568012,Sarah,Mwadime,Male,9/25/1969,Njoro,Fisherman,1/24/2022,53,Sputnik V
+GIL586164,Elizabeth,Mwadime,Male,4/14/1962,Gilgil,Farmer,9/22/2021,59,Johnson and Johnson
+MOL825519,Paul,Nyaga,Male,1/18/1972,Molo,Fisherman,4/11/2022,50,Sputnik V
+RON225485,David,Mtambo,Female,7/29/1968,Rongai,Fisherman,2/24/2022,54,Moderna
+NAI691169,Joseph,Ngoma,Male,5/27/1979,Naivasha,Farmer,4/27/2021,42,Oxford-AstraZeneca
+BAH794915,Rahma,Ngoma,Female,2/16/1993,Bahati,Teacher,8/23/2022,29,Oxford-AstraZeneca
+RON214442,Omar,Mcharo,Male,6/25/1958,Rongai,Fisherman,9/18/2021,63,Johnson and Johnson
+GIL202318,Sauda,Chilambo,Male,7/7/1962,Gilgil,Trader,12/26/2022,60,Moderna
+GIL423637,Mary,Nyaga,Female,8/1/1976,Gilgil,Farmer,6/18/2022,46,Moderna
+MOL569489,Michael,Mtambo,Male,10/22/1960,Molo,Fisherman,6/27/2022,62,Sputnik V
+SUB600440,Sarah,Mwadime,Male,8/7/2003,Subukia,Teacher,3/27/2022,19,Oxford-AstraZeneca
+BAH889733,Elizabeth,Chilambo,Female,7/28/2000,Bahati,Fisherman,5/14/2022,22,Pfizer
+MOL154715,Paul,Musa,Male,2/11/1982,Molo,Trader,2/28/2022,40,Sinopharm
+SUB466891,David,Musa,Male,6/28/2005,Subukia,Farmer,8/12/2021,16,Moderna
+RON242869,Joseph,Mcharo,Male,5/15/1979,Rongai,Teacher,8/29/2022,43,Sputnik V
+GIL693323,Rahma,Zuberi,Female,3/28/2001,Gilgil,Trader,12/9/2021,20,Sputnik V
+GIL941193,Omar,Mcharo,Female,6/27/1963,Gilgil,Fisherman,10/7/2021,58,Johnson and Johnson
+NJO694091,Sauda,Musa,Male,11/7/1968,Njoro,Mason,1/24/2021,53,Johnson and Johnson
+BAH233956,Mary,Musa,Male,1/5/1987,Bahati,Tailor,8/7/2021,34,Johnson and Johnson
+NAI703818,Michael,Zuberi,Male,1/31/1989,Naivasha,Farmer,7/25/2022,33,Moderna
+SUB351702,Sarah,Mtambo,Male,1/27/1994,Subukia,Trader,7/17/2021,27,Oxford-AstraZeneca
+NJO436665,Elizabeth,Chilambo,Male,10/9/1975,Njoro,Fisherman,10/24/2021,46,Oxford-AstraZeneca
+NAI360504,Paul,Zuberi,Male,12/19/1979,Naivasha,Mason,2/1/2021,42,Moderna
+RON849413,David,Musa,Female,11/3/1983,Rongai,Carpenter,11/15/2022,39,Moderna
+RON370283,Joseph,Mwakalinga,Female,9/16/1984,Rongai,Mason,10/12/2021,37,Sputnik V
+NJO275883,Rahma,Musa,Male,7/10/2002,Njoro,Teacher,3/14/2022,20,Sinopharm
+BAH277386,Omar,Chilambo,Male,10/13/1986,Bahati,Farmer,10/15/2021,35,Sinopharm
+NJO633278,Sauda,Mtambo,Female,10/16/1964,Njoro,Farmer,7/26/2021,57,Johnson and Johnson
+NAI449982,Mary,Mwashigadi,Female,10/28/1991,Naivasha,Mason,2/6/2022,31,Oxford-AstraZeneca
+GIL709330,Michael,Mwashigadi,Female,2/20/2006,Gilgil,Farmer,6/3/2022,16,Sinopharm
+BAH654192,Sarah,Zuberi,Female,1/26/1980,Bahati,Teacher,1/13/2022,42,Moderna
+GIL936299,Elizabeth,Musa,Male,11/10/1970,Gilgil,Mason,12/17/2021,51,Sputnik V
+RON641749,Paul,Zuberi,Male,6/19/1962,Rongai,Trader,5/20/2022,60,Sputnik V
+NJO988138,David,Mwakalinga,Female,6/5/1964,Njoro,Fisherman,11/27/2021,57,Sinopharm
+BAH244469,Joseph,Mcharo,Female,12/21/2000,Bahati,Trader,7/27/2022,22,Oxford-AstraZeneca
+NAI317451,Rahma,Zuberi,Female,2/15/1972,Naivasha,Carpenter,1/20/2021,49,Sinopharm
+NAI982834,Omar,Chilambo,Male,6/10/1958,Naivasha,Teacher,11/29/2021,63,Johnson and Johnson
+SUB815811,Sauda,Mwakalinga,Female,5/14/1965,Subukia,Teacher,4/3/2022,57,Sputnik V
+NJO664202,Mary,Nyaga,Female,4/27/2005,Njoro,Trader,2/18/2021,16,Pfizer
+NAI860140,Michael,Mcharo,Male,1/9/1958,Naivasha,Farmer,4/16/2022,64,Sinopharm
+GIL660638,Sarah,Mwakalinga,Male,9/5/1971,Gilgil,Trader,6/24/2022,51,Sinopharm
+RON939119,Elizabeth,Mcharo,Male,8/27/1987,Rongai,Fisherman,5/6/2022,35,Sputnik V
+NAI258580,Paul,Mwakalinga,Male,2/8/1983,Naivasha,Farmer,6/25/2021,38,Moderna
+GIL442514,David,Mcharo,Male,12/8/1992,Gilgil,Tailor,10/25/2021,29,Sputnik V
+SUB183424,Joseph,Musa,Female,6/8/1974,Subukia,Teacher,1/14/2021,47,Moderna
+BAH808778,Rahma,Mwakalinga,Female,9/4/1954,Bahati,Carpenter,10/26/2021,67,Moderna
+MOL822877,Omar,Mwashigadi,Female,5/13/1974,Molo,Fisherman,5/17/2022,48,Sputnik V
+SUB600708,Sauda,Ngoma,Female,12/19/1974,Subukia,Tailor,6/25/2021,47,Sinopharm
+NJO224624,Mary,Mcharo,Male,8/17/1992,Njoro,Mason,4/11/2022,30,Johnson and Johnson
+SUB243205,Michael,Zuberi,Female,12/31/1997,Subukia,Fisherman,3/23/2022,25,Pfizer
+MOL994085,Sarah,Mwashigadi,Male,6/16/1997,Molo,Fisherman,3/1/2021,24,Sinopharm
+RON548707,Elizabeth,Mwakalinga,Female,8/5/1958,Rongai,Fisherman,4/24/2021,63,Pfizer
+NAI805376,Paul,Ngoma,Male,9/2/1962,Naivasha,Carpenter,1/7/2022,60,Sinopharm
+NAI490123,David,Chilambo,Male,1/9/1966,Naivasha,Tailor,10/21/2021,55,Johnson and Johnson
+MOL617764,Joseph,Mcharo,Male,1/29/1961,Molo,Mason,11/25/2022,61,Moderna
+GIL646011,Rahma,Musa,Female,12/22/1997,Gilgil,Farmer,6/13/2022,25,Oxford-AstraZeneca
+NAI268193,Omar,Ngoma,Female,7/20/1997,Naivasha,Fisherman,12/25/2022,25,Johnson and Johnson
+NJO443096,Sauda,Mwashigadi,Female,2/12/1992,Njoro,Fisherman,7/2/2021,29,Sputnik V
+BAH908536,Mary,Zuberi,Female,12/3/1965,Bahati,Tailor,7/29/2022,57,Pfizer
+RON563642,Michael,Mwashigadi,Female,3/12/1962,Rongai,Teacher,2/22/2022,60,Pfizer
+NJO117788,Sarah,Mwashigadi,Female,8/7/1966,Njoro,Trader,4/11/2022,56,Oxford-AstraZeneca
+GIL567743,Elizabeth,Chilambo,Female,2/17/1959,Gilgil,Farmer,4/29/2022,63,Oxford-AstraZeneca
+GIL602409,Paul,Mtambo,Male,5/6/1998,Gilgil,Carpenter,8/11/2021,23,Moderna
+NJO333022,David,Chilambo,Male,11/27/1963,Njoro,Tailor,12/5/2022,59,Moderna
+BAH333422,Joseph,Musa,Female,11/5/2004,Bahati,Mason,7/27/2022,18,Moderna
+GIL175121,Rahma,Mwashigadi,Male,3/15/1966,Gilgil,Trader,12/6/2022,56,Oxford-AstraZeneca
+GIL729026,Omar,Ngoma,Female,3/27/1992,Gilgil,Farmer,7/10/2022,30,Pfizer
+NAI391576,Sauda,Zuberi,Male,10/25/1978,Naivasha,Farmer,2/21/2021,43,Sputnik V
+RON356494,Mary,Mtambo,Male,1/8/1995,Rongai,Tailor,8/12/2021,26,Sinopharm
+SUB243937,Michael,Nyaga,Female,1/16/1958,Subukia,Teacher,4/29/2021,63,Oxford-AstraZeneca
+SUB925486,Sarah,Nyaga,Male,7/17/1955,Subukia,Farmer,11/2/2021,66,Oxford-AstraZeneca
+NAI168071,Elizabeth,Mtambo,Female,12/11/1982,Naivasha,Fisherman,11/14/2021,39,Johnson and Johnson
+BAH872817,Paul,Zuberi,Male,7/31/1974,Bahati,Farmer,4/20/2021,47,Sinopharm
+NJO951768,David,Chilambo,Female,4/17/1992,Njoro,Tailor,6/13/2021,29,Johnson and Johnson
+BAH837683,Joseph,Mwakalinga,Female,9/20/1968,Bahati,Farmer,3/30/2021,53,Sinopharm
+GIL126099,Rahma,Mtambo,Female,1/20/1982,Gilgil,Fisherman,6/4/2021,39,Sinopharm
+SUB567378,Omar,Mtambo,Female,11/15/1995,Subukia,Tailor,3/4/2021,26,Sinopharm
+MOL928086,Sauda,Musa,Female,10/31/1984,Molo,Teacher,5/21/2022,38,Moderna
+SUB723057,Mary,Mwakalinga,Female,4/15/1960,Subukia,Mason,10/25/2021,61,Sinopharm
+MOL942868,Michael,Mwashigadi,Female,8/14/2001,Molo,Farmer,3/18/2021,20,Sinopharm
+RON278856,Sarah,Mwakalinga,Male,12/5/1989,Rongai,Fisherman,12/17/2022,33,Sputnik V
+NAI499048,Elizabeth,Ngoma,Male,9/17/2002,Naivasha,Teacher,2/5/2022,20,Pfizer
+SUB931035,Paul,Mwadime,Female,4/4/1977,Subukia,Teacher,8/13/2021,44,Sinopharm
+MOL697825,David,Nyaga,Male,11/12/1954,Molo,Carpenter,12/12/2021,67,Pfizer
+GIL334810,Joseph,Zuberi,Female,12/26/2003,Gilgil,Fisherman,6/9/2021,18,Oxford-AstraZeneca
+GIL151232,Rahma,Mwashigadi,Male,4/29/1995,Gilgil,Farmer,12/28/2021,26,Sputnik V
+NAI248752,Omar,Musa,Female,3/9/1999,Naivasha,Mason,11/21/2022,23,Moderna
+NAI153236,Sauda,Mwadime,Female,9/5/1966,Naivasha,Teacher,4/18/2022,56,Johnson and Johnson
+NAI977317,Mary,Nyaga,Female,3/13/2005,Naivasha,Carpenter,3/28/2021,16,Pfizer
+GIL789873,Michael,Mwashigadi,Male,7/7/1992,Gilgil,Fisherman,11/19/2021,29,Sinopharm
+RON437200,Sarah,Mwadime,Female,8/5/1996,Rongai,Teacher,10/21/2022,26,Johnson and Johnson
+BAH397274,Elizabeth,Mwashigadi,Female,4/5/1975,Bahati,Mason,4/21/2022,47,Moderna
+SUB638361,Paul,Mwadime,Female,5/16/1997,Subukia,Farmer,5/2/2022,25,Moderna
+SUB556472,David,Mwashigadi,Female,10/5/1970,Subukia,Mason,1/13/2021,51,Moderna
+MOL654543,Joseph,Mwakalinga,Female,7/7/1969,Molo,Teacher,6/22/2021,52,Oxford-AstraZeneca
+RON213443,Rahma,Musa,Female,12/14/1990,Rongai,Mason,1/31/2021,31,Sputnik V
+SUB335816,Omar,Ngoma,Male,11/21/1999,Subukia,Farmer,7/15/2022,23,Oxford-AstraZeneca
+BAH985844,Sauda,Mtambo,Male,4/6/1991,Bahati,Fisherman,4/19/2021,30,Moderna
+SUB824735,Mary,Mwadime,Female,7/19/1973,Subukia,Tailor,3/10/2022,49,Johnson and Johnson
+MOL768058,Michael,Mtambo,Male,11/6/1954,Molo,Farmer,2/9/2021,67,Moderna
+GIL820946,Sarah,Zuberi,Male,9/2/1960,Gilgil,Tailor,9/24/2022,62,Moderna
+NAI309588,Elizabeth,Zuberi,Female,7/15/1959,Naivasha,Fisherman,11/3/2021,62,Oxford-AstraZeneca
+SUB241114,Paul,Mwakalinga,Female,1/31/1988,Subukia,Farmer,8/25/2022,34,Sputnik V
+SUB798142,David,Zuberi,Female,8/13/1955,Subukia,Fisherman,1/17/2022,67,Sputnik V
+NJO811624,Joseph,Chilambo,Female,1/19/1957,Njoro,Tailor,9/16/2022,65,Moderna
+NAI615846,Rahma,Mwakalinga,Male,8/28/2001,Naivasha,Carpenter,9/16/2022,21,Pfizer
+SUB864824,Omar,Musa,Female,11/25/1990,Subukia,Teacher,8/25/2022,32,Moderna
+BAH560645,Sauda,Mwakalinga,Female,3/21/1984,Bahati,Tailor,11/24/2021,37,Johnson and Johnson
+NJO148198,Mary,Mwadime,Male,11/19/1985,Njoro,Teacher,9/14/2021,36,Pfizer
+NJO307611,Michael,Mwakalinga,Male,1/25/2006,Njoro,Trader,6/19/2022,16,Sinopharm
+RON893048,Sarah,Zuberi,Female,12/14/1964,Rongai,Carpenter,6/28/2021,57,Moderna
+NJO282496,Elizabeth,Nyaga,Male,4/7/1967,Njoro,Teacher,6/19/2022,55,Sinopharm
+MOL265524,Paul,Ngoma,Female,4/23/1974,Molo,Trader,10/4/2022,48,Oxford-AstraZeneca
+NJO654687,David,Mwakalinga,Female,5/28/1998,Njoro,Mason,10/20/2021,23,Moderna
+GIL757774,Joseph,Nyaga,Male,3/14/1959,Gilgil,Mason,3/6/2021,62,Sputnik V
+NJO772565,Rahma,Chilambo,Male,9/13/1999,Njoro,Tailor,4/21/2022,23,Johnson and Johnson
+RON372418,Omar,Nyaga,Female,9/29/1981,Rongai,Tailor,5/20/2022,41,Sputnik V
+BAH569283,Sauda,Mwashigadi,Female,2/6/1961,Bahati,Farmer,4/22/2021,60,Pfizer
+SUB350016,Mary,Ngoma,Male,10/22/1969,Subukia,Mason,4/8/2022,53,Oxford-AstraZeneca
+GIL423547,Michael,Mcharo,Female,5/26/1958,Gilgil,Farmer,2/3/2022,64,Sinopharm
+NJO485189,Sarah,Nyaga,Male,9/3/1956,Njoro,Farmer,1/25/2021,65,Pfizer
+GIL408510,Elizabeth,Mcharo,Female,6/19/1980,Gilgil,Mason,1/17/2022,42,Sinopharm
+NAI759939,Paul,Nyaga,Male,9/3/1991,Naivasha,Mason,9/7/2021,30,Sinopharm
+BAH720470,David,Mcharo,Female,3/20/2000,Bahati,Trader,10/1/2022,22,Moderna
+BAH127290,Joseph,Zuberi,Male,4/16/1985,Bahati,Tailor,8/30/2021,36,Johnson and Johnson
+GIL322496,Rahma,Mwadime,Male,5/10/1982,Gilgil,Teacher,10/3/2021,39,Sputnik V
+BAH477821,Omar,Chilambo,Male,7/20/1959,Bahati,Mason,12/28/2021,62,Johnson and Johnson
+BAH468393,Sauda,Chilambo,Female,7/28/2003,Bahati,Mason,11/15/2022,19,Pfizer
+GIL933580,Mary,Mcharo,Male,6/22/1983,Gilgil,Teacher,1/31/2022,39,Sinopharm
+NAI179459,Michael,Ngoma,Male,12/25/1961,Naivasha,Tailor,5/7/2022,61,Moderna
+MOL922491,Sarah,Musa,Female,8/25/1977,Molo,Carpenter,11/30/2022,45,Sputnik V
+NAI340460,Elizabeth,Nyaga,Male,8/24/1974,Naivasha,Trader,11/14/2022,48,Moderna
+SUB638410,Paul,Mcharo,Male,6/24/1984,Subukia,Trader,2/5/2021,37,Oxford-AstraZeneca
+RON632400,David,Mwadime,Male,4/1/2003,Rongai,Fisherman,8/5/2021,18,Oxford-AstraZeneca
+GIL565864,Joseph,Mcharo,Female,1/10/2002,Gilgil,Teacher,3/27/2022,20,Sputnik V
+SUB456837,Rahma,Mwakalinga,Female,4/14/1982,Subukia,Fisherman,12/2/2022,40,Pfizer
+GIL177653,Omar,Mcharo,Male,1/3/2006,Gilgil,Teacher,6/16/2022,16,Sputnik V
+MOL347993,Sauda,Chilambo,Female,5/11/1996,Molo,Mason,9/8/2021,25,Moderna

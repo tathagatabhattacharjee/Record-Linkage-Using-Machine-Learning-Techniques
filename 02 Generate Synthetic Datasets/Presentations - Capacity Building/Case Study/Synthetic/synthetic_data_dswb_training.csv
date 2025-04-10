@@ -1,0 +1,1408 @@
+id,first_name,last_name,sex,dob,village_name,occupation,covid_19_first_vacc_date,age_on_first_vacc,vacc_manufacturer
+657,Rahma,Chilambo,Male,1998-04-27,Njoro,Farmer,2021-08-30,23,Sinopharm
+642,Rahma,Zuberi,Male,1986-05-14,Rongai,Teacher,2021-11-06,35,Johnson and Johnson
+1476,Michael,Nyaga,Male,1989-04-06,Naivasha,Fisherman,2022-03-09,33,Pfizer
+761,Mary,Zuberi,Male,2002-01-25,Gilgil,Carpenter,2021-11-24,20,Pfizer
+1192,Rahma,Nyaga,Male,1998-11-18,Gilgil,Carpenter,2022-06-06,24,Moderna
+100,Elizabeth,Zuberi,Male,1969-05-22,Gilgil,Farmer,2021-03-05,52,Sinopharm
+474,Michael,Mwadime,Male,1974-04-07,Gilgil,Carpenter,2022-02-13,48,Sinopharm
+1476,Rahma,Mwadime,Male,1973-04-22,Naivasha,Teacher,2021-08-25,48,Moderna
+1199,Paul,Musa,Male,1959-11-04,Njoro,Trader,2021-11-12,62,Johnson and Johnson
+834,Michael,Mwakalinga,Male,2001-04-21,Subukia,Tailor,2021-06-23,20,Moderna
+1363,Elizabeth,Chilambo,Male,1965-11-06,Gilgil,Tailor,2021-09-19,56,Oxford-AstraZeneca
+572,Mary,Mwakalinga,Female,1981-05-10,Molo,Mason,2021-10-18,40,Sinopharm
+960,David,Mwashigadi,Male,1981-05-18,Subukia,Carpenter,2021-01-21,40,Sputnik V
+1370,Paul,Musa,Male,1978-05-19,Gilgil,Trader,2022-02-14,44,Sinopharm
+518,Omar,Musa,Male,2002-11-13,Molo,Carpenter,2022-11-22,20,Sputnik V
+974,Paul,Ngoma,Male,1993-08-06,Molo,Tailor,2021-05-24,28,Johnson and Johnson
+338,Joseph,Zuberi,Female,1961-01-30,Bahati,Tailor,2021-06-21,60,Pfizer
+666,Elizabeth,Ngoma,Female,2000-07-12,Njoro,Tailor,2021-08-26,21,Sputnik V
+1480,Sauda,Ngoma,Female,2003-05-18,Gilgil,Teacher,2021-11-10,18,Moderna
+571,Elizabeth,Nyaga,Male,1965-04-16,Subukia,Teacher,2022-12-14,58,Oxford-AstraZeneca
+312,Paul,Chilambo,Male,2001-02-09,Molo,Tailor,2021-11-16,21,Sinopharm
+469,Sarah,Chilambo,Female,2001-06-20,Bahati,Farmer,2022-10-18,21,Sinopharm
+388,Elizabeth,Mcharo,Male,2001-06-06,Gilgil,Tailor,2021-10-23,20,Pfizer
+449,Paul,Ngoma,Male,1974-05-08,Rongai,Carpenter,2021-09-27,47,Moderna
+495,Michael,Zuberi,Male,1993-06-08,Gilgil,Tailor,2021-09-22,28,Sputnik V
+1451,Rahma,Musa,Male,1965-02-07,Njoro,Carpenter,2021-08-30,57,Moderna
+712,Joseph,Mwadime,Male,1984-06-20,Gilgil,Teacher,2021-03-19,37,Oxford-AstraZeneca
+1452,Joseph,Nyaga,Male,1954-08-06,Gilgil,Farmer,2021-04-20,67,Moderna
+271,Sarah,Zuberi,Male,1988-12-22,Gilgil,Tailor,2022-08-18,34,Oxford-AstraZeneca
+807,Sauda,Chilambo,Female,1994-08-11,Naivasha,Teacher,2021-04-28,27,Moderna
+626,Mary,Mwashigadi,Female,1977-08-18,Rongai,Tailor,2021-11-07,44,Oxford-AstraZeneca
+1057,Elizabeth,Chilambo,Male,1973-04-19,Naivasha,Tailor,2021-03-23,48,Johnson and Johnson
+1131,Sarah,Musa,Female,1968-09-20,Molo,Carpenter,2021-08-26,53,Moderna
+1059,Mary,Nyaga,Male,1977-08-06,Molo,Carpenter,2022-11-22,45,Johnson and Johnson
+543,Mary,Nyaga,Male,1977-06-09,Gilgil,Carpenter,2021-08-25,44,Moderna
+1208,Sarah,Musa,Female,1986-02-04,Njoro,Fisherman,2021-07-27,35,Oxford-AstraZeneca
+628,Elizabeth,Nyaga,Male,1977-08-25,Rongai,Trader,2022-01-19,44,Moderna
+982,Rahma,Ngoma,Male,2003-05-16,Rongai,Tailor,2021-06-08,18,Johnson and Johnson
+1283,Sauda,Ngoma,Female,2003-06-28,Naivasha,Carpenter,2022-04-12,19,Oxford-AstraZeneca
+110,Paul,Mcharo,Male,1988-08-16,Molo,Mason,2022-08-18,34,Pfizer
+836,Paul,Nyaga,Male,1963-04-22,Njoro,Farmer,2022-01-29,59,Moderna
+1014,Mary,Chilambo,Male,1978-06-16,Njoro,Carpenter,2021-06-17,43,Sputnik V
+33,Elizabeth,Ngoma,Male,1960-02-18,Subukia,Fisherman,2022-02-25,62,Moderna
+1209,David,Musa,Male,1985-07-06,Rongai,Trader,2022-04-24,37,Sputnik V
+958,Michael,Zuberi,Male,2001-05-05,Gilgil,Farmer,2021-07-31,20,Moderna
+1157,Sauda,Mtambo,Female,1980-06-16,Njoro,Carpenter,2021-08-14,41,Oxford-AstraZeneca
+257,Sarah,Mcharo,Female,1989-05-07,Gilgil,Mason,2022-04-26,33,Sinopharm
+1042,Joseph,Mwakalinga,Male,1998-02-16,Njoro,Carpenter,2022-02-20,24,Johnson and Johnson
+442,Paul,Chilambo,Male,1994-08-16,Molo,Carpenter,2021-12-17,27,Sputnik V
+84,David,Chilambo,Male,1998-01-25,Molo,Tailor,2021-11-22,24,Johnson and Johnson
+349,Sarah,Musa,Male,1988-02-26,Bahati,Carpenter,2022-08-29,35,Oxford-AstraZeneca
+89,Joseph,Chilambo,Male,1965-04-15,Gilgil,Carpenter,2021-03-24,56,Moderna
+134,Rahma,Mcharo,Female,1981-03-17,Njoro,Carpenter,2021-04-24,40,Sputnik V
+194,David,Mtambo,Male,2001-12-14,Gilgil,Tailor,2021-06-26,20,Moderna
+1017,Paul,Mcharo,Female,2000-01-24,Bahati,Farmer,2021-04-15,21,Pfizer
+1388,Joseph,Mcharo,Male,1971-08-09,Subukia,Farmer,2021-08-13,50,Moderna
+488,David,Mcharo,Male,1959-03-10,Rongai,Tailor,2022-08-10,63,Sputnik V
+493,Elizabeth,Mwakalinga,Male,1997-05-08,Njoro,Farmer,2021-04-07,24,Sinopharm
+495,Rahma,Mwadime,Male,1957-09-16,Gilgil,Mason,2022-10-14,65,Sputnik V
+1486,Michael,Chilambo,Male,1998-07-22,Gilgil,Fisherman,2021-04-30,23,Pfizer
+385,Mary,Mwashigadi,Female,2003-03-17,Gilgil,Carpenter,2021-07-15,18,Moderna
+1421,Omar,Chilambo,Female,1984-07-08,Gilgil,Teacher,2021-05-17,37,Johnson and Johnson
+1068,Rahma,Mwadime,Male,1974-05-23,Subukia,Mason,2021-05-19,47,Moderna
+1292,Paul,Mwashigadi,Male,1978-06-14,Njoro,Carpenter,2021-12-19,44,Sputnik V
+802,Omar,Mwashigadi,Male,1989-05-22,Bahati,Fisherman,2021-11-22,33,Pfizer
+941,Omar,Nyaga,Male,1973-05-26,Subukia,Carpenter,2021-07-25,48,Pfizer
+879,Elizabeth,Chilambo,Male,1999-04-17,Molo,Carpenter,2021-04-13,22,Sinopharm
+429,David,Musa,Female,1984-10-19,Naivasha,Carpenter,2022-10-22,38,Sinopharm
+1033,Joseph,Mcharo,Female,1990-02-06,Bahati,Carpenter,2021-05-28,31,Johnson and Johnson
+250,Mary,Mwashigadi,Male,1997-12-14,Gilgil,Farmer,2021-01-18,23,Oxford-AstraZeneca
+782,Joseph,Mwakalinga,Male,1964-08-05,Subukia,Mason,2021-09-17,57,Sinopharm
+276,David,Chilambo,Male,1982-08-09,Rongai,Carpenter,2021-01-17,38,Sputnik V
+792,Elizabeth,Chilambo,Male,1993-11-29,Subukia,Teacher,2021-06-27,28,Oxford-AstraZeneca
+641,Elizabeth,Mwashigadi,Male,1990-05-19,Rongai,Mason,2022-02-11,32,Oxford-AstraZeneca
+852,Rahma,Mwakalinga,Male,2000-12-05,Molo,Carpenter,2021-04-14,20,Sputnik V
+1417,Sauda,Zuberi,Male,1973-03-27,Gilgil,Tailor,2021-02-14,48,Moderna
+593,Joseph,Musa,Male,1964-01-13,Molo,Tailor,2021-07-27,58,Oxford-AstraZeneca
+395,Omar,Mtambo,Male,1996-06-16,Subukia,Fisherman,2021-01-27,25,Johnson and Johnson
+711,Michael,Mcharo,Female,2002-04-06,Njoro,Tailor,2021-10-18,20,Pfizer
+526,Elizabeth,Ngoma,Male,1977-05-17,Molo,Tailor,2021-08-19,44,Sputnik V
+220,Mary,Zuberi,Male,1993-08-07,Njoro,Carpenter,2022-02-26,29,Johnson and Johnson
+1095,Joseph,Mwakalinga,Female,1988-04-20,Molo,Mason,2022-03-07,34,Moderna
+855,Sarah,Chilambo,Male,2000-05-28,Subukia,Fisherman,2022-01-14,22,Sputnik V
+254,David,Mwashigadi,Male,1988-07-21,Molo,Teacher,2021-09-04,33,Moderna
+738,Mary,Nyaga,Male,1999-07-18,Naivasha,Carpenter,2021-07-23,22,Sputnik V
+897,Paul,Zuberi,Male,1953-06-15,Njoro,Carpenter,2021-08-20,68,Oxford-AstraZeneca
+364,Sauda,Mwashigadi,Male,1956-03-10,Subukia,Tailor,2021-10-16,66,Johnson and Johnson
+288,Omar,Zuberi,Male,1971-06-20,Gilgil,Fisherman,2022-02-26,51,Sinopharm
+915,Joseph,Mwadime,Female,1986-08-19,Njoro,Carpenter,2022-01-26,35,Johnson and Johnson
+120,Mary,Mwakalinga,Female,1963-05-18,Njoro,Carpenter,2022-08-21,59,Johnson and Johnson
+170,David,Chilambo,Male,1987-04-26,Rongai,Trader,2021-02-27,34,Moderna
+1414,Omar,Mcharo,Female,1994-08-17,Bahati,Fisherman,2022-08-31,28,Johnson and Johnson
+452,Michael,Mcharo,Male,1973-11-18,Naivasha,Farmer,2021-10-20,48,Sputnik V
+1184,Mary,Chilambo,Male,1961-02-10,Bahati,Tailor,2021-04-03,60,Pfizer
+53,Elizabeth,Mcharo,Female,1990-04-23,Rongai,Trader,2021-12-03,32,Oxford-AstraZeneca
+972,Mary,Mcharo,Female,1973-05-31,Gilgil,Trader,2021-07-07,48,Moderna
+974,Omar,Chilambo,Female,2002-11-24,Naivasha,Carpenter,2021-05-16,18,Pfizer
+299,Sarah,Mwakalinga,Female,1968-03-15,Gilgil,Teacher,2022-11-29,55,Oxford-AstraZeneca
+603,Sauda,Mwakalinga,Male,1985-11-06,Subukia,Carpenter,2021-02-15,35,Moderna
+79,Michael,Chilambo,Male,1996-04-07,Rongai,Teacher,2021-02-18,25,Sinopharm
+1126,Sarah,Musa,Male,1981-01-15,Rongai,Trader,2021-10-27,41,Pfizer
+98,Paul,Nyaga,Male,1986-05-29,Gilgil,Carpenter,2021-02-21,35,Oxford-AstraZeneca
+1329,Mary,Chilambo,Male,1979-04-17,Rongai,Mason,2021-02-25,42,Oxford-AstraZeneca
+637,Joseph,Mcharo,Female,1989-02-06,Gilgil,Mason,2022-08-23,34,Sinopharm
+1200,Mary,Musa,Male,1999-08-11,Naivasha,Trader,2021-06-25,22,Moderna
+1138,David,Zuberi,Male,1966-09-29,Naivasha,Fisherman,2022-11-18,56,Pfizer
+1021,Michael,Mwashigadi,Female,1986-09-19,Bahati,Tailor,2021-07-22,35,Sputnik V
+625,Elizabeth,Chilambo,Male,1993-03-24,Njoro,Trader,2021-06-26,28,Moderna
+391,Elizabeth,Chilambo,Male,1993-03-06,Bahati,Trader,2021-01-13,28,Johnson and Johnson
+171,Michael,Mwadime,Male,1993-04-17,Subukia,Farmer,2021-07-22,28,Sinopharm
+1207,Paul,Chilambo,Male,2001-01-07,Bahati,Trader,2022-03-22,21,Sputnik V
+888,David,Zuberi,Female,1996-07-07,Gilgil,Carpenter,2021-05-22,25,Sinopharm
+1110,Rahma,Mcharo,Male,2003-09-22,Njoro,Tailor,2021-11-30,18,Johnson and Johnson
+939,Michael,Nyaga,Male,1974-02-27,Rongai,Farmer,2021-01-22,47,Sinopharm
+856,Michael,Mwashigadi,Female,1982-06-22,Subukia,Farmer,2021-07-22,39,Moderna
+756,David,Mwashigadi,Male,1972-04-03,Bahati,Carpenter,2021-02-26,49,Pfizer
+178,Mary,Mwadime,Female,1993-08-20,Gilgil,Fisherman,2021-07-27,28,Sputnik V
+99,Rahma,Nyaga,Male,1960-04-11,Subukia,Tailor,2021-10-26,62,Moderna
+445,Sauda,Zuberi,Male,1995-11-10,Rongai,Carpenter,2021-10-28,26,Pfizer
+1472,Elizabeth,Mwashigadi,Female,1998-09-09,Njoro,Carpenter,2021-06-22,23,Sputnik V
+1030,David,Ngoma,Female,1970-09-28,Njoro,Mason,2022-01-24,51,Moderna
+1391,Mary,Mcharo,Female,2002-03-07,Gilgil,Fisherman,2022-11-26,21,Pfizer
+61,Rahma,Mwashigadi,Male,1985-11-29,Naivasha,Carpenter,2021-04-18,35,Sinopharm
+231,David,Zuberi,Male,1973-04-03,Subukia,Fisherman,2021-08-11,48,Oxford-AstraZeneca
+1026,Sarah,Mwakalinga,Female,1975-02-18,Bahati,Mason,2022-07-25,47,Sinopharm
+667,Joseph,Musa,Male,2002-07-20,Rongai,Trader,2021-07-26,19,Sputnik V
+276,Mary,Ngoma,Female,2000-03-06,Njoro,Mason,2022-06-22,22,Sinopharm
+1382,Rahma,Nyaga,Male,1989-06-21,Njoro,Carpenter,2022-07-27,33,Johnson and Johnson
+549,David,Chilambo,Female,2002-04-23,Naivasha,Tailor,2021-07-28,19,Pfizer
+947,Sarah,Mcharo,Male,1969-09-28,Gilgil,Mason,2021-02-05,51,Sputnik V
+893,Rahma,Mwadime,Female,1961-06-27,Njoro,Farmer,2022-08-31,61,Moderna
+443,Michael,Mwakalinga,Female,1974-05-18,Molo,Farmer,2021-05-26,47,Moderna
+1450,Sauda,Nyaga,Male,2003-06-27,Molo,Tailor,2022-07-21,19,Moderna
+556,Sarah,Mwakalinga,Female,1983-05-06,Njoro,Carpenter,2021-07-12,38,Pfizer
+534,Sarah,Ngoma,Female,1983-08-25,Rongai,Trader,2021-07-13,38,Pfizer
+571,Joseph,Mcharo,Male,1996-07-29,Njoro,Farmer,2021-02-27,25,Sputnik V
+127,Rahma,Mcharo,Male,2000-08-13,Subukia,Tailor,2022-02-15,22,Sputnik V
+493,Omar,Chilambo,Female,1961-05-07,Subukia,Mason,2021-02-25,60,Sputnik V
+1324,Rahma,Chilambo,Male,1972-09-19,Naivasha,Teacher,2022-06-17,50,Oxford-AstraZeneca
+330,Elizabeth,Mwakalinga,Female,1995-04-06,Njoro,Farmer,2021-01-18,26,Moderna
+603,Mary,Mwashigadi,Male,2001-05-08,Molo,Carpenter,2021-07-26,20,Moderna
+29,Sarah,Mwashigadi,Female,1961-04-20,Naivasha,Fisherman,2022-10-14,61,Pfizer
+439,Paul,Musa,Female,1991-02-11,Rongai,Trader,2021-06-12,30,Oxford-AstraZeneca
+1460,Joseph,Nyaga,Male,1985-06-24,Rongai,Farmer,2022-12-12,37,Oxford-AstraZeneca
+1390,Elizabeth,Musa,Female,1992-04-10,Molo,Mason,2021-11-29,30,Pfizer
+905,Rahma,Mwadime,Male,1963-03-16,Naivasha,Fisherman,2021-01-16,58,Johnson and Johnson
+26,Elizabeth,Ngoma,Male,1987-10-25,Gilgil,Fisherman,2021-09-30,34,Sputnik V
+1240,Elizabeth,Mwadime,Female,1976-04-06,Subukia,Carpenter,2021-10-11,46,Sputnik V
+261,Omar,Mwadime,Male,1999-04-18,Gilgil,Tailor,2022-04-28,23,Sinopharm
+775,Sarah,Mwadime,Male,1960-05-23,Subukia,Tailor,2022-10-14,62,Oxford-AstraZeneca
+1429,Omar,Mtambo,Male,1963-08-22,Gilgil,Farmer,2021-09-20,58,Pfizer
+93,Omar,Nyaga,Male,1958-06-26,Naivasha,Tailor,2022-01-15,64,Oxford-AstraZeneca
+886,Joseph,Nyaga,Male,1973-02-22,Rongai,Carpenter,2022-11-17,50,Pfizer
+1147,Omar,Mwashigadi,Male,1981-09-10,Molo,Carpenter,2021-12-19,40,Sputnik V
+309,David,Mwakalinga,Male,1979-08-06,Bahati,Fisherman,2021-12-27,42,Johnson and Johnson
+303,Sarah,Mwashigadi,Male,1957-03-05,Gilgil,Farmer,2021-07-25,64,Moderna
+337,Sarah,Chilambo,Male,1998-03-16,Molo,Carpenter,2021-01-25,23,Moderna
+845,Sauda,Chilambo,Male,1970-07-23,Gilgil,Carpenter,2021-08-19,51,Pfizer
+780,David,Mwashigadi,Female,1987-01-19,Naivasha,Teacher,2021-10-29,35,Moderna
+194,Michael,Musa,Female,1978-04-14,Subukia,Tailor,2021-12-02,44,Sputnik V
+94,David,Nyaga,Female,1994-10-11,Rongai,Carpenter,2021-01-14,26,Pfizer
+166,Omar,Chilambo,Male,1998-05-06,Molo,Fisherman,2022-11-02,24,Sputnik V
+112,Joseph,Chilambo,Male,1983-08-09,Naivasha,Carpenter,2022-03-26,39,Pfizer
+1421,Omar,Mcharo,Female,1999-07-29,Njoro,Teacher,2022-05-17,23,Johnson and Johnson
+436,Sauda,Nyaga,Male,1972-03-05,Bahati,Carpenter,2021-03-22,49,Moderna
+783,Sauda,Mwashigadi,Female,1955-09-14,Naivasha,Carpenter,2021-11-11,66,Sinopharm
+1008,David,Ngoma,Male,1976-05-16,Molo,Trader,2021-10-29,45,Moderna
+369,Sarah,Mtambo,Male,1985-07-22,Njoro,Carpenter,2022-11-21,37,Sinopharm
+1162,Mary,Nyaga,Female,2001-01-07,Naivasha,Mason,2021-06-28,20,Johnson and Johnson
+607,Paul,Nyaga,Male,1994-05-14,Njoro,Carpenter,2021-11-21,28,Johnson and Johnson
+369,Michael,Chilambo,Male,1962-08-11,Rongai,Carpenter,2021-04-30,59,Sinopharm
+1101,David,Mwadime,Female,1991-11-10,Njoro,Teacher,2021-11-10,30,Pfizer
+609,Elizabeth,Mwadime,Male,2000-11-04,Naivasha,Fisherman,2021-10-06,21,Moderna
+913,David,Mwashigadi,Female,2002-03-14,Molo,Teacher,2021-11-14,20,Oxford-AstraZeneca
+1369,Paul,Mcharo,Male,1990-03-05,Njoro,Carpenter,2021-07-30,31,Oxford-AstraZeneca
+1374,Sauda,Mwashigadi,Male,1986-03-09,Naivasha,Mason,2021-07-14,35,Pfizer
+1277,David,Mtambo,Male,1971-05-16,Molo,Fisherman,2021-04-19,50,Sputnik V
+901,Omar,Zuberi,Male,2003-03-15,Subukia,Trader,2021-09-07,18,Pfizer
+1014,Rahma,Mcharo,Male,1980-03-09,Rongai,Carpenter,2021-11-27,42,Pfizer
+1357,Sarah,Mtambo,Male,1961-03-14,Gilgil,Teacher,2021-04-30,60,Oxford-AstraZeneca
+197,Sauda,Zuberi,Female,1980-04-05,Gilgil,Tailor,2021-11-21,42,Oxford-AstraZeneca
+321,Joseph,Zuberi,Male,1966-03-13,Naivasha,Carpenter,2021-08-17,55,Sinopharm
+62,Omar,Mwadime,Male,1992-03-21,Naivasha,Fisherman,2021-07-18,29,Sinopharm
+1250,Elizabeth,Chilambo,Male,2003-03-10,Subukia,Fisherman,2021-11-22,19,Sputnik V
+434,Paul,Chilambo,Female,1994-08-05,Bahati,Mason,2022-05-11,28,Sinopharm
+586,Paul,Mwakalinga,Male,1972-06-20,Njoro,Tailor,2021-07-22,49,Johnson and Johnson
+510,Joseph,Mwashigadi,Male,1997-08-20,Subukia,Farmer,2022-09-16,25,Oxford-AstraZeneca
+1418,Joseph,Chilambo,Male,1975-03-17,Njoro,Tailor,2022-07-23,47,Sputnik V
+1046,Elizabeth,Nyaga,Male,1981-08-02,Gilgil,Mason,2022-07-18,41,Oxford-AstraZeneca
+1377,Omar,Mwakalinga,Male,1978-12-31,Rongai,Tailor,2021-02-26,42,Sputnik V
+39,Omar,Musa,Male,1988-10-10,Rongai,Trader,2021-08-30,33,Moderna
+343,Elizabeth,Mcharo,Male,1952-02-24,Subukia,Farmer,2022-10-21,71,Moderna
+313,Rahma,Mwashigadi,Female,1985-08-28,Njoro,Trader,2022-06-22,37,Oxford-AstraZeneca
+638,Paul,Chilambo,Male,1999-08-20,Gilgil,Trader,2021-03-17,22,Sputnik V
+1318,Rahma,Musa,Female,1982-11-27,Bahati,Teacher,2021-08-07,39,Sputnik V
+886,Sarah,Ngoma,Female,1987-08-19,Subukia,Fisherman,2021-05-25,34,Pfizer
+357,Sauda,Musa,Female,1990-04-05,Subukia,Farmer,2021-07-13,31,Sinopharm
+1117,David,Mwakalinga,Female,2000-03-16,Njoro,Trader,2021-09-30,22,Pfizer
+1278,Mary,Nyaga,Male,1991-08-29,Gilgil,Mason,2021-11-16,30,Moderna
+581,Sarah,Chilambo,Female,1972-04-18,Naivasha,Fisherman,2022-06-05,50,Sinopharm
+1371,Joseph,Mcharo,Male,1974-05-16,Rongai,Mason,2021-01-16,47,Oxford-AstraZeneca
+804,Paul,Nyaga,Male,1990-08-26,Subukia,Tailor,2021-11-30,31,Sinopharm
+902,Sarah,Mtambo,Female,1977-07-15,Gilgil,Mason,2021-08-18,44,Johnson and Johnson
+1191,Sarah,Mcharo,Male,1982-04-06,Gilgil,Carpenter,2022-09-20,40,Moderna
+699,Sauda,Mwashigadi,Male,1964-08-11,Molo,Carpenter,2021-07-28,57,Moderna
+792,Michael,Zuberi,Female,1998-06-30,Rongai,Trader,2021-01-21,23,Pfizer
+118,Joseph,Mwadime,Female,1994-08-17,Rongai,Fisherman,2021-11-16,27,Moderna
+639,Mary,Mcharo,Female,1989-05-15,Subukia,Trader,2021-07-26,32,Sputnik V
+604,Rahma,Mtambo,Male,1998-05-28,Bahati,Farmer,2022-04-25,24,Johnson and Johnson
+150,Joseph,Mwadime,Male,1979-02-28,Njoro,Tailor,2021-02-07,42,Moderna
+55,Joseph,Mwadime,Female,1996-08-19,Naivasha,Trader,2021-06-02,25,Moderna
+62,Mary,Mwadime,Male,1958-07-06,Subukia,Mason,2022-04-19,64,Oxford-AstraZeneca
+211,Omar,Zuberi,Female,1990-08-13,Subukia,Mason,2021-11-13,31,Pfizer
+894,Omar,Nyaga,Male,2001-04-17,Subukia,Carpenter,2022-05-14,21,Moderna
+651,Paul,Musa,Female,1994-11-15,Gilgil,Tailor,2021-03-27,26,Sputnik V
+1055,Joseph,Chilambo,Male,1993-10-05,Bahati,Tailor,2021-07-12,28,Moderna
+1476,Joseph,Ngoma,Male,1983-12-20,Gilgil,Teacher,2021-08-26,38,Sinopharm
+250,Elizabeth,Mwashigadi,Female,1960-03-17,Bahati,Carpenter,2021-08-18,61,Sinopharm
+64,Sauda,Chilambo,Female,2002-09-22,Gilgil,Teacher,2022-11-27,20,Oxford-AstraZeneca
+306,Paul,Musa,Male,1985-04-13,Molo,Carpenter,2021-05-03,36,Sputnik V
+1362,Sarah,Mwakalinga,Female,1972-03-29,Molo,Farmer,2021-09-16,49,Sinopharm
+154,Elizabeth,Mwakalinga,Male,1975-06-07,Molo,Fisherman,2021-04-23,46,Pfizer
+49,David,Chilambo,Female,1984-01-17,Njoro,Fisherman,2022-12-20,39,Johnson and Johnson
+1217,Paul,Mcharo,Male,2000-08-15,Njoro,Carpenter,2022-02-17,22,Sputnik V
+1310,Michael,Nyaga,Male,1973-07-08,Njoro,Fisherman,2021-05-17,48,Moderna
+498,Mary,Chilambo,Male,1997-07-14,Rongai,Teacher,2021-11-26,24,Sinopharm
+1203,Sauda,Chilambo,Female,2002-05-30,Gilgil,Farmer,2022-11-24,20,Oxford-AstraZeneca
+1094,Rahma,Musa,Female,1985-08-06,Gilgil,Farmer,2021-01-25,35,Moderna
+891,Mary,Musa,Female,1963-04-06,Naivasha,Mason,2022-08-14,59,Pfizer
+596,Sarah,Mtambo,Male,1987-03-20,Subukia,Mason,2021-10-20,35,Moderna
+541,Paul,Nyaga,Male,1970-11-18,Subukia,Trader,2021-05-22,51,Moderna
+732,David,Mwashigadi,Female,2001-07-21,Rongai,Trader,2021-08-21,20,Oxford-AstraZeneca
+287,Michael,Chilambo,Male,1983-06-08,Molo,Carpenter,2021-01-31,38,Moderna
+217,Mary,Mwadime,Female,1996-09-13,Subukia,Teacher,2021-02-28,24,Pfizer
+962,Paul,Musa,Female,1991-11-19,Subukia,Carpenter,2022-05-16,30,Moderna
+1027,David,Chilambo,Male,1996-07-17,Subukia,Mason,2021-05-19,25,Pfizer
+1273,Michael,Nyaga,Male,1996-09-29,Gilgil,Tailor,2021-10-26,25,Oxford-AstraZeneca
+1481,Sarah,Nyaga,Male,1954-07-16,Gilgil,Farmer,2021-03-14,67,Sinopharm
+210,Mary,Mwadime,Female,1989-06-16,Njoro,Carpenter,2021-07-30,32,Sinopharm
+1190,Mary,Mwashigadi,Female,1976-11-27,Gilgil,Mason,2021-07-09,45,Oxford-AstraZeneca
+375,Rahma,Mcharo,Male,1984-04-25,Molo,Carpenter,2021-09-14,37,Pfizer
+308,Paul,Chilambo,Male,1966-01-20,Naivasha,Carpenter,2021-11-17,56,Pfizer
+471,Sarah,Mtambo,Female,1971-05-22,Gilgil,Farmer,2022-07-18,51,Oxford-AstraZeneca
+76,Mary,Nyaga,Male,1990-04-29,Bahati,Fisherman,2021-06-09,31,Moderna
+286,Joseph,Nyaga,Female,2000-05-15,Subukia,Farmer,2021-01-31,21,Sinopharm
+11,Michael,Mwashigadi,Female,1984-01-23,Njoro,Fisherman,2022-09-16,39,Sinopharm
+176,Michael,Mcharo,Male,1974-04-26,Rongai,Carpenter,2021-07-28,47,Sputnik V
+297,Elizabeth,Ngoma,Male,1990-06-06,Rongai,Trader,2021-02-16,31,Sputnik V
+740,Sarah,Chilambo,Female,1995-04-15,Bahati,Tailor,2021-08-30,26,Sinopharm
+817,Elizabeth,Mcharo,Male,1991-09-07,Njoro,Mason,2021-08-16,30,Sinopharm
+622,Joseph,Mcharo,Female,2004-05-13,Njoro,Carpenter,2022-11-14,19,Sinopharm
+1444,Omar,Mwadime,Female,2000-07-26,Naivasha,Mason,2021-03-23,21,Sinopharm
+779,Rahma,Ngoma,Male,1957-04-10,Subukia,Tailor,2021-06-23,64,Pfizer
+670,Mary,Nyaga,Male,1980-07-03,Molo,Tailor,2021-11-27,41,Johnson and Johnson
+184,Paul,Ngoma,Female,1985-05-17,Subukia,Mason,2021-02-20,36,Pfizer
+234,Paul,Nyaga,Male,1988-07-03,Subukia,Fisherman,2021-02-28,33,Sputnik V
+119,Paul,Musa,Female,1990-03-10,Gilgil,Tailor,2022-02-22,32,Oxford-AstraZeneca
+1132,Rahma,Nyaga,Male,2003-12-25,Njoro,Carpenter,2022-08-13,19,Pfizer
+378,Paul,Musa,Male,1998-05-23,Njoro,Farmer,2022-07-21,24,Sinopharm
+1271,Paul,Mcharo,Female,1965-10-15,Subukia,Farmer,2021-04-28,56,Moderna
+1044,Rahma,Mwashigadi,Male,1957-04-22,Molo,Carpenter,2022-07-23,65,Sinopharm
+1211,Paul,Zuberi,Male,1991-05-05,Njoro,Trader,2022-02-05,31,Johnson and Johnson
+1468,Paul,Nyaga,Male,1971-06-18,Subukia,Farmer,2021-07-05,50,Oxford-AstraZeneca
+429,Michael,Mwakalinga,Male,2002-02-18,Bahati,Carpenter,2021-05-20,19,Sinopharm
+530,Joseph,Chilambo,Female,1985-06-15,Naivasha,Carpenter,2021-09-23,36,Pfizer
+305,David,Chilambo,Male,2003-03-11,Rongai,Fisherman,2021-12-19,19,Johnson and Johnson
+1262,Rahma,Mtambo,Male,1994-04-14,Bahati,Tailor,2021-07-08,27,Johnson and Johnson
+136,Elizabeth,Mwashigadi,Female,1968-06-19,Gilgil,Carpenter,2021-06-27,53,Pfizer
+839,Mary,Mwakalinga,Male,1959-06-16,Rongai,Tailor,2021-10-31,62,Sputnik V
+758,Sarah,Musa,Female,1992-04-20,Gilgil,Tailor,2021-11-06,30,Sinopharm
+1449,Mary,Mwashigadi,Female,1958-07-12,Njoro,Farmer,2022-02-16,64,Oxford-AstraZeneca
+1192,Sarah,Nyaga,Male,1978-04-08,Gilgil,Trader,2021-01-30,43,Moderna
+1149,Michael,Mwashigadi,Female,1962-11-05,Bahati,Carpenter,2021-08-29,59,Moderna
+683,Joseph,Ngoma,Female,1991-04-16,Rongai,Tailor,2022-02-19,31,Johnson and Johnson
+999,Elizabeth,Mtambo,Male,1953-03-09,Subukia,Teacher,2021-07-29,68,Moderna
+364,Paul,Nyaga,Female,1978-04-18,Gilgil,Tailor,2021-03-20,43,Sinopharm
+393,Mary,Mcharo,Male,1976-04-18,Gilgil,Carpenter,2021-11-23,46,Pfizer
+1214,Omar,Mcharo,Male,1950-07-27,Njoro,Tailor,2022-10-30,72,Pfizer
+392,Omar,Nyaga,Male,1967-02-26,Gilgil,Farmer,2022-01-11,55,Sinopharm
+392,David,Chilambo,Male,1991-02-06,Gilgil,Farmer,2021-06-24,30,Sputnik V
+382,Sarah,Mcharo,Male,1992-08-17,Bahati,Carpenter,2022-01-07,29,Sputnik V
+388,Michael,Musa,Female,2000-07-29,Bahati,Mason,2022-09-05,22,Sinopharm
+184,David,Nyaga,Male,1997-08-18,Gilgil,Trader,2021-02-13,23,Oxford-AstraZeneca
+431,Michael,Chilambo,Female,2000-04-29,Naivasha,Mason,2022-04-06,22,Sinopharm
+88,Elizabeth,Mwashigadi,Male,1959-04-06,Njoro,Carpenter,2021-10-06,63,Sputnik V
+194,Mary,Chilambo,Female,2000-05-15,Molo,Farmer,2022-08-08,22,Sputnik V
+142,Paul,Mwadime,Male,2000-08-01,Subukia,Mason,2021-08-27,21,Pfizer
+458,Paul,Musa,Male,1983-04-04,Subukia,Trader,2021-07-19,38,Moderna
+1156,Mary,Musa,Male,1983-11-16,Subukia,Fisherman,2022-04-17,38,Moderna
+752,Sauda,Mcharo,Male,1986-11-03,Njoro,Farmer,2022-02-28,35,Johnson and Johnson
+376,David,Musa,Female,1994-05-07,Gilgil,Trader,2022-02-16,28,Johnson and Johnson
+258,Omar,Chilambo,Male,1956-02-19,Molo,Teacher,2021-07-20,65,Pfizer
+79,Michael,Mcharo,Male,1965-03-16,Molo,Carpenter,2021-10-08,57,Sputnik V
+774,Michael,Zuberi,Male,1978-09-29,Gilgil,Mason,2022-07-25,44,Sputnik V
+1467,David,Chilambo,Male,1991-08-18,Bahati,Mason,2022-11-19,31,Moderna
+485,Rahma,Chilambo,Male,1994-06-11,Gilgil,Fisherman,2022-05-06,28,Pfizer
+1476,Paul,Mwakalinga,Male,1988-08-25,Rongai,Trader,2021-06-28,33,Sputnik V
+863,Paul,Chilambo,Female,2000-10-22,Bahati,Carpenter,2022-09-15,22,Oxford-AstraZeneca
+1297,Rahma,Mcharo,Female,1988-05-24,Gilgil,Teacher,2022-11-19,34,Sinopharm
+1315,Joseph,Mwashigadi,Male,1989-07-12,Njoro,Mason,2021-06-24,32,Oxford-AstraZeneca
+1216,Michael,Mwashigadi,Male,1980-03-05,Gilgil,Carpenter,2021-01-26,41,Sinopharm
+1096,Joseph,Zuberi,Male,1993-11-06,Subukia,Fisherman,2022-08-19,29,Sinopharm
+86,Sarah,Mwashigadi,Male,2002-04-08,Rongai,Fisherman,2022-10-17,21,Pfizer
+422,Elizabeth,Chilambo,Female,1994-01-06,Gilgil,Tailor,2021-06-28,27,Sinopharm
+605,Joseph,Zuberi,Male,1989-12-07,Molo,Tailor,2021-02-22,31,Moderna
+683,Sarah,Musa,Male,1959-08-06,Naivasha,Mason,2022-09-23,63,Johnson and Johnson
+534,Mary,Mwashigadi,Male,1996-02-08,Naivasha,Fisherman,2021-11-15,26,Johnson and Johnson
+633,Omar,Mwashigadi,Male,1989-07-22,Rongai,Trader,2021-10-21,32,Pfizer
+200,Joseph,Chilambo,Male,1998-07-15,Rongai,Farmer,2021-06-20,23,Moderna
+953,Michael,Mwadime,Male,2000-04-04,Bahati,Tailor,2021-01-25,21,Johnson and Johnson
+1483,Omar,Mcharo,Male,1963-08-04,Bahati,Tailor,2022-05-14,59,Sinopharm
+41,Paul,Mwadime,Male,1989-06-14,Naivasha,Carpenter,2021-11-20,32,Moderna
+796,Paul,Chilambo,Male,1998-04-08,Subukia,Tailor,2021-03-14,23,Oxford-AstraZeneca
+354,Michael,Zuberi,Male,1991-08-07,Bahati,Fisherman,2022-03-23,31,Johnson and Johnson
+720,Sarah,Musa,Male,1987-04-19,Gilgil,Farmer,2022-10-19,36,Oxford-AstraZeneca
+1008,Sauda,Mwashigadi,Male,1979-04-17,Njoro,Tailor,2021-02-13,42,Johnson and Johnson
+32,Michael,Mwadime,Male,1988-05-20,Molo,Fisherman,2021-01-18,33,Sputnik V
+376,Michael,Musa,Male,2000-08-12,Molo,Fisherman,2021-08-29,21,Johnson and Johnson
+1123,Omar,Nyaga,Male,1978-03-09,Njoro,Mason,2021-11-24,44,Moderna
+924,Joseph,Nyaga,Female,2000-04-28,Rongai,Carpenter,2021-09-18,21,Sputnik V
+655,Sarah,Musa,Female,1988-10-20,Subukia,Mason,2021-01-27,32,Pfizer
+452,Michael,Zuberi,Male,2002-08-14,Naivasha,Carpenter,2021-02-27,19,Moderna
+870,Rahma,Chilambo,Female,1965-02-28,Gilgil,Tailor,2021-11-24,57,Oxford-AstraZeneca
+1160,Joseph,Ngoma,Female,1974-03-21,Subukia,Farmer,2022-11-28,49,Pfizer
+918,Omar,Nyaga,Male,1964-03-29,Gilgil,Farmer,2021-09-06,57,Moderna
+1346,Michael,Zuberi,Male,1976-02-19,Gilgil,Fisherman,2021-07-26,45,Sinopharm
+996,Paul,Mcharo,Male,1974-04-05,Gilgil,Fisherman,2021-08-12,47,Sputnik V
+1271,Elizabeth,Mtambo,Female,1985-04-18,Molo,Carpenter,2022-04-23,37,Sinopharm
+220,Mary,Mwadime,Female,1983-07-26,Bahati,Farmer,2022-09-17,39,Pfizer
+69,Mary,Mwadime,Male,1973-07-15,Naivasha,Tailor,2022-05-21,49,Sputnik V
+1118,Mary,Zuberi,Female,1974-03-07,Gilgil,Tailor,2022-06-16,48,Sputnik V
+98,Mary,Mwashigadi,Male,1987-02-25,Gilgil,Farmer,2021-06-25,34,Sinopharm
+871,Elizabeth,Nyaga,Female,2001-12-16,Molo,Trader,2022-06-21,21,Johnson and Johnson
+1139,Michael,Mwadime,Male,1995-06-09,Rongai,Carpenter,2022-06-13,27,Pfizer
+1020,Michael,Ngoma,Male,1961-11-02,Bahati,Tailor,2021-12-23,60,Sinopharm
+1399,David,Nyaga,Male,1983-01-07,Njoro,Carpenter,2021-10-26,39,Sputnik V
+490,Joseph,Mwashigadi,Female,1990-08-29,Molo,Carpenter,2021-09-22,31,Sinopharm
+870,Rahma,Zuberi,Male,1990-04-16,Gilgil,Teacher,2021-11-23,32,Pfizer
+1273,David,Ngoma,Male,1993-07-12,Bahati,Mason,2021-06-27,28,Sinopharm
+277,Mary,Mwashigadi,Male,1993-05-10,Gilgil,Carpenter,2021-01-20,28,Pfizer
+451,Elizabeth,Mwakalinga,Male,1999-01-09,Naivasha,Carpenter,2021-10-19,23,Moderna
+143,Elizabeth,Mwashigadi,Female,1971-02-15,Gilgil,Tailor,2021-10-04,51,Moderna
+16,Sarah,Mcharo,Male,2000-08-19,Naivasha,Carpenter,2021-08-09,21,Sinopharm
+636,Mary,Nyaga,Male,1989-05-08,Subukia,Teacher,2021-11-22,33,Oxford-AstraZeneca
+418,Rahma,Chilambo,Female,1979-02-09,Bahati,Teacher,2021-11-19,43,Moderna
+182,Michael,Mwashigadi,Female,1998-07-17,Subukia,Trader,2022-11-19,24,Sinopharm
+1155,Mary,Chilambo,Male,1964-07-20,Bahati,Tailor,2021-05-27,57,Sinopharm
+689,Omar,Mwashigadi,Male,1999-06-10,Njoro,Carpenter,2021-12-29,23,Sinopharm
+308,Michael,Chilambo,Male,1985-04-09,Njoro,Carpenter,2022-07-06,37,Sinopharm
+222,Sarah,Chilambo,Male,1989-09-05,Subukia,Teacher,2021-12-25,32,Pfizer
+898,Paul,Mwashigadi,Male,1981-02-25,Gilgil,Farmer,2021-05-06,40,Sputnik V
+1160,Sarah,Mcharo,Female,1995-06-09,Njoro,Tailor,2021-10-12,26,Pfizer
+1077,Joseph,Mwakalinga,Female,1961-03-03,Subukia,Teacher,2021-04-21,60,Oxford-AstraZeneca
+987,Sarah,Zuberi,Male,1985-06-09,Rongai,Carpenter,2021-11-17,36,Moderna
+835,Rahma,Mwakalinga,Female,1995-07-17,Naivasha,Carpenter,2021-05-18,26,Pfizer
+1479,Mary,Musa,Male,2002-04-16,Rongai,Tailor,2021-08-25,19,Moderna
+1416,Omar,Mwashigadi,Male,1980-03-04,Bahati,Teacher,2021-01-25,41,Pfizer
+45,Joseph,Zuberi,Male,1987-04-17,Molo,Tailor,2022-08-24,35,Moderna
+1283,Omar,Zuberi,Male,1990-07-25,Gilgil,Trader,2021-07-17,31,Oxford-AstraZeneca
+443,Omar,Zuberi,Male,1997-05-19,Naivasha,Carpenter,2021-08-21,24,Pfizer
+669,David,Nyaga,Female,1964-07-17,Bahati,Carpenter,2021-12-13,57,Oxford-AstraZeneca
+1127,Sarah,Zuberi,Female,2003-06-03,Gilgil,Mason,2021-11-25,18,Sinopharm
+1071,Sarah,Zuberi,Female,1997-05-24,Gilgil,Tailor,2021-04-18,24,Sinopharm
+435,David,Chilambo,Male,2003-06-03,Rongai,Trader,2021-08-09,18,Moderna
+1259,Mary,Ngoma,Male,1959-08-18,Naivasha,Farmer,2021-07-23,62,Sinopharm
+262,Joseph,Zuberi,Female,1995-06-06,Rongai,Mason,2021-04-24,26,Johnson and Johnson
+675,Mary,Mcharo,Male,1998-11-07,Njoro,Carpenter,2021-09-28,23,Sinopharm
+620,Sarah,Chilambo,Male,1957-05-27,Naivasha,Carpenter,2021-03-15,64,Pfizer
+1033,Joseph,Mwadime,Male,1962-09-16,Naivasha,Mason,2021-05-13,59,Pfizer
+105,David,Musa,Male,1976-04-06,Gilgil,Carpenter,2022-03-29,46,Sinopharm
+1233,Michael,Nyaga,Male,2003-09-06,Gilgil,Carpenter,2022-08-17,19,Oxford-AstraZeneca
+960,Omar,Musa,Male,1980-01-30,Subukia,Farmer,2022-04-16,42,Moderna
+302,Omar,Musa,Female,1991-04-07,Gilgil,Tailor,2021-08-17,30,Oxford-AstraZeneca
+1412,Michael,Mwakalinga,Male,1990-05-21,Gilgil,Trader,2021-06-28,31,Pfizer
+432,Michael,Mwakalinga,Male,1962-12-18,Njoro,Mason,2021-06-19,59,Sputnik V
+227,Rahma,Zuberi,Male,1980-08-04,Gilgil,Fisherman,2021-07-19,41,Sinopharm
+951,Sarah,Chilambo,Male,1986-11-30,Gilgil,Teacher,2021-08-13,35,Oxford-AstraZeneca
+387,Elizabeth,Mtambo,Male,1957-09-06,Gilgil,Carpenter,2022-06-19,65,Johnson and Johnson
+725,Mary,Mcharo,Male,1982-02-01,Bahati,Tailor,2021-04-21,39,Sinopharm
+215,Mary,Zuberi,Female,1992-06-06,Njoro,Tailor,2022-07-25,30,Johnson and Johnson
+1351,Elizabeth,Chilambo,Male,1962-07-27,Njoro,Farmer,2022-02-27,60,Pfizer
+60,Sauda,Zuberi,Male,1993-08-27,Subukia,Farmer,2021-06-15,28,Moderna
+1271,Sarah,Nyaga,Male,1992-07-19,Gilgil,Teacher,2021-09-18,29,Moderna
+1159,Michael,Musa,Male,1977-12-04,Rongai,Fisherman,2022-01-15,44,Johnson and Johnson
+872,Rahma,Nyaga,Male,1983-07-13,Rongai,Trader,2021-10-30,38,Pfizer
+360,Michael,Mwakalinga,Male,1986-07-07,Subukia,Fisherman,2021-03-23,35,Moderna
+1222,Mary,Mwashigadi,Male,1993-07-04,Bahati,Mason,2021-07-13,28,Sinopharm
+457,Sarah,Zuberi,Female,1979-03-31,Molo,Tailor,2022-06-18,43,Oxford-AstraZeneca
+958,Omar,Mcharo,Male,1964-06-20,Bahati,Tailor,2021-04-27,57,Pfizer
+1023,Rahma,Chilambo,Male,2003-04-04,Gilgil,Fisherman,2022-08-16,19,Pfizer
+760,Sarah,Mcharo,Female,1961-04-03,Molo,Tailor,2022-06-26,61,Pfizer
+582,Mary,Mwadime,Female,1959-05-12,Njoro,Carpenter,2022-07-26,63,Sputnik V
+900,Rahma,Mcharo,Female,1994-05-05,Subukia,Mason,2022-08-15,28,Sinopharm
+263,Sarah,Mwadime,Female,1966-08-11,Njoro,Trader,2022-12-28,56,Moderna
+155,Elizabeth,Chilambo,Male,1980-04-03,Subukia,Trader,2021-11-26,42,Johnson and Johnson
+165,Rahma,Chilambo,Male,1953-11-09,Njoro,Tailor,2021-03-20,67,Sinopharm
+1395,Elizabeth,Ngoma,Female,2002-02-11,Molo,Tailor,2022-05-15,20,Sinopharm
+1395,Joseph,Nyaga,Female,1999-04-22,Bahati,Trader,2021-08-08,22,Johnson and Johnson
+594,Omar,Mcharo,Male,1980-06-22,Njoro,Mason,2021-08-03,41,Sputnik V
+686,David,Nyaga,Male,1963-10-09,Naivasha,Tailor,2021-12-06,58,Oxford-AstraZeneca
+518,Rahma,Chilambo,Female,1971-07-09,Molo,Carpenter,2021-11-27,50,Moderna
+675,Paul,Musa,Male,1997-07-12,Rongai,Trader,2021-11-25,24,Moderna
+265,Mary,Musa,Female,1978-04-20,Rongai,Carpenter,2022-07-29,44,Sputnik V
+87,Michael,Musa,Female,1992-03-13,Njoro,Farmer,2022-11-14,31,Moderna
+856,Sarah,Zuberi,Female,2001-11-12,Molo,Farmer,2021-11-29,20,Sinopharm
+856,Elizabeth,Chilambo,Female,1978-11-15,Bahati,Mason,2022-01-20,43,Pfizer
+804,Paul,Ngoma,Female,1959-01-16,Molo,Farmer,2022-07-12,63,Johnson and Johnson
+1110,Omar,Zuberi,Male,1995-08-25,Njoro,Fisherman,2021-11-24,26,Johnson and Johnson
+780,Joseph,Mwadime,Female,1985-12-04,Njoro,Mason,2021-05-10,35,Sinopharm
+147,Michael,Zuberi,Male,2000-10-18,Gilgil,Carpenter,2021-06-22,21,Pfizer
+999,Sarah,Mtambo,Male,1977-05-20,Naivasha,Fisherman,2021-01-12,44,Pfizer
+604,Sarah,Mcharo,Male,1989-07-26,Rongai,Tailor,2022-06-30,33,Moderna
+358,Elizabeth,Nyaga,Male,1958-06-02,Subukia,Carpenter,2021-05-19,63,Johnson and Johnson
+416,Joseph,Mtambo,Female,2003-11-21,Subukia,Tailor,2022-08-10,19,Pfizer
+870,David,Nyaga,Male,1996-05-05,Njoro,Tailor,2021-08-19,25,Johnson and Johnson
+85,Elizabeth,Nyaga,Male,1974-07-05,Gilgil,Carpenter,2021-11-09,47,Johnson and Johnson
+1265,Sauda,Musa,Male,1998-04-18,Subukia,Trader,2021-04-28,23,Sinopharm
+1045,Sauda,Mcharo,Male,1969-04-07,Subukia,Farmer,2021-10-20,53,Johnson and Johnson
+725,Paul,Mwakalinga,Male,1994-07-10,Gilgil,Mason,2021-10-17,27,Sinopharm
+886,Sauda,Nyaga,Male,1965-03-03,Molo,Fisherman,2021-05-21,56,Sputnik V
+1137,Paul,Musa,Female,2000-09-05,Gilgil,Tailor,2021-10-21,21,Moderna
+1161,Sauda,Mcharo,Male,1964-07-15,Njoro,Carpenter,2021-11-05,57,Sputnik V
+990,Sarah,Mtambo,Female,1993-08-20,Bahati,Teacher,2021-04-25,28,Sinopharm
+1086,Michael,Nyaga,Male,1998-10-14,Gilgil,Tailor,2021-08-23,23,Moderna
+1317,Elizabeth,Mtambo,Female,1971-06-06,Subukia,Farmer,2021-01-25,50,Sinopharm
+201,Paul,Mcharo,Male,1961-02-04,Naivasha,Carpenter,2021-07-18,60,Sinopharm
+793,Michael,Mcharo,Male,2003-08-07,Subukia,Carpenter,2021-11-23,18,Moderna
+1208,Omar,Musa,Male,1988-05-24,Gilgil,Carpenter,2021-10-23,33,Moderna
+1096,Rahma,Mcharo,Male,2001-09-18,Naivasha,Carpenter,2022-05-07,21,Oxford-AstraZeneca
+860,Mary,Mwadime,Male,1985-02-17,Subukia,Trader,2022-09-25,38,Moderna
+1329,Sarah,Mwashigadi,Male,1984-04-18,Molo,Carpenter,2022-12-25,39,Moderna
+179,Omar,Ngoma,Male,1981-09-08,Naivasha,Tailor,2022-08-08,41,Sputnik V
+1136,David,Nyaga,Male,1989-07-07,Njoro,Tailor,2021-07-27,32,Johnson and Johnson
+1166,Joseph,Chilambo,Male,1962-07-13,Rongai,Trader,2021-06-20,59,Moderna
+1308,Elizabeth,Zuberi,Male,1990-07-08,Molo,Carpenter,2021-10-27,31,Sinopharm
+223,Sauda,Nyaga,Female,2002-04-01,Rongai,Mason,2021-11-06,20,Sputnik V
+411,Mary,Mcharo,Male,1982-05-09,Bahati,Farmer,2021-02-15,39,Sinopharm
+1275,Sarah,Mtambo,Male,2000-10-16,Njoro,Farmer,2022-02-19,21,Johnson and Johnson
+729,Sauda,Nyaga,Male,1956-10-05,Subukia,Tailor,2021-10-15,65,Moderna
+791,Paul,Mtambo,Male,2001-07-17,Bahati,Carpenter,2022-01-16,21,Moderna
+820,Mary,Mwashigadi,Male,1983-03-26,Rongai,Trader,2021-11-18,39,Pfizer
+704,Paul,Mtambo,Male,1960-08-14,Gilgil,Tailor,2022-11-16,62,Sinopharm
+175,Mary,Mtambo,Male,1986-08-08,Naivasha,Carpenter,2022-11-08,36,Pfizer
+528,Omar,Mcharo,Male,1986-08-13,Molo,Teacher,2021-01-17,34,Oxford-AstraZeneca
+241,David,Zuberi,Male,1989-04-25,Rongai,Tailor,2021-01-20,32,Johnson and Johnson
+1011,Rahma,Zuberi,Female,1957-04-06,Naivasha,Carpenter,2021-03-24,64,Moderna
+805,David,Mwadime,Male,1978-01-25,Njoro,Carpenter,2021-09-27,44,Sinopharm
+419,Michael,Chilambo,Female,1969-04-08,Rongai,Trader,2021-05-19,52,Pfizer
+516,David,Zuberi,Male,1992-06-11,Gilgil,Carpenter,2022-07-24,30,Moderna
+695,Sauda,Mwashigadi,Male,2000-05-03,Gilgil,Tailor,2021-08-20,21,Sinopharm
+1472,Rahma,Zuberi,Male,1972-04-23,Gilgil,Carpenter,2021-09-23,49,Pfizer
+242,Joseph,Mwashigadi,Male,1992-07-27,Rongai,Carpenter,2021-02-19,29,Sinopharm
+322,Joseph,Chilambo,Male,1970-07-04,Naivasha,Carpenter,2021-11-21,51,Sinopharm
+1087,Rahma,Mwakalinga,Female,1994-07-12,Gilgil,Trader,2022-09-25,28,Sputnik V
+1325,Michael,Zuberi,Male,1975-08-08,Bahati,Carpenter,2021-08-22,46,Pfizer
+736,Joseph,Musa,Female,1990-05-25,Gilgil,Tailor,2021-04-21,31,Pfizer
+1016,Sarah,Mwadime,Male,1996-04-06,Rongai,Carpenter,2021-01-22,25,Pfizer
+633,Elizabeth,Mwakalinga,Male,1961-10-28,Subukia,Fisherman,2021-08-18,60,Johnson and Johnson
+1471,Michael,Nyaga,Male,1998-05-09,Bahati,Mason,2021-05-13,23,Oxford-AstraZeneca
+710,Sarah,Nyaga,Male,1991-02-08,Gilgil,Fisherman,2021-08-07,30,Pfizer
+1458,Elizabeth,Ngoma,Female,1999-05-28,Subukia,Trader,2021-11-05,22,Sinopharm
+1182,Elizabeth,Mwakalinga,Male,1994-08-04,Subukia,Carpenter,2021-11-25,27,Pfizer
+83,David,Zuberi,Male,1991-11-18,Molo,Mason,2021-07-28,30,Moderna
+1051,Mary,Mcharo,Male,2003-08-18,Gilgil,Teacher,2022-07-28,19,Oxford-AstraZeneca
+1046,Omar,Nyaga,Male,1960-03-05,Rongai,Carpenter,2021-02-22,61,Pfizer
+1357,Mary,Mcharo,Female,1988-04-11,Njoro,Tailor,2022-12-30,35,Sinopharm
+835,David,Mwadime,Male,1988-07-03,Gilgil,Mason,2021-02-12,33,Moderna
+559,Mary,Zuberi,Female,1964-05-12,Njoro,Trader,2022-12-23,59,Oxford-AstraZeneca
+1297,Omar,Nyaga,Female,1960-02-12,Njoro,Tailor,2022-05-11,62,Pfizer
+1137,Elizabeth,Zuberi,Male,2002-09-18,Molo,Tailor,2021-02-27,18,Moderna
+1422,Joseph,Musa,Male,1990-11-24,Gilgil,Carpenter,2021-05-22,30,Pfizer
+218,Joseph,Mwashigadi,Male,1985-02-04,Bahati,Farmer,2021-03-31,36,Sinopharm
+1247,Omar,Mwashigadi,Male,1972-07-20,Njoro,Carpenter,2021-08-16,49,Sinopharm
+898,Elizabeth,Mcharo,Male,1980-08-16,Molo,Fisherman,2021-11-28,41,Pfizer
+922,Elizabeth,Musa,Male,1984-06-08,Naivasha,Carpenter,2022-07-08,38,Sinopharm
+410,Michael,Zuberi,Female,1979-01-28,Njoro,Trader,2022-09-26,44,Sputnik V
+1256,Paul,Musa,Male,1968-06-04,Subukia,Carpenter,2022-05-29,54,Pfizer
+473,Michael,Zuberi,Male,2001-03-08,Bahati,Carpenter,2021-08-23,20,Pfizer
+1181,David,Chilambo,Male,1989-12-12,Subukia,Teacher,2021-04-27,31,Johnson and Johnson
+855,Paul,Chilambo,Male,1996-08-10,Molo,Trader,2021-10-27,25,Oxford-AstraZeneca
+629,Sauda,Chilambo,Female,1995-08-11,Rongai,Tailor,2021-02-09,26,Pfizer
+29,Paul,Chilambo,Female,2004-07-17,Njoro,Carpenter,2022-11-27,18,Sputnik V
+1109,Michael,Mwakalinga,Male,1964-01-15,Njoro,Teacher,2021-09-19,58,Pfizer
+140,Omar,Chilambo,Female,1986-10-22,Rongai,Fisherman,2022-09-06,36,Sinopharm
+1403,Paul,Chilambo,Female,1972-03-27,Molo,Mason,2022-08-13,50,Sinopharm
+568,Omar,Zuberi,Male,1997-09-29,Molo,Carpenter,2021-07-26,24,Sinopharm
+1395,Elizabeth,Mcharo,Female,1987-04-25,Subukia,Mason,2022-09-25,35,Oxford-AstraZeneca
+614,Paul,Zuberi,Male,1969-06-21,Njoro,Fisherman,2021-03-12,52,Johnson and Johnson
+674,Sarah,Mwashigadi,Female,1991-07-04,Naivasha,Carpenter,2021-08-16,30,Sinopharm
+255,Elizabeth,Mwashigadi,Male,1990-02-09,Gilgil,Carpenter,2021-06-25,31,Pfizer
+43,Paul,Nyaga,Female,1998-08-24,Gilgil,Trader,2021-02-11,22,Sinopharm
+874,Omar,Mtambo,Female,1989-05-17,Naivasha,Mason,2021-05-18,32,Oxford-AstraZeneca
+1416,Mary,Ngoma,Male,1982-05-13,Molo,Mason,2021-11-24,40,Pfizer
+693,Paul,Ngoma,Female,1989-07-19,Molo,Carpenter,2021-08-23,32,Sputnik V
+754,Sarah,Mwashigadi,Male,1980-02-17,Gilgil,Tailor,2022-08-26,43,Oxford-AstraZeneca
+1455,Paul,Mtambo,Female,1986-08-15,Njoro,Trader,2022-05-22,36,Pfizer
+173,Sarah,Mwashigadi,Female,1981-03-15,Subukia,Farmer,2021-08-29,40,Sinopharm
+25,Michael,Nyaga,Female,2002-03-05,Njoro,Teacher,2021-01-23,19,Sinopharm
+1108,Omar,Nyaga,Male,2001-07-29,Njoro,Farmer,2021-09-28,20,Sputnik V
+576,Joseph,Mcharo,Male,1992-07-04,Molo,Tailor,2021-05-29,29,Pfizer
+1460,Elizabeth,Mwashigadi,Male,1990-11-13,Naivasha,Fisherman,2021-06-18,31,Pfizer
+586,Sarah,Mwadime,Female,1981-08-16,Naivasha,Tailor,2021-04-21,40,Moderna
+29,Mary,Mwashigadi,Male,2000-03-06,Njoro,Teacher,2021-07-21,21,Sinopharm
+1179,Sauda,Mwadime,Male,1991-08-13,Subukia,Carpenter,2022-09-21,31,Sputnik V
+1028,Sarah,Nyaga,Male,1991-07-17,Gilgil,Tailor,2022-11-14,31,Moderna
+373,Rahma,Mwakalinga,Male,2000-04-08,Bahati,Carpenter,2021-08-07,21,Sputnik V
+1421,Omar,Ngoma,Male,1984-04-08,Molo,Teacher,2021-12-14,38,Johnson and Johnson
+130,David,Mcharo,Male,1984-05-21,Rongai,Trader,2021-11-18,37,Sputnik V
+1454,Mary,Mwadime,Female,2003-09-09,Subukia,Tailor,2022-12-04,19,Moderna
+1040,Joseph,Chilambo,Male,1960-12-30,Subukia,Mason,2022-09-26,62,Johnson and Johnson
+835,Sauda,Mcharo,Male,1998-11-18,Gilgil,Farmer,2022-04-07,23,Sinopharm
+1109,Mary,Musa,Female,1978-05-21,Rongai,Mason,2022-05-22,44,Sinopharm
+871,Sauda,Mwadime,Male,1990-06-25,Gilgil,Farmer,2021-11-25,31,Sinopharm
+933,Sarah,Mwadime,Male,2000-04-18,Subukia,Mason,2021-11-30,22,Moderna
+542,Sauda,Musa,Male,1959-02-04,Rongai,Farmer,2021-11-11,63,Moderna
+626,Joseph,Mwashigadi,Male,1985-08-18,Njoro,Carpenter,2021-08-21,36,Sputnik V
+462,Rahma,Nyaga,Male,2003-04-08,Njoro,Trader,2021-10-06,18,Sputnik V
+1204,Sauda,Mwadime,Male,1986-04-27,Gilgil,Fisherman,2021-04-20,35,Sputnik V
+1072,Joseph,Musa,Male,2000-07-18,Rongai,Trader,2021-06-07,21,Moderna
+140,Omar,Mwashigadi,Female,1965-09-15,Njoro,Carpenter,2021-07-30,56,Sinopharm
+1236,Paul,Mtambo,Male,2002-12-21,Gilgil,Carpenter,2022-01-07,19,Sputnik V
+706,Michael,Mwashigadi,Male,1998-07-06,Gilgil,Carpenter,2021-11-19,23,Sputnik V
+550,Elizabeth,Mtambo,Female,1994-06-26,Molo,Tailor,2022-07-13,28,Sinopharm
+1107,Mary,Ngoma,Male,1962-08-17,Rongai,Carpenter,2022-07-04,60,Johnson and Johnson
+1041,Paul,Mcharo,Male,1989-05-23,Gilgil,Farmer,2022-05-22,33,Sputnik V
+1351,Rahma,Zuberi,Male,1999-07-05,Bahati,Tailor,2021-11-26,22,Oxford-AstraZeneca
+509,Sauda,Chilambo,Male,1989-04-26,Rongai,Fisherman,2021-08-15,32,Sputnik V
+609,David,Chilambo,Male,1981-10-04,Rongai,Tailor,2021-04-16,40,Pfizer
+951,Michael,Mwashigadi,Male,1991-03-24,Rongai,Carpenter,2021-09-29,31,Pfizer
+1464,Omar,Mcharo,Female,1976-09-17,Gilgil,Trader,2022-07-27,46,Moderna
+173,Rahma,Mwakalinga,Female,1980-11-06,Gilgil,Farmer,2021-03-25,40,Sinopharm
+526,Mary,Ngoma,Male,1988-01-26,Bahati,Tailor,2021-06-19,33,Moderna
+1408,Sauda,Mwadime,Male,1989-04-11,Gilgil,Farmer,2021-06-23,32,Sinopharm
+1188,David,Mtambo,Male,1998-09-21,Njoro,Carpenter,2021-11-27,23,Moderna
+967,Mary,Mwakalinga,Male,2003-03-21,Gilgil,Tailor,2022-07-27,19,Pfizer
+1385,Sauda,Nyaga,Male,1957-02-19,Njoro,Carpenter,2021-09-27,65,Moderna
+394,Omar,Mwashigadi,Female,1960-07-25,Gilgil,Carpenter,2021-08-27,61,Pfizer
+318,Elizabeth,Musa,Male,1962-09-17,Subukia,Carpenter,2022-01-20,59,Sputnik V
+818,Omar,Mtambo,Male,1995-04-30,Gilgil,Trader,2021-05-26,26,Moderna
+389,Sauda,Mwakalinga,Female,1985-03-08,Molo,Farmer,2021-10-23,37,Oxford-AstraZeneca
+978,David,Nyaga,Male,1962-04-26,Subukia,Carpenter,2022-06-28,60,Oxford-AstraZeneca
+910,Mary,Mwadime,Female,2003-04-10,Rongai,Teacher,2021-11-30,19,Moderna
+279,Elizabeth,Zuberi,Male,2001-03-16,Njoro,Fisherman,2021-05-09,20,Johnson and Johnson
+650,Elizabeth,Mwadime,Male,1977-08-06,Bahati,Carpenter,2021-05-05,44,Sputnik V
+587,Elizabeth,Mwashigadi,Male,2002-04-18,Molo,Tailor,2021-09-27,19,Johnson and Johnson
+650,Mary,Mwashigadi,Male,1981-05-06,Molo,Fisherman,2021-08-28,40,Pfizer
+838,Rahma,Nyaga,Female,1989-01-04,Naivasha,Carpenter,2022-02-25,33,Moderna
+1317,Joseph,Zuberi,Male,1977-08-05,Rongai,Tailor,2021-03-26,44,Moderna
+491,Omar,Mwadime,Male,2001-05-22,Njoro,Carpenter,2021-10-21,20,Moderna
+1280,Sauda,Nyaga,Male,1979-09-17,Naivasha,Fisherman,2022-08-17,43,Moderna
+737,Sarah,Mwashigadi,Male,2002-04-19,Njoro,Carpenter,2022-11-27,21,Johnson and Johnson
+1202,Paul,Chilambo,Female,1998-03-15,Naivasha,Mason,2021-10-18,24,Moderna
+967,Sarah,Zuberi,Male,1977-11-08,Bahati,Carpenter,2021-11-12,44,Sinopharm
+1372,Mary,Mwashigadi,Female,1975-01-23,Rongai,Farmer,2022-04-24,47,Moderna
+165,Rahma,Mcharo,Male,1969-04-05,Njoro,Trader,2021-02-11,52,Pfizer
+599,Sarah,Musa,Female,1973-08-22,Bahati,Carpenter,2021-07-15,48,Pfizer
+1435,Mary,Mwadime,Female,1986-04-29,Bahati,Teacher,2022-12-27,37,Oxford-AstraZeneca
+516,Sauda,Chilambo,Male,2001-09-07,Rongai,Carpenter,2021-07-20,20,Pfizer
+254,Mary,Chilambo,Male,1990-10-08,Molo,Carpenter,2021-03-29,30,Sinopharm
+947,Rahma,Mcharo,Male,2001-08-28,Bahati,Trader,2022-01-05,20,Sputnik V
+1173,Sauda,Nyaga,Male,1987-06-30,Gilgil,Farmer,2021-06-22,34,Moderna
+1413,David,Mwadime,Female,2004-01-04,Gilgil,Teacher,2022-02-09,18,Moderna
+816,Omar,Mwashigadi,Female,1978-07-17,Njoro,Carpenter,2021-04-18,43,Moderna
+393,Paul,Nyaga,Male,1998-07-11,Gilgil,Tailor,2022-06-22,24,Johnson and Johnson
+779,Sauda,Mtambo,Female,1961-03-28,Njoro,Tailor,2021-02-19,60,Pfizer
+385,Elizabeth,Musa,Female,1999-11-18,Gilgil,Tailor,2021-04-16,21,Sputnik V
+356,Elizabeth,Chilambo,Female,2002-01-12,Njoro,Carpenter,2021-06-29,19,Sinopharm
+743,Sauda,Chilambo,Female,1991-11-25,Subukia,Tailor,2021-05-19,29,Sinopharm
+849,Rahma,Ngoma,Male,1983-04-05,Naivasha,Carpenter,2021-07-30,38,Johnson and Johnson
+1274,Rahma,Ngoma,Male,2000-08-07,Naivasha,Farmer,2021-09-30,21,Sinopharm
+1120,Paul,Mwashigadi,Male,1997-09-21,Njoro,Carpenter,2021-07-31,24,Johnson and Johnson
+91,Joseph,Nyaga,Male,2001-03-25,Subukia,Teacher,2021-06-19,20,Pfizer
+969,Rahma,Chilambo,Male,1976-03-23,Gilgil,Carpenter,2021-04-21,45,Moderna
+80,David,Nyaga,Female,1965-05-11,Njoro,Tailor,2021-07-28,56,Johnson and Johnson
+975,Elizabeth,Mwashigadi,Male,1990-03-08,Naivasha,Mason,2021-03-15,31,Sinopharm
+834,David,Mcharo,Male,1993-02-14,Gilgil,Trader,2021-07-15,28,Pfizer
+1249,Paul,Nyaga,Male,1987-11-05,Rongai,Mason,2021-11-28,34,Sputnik V
+186,Paul,Mcharo,Male,1974-06-10,Gilgil,Teacher,2021-06-21,47,Moderna
+87,Omar,Mwakalinga,Female,1981-03-20,Subukia,Tailor,2021-09-08,40,Sinopharm
+291,Joseph,Mtambo,Male,1981-03-23,Naivasha,Mason,2021-10-17,41,Moderna
+390,Sauda,Chilambo,Female,1967-03-02,Njoro,Carpenter,2022-06-22,55,Sputnik V
+124,Sarah,Nyaga,Male,1985-03-28,Naivasha,Mason,2021-01-29,36,Pfizer
+61,Mary,Mcharo,Male,1958-05-16,Njoro,Carpenter,2021-03-21,63,Sputnik V
+1082,Michael,Chilambo,Male,1978-10-13,Naivasha,Mason,2022-02-15,43,Pfizer
+29,Paul,Ngoma,Male,1986-04-16,Naivasha,Fisherman,2022-08-27,36,Sputnik V
+1429,Sarah,Mcharo,Female,1996-07-08,Subukia,Tailor,2021-11-22,25,Sinopharm
+322,Rahma,Zuberi,Male,1978-03-16,Molo,Carpenter,2021-10-26,44,Moderna
+718,Sauda,Musa,Female,1969-08-17,Naivasha,Trader,2021-07-06,52,Sinopharm
+241,Rahma,Nyaga,Female,1987-09-17,Subukia,Tailor,2021-07-27,34,Johnson and Johnson
+811,Joseph,Nyaga,Male,1996-04-29,Subukia,Tailor,2021-08-11,25,Oxford-AstraZeneca
+1030,Mary,Musa,Female,1985-05-11,Njoro,Teacher,2021-09-17,36,Sputnik V
+502,Elizabeth,Chilambo,Male,1958-08-08,Molo,Carpenter,2021-07-21,63,Moderna
+411,Omar,Chilambo,Female,2004-08-26,Molo,Mason,2022-10-16,18,Moderna
+1250,Mary,Ngoma,Male,1998-04-29,Subukia,Fisherman,2021-08-30,23,Sinopharm
+464,Elizabeth,Zuberi,Male,1962-08-03,Bahati,Tailor,2022-11-03,60,Pfizer
+5,Michael,Mwashigadi,Male,1976-06-07,Bahati,Carpenter,2021-05-17,45,Moderna
+754,Mary,Chilambo,Male,1982-07-25,Rongai,Teacher,2021-05-22,39,Pfizer
+492,Sauda,Chilambo,Male,2002-02-01,Molo,Fisherman,2022-02-18,20,Pfizer
+1451,Michael,Mcharo,Male,1994-04-29,Naivasha,Fisherman,2022-03-22,28,Pfizer
+9,Sarah,Zuberi,Male,1981-08-10,Gilgil,Farmer,2021-06-11,40,Sputnik V
+279,Joseph,Mwashigadi,Female,1996-08-18,Rongai,Carpenter,2021-08-21,25,Pfizer
+1279,Michael,Mwakalinga,Female,1991-10-25,Njoro,Tailor,2021-11-23,30,Pfizer
+216,Sarah,Chilambo,Female,1964-05-06,Naivasha,Teacher,2021-07-06,57,Pfizer
+795,Elizabeth,Musa,Male,1996-02-20,Subukia,Mason,2021-08-21,26,Oxford-AstraZeneca
+807,David,Zuberi,Male,1982-05-31,Gilgil,Trader,2022-01-17,40,Moderna
+748,Michael,Mwadime,Female,1989-06-18,Subukia,Carpenter,2021-04-05,32,Pfizer
+952,Joseph,Mcharo,Female,1992-11-21,Gilgil,Farmer,2022-04-10,29,Sinopharm
+741,Elizabeth,Chilambo,Male,1987-10-09,Molo,Carpenter,2021-08-17,34,Sputnik V
+992,Rahma,Nyaga,Male,1985-04-10,Gilgil,Trader,2021-08-28,36,Oxford-AstraZeneca
+300,Omar,Mwashigadi,Male,1959-01-13,Bahati,Tailor,2021-09-21,63,Sputnik V
+226,Mary,Zuberi,Male,2002-08-09,Naivasha,Mason,2021-10-28,19,Moderna
+1426,Mary,Chilambo,Male,1982-11-26,Njoro,Carpenter,2022-09-19,40,Sputnik V
+1291,Sauda,Chilambo,Male,1992-04-27,Gilgil,Carpenter,2021-11-14,30,Moderna
+623,Joseph,Mtambo,Male,1994-03-29,Molo,Fisherman,2021-11-22,28,Moderna
+170,Elizabeth,Mcharo,Male,1974-05-19,Rongai,Carpenter,2021-05-06,47,Pfizer
+784,David,Mwashigadi,Male,1979-04-16,Njoro,Carpenter,2022-08-27,43,Pfizer
+748,Elizabeth,Mcharo,Male,2004-04-17,Molo,Tailor,2022-11-08,19,Moderna
+377,Mary,Chilambo,Female,2001-07-08,Njoro,Trader,2021-08-28,20,Oxford-AstraZeneca
+1117,Mary,Mcharo,Female,1980-03-12,Molo,Tailor,2021-02-21,41,Pfizer
+1204,David,Mcharo,Female,1963-04-25,Rongai,Trader,2022-10-15,59,Sputnik V
+61,Mary,Musa,Male,1982-11-27,Molo,Carpenter,2021-11-20,39,Sinopharm
+475,Mary,Mtambo,Male,1978-07-11,Gilgil,Teacher,2022-07-10,44,Sputnik V
+632,Sarah,Mwashigadi,Male,1959-07-21,Rongai,Carpenter,2021-11-20,62,Johnson and Johnson
+1005,Sauda,Mwakalinga,Female,1966-08-21,Njoro,Carpenter,2022-12-10,56,Sputnik V
+1338,Elizabeth,Nyaga,Male,1980-05-11,Molo,Mason,2022-07-19,42,Johnson and Johnson
+1440,Michael,Mwakalinga,Male,1999-09-16,Njoro,Mason,2021-07-18,22,Johnson and Johnson
+332,Sauda,Mwakalinga,Female,1961-07-26,Gilgil,Farmer,2021-06-08,60,Moderna
+930,Omar,Mwashigadi,Male,1968-08-26,Molo,Carpenter,2022-06-16,54,Sinopharm
+561,Paul,Chilambo,Female,1991-03-27,Molo,Carpenter,2021-02-16,30,Oxford-AstraZeneca
+1279,Sauda,Zuberi,Male,1955-03-21,Njoro,Carpenter,2021-09-20,67,Moderna
+896,Mary,Musa,Male,1998-06-22,Rongai,Carpenter,2021-04-21,23,Moderna
+1169,Mary,Mwadime,Female,1984-04-26,Bahati,Farmer,2021-08-07,37,Sputnik V
+1006,David,Mwashigadi,Male,1997-07-15,Njoro,Carpenter,2021-04-28,24,Sinopharm
+808,Rahma,Mwashigadi,Male,1979-11-20,Gilgil,Carpenter,2022-06-12,43,Johnson and Johnson
+229,Michael,Zuberi,Male,1989-05-31,Gilgil,Trader,2021-05-15,32,Sinopharm
+1471,Joseph,Chilambo,Male,1996-09-29,Gilgil,Trader,2021-05-15,25,Pfizer
+355,Mary,Mwashigadi,Female,1999-08-03,Naivasha,Carpenter,2021-06-11,22,Sinopharm
+334,Paul,Musa,Female,1992-10-12,Subukia,Mason,2022-11-27,30,Sinopharm
+662,Elizabeth,Mtambo,Male,2002-06-04,Rongai,Tailor,2021-04-29,19,Johnson and Johnson
+1439,Michael,Mwashigadi,Male,1973-05-25,Subukia,Carpenter,2021-11-26,49,Moderna
+12,Omar,Nyaga,Male,1959-08-22,Molo,Carpenter,2022-09-27,63,Oxford-AstraZeneca
+586,Mary,Mcharo,Female,2001-04-16,Gilgil,Teacher,2022-09-20,21,Sinopharm
+1349,Sauda,Chilambo,Male,1996-03-12,Gilgil,Teacher,2022-02-09,26,Pfizer
+8,Sarah,Mwakalinga,Male,1960-07-15,Gilgil,Farmer,2022-02-23,62,Sinopharm
+266,David,Mwadime,Female,1987-07-17,Naivasha,Mason,2021-02-21,34,Oxford-AstraZeneca
+840,Joseph,Ngoma,Female,1987-01-17,Rongai,Farmer,2021-11-14,35,Pfizer
+1289,Elizabeth,Zuberi,Female,2001-08-17,Bahati,Carpenter,2022-08-27,21,Sinopharm
+1124,David,Mwakalinga,Male,1978-11-11,Rongai,Trader,2021-07-22,43,Pfizer
+1377,Rahma,Zuberi,Male,1987-04-27,Molo,Tailor,2021-06-16,34,Moderna
+429,Omar,Zuberi,Male,2001-04-08,Naivasha,Farmer,2021-08-08,20,Moderna
+1257,Sarah,Ngoma,Female,1998-02-04,Bahati,Carpenter,2021-02-19,23,Moderna
+1388,Omar,Mwadime,Female,2001-04-06,Rongai,Carpenter,2021-05-16,20,Sinopharm
+1033,Elizabeth,Mwashigadi,Female,2000-12-15,Gilgil,Trader,2021-08-13,21,Johnson and Johnson
+1309,Mary,Mwadime,Male,1978-06-07,Subukia,Farmer,2021-12-18,44,Moderna
+55,Elizabeth,Ngoma,Male,1992-05-18,Naivasha,Carpenter,2022-02-22,30,Johnson and Johnson
+1098,Michael,Nyaga,Female,1981-11-15,Molo,Mason,2021-02-16,39,Sinopharm
+502,Mary,Mtambo,Male,1999-04-25,Gilgil,Fisherman,2022-11-07,24,Johnson and Johnson
+635,Mary,Mwakalinga,Female,1964-04-23,Njoro,Fisherman,2021-02-12,57,Moderna
+70,Rahma,Mwashigadi,Female,1980-04-17,Njoro,Teacher,2022-06-10,42,Sputnik V
+308,David,Mwadime,Female,1996-02-27,Naivasha,Teacher,2022-08-28,26,Moderna
+451,Sarah,Chilambo,Male,2000-01-18,Rongai,Teacher,2022-02-12,22,Moderna
+919,Sarah,Ngoma,Female,1996-06-20,Gilgil,Carpenter,2021-05-20,25,Sputnik V
+1373,Michael,Mwakalinga,Male,2002-02-27,Bahati,Carpenter,2021-11-25,20,Moderna
+605,Sarah,Mwashigadi,Male,1986-08-27,Njoro,Farmer,2021-02-15,34,Sputnik V
+1195,David,Chilambo,Male,1987-08-20,Rongai,Tailor,2021-06-26,34,Pfizer
+968,Elizabeth,Zuberi,Male,1990-06-03,Njoro,Farmer,2021-10-30,31,Sinopharm
+675,Michael,Chilambo,Male,1961-08-07,Gilgil,Tailor,2021-01-12,59,Moderna
+32,David,Musa,Female,1959-01-11,Subukia,Carpenter,2021-05-25,62,Sputnik V
+1327,Paul,Zuberi,Female,1992-05-15,Subukia,Farmer,2022-04-15,30,Pfizer
+1403,Sarah,Chilambo,Male,1957-03-12,Molo,Carpenter,2021-06-20,64,Johnson and Johnson
+85,Sauda,Mwashigadi,Male,1989-07-13,Subukia,Farmer,2021-08-11,32,Pfizer
+811,David,Mcharo,Female,1965-06-15,Njoro,Trader,2021-11-18,56,Oxford-AstraZeneca
+724,Sauda,Mcharo,Male,1983-11-06,Gilgil,Mason,2021-07-27,38,Johnson and Johnson
+1158,Mary,Chilambo,Female,1977-06-08,Molo,Fisherman,2021-09-30,44,Pfizer
+997,David,Chilambo,Male,2001-08-17,Subukia,Fisherman,2022-02-21,21,Pfizer
+515,Elizabeth,Musa,Female,1968-08-14,Bahati,Mason,2022-08-09,54,Moderna
+1134,Rahma,Mcharo,Male,1996-07-06,Gilgil,Farmer,2021-10-09,25,Sinopharm
+53,Elizabeth,Musa,Female,1959-02-25,Molo,Carpenter,2022-11-22,64,Moderna
+111,David,Mwashigadi,Female,1958-03-21,Subukia,Fisherman,2021-01-21,63,Sputnik V
+600,Elizabeth,Musa,Male,1966-06-23,Naivasha,Teacher,2021-05-24,55,Moderna
+1272,Sauda,Musa,Male,2002-02-15,Gilgil,Teacher,2021-07-19,19,Oxford-AstraZeneca
+1134,David,Zuberi,Male,1994-02-06,Bahati,Tailor,2021-10-28,28,Johnson and Johnson
+485,Joseph,Mwashigadi,Male,1958-03-28,Subukia,Carpenter,2021-03-20,63,Sinopharm
+995,Joseph,Mwashigadi,Male,1969-09-26,Njoro,Fisherman,2021-07-14,52,Oxford-AstraZeneca
+455,Sauda,Mwashigadi,Female,1994-08-02,Molo,Farmer,2022-05-16,28,Pfizer
+1101,Sarah,Mcharo,Male,1962-09-06,Gilgil,Mason,2022-02-11,59,Oxford-AstraZeneca
+1465,Joseph,Musa,Male,1958-04-07,Njoro,Teacher,2022-01-01,64,Oxford-AstraZeneca
+1476,Elizabeth,Nyaga,Male,2003-03-16,Naivasha,Fisherman,2022-06-16,19,Moderna
+1207,Elizabeth,Nyaga,Male,1993-04-15,Gilgil,Teacher,2021-05-27,28,Moderna
+882,Joseph,Nyaga,Male,1982-08-17,Subukia,Fisherman,2022-09-05,40,Moderna
+807,Sarah,Mwashigadi,Male,1991-09-07,Molo,Mason,2022-06-23,31,Sputnik V
+1001,Paul,Ngoma,Male,1992-01-15,Gilgil,Teacher,2021-11-20,30,Moderna
+362,David,Nyaga,Female,1988-11-20,Gilgil,Carpenter,2021-10-24,33,Oxford-AstraZeneca
+582,Sarah,Musa,Female,1976-07-28,Njoro,Tailor,2021-03-26,45,Sinopharm
+687,Sarah,Musa,Male,1980-06-22,Rongai,Trader,2021-11-24,41,Oxford-AstraZeneca
+50,Elizabeth,Ngoma,Male,1994-03-01,Gilgil,Trader,2021-07-31,27,Oxford-AstraZeneca
+540,Sauda,Zuberi,Male,1984-01-26,Molo,Carpenter,2021-02-20,37,Moderna
+240,Michael,Nyaga,Male,1969-07-06,Naivasha,Mason,2021-01-30,52,Oxford-AstraZeneca
+477,Elizabeth,Mwashigadi,Male,1998-04-26,Rongai,Farmer,2022-06-20,24,Sputnik V
+242,David,Mwashigadi,Male,1954-03-18,Subukia,Farmer,2022-05-29,68,Sinopharm
+558,Mary,Mtambo,Male,1970-01-04,Gilgil,Teacher,2021-08-06,52,Moderna
+854,Rahma,Mwakalinga,Male,1986-09-04,Gilgil,Fisherman,2021-10-10,35,Sinopharm
+1493,Michael,Mwashigadi,Female,1956-05-04,Gilgil,Carpenter,2022-04-11,66,Sputnik V
+270,Michael,Musa,Male,1999-01-12,Molo,Mason,2021-05-29,22,Sinopharm
+1435,Omar,Ngoma,Female,1989-05-27,Gilgil,Trader,2021-10-16,32,Pfizer
+811,David,Chilambo,Male,1983-02-10,Njoro,Trader,2022-10-20,40,Moderna
+1159,Sauda,Musa,Male,1986-04-16,Molo,Fisherman,2021-07-18,35,Moderna
+26,Joseph,Mwashigadi,Female,1979-04-14,Subukia,Carpenter,2021-12-22,43,Sputnik V
+1219,Omar,Musa,Female,1995-07-18,Molo,Trader,2021-03-12,26,Pfizer
+1495,Sarah,Mtambo,Male,1971-09-10,Gilgil,Fisherman,2022-08-27,51,Pfizer
+1476,Omar,Mwashigadi,Male,1959-05-16,Subukia,Carpenter,2021-08-22,62,Oxford-AstraZeneca
+440,Sauda,Zuberi,Male,2002-05-16,Bahati,Trader,2022-05-13,20,Oxford-AstraZeneca
+1386,David,Mwadime,Male,1969-03-19,Gilgil,Carpenter,2022-08-25,53,Moderna
+683,Elizabeth,Ngoma,Male,1992-12-08,Molo,Fisherman,2022-07-22,30,Pfizer
+815,Joseph,Mwashigadi,Female,1971-07-07,Bahati,Carpenter,2022-02-22,51,Oxford-AstraZeneca
+41,Sarah,Chilambo,Male,1955-06-09,Molo,Teacher,2021-04-23,66,Sinopharm
+626,Elizabeth,Mcharo,Male,1970-07-25,Njoro,Carpenter,2021-11-18,51,Sinopharm
+344,Omar,Mtambo,Male,1982-07-05,Gilgil,Farmer,2021-10-18,39,Pfizer
+1274,Elizabeth,Chilambo,Male,1998-05-11,Naivasha,Fisherman,2021-01-22,23,Johnson and Johnson
+1471,Sarah,Musa,Female,2000-05-15,Bahati,Tailor,2021-08-16,21,Sinopharm
+684,Michael,Zuberi,Female,1979-10-06,Njoro,Fisherman,2021-05-28,42,Sinopharm
+913,Omar,Mcharo,Male,1990-05-28,Rongai,Trader,2021-04-29,31,Pfizer
+439,Paul,Nyaga,Male,1999-04-19,Naivasha,Trader,2021-03-28,22,Moderna
+847,Rahma,Chilambo,Male,1981-07-05,Rongai,Trader,2021-07-19,40,Moderna
+648,David,Mcharo,Male,1963-02-10,Gilgil,Carpenter,2021-08-30,59,Sinopharm
+333,Paul,Chilambo,Male,1988-08-15,Gilgil,Farmer,2021-07-16,33,Sputnik V
+885,Mary,Zuberi,Female,1972-03-29,Bahati,Carpenter,2021-11-18,50,Oxford-AstraZeneca
+1160,Michael,Mwakalinga,Male,1997-07-26,Gilgil,Carpenter,2021-11-20,24,Oxford-AstraZeneca
+804,David,Chilambo,Male,1997-07-18,Molo,Teacher,2021-02-13,24,Sinopharm
+13,Michael,Mtambo,Female,1994-03-20,Gilgil,Carpenter,2022-08-21,28,Moderna
+522,Mary,Mwashigadi,Male,1980-03-10,Bahati,Carpenter,2021-11-11,42,Pfizer
+296,David,Chilambo,Female,1963-08-04,Subukia,Mason,2022-04-07,59,Johnson and Johnson
+19,Paul,Nyaga,Male,1959-08-06,Molo,Farmer,2021-07-30,62,Pfizer
+1241,Joseph,Zuberi,Male,2000-06-10,Gilgil,Tailor,2021-12-17,22,Moderna
+439,Michael,Nyaga,Female,1978-07-28,Rongai,Carpenter,2021-04-19,43,Pfizer
+1033,Rahma,Mwadime,Male,1997-06-16,Molo,Carpenter,2021-08-25,24,Pfizer
+661,Paul,Musa,Male,1986-09-05,Gilgil,Teacher,2022-05-25,36,Johnson and Johnson
+278,David,Chilambo,Male,1980-04-07,Molo,Teacher,2021-05-17,41,Moderna
+227,Michael,Musa,Female,1986-04-20,Gilgil,Trader,2021-05-12,35,Pfizer
+11,David,Mwashigadi,Female,1979-04-12,Njoro,Trader,2021-06-16,42,Johnson and Johnson
+308,Elizabeth,Chilambo,Female,1967-08-19,Njoro,Tailor,2021-10-24,54,Oxford-AstraZeneca
+1180,Omar,Mcharo,Male,1966-05-21,Gilgil,Mason,2021-07-18,55,Pfizer
+972,Sarah,Zuberi,Female,1999-03-08,Naivasha,Mason,2021-06-19,22,Pfizer
+217,Elizabeth,Mwakalinga,Male,1971-06-20,Gilgil,Farmer,2022-07-04,51,Sinopharm
+58,Rahma,Nyaga,Female,1962-03-06,Njoro,Fisherman,2021-07-12,59,Sinopharm
+1211,Mary,Musa,Female,2002-03-15,Naivasha,Carpenter,2021-02-20,19,Oxford-AstraZeneca
+489,Omar,Chilambo,Female,1995-07-01,Molo,Farmer,2021-02-22,26,Sputnik V
+382,Sauda,Zuberi,Female,1995-03-30,Rongai,Teacher,2022-09-26,27,Oxford-AstraZeneca
+734,David,Ngoma,Male,1995-11-14,Molo,Carpenter,2021-02-05,25,Sinopharm
+334,Sauda,Chilambo,Male,1988-05-20,Molo,Carpenter,2021-02-16,33,Johnson and Johnson
+152,Omar,Musa,Female,1976-07-15,Bahati,Fisherman,2021-10-27,45,Oxford-AstraZeneca
+75,Rahma,Mwashigadi,Male,1985-10-15,Rongai,Trader,2021-09-07,36,Sinopharm
+508,Michael,Chilambo,Male,1998-05-20,Subukia,Teacher,2021-09-30,23,Oxford-AstraZeneca
+82,Sarah,Mtambo,Male,1955-08-22,Naivasha,Teacher,2021-07-16,66,Sinopharm
+336,Paul,Ngoma,Male,2003-08-04,Gilgil,Carpenter,2021-08-30,18,Johnson and Johnson
+1050,Elizabeth,Nyaga,Female,1994-02-16,Naivasha,Mason,2021-07-14,27,Moderna
+1444,David,Mtambo,Male,1958-03-21,Gilgil,Fisherman,2021-06-24,63,Pfizer
+648,Sauda,Chilambo,Male,1960-05-19,Njoro,Fisherman,2021-07-12,61,Moderna
+577,Sarah,Musa,Male,1994-12-09,Naivasha,Tailor,2021-04-19,26,Johnson and Johnson
+336,Paul,Nyaga,Male,1968-05-04,Molo,Carpenter,2021-05-22,53,Sinopharm
+134,Sarah,Mwadime,Female,1997-07-14,Bahati,Farmer,2021-09-19,24,Johnson and Johnson
+1089,Sauda,Chilambo,Male,1959-06-29,Rongai,Teacher,2021-07-10,62,Oxford-AstraZeneca
+401,Paul,Chilambo,Male,1995-07-09,Rongai,Carpenter,2021-07-22,26,Pfizer
+992,Sarah,Nyaga,Male,1972-07-17,Rongai,Fisherman,2021-08-20,49,Moderna
+368,Joseph,Zuberi,Female,1998-04-23,Gilgil,Tailor,2022-06-25,24,Pfizer
+900,Omar,Chilambo,Male,1989-07-27,Gilgil,Carpenter,2021-05-12,32,Sputnik V
+559,Sarah,Ngoma,Male,1975-11-04,Bahati,Carpenter,2022-07-29,47,Pfizer
+179,Joseph,Zuberi,Female,1972-07-09,Rongai,Trader,2021-06-18,49,Moderna
+590,Rahma,Mwashigadi,Male,1966-05-04,Gilgil,Mason,2021-11-07,56,Johnson and Johnson
+720,Elizabeth,Mwakalinga,Female,1981-02-12,Naivasha,Carpenter,2022-11-18,42,Sputnik V
+70,Joseph,Mtambo,Female,1994-04-27,Njoro,Carpenter,2022-11-14,29,Pfizer
+383,Joseph,Chilambo,Female,1976-06-15,Molo,Carpenter,2021-12-17,46,Pfizer
+441,Sauda,Musa,Male,1998-11-12,Njoro,Carpenter,2021-05-29,23,Pfizer
+1194,Mary,Nyaga,Male,1993-03-14,Gilgil,Fisherman,2021-06-20,28,Pfizer
+332,Joseph,Mtambo,Male,1999-09-20,Subukia,Farmer,2022-09-29,23,Moderna
+298,Omar,Mcharo,Female,1995-04-22,Bahati,Tailor,2021-02-19,26,Sputnik V
+544,David,Mwadime,Male,1979-01-05,Njoro,Tailor,2021-07-11,43,Moderna
+836,Sarah,Mwashigadi,Male,1974-07-06,Subukia,Farmer,2021-09-15,47,Oxford-AstraZeneca
+16,Sarah,Mwashigadi,Male,1986-06-23,Gilgil,Farmer,2022-03-15,36,Johnson and Johnson
+1495,David,Zuberi,Male,1958-09-05,Gilgil,Carpenter,2021-05-05,63,Johnson and Johnson
+313,Paul,Mwashigadi,Female,2003-03-20,Bahati,Carpenter,2021-06-24,18,Sputnik V
+1395,Elizabeth,Zuberi,Female,1983-04-27,Gilgil,Mason,2021-09-22,38,Johnson and Johnson
+1064,Michael,Mwashigadi,Male,1986-11-16,Bahati,Farmer,2022-06-20,36,Sputnik V
+1485,Joseph,Chilambo,Male,1965-02-16,Molo,Tailor,2021-02-18,56,Sputnik V
+1119,Joseph,Mwashigadi,Male,1989-08-25,Molo,Fisherman,2022-07-29,33,Sputnik V
+1024,Sauda,Musa,Male,1999-08-06,Subukia,Carpenter,2022-09-15,23,Oxford-AstraZeneca
+914,Mary,Mwakalinga,Male,1978-04-10,Njoro,Fisherman,2021-01-16,43,Moderna
+672,Joseph,Ngoma,Male,2002-08-30,Gilgil,Carpenter,2021-09-17,19,Moderna
+690,Paul,Chilambo,Male,1984-05-22,Subukia,Carpenter,2021-09-15,37,Pfizer
+757,Sauda,Nyaga,Male,1999-07-16,Rongai,Mason,2021-05-08,22,Sinopharm
+296,Elizabeth,Musa,Female,1976-06-23,Gilgil,Mason,2021-06-26,45,Johnson and Johnson
+175,Elizabeth,Mwadime,Male,1997-10-18,Subukia,Fisherman,2022-04-15,24,Johnson and Johnson
+1132,David,Ngoma,Female,1977-08-08,Gilgil,Fisherman,2021-03-31,44,Sinopharm
+1434,Omar,Nyaga,Male,2001-05-18,Gilgil,Teacher,2022-12-12,22,Oxford-AstraZeneca
+122,Omar,Chilambo,Male,1968-03-06,Njoro,Carpenter,2021-11-12,54,Moderna
+314,Joseph,Zuberi,Male,1994-04-04,Gilgil,Farmer,2021-09-28,27,Johnson and Johnson
+80,Sarah,Musa,Female,1985-08-26,Njoro,Carpenter,2021-06-25,36,Pfizer
+705,David,Nyaga,Female,1979-04-06,Molo,Tailor,2021-05-27,42,Sputnik V
+864,Sarah,Nyaga,Male,1986-07-04,Molo,Carpenter,2022-12-19,36,Sputnik V
+141,Mary,Musa,Male,1998-04-26,Gilgil,Farmer,2021-07-20,23,Oxford-AstraZeneca
+896,Omar,Zuberi,Female,1959-01-05,Njoro,Fisherman,2021-01-25,62,Oxford-AstraZeneca
+261,Sarah,Chilambo,Female,2003-04-10,Molo,Carpenter,2021-11-28,19,Pfizer
+831,Omar,Mwashigadi,Female,1973-06-17,Naivasha,Carpenter,2021-05-05,48,Moderna
+927,David,Mwadime,Female,1996-01-04,Gilgil,Carpenter,2021-06-23,25,Moderna
+1081,Rahma,Mwakalinga,Male,1974-04-17,Subukia,Trader,2021-02-24,47,Sputnik V
+971,David,Mcharo,Male,1973-12-15,Naivasha,Fisherman,2021-10-06,48,Sputnik V
+772,Sarah,Mwashigadi,Female,1989-11-26,Bahati,Farmer,2021-07-24,32,Johnson and Johnson
+591,Mary,Mwakalinga,Male,1976-12-22,Molo,Fisherman,2021-11-22,45,Johnson and Johnson
+98,Omar,Zuberi,Female,2000-11-18,Gilgil,Carpenter,2021-04-17,20,Moderna
+1471,Paul,Musa,Female,1980-03-17,Bahati,Trader,2021-08-16,41,Pfizer
+529,David,Mwashigadi,Female,1995-04-18,Njoro,Farmer,2021-05-12,26,Sinopharm
+29,Sarah,Nyaga,Male,1964-08-28,Subukia,Carpenter,2021-06-05,57,Moderna
+1215,Sarah,Mwashigadi,Female,1978-05-05,Gilgil,Tailor,2022-12-17,45,Oxford-AstraZeneca
+1048,Omar,Ngoma,Female,1977-07-03,Naivasha,Tailor,2022-04-30,45,Sinopharm
+939,Michael,Mwashigadi,Male,1990-04-07,Njoro,Carpenter,2021-12-13,32,Sinopharm
+1286,Rahma,Musa,Male,1960-10-13,Njoro,Trader,2021-11-16,61,Moderna
+860,Omar,Mwashigadi,Male,1993-10-22,Molo,Fisherman,2021-08-27,28,Johnson and Johnson
+1064,David,Chilambo,Female,2002-04-05,Molo,Tailor,2021-11-14,20,Sputnik V
+830,David,Mcharo,Male,1979-01-25,Bahati,Farmer,2022-06-05,43,Sputnik V
+1357,Omar,Chilambo,Male,1958-06-07,Njoro,Carpenter,2021-10-13,63,Johnson and Johnson
+280,Sauda,Mwashigadi,Female,1985-06-14,Molo,Fisherman,2021-03-27,36,Pfizer
+1221,David,Ngoma,Male,1993-06-18,Naivasha,Fisherman,2022-08-18,29,Oxford-AstraZeneca
+879,Sauda,Mtambo,Male,2003-03-10,Bahati,Tailor,2021-04-16,18,Johnson and Johnson
+1328,Mary,Mwashigadi,Male,1990-07-06,Bahati,Carpenter,2022-10-15,32,Johnson and Johnson
+82,Omar,Mcharo,Male,1991-10-06,Naivasha,Mason,2021-02-27,29,Sinopharm
+736,Sauda,Mwakalinga,Female,1976-10-04,Molo,Tailor,2021-05-20,45,Moderna
+840,Paul,Nyaga,Male,1984-07-08,Njoro,Fisherman,2021-05-10,37,Johnson and Johnson
+1369,Mary,Mwashigadi,Male,1969-10-06,Njoro,Teacher,2022-07-18,53,Sputnik V
+520,David,Mwashigadi,Female,1998-04-14,Naivasha,Teacher,2022-02-16,24,Pfizer
+398,Michael,Zuberi,Male,2002-02-12,Rongai,Tailor,2022-02-10,20,Sinopharm
+1052,Sarah,Mcharo,Male,1974-11-12,Molo,Tailor,2022-12-27,48,Sinopharm
+380,Michael,Mwadime,Female,1995-06-30,Bahati,Carpenter,2021-03-07,26,Johnson and Johnson
+1076,Paul,Nyaga,Female,1989-03-23,Gilgil,Farmer,2021-09-22,33,Oxford-AstraZeneca
+194,Michael,Mcharo,Male,1994-09-03,Gilgil,Fisherman,2022-05-16,28,Sinopharm
+930,Elizabeth,Zuberi,Male,1976-06-26,Gilgil,Mason,2021-12-17,45,Oxford-AstraZeneca
+1161,Omar,Chilambo,Female,1957-06-23,Gilgil,Trader,2021-07-11,64,Sinopharm
+284,Sauda,Mwashigadi,Female,1988-11-06,Rongai,Tailor,2022-08-18,34,Johnson and Johnson
+1064,Joseph,Nyaga,Male,1978-05-07,Subukia,Carpenter,2021-07-14,43,Sputnik V
+57,David,Chilambo,Female,1999-09-13,Molo,Mason,2021-04-17,22,Oxford-AstraZeneca
+1289,Sarah,Mwadime,Male,1972-08-06,Naivasha,Farmer,2021-09-19,49,Sinopharm
+1139,Omar,Mwashigadi,Male,1956-08-21,Njoro,Trader,2021-02-17,64,Sinopharm
+1272,Sarah,Mwashigadi,Male,1990-04-05,Subukia,Carpenter,2021-11-25,32,Johnson and Johnson
+252,Sarah,Mwakalinga,Female,1991-06-24,Njoro,Fisherman,2021-09-30,30,Moderna
+839,Elizabeth,Nyaga,Male,1963-07-28,Njoro,Trader,2021-09-25,58,Johnson and Johnson
+117,Michael,Mwashigadi,Male,1997-03-07,Molo,Fisherman,2021-08-17,24,Pfizer
+1332,Sarah,Mwakalinga,Male,1986-09-20,Njoro,Fisherman,2021-04-20,35,Johnson and Johnson
+557,Mary,Nyaga,Female,1982-04-27,Gilgil,Tailor,2021-05-09,39,Pfizer
+1253,Mary,Mwashigadi,Male,1974-10-22,Njoro,Carpenter,2021-01-22,46,Moderna
+328,Elizabeth,Mcharo,Male,1991-05-19,Gilgil,Fisherman,2021-04-06,30,Moderna
+780,Joseph,Musa,Male,1987-07-15,Gilgil,Trader,2021-07-14,34,Johnson and Johnson
+456,Sarah,Mtambo,Female,1994-02-22,Gilgil,Carpenter,2021-01-05,27,Moderna
+1016,David,Mtambo,Male,1997-04-07,Gilgil,Fisherman,2021-11-14,25,Pfizer
+653,Elizabeth,Ngoma,Female,1999-06-12,Naivasha,Tailor,2022-04-13,23,Pfizer
+517,Paul,Mwashigadi,Female,1983-05-24,Gilgil,Carpenter,2021-07-19,38,Sinopharm
+719,Rahma,Mwashigadi,Female,1957-04-08,Naivasha,Carpenter,2021-08-15,64,Sputnik V
+397,Elizabeth,Chilambo,Male,1979-04-05,Gilgil,Carpenter,2021-04-21,42,Moderna
+1425,Joseph,Mtambo,Female,1965-05-11,Njoro,Teacher,2021-11-15,57,Johnson and Johnson
+268,Mary,Nyaga,Male,1962-08-05,Rongai,Farmer,2022-06-13,60,Johnson and Johnson
+124,Joseph,Nyaga,Male,1977-05-17,Rongai,Tailor,2022-02-13,45,Pfizer
+118,Mary,Mwadime,Female,1963-01-14,Bahati,Fisherman,2021-07-29,59,Johnson and Johnson
+1156,Sarah,Mwadime,Female,1959-03-22,Bahati,Fisherman,2021-11-22,63,Moderna
+713,Michael,Nyaga,Male,1993-06-03,Molo,Mason,2021-07-23,28,Johnson and Johnson
+699,Joseph,Mwashigadi,Male,1997-03-28,Rongai,Mason,2021-09-09,24,Oxford-AstraZeneca
+883,Sauda,Mwadime,Male,1979-09-09,Gilgil,Mason,2021-08-27,42,Sinopharm
+3,David,Nyaga,Male,1988-04-05,Subukia,Mason,2021-11-17,34,Johnson and Johnson
+713,Elizabeth,Mcharo,Male,1970-03-08,Gilgil,Farmer,2022-07-28,52,Moderna
+1445,Michael,Chilambo,Male,1979-04-20,Molo,Farmer,2021-10-20,43,Pfizer
+1018,Sarah,Mwadime,Male,1992-12-20,Molo,Carpenter,2021-10-06,29,Oxford-AstraZeneca
+580,Elizabeth,Nyaga,Male,1977-04-06,Gilgil,Fisherman,2021-08-10,44,Johnson and Johnson
+1441,Mary,Mwakalinga,Male,1958-11-28,Njoro,Carpenter,2022-11-20,64,Johnson and Johnson
+966,Rahma,Ngoma,Male,1998-04-15,Rongai,Mason,2022-05-07,24,Pfizer
+352,Joseph,Zuberi,Male,1960-03-08,Gilgil,Mason,2021-12-26,62,Sinopharm
+611,Omar,Zuberi,Male,1978-12-26,Gilgil,Carpenter,2021-02-17,42,Pfizer
+545,Mary,Ngoma,Female,1979-04-06,Molo,Fisherman,2022-06-20,43,Sinopharm
+1193,Mary,Chilambo,Male,1986-12-20,Molo,Tailor,2021-05-29,34,Sputnik V
+1364,Sauda,Mwadime,Female,1994-11-27,Njoro,Teacher,2021-08-20,27,Moderna
+699,David,Mcharo,Male,2003-02-06,Njoro,Carpenter,2021-09-17,19,Johnson and Johnson
+350,Joseph,Chilambo,Male,1961-03-12,Molo,Teacher,2021-08-29,60,Johnson and Johnson
+1169,Mary,Mwashigadi,Male,1991-04-17,Molo,Fisherman,2021-05-16,30,Johnson and Johnson
+135,Omar,Chilambo,Male,1982-04-15,Bahati,Carpenter,2021-01-28,39,Sputnik V
+226,Sauda,Mtambo,Male,1989-09-13,Gilgil,Teacher,2021-01-19,31,Sinopharm
+105,Paul,Mcharo,Female,1965-07-06,Njoro,Farmer,2021-08-24,56,Sinopharm
+975,Sarah,Mwashigadi,Female,1987-04-07,Bahati,Carpenter,2021-04-29,34,Moderna
+878,Joseph,Chilambo,Male,1982-08-21,Njoro,Fisherman,2021-03-10,39,Oxford-AstraZeneca
+961,Michael,Mtambo,Male,1978-09-09,Subukia,Farmer,2021-05-28,43,Moderna
+761,Michael,Nyaga,Male,2001-05-16,Subukia,Mason,2021-07-19,20,Sinopharm
+1262,Elizabeth,Chilambo,Male,1988-10-16,Subukia,Tailor,2021-11-28,33,Pfizer
+1061,Elizabeth,Chilambo,Male,1958-03-20,Bahati,Trader,2021-01-14,63,Pfizer
+696,Elizabeth,Mwashigadi,Male,1958-08-08,Gilgil,Carpenter,2021-11-20,63,Sinopharm
+293,Joseph,Mwadime,Male,1961-02-11,Gilgil,Farmer,2021-05-26,60,Sputnik V
+257,Sauda,Mcharo,Female,1998-07-11,Gilgil,Farmer,2021-06-23,23,Sinopharm
+258,David,Mwashigadi,Female,1987-02-17,Naivasha,Trader,2021-10-15,35,Moderna
+419,Mary,Mwashigadi,Male,1988-04-29,Bahati,Carpenter,2021-12-14,34,Sinopharm
+301,Mary,Mtambo,Male,1973-08-22,Njoro,Fisherman,2021-04-22,48,Pfizer
+808,Rahma,Nyaga,Male,1991-06-27,Subukia,Tailor,2021-03-25,30,Johnson and Johnson
+1379,Sauda,Nyaga,Male,1981-05-15,Subukia,Farmer,2021-11-16,41,Johnson and Johnson
+732,Joseph,Musa,Female,2002-04-12,Njoro,Trader,2022-08-22,20,Moderna
+1135,Sarah,Chilambo,Male,2000-05-15,Njoro,Trader,2021-02-05,21,Sinopharm
+1126,Elizabeth,Musa,Female,1961-03-10,Njoro,Tailor,2022-07-11,61,Oxford-AstraZeneca
+710,Sauda,Ngoma,Male,1962-11-27,Gilgil,Tailor,2022-09-20,60,Moderna
+176,Omar,Mwashigadi,Female,1974-12-16,Njoro,Carpenter,2021-04-27,46,Sputnik V
+793,David,Mtambo,Male,1988-05-21,Gilgil,Carpenter,2021-05-21,33,Moderna
+1235,Sarah,Chilambo,Female,1999-03-19,Gilgil,Teacher,2021-02-26,22,Pfizer
+713,Joseph,Mwadime,Male,1980-07-04,Gilgil,Mason,2021-08-29,41,Pfizer
+793,Rahma,Musa,Male,1975-08-08,Subukia,Carpenter,2021-08-08,46,Sputnik V
+900,Paul,Zuberi,Male,1960-09-17,Subukia,Carpenter,2021-06-17,61,Johnson and Johnson
+998,Michael,Chilambo,Male,2003-08-16,Rongai,Carpenter,2022-07-12,19,Johnson and Johnson
+906,Rahma,Chilambo,Male,1994-08-08,Gilgil,Teacher,2021-11-11,27,Oxford-AstraZeneca
+191,Joseph,Mwashigadi,Male,1986-02-18,Bahati,Carpenter,2021-12-28,36,Moderna
+94,Joseph,Zuberi,Male,1991-04-24,Gilgil,Fisherman,2021-04-26,30,Moderna
+554,Mary,Zuberi,Male,1985-04-08,Gilgil,Trader,2021-06-21,36,Sinopharm
+381,Mary,Chilambo,Female,2002-10-14,Molo,Farmer,2021-02-13,18,Moderna
+466,David,Zuberi,Female,1955-03-08,Subukia,Farmer,2021-09-20,67,Sputnik V
+809,Joseph,Chilambo,Female,1994-11-17,Njoro,Carpenter,2021-12-14,27,Pfizer
+936,Rahma,Chilambo,Male,1954-02-22,Gilgil,Farmer,2022-02-15,68,Sinopharm
+424,Rahma,Chilambo,Female,1962-08-05,Bahati,Farmer,2021-04-12,59,Moderna
+799,Mary,Mcharo,Female,1984-11-18,Subukia,Teacher,2021-08-20,37,Pfizer
+1382,Rahma,Zuberi,Male,1992-11-19,Subukia,Carpenter,2021-01-27,28,Pfizer
+53,David,Mwadime,Male,1955-03-06,Gilgil,Fisherman,2021-10-17,67,Sinopharm
+1149,Sauda,Zuberi,Male,1958-07-20,Bahati,Mason,2021-02-18,63,Johnson and Johnson
+244,David,Chilambo,Male,2002-05-16,Rongai,Tailor,2021-11-18,20,Pfizer
+1457,Paul,Mwashigadi,Male,1993-07-08,Gilgil,Carpenter,2021-10-12,28,Sputnik V
+1126,Michael,Mtambo,Male,1977-07-06,Gilgil,Fisherman,2021-07-11,44,Sputnik V
+480,Michael,Mwakalinga,Female,1986-04-17,Naivasha,Farmer,2022-08-19,36,Moderna
+120,Joseph,Ngoma,Female,1958-04-15,Njoro,Fisherman,2021-11-14,64,Johnson and Johnson
+1442,Rahma,Zuberi,Male,1975-04-15,Gilgil,Mason,2022-08-29,47,Oxford-AstraZeneca
+327,Joseph,Zuberi,Male,2002-05-07,Molo,Mason,2022-10-16,20,Sinopharm
+395,Paul,Mwashigadi,Male,1996-02-07,Bahati,Trader,2022-07-18,26,Sputnik V
+712,Michael,Mwakalinga,Male,1980-05-23,Rongai,Carpenter,2021-09-27,41,Oxford-AstraZeneca
+977,David,Nyaga,Male,1960-01-16,Gilgil,Farmer,2022-12-24,63,Oxford-AstraZeneca
+928,Rahma,Zuberi,Female,2002-08-15,Rongai,Carpenter,2021-03-29,19,Oxford-AstraZeneca
+392,David,Mwashigadi,Female,2001-09-20,Njoro,Farmer,2021-06-22,20,Sinopharm
+773,Rahma,Chilambo,Male,1996-05-07,Bahati,Farmer,2021-03-14,25,Sputnik V
+37,Sarah,Mcharo,Male,1982-07-27,Gilgil,Carpenter,2021-02-15,39,Sinopharm
+1018,David,Nyaga,Male,1962-05-15,Gilgil,Teacher,2021-07-15,59,Johnson and Johnson
+244,Mary,Mcharo,Male,1959-08-05,Gilgil,Farmer,2021-06-26,62,Sinopharm
+1014,Omar,Mcharo,Male,1973-01-17,Bahati,Tailor,2021-07-26,49,Pfizer
+14,Rahma,Musa,Male,1999-05-07,Subukia,Carpenter,2021-12-25,23,Sputnik V
+1004,Sarah,Mwashigadi,Male,1995-08-10,Subukia,Carpenter,2021-07-30,26,Sinopharm
+442,Sarah,Mwashigadi,Male,1958-07-23,Bahati,Mason,2021-10-31,63,Pfizer
+1366,Paul,Musa,Male,1976-02-03,Bahati,Teacher,2021-02-17,45,Sinopharm
+477,Mary,Ngoma,Male,1986-04-15,Njoro,Carpenter,2021-06-23,35,Pfizer
+477,Mary,Chilambo,Female,1976-07-13,Rongai,Tailor,2022-11-14,46,Moderna
+644,Joseph,Mwashigadi,Male,1970-06-24,Subukia,Teacher,2022-09-18,52,Moderna
+96,Sauda,Mcharo,Male,1959-06-16,Gilgil,Mason,2021-12-13,62,Oxford-AstraZeneca
+80,Sauda,Mcharo,Male,1981-08-19,Njoro,Trader,2021-05-07,40,Sputnik V
+1444,David,Zuberi,Female,1978-02-28,Molo,Farmer,2022-08-16,44,Pfizer
+204,Rahma,Mcharo,Female,1994-05-12,Njoro,Fisherman,2021-09-17,27,Sputnik V
+415,Sauda,Musa,Male,1985-08-15,Njoro,Carpenter,2021-02-14,36,Sputnik V
+1436,Omar,Nyaga,Female,2003-11-05,Gilgil,Tailor,2022-08-20,19,Oxford-AstraZeneca
+648,Mary,Chilambo,Female,1975-09-17,Naivasha,Teacher,2021-08-15,46,Pfizer
+173,Elizabeth,Zuberi,Male,1988-05-28,Molo,Mason,2022-10-20,34,Oxford-AstraZeneca
+851,Michael,Musa,Male,1973-02-27,Gilgil,Farmer,2021-07-31,48,Pfizer
+157,Omar,Zuberi,Male,1970-02-20,Gilgil,Farmer,2021-06-20,51,Sputnik V
+92,Rahma,Zuberi,Male,1970-10-22,Njoro,Teacher,2022-10-20,52,Johnson and Johnson
+1246,Joseph,Mwashigadi,Male,1962-06-21,Rongai,Trader,2022-05-20,60,Oxford-AstraZeneca
+127,Mary,Mwashigadi,Male,1995-04-25,Molo,Carpenter,2021-02-25,26,Sputnik V
+1372,Michael,Zuberi,Male,1994-02-16,Subukia,Fisherman,2022-09-04,29,Moderna
+12,Sauda,Musa,Male,1971-05-14,Naivasha,Teacher,2021-09-17,50,Moderna
+336,Sauda,Zuberi,Male,1994-08-21,Njoro,Carpenter,2021-09-19,27,Johnson and Johnson
+190,Mary,Zuberi,Male,1971-08-07,Molo,Fisherman,2021-06-28,50,Moderna
+13,David,Nyaga,Male,1999-07-05,Njoro,Mason,2021-01-30,22,Johnson and Johnson
+924,Rahma,Zuberi,Male,1972-03-16,Molo,Carpenter,2021-07-21,49,Pfizer
+209,Omar,Nyaga,Male,1991-08-02,Njoro,Tailor,2021-07-20,30,Johnson and Johnson
+692,Joseph,Mtambo,Male,1981-05-15,Subukia,Fisherman,2022-05-11,41,Johnson and Johnson
+631,Sarah,Mwashigadi,Male,1982-08-14,Subukia,Farmer,2022-02-26,40,Sinopharm
+59,Mary,Mcharo,Male,1982-10-07,Subukia,Farmer,2021-10-18,39,Pfizer
+578,Elizabeth,Ngoma,Male,1964-05-20,Njoro,Tailor,2022-01-26,58,Oxford-AstraZeneca
+1242,Elizabeth,Mwashigadi,Male,1976-07-10,Subukia,Carpenter,2021-03-16,45,Moderna
+1424,Rahma,Mcharo,Male,1985-07-29,Bahati,Teacher,2021-07-24,36,Johnson and Johnson
+164,David,Chilambo,Male,1995-10-06,Rongai,Tailor,2021-02-16,25,Moderna
+1342,Omar,Zuberi,Male,1993-08-29,Njoro,Farmer,2022-10-18,29,Sinopharm
+978,Elizabeth,Mtambo,Male,1991-02-03,Njoro,Teacher,2021-09-17,31,Oxford-AstraZeneca
+828,Elizabeth,Ngoma,Male,1990-11-20,Molo,Carpenter,2021-11-22,31,Moderna
+935,Joseph,Musa,Female,1991-02-28,Gilgil,Mason,2021-10-29,31,Sinopharm
+1399,Mary,Musa,Male,1978-04-11,Subukia,Mason,2021-05-12,43,Oxford-AstraZeneca
+271,Elizabeth,Mcharo,Male,1979-10-25,Gilgil,Carpenter,2021-06-29,42,Moderna
+75,Sarah,Mcharo,Female,1999-05-20,Rongai,Carpenter,2022-10-26,23,Oxford-AstraZeneca
+116,David,Ngoma,Female,1965-10-30,Naivasha,Tailor,2022-11-28,57,Johnson and Johnson
+499,Paul,Mtambo,Female,1986-09-22,Njoro,Fisherman,2021-08-12,35,Johnson and Johnson
+1397,Joseph,Zuberi,Male,1981-02-04,Naivasha,Fisherman,2022-08-01,41,Johnson and Johnson
+1184,Rahma,Mwashigadi,Male,1987-07-26,Gilgil,Trader,2022-11-16,35,Oxford-AstraZeneca
+260,David,Nyaga,Male,1983-03-11,Rongai,Carpenter,2021-05-04,38,Johnson and Johnson
+646,Joseph,Nyaga,Female,1984-01-06,Naivasha,Teacher,2021-02-20,37,Sinopharm
+67,Joseph,Zuberi,Male,1987-04-22,Bahati,Tailor,2021-02-19,34,Moderna
+481,Rahma,Mcharo,Male,1977-04-16,Rongai,Trader,2022-04-06,45,Sputnik V
+1403,David,Musa,Female,1963-08-12,Rongai,Tailor,2021-10-13,58,Sputnik V
+1093,Elizabeth,Chilambo,Male,2002-05-11,Bahati,Teacher,2022-08-18,20,Sputnik V
+98,Paul,Zuberi,Male,1988-10-20,Molo,Trader,2021-08-15,33,Moderna
+462,Paul,Mtambo,Female,1994-08-17,Gilgil,Tailor,2022-01-18,27,Sputnik V
+1020,Paul,Mwakalinga,Male,1998-04-18,Bahati,Carpenter,2021-04-23,23,Pfizer
+696,Rahma,Mwashigadi,Female,1979-08-16,Njoro,Mason,2022-12-20,43,Moderna
+139,Rahma,Mtambo,Male,1974-07-04,Gilgil,Teacher,2021-10-22,47,Oxford-AstraZeneca
+651,Sauda,Musa,Female,1976-02-06,Njoro,Trader,2021-04-06,45,Moderna
+296,Omar,Ngoma,Female,1972-05-20,Subukia,Carpenter,2021-09-30,49,Sinopharm
+473,Sauda,Mcharo,Male,1965-03-07,Rongai,Tailor,2021-06-26,56,Oxford-AstraZeneca
+373,David,Chilambo,Male,1979-05-11,Njoro,Carpenter,2021-12-23,43,Moderna
+305,Michael,Mwashigadi,Male,1959-07-10,Subukia,Farmer,2021-11-29,62,Sputnik V
+901,Elizabeth,Nyaga,Male,1958-01-06,Gilgil,Mason,2021-11-14,64,Sinopharm
+1032,Elizabeth,Chilambo,Male,1984-05-07,Subukia,Fisherman,2021-04-17,37,Pfizer
+441,Omar,Zuberi,Female,1989-05-20,Molo,Tailor,2021-05-16,32,Sinopharm
+78,Sauda,Nyaga,Male,1955-08-08,Gilgil,Fisherman,2021-07-13,66,Moderna
+782,Michael,Mwashigadi,Female,2002-07-18,Subukia,Teacher,2021-06-22,19,Oxford-AstraZeneca
+838,Michael,Chilambo,Male,1997-02-16,Njoro,Trader,2022-09-21,26,Sputnik V
+637,Joseph,Musa,Female,2001-05-05,Rongai,Trader,2021-08-13,20,Moderna
+456,Joseph,Mtambo,Female,1998-08-29,Gilgil,Teacher,2021-05-17,23,Johnson and Johnson
+1137,Sauda,Ngoma,Female,2002-04-15,Gilgil,Trader,2022-07-24,20,Pfizer
+343,Elizabeth,Nyaga,Male,1987-05-20,Njoro,Trader,2022-05-28,35,Oxford-AstraZeneca
+1459,David,Mwakalinga,Female,2000-07-06,Rongai,Farmer,2021-10-24,21,Moderna
+1176,Sauda,Chilambo,Male,2001-10-12,Bahati,Trader,2021-06-30,20,Oxford-AstraZeneca
+1305,Omar,Musa,Female,1961-05-23,Subukia,Mason,2021-09-26,60,Johnson and Johnson
+1016,Mary,Mtambo,Female,1994-06-15,Naivasha,Trader,2021-04-27,27,Johnson and Johnson
+1229,Sarah,Musa,Female,1988-08-20,Gilgil,Teacher,2021-12-26,33,Oxford-AstraZeneca
+1259,Mary,Mwadime,Female,1985-11-27,Njoro,Carpenter,2021-02-16,35,Pfizer
+1198,David,Mcharo,Male,1981-06-24,Molo,Carpenter,2022-11-27,41,Sputnik V
+1239,Sarah,Mwadime,Male,1978-01-13,Gilgil,Carpenter,2021-02-27,43,Johnson and Johnson
+223,David,Mwadime,Female,1972-03-03,Subukia,Teacher,2021-07-16,49,Moderna
+1298,Sarah,Mcharo,Female,1977-04-29,Gilgil,Farmer,2022-08-22,45,Sinopharm
+1246,David,Zuberi,Male,1991-11-17,Njoro,Carpenter,2021-07-20,30,Moderna
+1408,Rahma,Chilambo,Male,2003-03-09,Njoro,Teacher,2021-06-14,18,Pfizer
+719,Rahma,Chilambo,Female,1986-02-07,Naivasha,Carpenter,2021-11-28,36,Pfizer
+1159,Sauda,Mwadime,Male,1962-04-21,Molo,Mason,2021-05-16,59,Pfizer
+129,Elizabeth,Chilambo,Female,1992-04-16,Naivasha,Tailor,2022-08-04,30,Moderna
+1297,Joseph,Mwakalinga,Female,1989-01-04,Rongai,Mason,2021-04-27,32,Pfizer
+572,Paul,Mtambo,Male,1969-05-08,Subukia,Farmer,2021-08-22,52,Johnson and Johnson
+877,Michael,Mwadime,Male,1985-02-21,Naivasha,Fisherman,2021-08-05,36,Oxford-AstraZeneca
+1163,Joseph,Nyaga,Male,1980-08-15,Naivasha,Carpenter,2021-02-08,40,Pfizer
+909,Paul,Mcharo,Female,1998-11-04,Subukia,Mason,2021-09-13,23,Pfizer
+497,Paul,Musa,Male,1958-04-20,Gilgil,Teacher,2021-11-04,64,Pfizer
+129,Omar,Mwashigadi,Male,1973-04-19,Gilgil,Farmer,2021-11-25,49,Moderna
+1046,Mary,Mtambo,Male,1971-05-14,Naivasha,Carpenter,2021-02-19,50,Sinopharm
+1485,Sarah,Nyaga,Male,1990-08-11,Bahati,Carpenter,2022-08-10,32,Sinopharm
+1015,Rahma,Mcharo,Male,1959-06-05,Gilgil,Mason,2021-06-28,62,Pfizer
+967,Rahma,Mcharo,Male,1991-06-27,Naivasha,Fisherman,2021-02-14,30,Pfizer
+1281,Sarah,Chilambo,Male,1981-08-07,Njoro,Fisherman,2021-04-20,40,Pfizer
+703,Elizabeth,Musa,Female,2002-11-30,Rongai,Carpenter,2021-05-09,18,Moderna
+716,Rahma,Chilambo,Male,2002-04-18,Rongai,Teacher,2022-02-26,20,Moderna
+744,Sauda,Zuberi,Female,1975-05-08,Naivasha,Tailor,2021-09-16,46,Pfizer
+579,Paul,Chilambo,Male,2000-07-14,Subukia,Teacher,2022-10-23,22,Sinopharm
+1162,Rahma,Chilambo,Male,1989-10-18,Rongai,Fisherman,2021-07-14,32,Pfizer
+1343,Omar,Chilambo,Male,2001-03-24,Subukia,Carpenter,2021-09-30,21,Pfizer
+865,Rahma,Mwakalinga,Female,1999-08-19,Njoro,Mason,2022-05-03,23,Pfizer
+1236,Elizabeth,Mwakalinga,Female,1998-02-16,Gilgil,Carpenter,2021-08-11,23,Johnson and Johnson
+1414,Elizabeth,Mcharo,Male,1972-06-08,Njoro,Carpenter,2021-08-16,49,Pfizer
+1389,Paul,Chilambo,Female,1954-06-11,Gilgil,Tailor,2021-01-21,67,Oxford-AstraZeneca
+1464,Michael,Mwashigadi,Male,1993-08-24,Naivasha,Mason,2021-02-19,27,Sinopharm
+819,Sarah,Mtambo,Male,1998-11-28,Gilgil,Farmer,2022-07-10,24,Sputnik V
+1172,Michael,Chilambo,Male,1987-02-08,Rongai,Mason,2021-10-13,35,Sputnik V
+1384,Elizabeth,Mwakalinga,Female,2003-04-28,Gilgil,Tailor,2021-08-20,18,Oxford-AstraZeneca
+887,Elizabeth,Chilambo,Male,1996-05-19,Gilgil,Fisherman,2021-05-18,25,Sputnik V
+280,Omar,Musa,Male,1998-01-18,Molo,Teacher,2021-08-29,24,Pfizer
+1397,Sauda,Mcharo,Female,1981-02-22,Njoro,Mason,2021-11-23,41,Sinopharm
+1022,Omar,Zuberi,Male,1975-06-12,Naivasha,Teacher,2021-11-08,46,Oxford-AstraZeneca
+1077,Sauda,Mcharo,Female,1995-12-15,Naivasha,Fisherman,2022-06-26,27,Pfizer
+400,Mary,Mwadime,Female,2000-07-19,Bahati,Carpenter,2021-06-24,21,Johnson and Johnson
+1237,Sauda,Mcharo,Male,1961-06-19,Gilgil,Mason,2022-08-29,61,Pfizer
+823,Sarah,Nyaga,Male,1977-06-06,Molo,Carpenter,2022-05-09,45,Moderna
+428,David,Mwashigadi,Male,1958-06-13,Bahati,Carpenter,2021-07-27,63,Sputnik V
+1240,Rahma,Chilambo,Male,1990-04-06,Gilgil,Farmer,2021-01-08,31,Sinopharm
+1153,David,Mcharo,Female,1989-03-13,Njoro,Trader,2022-01-25,33,Moderna
+145,David,Mtambo,Female,2000-02-25,Gilgil,Mason,2022-10-07,23,Sputnik V
+1039,Michael,Nyaga,Male,1982-07-15,Gilgil,Carpenter,2021-11-25,39,Johnson and Johnson
+424,Mary,Musa,Male,1984-05-18,Rongai,Carpenter,2021-01-26,37,Pfizer
+458,Omar,Mwashigadi,Male,1973-03-04,Molo,Fisherman,2021-10-31,49,Johnson and Johnson
+558,Sarah,Mtambo,Male,1967-07-04,Rongai,Trader,2022-08-10,55,Moderna
+1121,Mary,Mwashigadi,Female,1998-07-13,Bahati,Farmer,2022-07-29,24,Sinopharm
+733,Sauda,Mwadime,Female,2001-09-08,Subukia,Trader,2021-02-16,19,Johnson and Johnson
+1295,Mary,Zuberi,Female,1976-05-16,Njoro,Trader,2021-01-07,45,Sinopharm
+924,Elizabeth,Zuberi,Male,1987-03-28,Gilgil,Teacher,2022-08-09,35,Moderna
+895,Sarah,Mwadime,Male,1963-03-17,Gilgil,Teacher,2022-07-30,59,Oxford-AstraZeneca
+373,David,Zuberi,Male,1961-12-27,Gilgil,Teacher,2021-09-28,60,Moderna
+942,Paul,Mwakalinga,Female,1990-01-01,Subukia,Fisherman,2021-08-14,32,Moderna
+740,Paul,Mwadime,Male,1997-08-18,Molo,Mason,2021-07-17,24,Sinopharm
+504,Elizabeth,Mwashigadi,Female,1976-08-30,Njoro,Trader,2021-01-20,44,Oxford-AstraZeneca
+762,Sarah,Musa,Female,1966-08-05,Gilgil,Farmer,2021-01-17,54,Sinopharm
+858,Sarah,Mwashigadi,Male,1983-12-13,Gilgil,Carpenter,2021-04-15,37,Oxford-AstraZeneca
+981,Paul,Zuberi,Female,1974-11-07,Molo,Trader,2021-10-25,47,Johnson and Johnson
+680,Joseph,Chilambo,Female,2001-10-06,Rongai,Teacher,2021-04-16,20,Oxford-AstraZeneca
+111,Rahma,Mwadime,Female,1979-05-10,Gilgil,Carpenter,2021-05-13,42,Sputnik V
+1041,Elizabeth,Chilambo,Female,1961-07-08,Gilgil,Teacher,2021-02-19,60,Pfizer
+720,Paul,Nyaga,Male,1975-01-17,Gilgil,Carpenter,2021-10-13,47,Moderna
+1132,Joseph,Nyaga,Male,1970-07-15,Subukia,Farmer,2022-06-06,52,Oxford-AstraZeneca
+826,Rahma,Zuberi,Male,1985-09-26,Gilgil,Fisherman,2021-05-26,36,Pfizer
+831,David,Mwakalinga,Female,1983-04-29,Njoro,Carpenter,2021-08-27,38,Oxford-AstraZeneca
+28,Mary,Chilambo,Male,1966-05-05,Gilgil,Farmer,2022-10-22,56,Oxford-AstraZeneca
+1344,Rahma,Chilambo,Male,1983-05-16,Bahati,Carpenter,2021-07-28,38,Oxford-AstraZeneca
+107,Sauda,Mcharo,Male,1994-03-05,Njoro,Carpenter,2021-05-25,27,Johnson and Johnson
+1254,Joseph,Musa,Female,1995-05-15,Subukia,Trader,2022-11-22,28,Sputnik V
+195,David,Mwakalinga,Female,1998-03-30,Subukia,Tailor,2021-07-21,23,Moderna
+720,David,Nyaga,Male,1976-03-05,Bahati,Fisherman,2022-11-27,47,Johnson and Johnson
+741,Sauda,Mtambo,Male,1969-04-29,Njoro,Trader,2021-04-18,52,Moderna
+790,Mary,Mwashigadi,Male,1984-08-22,Bahati,Tailor,2021-08-29,37,Sputnik V
+623,Elizabeth,Ngoma,Male,1978-08-04,Naivasha,Tailor,2021-04-30,43,Moderna
+765,Joseph,Mwashigadi,Male,2001-10-22,Njoro,Farmer,2021-10-31,20,Sputnik V
+556,Mary,Zuberi,Male,1993-03-12,Gilgil,Mason,2022-05-28,29,Pfizer
+816,Omar,Mwashigadi,Female,1985-08-17,Njoro,Trader,2021-08-23,36,Sputnik V
+886,Michael,Musa,Female,2002-06-03,Naivasha,Mason,2021-09-18,19,Pfizer
+707,Elizabeth,Mwashigadi,Female,1975-04-18,Rongai,Carpenter,2022-08-28,47,Moderna
+1369,David,Chilambo,Male,1986-09-27,Gilgil,Trader,2021-07-28,35,Johnson and Johnson
+88,Mary,Chilambo,Male,1982-07-22,Gilgil,Carpenter,2021-03-28,39,Johnson and Johnson
+1444,Michael,Musa,Male,1999-03-26,Gilgil,Trader,2021-10-23,23,Oxford-AstraZeneca
+1322,Elizabeth,Mwashigadi,Male,1974-09-10,Njoro,Trader,2021-07-28,47,Pfizer
+381,Sarah,Musa,Female,1980-03-12,Njoro,Mason,2022-09-26,43,Sinopharm
+1161,Paul,Mwashigadi,Male,2002-11-08,Njoro,Carpenter,2022-06-05,20,Oxford-AstraZeneca
+1324,Mary,Mwashigadi,Male,2003-08-20,Njoro,Fisherman,2022-11-27,19,Sputnik V
+606,David,Mwadime,Male,1963-07-08,Njoro,Trader,2021-09-27,58,Moderna
+176,Joseph,Chilambo,Male,1993-09-08,Njoro,Carpenter,2021-10-23,28,Johnson and Johnson
+1403,Rahma,Ngoma,Male,2002-09-20,Molo,Carpenter,2022-08-26,20,Sinopharm
+87,Sarah,Mwadime,Male,1992-04-15,Subukia,Carpenter,2021-10-31,30,Moderna
+1021,Joseph,Mcharo,Male,1976-04-21,Bahati,Farmer,2021-07-17,45,Moderna
+242,Elizabeth,Ngoma,Male,1995-04-08,Molo,Carpenter,2021-08-30,26,Johnson and Johnson
+1173,Sarah,Ngoma,Male,1992-06-19,Naivasha,Tailor,2022-10-16,30,Pfizer
+70,Elizabeth,Mcharo,Male,1995-07-06,Naivasha,Carpenter,2021-01-24,26,Pfizer
+976,Elizabeth,Mwadime,Female,1993-01-25,Bahati,Tailor,2022-11-30,30,Sputnik V
+570,Paul,Ngoma,Male,2001-06-15,Njoro,Carpenter,2022-08-25,21,Sinopharm
+431,David,Chilambo,Male,1998-04-07,Naivasha,Fisherman,2021-07-28,23,Pfizer
+1098,Sauda,Mcharo,Male,1992-10-07,Subukia,Farmer,2021-05-23,29,Oxford-AstraZeneca
+858,David,Mwakalinga,Male,1960-07-26,Molo,Carpenter,2021-05-08,61,Pfizer
+1315,David,Mcharo,Female,1990-04-16,Gilgil,Trader,2021-10-16,32,Sinopharm
+1161,Joseph,Mcharo,Female,1986-04-27,Subukia,Carpenter,2021-07-30,35,Sputnik V
+568,Joseph,Nyaga,Male,1985-02-06,Subukia,Farmer,2021-08-07,36,Oxford-AstraZeneca
+795,Rahma,Mcharo,Male,1966-03-04,Njoro,Mason,2021-11-19,56,Sinopharm
+145,Mary,Mwadime,Female,2003-04-04,Bahati,Carpenter,2021-08-11,18,Sputnik V
+619,Sauda,Mcharo,Male,2001-11-17,Naivasha,Mason,2022-02-27,20,Sputnik V
+1214,Sarah,Chilambo,Female,1982-07-24,Gilgil,Farmer,2021-11-26,39,Oxford-AstraZeneca
+1276,Mary,Zuberi,Female,1989-06-17,Njoro,Trader,2021-07-08,32,Pfizer
+765,Elizabeth,Mwashigadi,Male,1961-04-14,Rongai,Trader,2021-07-12,60,Johnson and Johnson
+1413,Sauda,Zuberi,Male,1998-02-14,Molo,Farmer,2021-07-28,23,Sinopharm
+290,Mary,Mwakalinga,Male,1953-01-08,Gilgil,Trader,2021-07-19,69,Johnson and Johnson
+640,Michael,Mwadime,Female,1960-07-24,Naivasha,Tailor,2021-04-27,61,Moderna
+9,Sarah,Musa,Female,1983-03-11,Subukia,Carpenter,2021-03-14,38,Pfizer
+84,Elizabeth,Mwakalinga,Male,1973-11-17,Njoro,Mason,2021-01-05,47,Oxford-AstraZeneca
+1137,Sauda,Chilambo,Male,1960-08-28,Bahati,Carpenter,2021-08-08,61,Pfizer
+341,Sarah,Mwashigadi,Female,2002-02-06,Molo,Carpenter,2021-10-29,20,Johnson and Johnson
+95,Omar,Mcharo,Female,1957-04-17,Gilgil,Farmer,2022-06-17,65,Oxford-AstraZeneca
+995,Rahma,Mwakalinga,Male,2001-04-28,Njoro,Fisherman,2022-05-21,21,Johnson and Johnson
+1380,Paul,Mtambo,Male,2003-07-28,Njoro,Farmer,2022-11-11,19,Pfizer
+1126,Mary,Zuberi,Male,1973-03-26,Naivasha,Trader,2021-06-12,48,Pfizer
+1354,Paul,Musa,Male,1992-02-17,Gilgil,Tailor,2022-03-26,30,Sputnik V
+140,Omar,Mcharo,Male,1971-01-06,Njoro,Farmer,2021-09-24,51,Moderna
+686,Michael,Chilambo,Male,1956-03-09,Naivasha,Fisherman,2021-07-27,65,Johnson and Johnson
+66,Paul,Chilambo,Male,1993-06-06,Njoro,Fisherman,2021-10-13,28,Sputnik V
+960,Rahma,Chilambo,Male,1985-08-20,Rongai,Farmer,2021-06-19,36,Sputnik V
+542,Joseph,Mwashigadi,Male,1983-12-16,Molo,Tailor,2022-08-22,39,Pfizer
+412,Elizabeth,Musa,Male,1986-04-21,Bahati,Trader,2021-05-14,35,Moderna
+576,Mary,Mwadime,Male,1986-05-14,Naivasha,Tailor,2021-10-29,35,Pfizer
+673,Sauda,Mwashigadi,Female,1972-07-19,Gilgil,Carpenter,2021-10-09,49,Sinopharm
+1076,Omar,Mwakalinga,Male,2002-08-17,Subukia,Carpenter,2022-07-26,20,Moderna
+1424,Rahma,Chilambo,Male,2002-03-09,Bahati,Farmer,2021-07-27,19,Sinopharm
+729,Elizabeth,Mcharo,Female,2000-04-05,Njoro,Tailor,2022-09-24,22,Oxford-AstraZeneca
+136,Rahma,Mwashigadi,Male,1960-02-26,Gilgil,Teacher,2021-11-22,62,Johnson and Johnson
+1366,Sauda,Nyaga,Female,1974-09-30,Bahati,Mason,2022-11-13,48,Sinopharm
+320,Mary,Zuberi,Male,1997-05-16,Gilgil,Teacher,2021-04-20,24,Sputnik V
+17,Elizabeth,Mwashigadi,Male,1985-04-15,Njoro,Mason,2021-09-29,36,Pfizer
+1397,Michael,Mwakalinga,Female,2003-03-28,Njoro,Tailor,2021-06-25,18,Sinopharm
+615,David,Mwadime,Male,1983-09-06,Gilgil,Teacher,2022-09-24,39,Johnson and Johnson
+1129,Omar,Mcharo,Male,1999-05-19,Bahati,Carpenter,2021-03-30,22,Johnson and Johnson
+631,Michael,Mwakalinga,Female,2000-03-16,Njoro,Mason,2022-06-20,22,Sputnik V
+762,Omar,Ngoma,Male,1972-08-05,Gilgil,Fisherman,2021-10-29,49,Moderna
+909,Sarah,Mcharo,Male,1995-06-06,Bahati,Trader,2021-01-08,26,Moderna
+815,Joseph,Chilambo,Male,1996-04-14,Bahati,Carpenter,2021-09-18,25,Pfizer
+349,Michael,Mtambo,Male,1962-04-14,Subukia,Farmer,2021-05-20,59,Pfizer
+818,Elizabeth,Nyaga,Female,1996-08-21,Subukia,Farmer,2021-08-29,25,Oxford-AstraZeneca
+533,Elizabeth,Nyaga,Male,1998-04-10,Njoro,Carpenter,2021-12-27,24,Johnson and Johnson
+1082,Sauda,Mcharo,Male,1989-08-17,Njoro,Fisherman,2021-04-28,32,Sinopharm
+973,Rahma,Mwashigadi,Male,1977-03-03,Naivasha,Teacher,2021-08-04,44,Pfizer
+244,Rahma,Mwakalinga,Female,2002-12-09,Gilgil,Mason,2021-09-22,19,Oxford-AstraZeneca
+531,Michael,Ngoma,Female,1990-08-18,Gilgil,Tailor,2021-08-31,31,Sinopharm
+442,Paul,Chilambo,Male,1966-02-23,Molo,Mason,2022-02-28,56,Moderna
+1027,Mary,Mtambo,Male,1962-07-07,Naivasha,Tailor,2021-10-30,59,Sinopharm
+1306,Joseph,Chilambo,Male,1973-04-07,Bahati,Farmer,2021-10-29,49,Pfizer
+1339,Sauda,Mwashigadi,Male,1993-06-19,Gilgil,Trader,2021-07-18,28,Johnson and Johnson
+913,Sarah,Mtambo,Female,1991-09-04,Rongai,Carpenter,2021-06-06,30,Pfizer
+1447,Joseph,Ngoma,Male,1962-05-04,Rongai,Tailor,2021-05-27,59,Sputnik V
+706,Sauda,Mwakalinga,Female,1981-04-17,Njoro,Teacher,2022-04-21,41,Moderna
+945,David,Mtambo,Male,1993-02-06,Bahati,Tailor,2022-02-24,29,Pfizer
+1038,Joseph,Mwadime,Male,1988-02-17,Gilgil,Farmer,2021-11-29,34,Moderna
+370,Rahma,Ngoma,Female,2000-06-15,Rongai,Trader,2022-11-12,22,Pfizer
+815,Paul,Mwashigadi,Male,1970-10-15,Naivasha,Mason,2021-09-18,51,Oxford-AstraZeneca
+641,Paul,Musa,Female,1980-05-14,Molo,Carpenter,2022-07-18,42,Moderna
+169,David,Chilambo,Male,1999-09-13,Naivasha,Carpenter,2022-11-26,23,Moderna
+608,Elizabeth,Mtambo,Female,1979-02-05,Gilgil,Trader,2022-11-06,44,Pfizer
+1359,Rahma,Musa,Male,1962-05-18,Rongai,Farmer,2021-06-14,59,Sinopharm
+455,Omar,Mwashigadi,Male,1963-02-15,Njoro,Tailor,2021-12-27,59,Pfizer
+1240,Michael,Zuberi,Male,1999-04-26,Subukia,Farmer,2021-02-19,22,Sinopharm
+940,Joseph,Chilambo,Male,1977-02-14,Rongai,Carpenter,2021-02-21,44,Pfizer
+194,Paul,Chilambo,Female,1999-03-31,Gilgil,Tailor,2021-09-27,22,Sinopharm
+1365,Sarah,Chilambo,Female,2000-09-26,Molo,Carpenter,2022-07-28,22,Johnson and Johnson
+146,Joseph,Ngoma,Male,1991-04-09,Gilgil,Mason,2021-10-26,31,Pfizer
+382,Omar,Mwashigadi,Female,1984-09-05,Bahati,Carpenter,2022-02-18,37,Sputnik V
+304,Omar,Mwashigadi,Male,1995-04-27,Naivasha,Carpenter,2021-02-12,26,Moderna
+1072,Sarah,Musa,Female,2003-04-26,Rongai,Trader,2022-03-10,19,Pfizer
+156,Sauda,Mwadime,Male,1986-09-19,Subukia,Carpenter,2021-03-19,34,Sputnik V
+728,Paul,Mcharo,Male,1993-08-30,Molo,Mason,2021-01-30,27,Pfizer
+1213,Paul,Musa,Female,1993-03-11,Naivasha,Teacher,2022-08-19,29,Moderna
+1360,Mary,Nyaga,Female,1960-05-06,Subukia,Tailor,2022-08-17,62,Sinopharm
+808,Joseph,Musa,Female,1989-07-24,Molo,Mason,2021-05-17,32,Pfizer
+313,Omar,Mwashigadi,Male,1956-09-27,Subukia,Carpenter,2021-10-28,65,Oxford-AstraZeneca
+677,Omar,Musa,Female,1982-04-29,Subukia,Carpenter,2022-02-15,40,Sputnik V
+910,Elizabeth,Musa,Male,2003-08-06,Bahati,Tailor,2021-11-26,18,Pfizer
+108,Joseph,Mcharo,Female,1962-11-18,Gilgil,Tailor,2021-07-27,59,Oxford-AstraZeneca
+546,David,Musa,Female,1995-11-05,Subukia,Fisherman,2021-08-15,26,Moderna
+256,Sauda,Mwashigadi,Male,1972-06-30,Gilgil,Tailor,2021-08-29,49,Moderna
+489,David,Chilambo,Female,1991-05-28,Gilgil,Mason,2021-03-30,30,Oxford-AstraZeneca
+265,Omar,Mwashigadi,Female,1994-03-13,Subukia,Carpenter,2021-03-17,27,Moderna
+760,Elizabeth,Mwashigadi,Female,1993-05-17,Naivasha,Carpenter,2022-11-12,29,Sputnik V
+369,Elizabeth,Mcharo,Male,2001-04-07,Rongai,Mason,2021-04-24,20,Sputnik V
+683,Sarah,Mwadime,Male,1983-03-06,Subukia,Teacher,2021-06-28,38,Moderna
+741,Omar,Mwashigadi,Female,1962-08-19,Bahati,Trader,2021-06-29,59,Moderna
+1396,Elizabeth,Mcharo,Male,1993-05-30,Gilgil,Trader,2021-08-22,28,Moderna
+125,Sauda,Zuberi,Male,1960-10-24,Naivasha,Mason,2021-11-04,61,Moderna
+757,Omar,Mwashigadi,Male,1999-08-26,Njoro,Carpenter,2021-12-17,22,Moderna
+503,Rahma,Chilambo,Male,1995-08-05,Bahati,Teacher,2021-01-15,25,Johnson and Johnson
+685,Rahma,Mcharo,Male,2000-02-02,Subukia,Tailor,2021-11-16,22,Pfizer
+783,Omar,Mwashigadi,Male,1982-04-06,Rongai,Carpenter,2021-07-27,39,Sinopharm
+1148,Elizabeth,Mcharo,Male,1975-08-05,Gilgil,Tailor,2021-11-13,46,Johnson and Johnson
+815,Elizabeth,Musa,Male,2003-08-20,Njoro,Trader,2021-09-07,18,Oxford-AstraZeneca
+579,Paul,Nyaga,Male,1997-04-28,Molo,Carpenter,2021-09-23,24,Moderna
+1164,David,Zuberi,Male,1985-04-06,Njoro,Carpenter,2021-01-29,36,Sinopharm
+898,Sauda,Mwashigadi,Male,1976-04-13,Rongai,Farmer,2021-03-15,45,Pfizer
+334,Omar,Mwakalinga,Female,1990-09-24,Molo,Carpenter,2021-02-28,30,Moderna
+818,Joseph,Mwashigadi,Male,1988-08-09,Gilgil,Carpenter,2022-12-26,34,Johnson and Johnson
+552,Joseph,Mwadime,Female,2001-01-17,Subukia,Carpenter,2021-10-21,21,Moderna
+593,Paul,Chilambo,Male,1999-04-05,Njoro,Fisherman,2022-02-21,23,Johnson and Johnson
+1293,Elizabeth,Musa,Male,1981-04-05,Bahati,Fisherman,2021-04-13,40,Moderna
+1274,Elizabeth,Musa,Male,2002-10-19,Naivasha,Mason,2021-09-24,19,Pfizer
+789,Rahma,Mcharo,Male,1988-09-06,Njoro,Carpenter,2021-02-05,32,Sputnik V
+1445,Elizabeth,Mcharo,Female,1979-03-16,Molo,Mason,2021-02-22,42,Moderna
+1447,Mary,Chilambo,Male,2001-09-16,Bahati,Carpenter,2021-05-06,20,Sputnik V
+1414,Omar,Mwadime,Male,1964-06-05,Gilgil,Carpenter,2021-07-22,57,Sinopharm
+785,Mary,Musa,Male,2003-08-16,Njoro,Trader,2022-05-27,19,Sinopharm
+549,Sauda,Musa,Female,1991-04-13,Njoro,Farmer,2021-11-07,31,Pfizer
+750,Elizabeth,Mcharo,Male,1994-03-27,Subukia,Carpenter,2021-08-19,27,Pfizer
+664,Omar,Mwakalinga,Female,1999-04-09,Gilgil,Trader,2022-09-28,23,Oxford-AstraZeneca
+1126,Sarah,Nyaga,Male,1974-11-17,Subukia,Farmer,2022-07-19,48,Pfizer
+19,Sauda,Nyaga,Male,1995-04-22,Gilgil,Teacher,2021-07-06,26,Sinopharm
+847,Elizabeth,Mwashigadi,Female,1976-08-12,Rongai,Teacher,2022-05-18,46,Oxford-AstraZeneca
+535,Omar,Musa,Male,1979-09-07,Njoro,Teacher,2022-07-31,43,Moderna
+797,Joseph,Mcharo,Female,1997-05-20,Naivasha,Farmer,2021-08-23,24,Pfizer
+72,David,Mwashigadi,Male,1958-07-20,Naivasha,Trader,2021-07-27,63,Moderna
+281,Sauda,Musa,Female,2000-08-21,Naivasha,Mason,2022-08-26,22,Moderna
+622,Elizabeth,Mcharo,Male,1969-09-26,Njoro,Trader,2021-06-07,52,Sinopharm
+1433,Joseph,Mtambo,Male,2002-11-04,Gilgil,Carpenter,2021-06-30,19,Johnson and Johnson
+1268,Sarah,Nyaga,Male,1976-04-15,Njoro,Mason,2021-09-27,45,Pfizer
+288,Sarah,Nyaga,Male,1973-11-17,Molo,Farmer,2022-07-27,49,Sinopharm
+1321,Sauda,Mwashigadi,Male,1973-10-18,Njoro,Tailor,2022-06-19,49,Sputnik V
+1442,Omar,Mwadime,Male,1990-06-06,Gilgil,Carpenter,2021-02-27,31,Sinopharm
+1142,Joseph,Zuberi,Male,1975-10-07,Molo,Carpenter,2022-08-24,47,Sinopharm
+1211,Sarah,Ngoma,Male,1979-07-20,Njoro,Trader,2021-12-13,42,Sinopharm
+1407,Mary,Mwakalinga,Male,1981-08-08,Njoro,Fisherman,2021-04-28,40,Sputnik V
+240,Rahma,Mwadime,Male,2001-01-03,Naivasha,Carpenter,2021-05-06,20,Johnson and Johnson
+867,Mary,Mwashigadi,Male,1959-05-07,Rongai,Carpenter,2021-11-18,63,Moderna
+1136,Michael,Nyaga,Male,2002-04-12,Njoro,Carpenter,2021-03-08,19,Johnson and Johnson
+753,David,Chilambo,Male,1978-04-08,Naivasha,Fisherman,2021-02-13,43,Moderna
+1144,David,Musa,Female,1999-06-08,Subukia,Carpenter,2022-03-23,23,Oxford-AstraZeneca
+383,David,Mtambo,Male,1990-04-14,Naivasha,Teacher,2022-01-28,32,Sinopharm
+939,Michael,Chilambo,Female,1997-03-29,Naivasha,Mason,2021-07-21,24,Moderna
+1270,Michael,Musa,Male,1961-03-12,Njoro,Trader,2022-02-19,61,Sputnik V
+1115,Rahma,Musa,Male,1989-02-18,Njoro,Fisherman,2021-01-28,32,Moderna
+1364,Sarah,Mcharo,Female,1998-05-19,Gilgil,Tailor,2021-02-23,23,Sinopharm
+251,Joseph,Chilambo,Male,1962-07-17,Rongai,Farmer,2021-01-18,59,Sputnik V
+763,Michael,Nyaga,Male,2001-03-27,Njoro,Carpenter,2021-05-12,20,Pfizer
+329,Sarah,Mcharo,Male,1982-03-23,Gilgil,Teacher,2021-11-22,40,Moderna
+1099,Paul,Musa,Female,1990-11-29,Subukia,Carpenter,2021-09-08,31,Pfizer
+103,Michael,Chilambo,Female,1981-07-07,Njoro,Farmer,2021-08-19,40,Moderna
+1400,Rahma,Chilambo,Male,1982-09-07,Njoro,Carpenter,2021-02-20,38,Sinopharm
+1424,Sarah,Chilambo,Male,2000-02-07,Rongai,Teacher,2021-11-14,22,Moderna
+779,Omar,Chilambo,Male,1969-03-10,Molo,Carpenter,2021-06-17,52,Pfizer
+582,Elizabeth,Zuberi,Female,1962-10-22,Gilgil,Mason,2021-08-28,59,Johnson and Johnson
+288,Rahma,Zuberi,Female,1977-09-16,Rongai,Carpenter,2021-01-17,43,Oxford-AstraZeneca
+672,Paul,Ngoma,Male,1972-03-04,Bahati,Carpenter,2021-11-27,50,Pfizer
+63,Mary,Zuberi,Female,1995-08-15,Njoro,Mason,2021-08-18,26,Johnson and Johnson
+1408,David,Nyaga,Male,1986-02-06,Naivasha,Carpenter,2022-06-24,36,Sinopharm
+1263,Joseph,Musa,Male,1988-08-05,Subukia,Carpenter,2022-09-16,34,Sinopharm
+557,Omar,Nyaga,Male,1965-03-18,Bahati,Trader,2021-04-18,56,Pfizer
+738,Mary,Zuberi,Male,1982-06-10,Gilgil,Carpenter,2021-10-11,39,Sinopharm
+1218,Michael,Chilambo,Female,1977-09-20,Njoro,Trader,2021-07-08,44,Johnson and Johnson
+795,Mary,Mwadime,Female,1956-08-12,Bahati,Mason,2021-03-15,65,Sinopharm
+1159,Rahma,Chilambo,Female,1960-05-06,Njoro,Fisherman,2021-04-24,61,Pfizer
+244,Sauda,Nyaga,Male,1955-08-17,Gilgil,Tailor,2022-01-26,66,Moderna
+886,Rahma,Mwakalinga,Male,1999-07-19,Subukia,Farmer,2022-11-12,23,Johnson and Johnson
+1074,David,Mwakalinga,Female,1981-01-23,Gilgil,Tailor,2022-05-16,41,Johnson and Johnson
+1105,Joseph,Chilambo,Female,1966-08-19,Gilgil,Teacher,2021-02-19,55,Sinopharm
+957,Omar,Mwashigadi,Female,1989-02-27,Molo,Carpenter,2022-01-27,33,Sinopharm
+1355,Mary,Chilambo,Male,1990-08-18,Gilgil,Tailor,2021-05-18,31,Sputnik V
+140,Mary,Mwashigadi,Male,1954-09-08,Gilgil,Fisherman,2021-11-25,67,Sputnik V
+1225,Michael,Ngoma,Female,2001-07-14,Naivasha,Teacher,2022-07-21,21,Johnson and Johnson
+710,Sarah,Zuberi,Male,1961-09-20,Gilgil,Farmer,2021-01-29,59,Oxford-AstraZeneca
+349,Mary,Mwadime,Female,2002-11-07,Njoro,Carpenter,2022-10-28,20,Moderna
+451,Paul,Nyaga,Male,1968-09-23,Rongai,Carpenter,2021-01-17,52,Moderna
+753,David,Chilambo,Male,1990-08-14,Subukia,Fisherman,2021-04-06,31,Johnson and Johnson
+659,David,Mwashigadi,Female,2003-04-22,Njoro,Mason,2022-07-15,19,Sputnik V
+1000,Michael,Mwashigadi,Male,2000-08-12,Naivasha,Fisherman,2021-04-20,21,Sputnik V
+590,Sauda,Mwashigadi,Female,2000-08-18,Njoro,Tailor,2022-05-08,22,Sputnik V
+1371,Elizabeth,Ngoma,Male,2001-11-26,Njoro,Fisherman,2021-01-25,19,Johnson and Johnson
+753,Sarah,Mwashigadi,Male,1983-12-18,Molo,Tailor,2021-01-30,37,Oxford-AstraZeneca
+364,Elizabeth,Ngoma,Male,1956-06-11,Bahati,Fisherman,2021-03-11,65,Johnson and Johnson
+355,Joseph,Ngoma,Male,1991-08-16,Njoro,Carpenter,2021-01-26,29,Moderna
+1259,David,Musa,Male,2002-11-13,Naivasha,Trader,2022-08-12,20,Pfizer
+381,Mary,Mcharo,Female,2000-07-08,Rongai,Carpenter,2021-03-07,21,Sputnik V
+1003,David,Nyaga,Female,1998-04-27,Njoro,Carpenter,2021-03-26,23,Moderna
+1364,Omar,Mwadime,Female,1990-07-24,Rongai,Trader,2022-10-16,32,Pfizer
+782,Omar,Mcharo,Male,1982-08-07,Subukia,Mason,2022-04-23,40,Sputnik V
+1005,Sarah,Mwadime,Male,1988-02-13,Naivasha,Tailor,2021-11-28,34,Sputnik V
+408,Sauda,Mtambo,Male,2002-08-07,Rongai,Carpenter,2021-06-06,19,Pfizer
+228,Omar,Musa,Female,1992-11-26,Molo,Farmer,2021-06-21,29,Johnson and Johnson
+1215,Paul,Chilambo,Male,1956-04-16,Gilgil,Tailor,2021-05-20,65,Pfizer
+209,Joseph,Nyaga,Female,1993-04-17,Gilgil,Carpenter,2021-11-15,29,Oxford-AstraZeneca
+1478,Paul,Mwashigadi,Female,1990-08-11,Molo,Trader,2021-08-08,31,Moderna
+24,Sarah,Musa,Male,1995-05-03,Gilgil,Mason,2021-08-06,26,Johnson and Johnson
+1268,Omar,Chilambo,Male,1973-09-25,Njoro,Carpenter,2022-04-21,49,Sputnik V
+570,David,Mwadime,Female,1997-04-07,Molo,Carpenter,2021-05-24,24,Sinopharm
+961,Sauda,Musa,Female,1958-04-04,Molo,Fisherman,2022-05-08,64,Pfizer
+883,Michael,Nyaga,Female,1982-02-27,Naivasha,Teacher,2021-02-15,39,Sinopharm
+348,David,Mwashigadi,Male,1991-07-10,Naivasha,Teacher,2021-03-24,30,Oxford-AstraZeneca
+770,David,Chilambo,Male,2002-05-06,Subukia,Mason,2022-04-15,20,Sputnik V
+1198,Mary,Mcharo,Male,1965-07-20,Molo,Mason,2021-11-29,56,Pfizer
+1260,Michael,Mcharo,Male,1961-08-29,Naivasha,Farmer,2021-07-17,60,Sinopharm
+552,Rahma,Chilambo,Male,1977-07-10,Subukia,Farmer,2021-07-21,44,Pfizer
+1035,Joseph,Ngoma,Male,1998-08-06,Njoro,Mason,2022-11-20,24,Johnson and Johnson
+1317,Paul,Zuberi,Male,1999-02-14,Gilgil,Carpenter,2022-06-26,23,Sinopharm
+824,Michael,Chilambo,Male,1962-05-23,Molo,Tailor,2021-06-21,59,Sputnik V
+1277,Sarah,Mtambo,Male,1970-11-06,Subukia,Carpenter,2021-11-30,51,Moderna
+705,Paul,Chilambo,Male,1997-05-05,Subukia,Carpenter,2022-08-23,25,Sputnik V
+522,Rahma,Mcharo,Male,1998-11-04,Njoro,Tailor,2021-07-28,23,Johnson and Johnson
+349,Elizabeth,Musa,Male,1992-03-14,Gilgil,Carpenter,2021-04-19,29,Moderna
+577,David,Mcharo,Male,2000-05-16,Subukia,Farmer,2022-01-25,22,Oxford-AstraZeneca
+1051,Michael,Chilambo,Female,1983-08-21,Subukia,Tailor,2022-03-05,39,Oxford-AstraZeneca
+1030,Joseph,Zuberi,Male,1956-05-06,Naivasha,Farmer,2022-02-20,66,Sinopharm
+418,Joseph,Nyaga,Male,1996-10-07,Rongai,Tailor,2021-06-26,25,Sinopharm
+595,Rahma,Chilambo,Male,1962-12-27,Subukia,Fisherman,2021-06-04,58,Sputnik V
+737,Rahma,Zuberi,Male,1995-08-28,Njoro,Carpenter,2021-10-27,26,Johnson and Johnson
+256,Michael,Mtambo,Male,1986-04-19,Rongai,Teacher,2021-03-15,35,Sputnik V
+572,Mary,Ngoma,Male,1972-06-19,Bahati,Tailor,2022-04-27,50,Pfizer
+361,Michael,Chilambo,Male,1996-03-14,Gilgil,Carpenter,2021-11-19,26,Moderna
+1422,David,Ngoma,Male,2003-06-08,Molo,Carpenter,2022-04-26,19,Moderna
+793,Elizabeth,Mwadime,Female,1975-04-04,Subukia,Carpenter,2021-01-21,46,Johnson and Johnson
+471,Elizabeth,Nyaga,Female,1997-10-23,Gilgil,Tailor,2022-02-09,24,Sputnik V
+225,Sauda,Mcharo,Male,1989-09-11,Njoro,Trader,2021-07-14,32,Sputnik V
+273,David,Chilambo,Male,1989-04-28,Molo,Fisherman,2022-12-06,34,Pfizer
+496,Sauda,Chilambo,Female,1984-07-09,Gilgil,Farmer,2021-08-18,37,Moderna
+1252,Paul,Mwadime,Female,2000-03-23,Njoro,Tailor,2021-10-09,22,Sputnik V
+271,Mary,Nyaga,Male,1979-09-21,Subukia,Tailor,2021-10-27,42,Oxford-AstraZeneca
+641,Elizabeth,Chilambo,Female,1962-04-22,Gilgil,Fisherman,2021-06-21,59,Pfizer
+976,Joseph,Mwashigadi,Male,2001-05-23,Bahati,Fisherman,2021-06-10,20,Pfizer
+889,Mary,Mwadime,Female,2004-04-17,Molo,Tailor,2022-06-24,18,Oxford-AstraZeneca
+968,Paul,Mwashigadi,Male,1987-11-02,Molo,Farmer,2021-02-14,33,Oxford-AstraZeneca
+633,Sarah,Mwashigadi,Male,2000-04-28,Gilgil,Carpenter,2022-06-15,22,Moderna
+741,Rahma,Mwashigadi,Male,2002-09-10,Molo,Fisherman,2021-10-19,19,Johnson and Johnson
+1089,Sarah,Nyaga,Male,1988-08-09,Gilgil,Fisherman,2021-04-18,33,Johnson and Johnson
+840,Elizabeth,Mwashigadi,Male,1973-11-03,Njoro,Mason,2021-07-09,48,Pfizer
+647,Omar,Mwadime,Female,1990-05-18,Naivasha,Carpenter,2021-10-23,31,Pfizer
+575,Omar,Zuberi,Male,1975-09-23,Njoro,Trader,2021-04-27,46,Oxford-AstraZeneca
+751,Paul,Mwashigadi,Male,2002-03-05,Bahati,Farmer,2021-02-26,19,Pfizer
+1275,Michael,Zuberi,Male,1988-04-27,Subukia,Carpenter,2021-06-14,33,Johnson and Johnson
+1466,Rahma,Nyaga,Female,2002-12-12,Subukia,Teacher,2022-08-25,20,Oxford-AstraZeneca
+164,Mary,Nyaga,Female,1999-08-28,Naivasha,Teacher,2021-07-23,22,Moderna
+28,David,Chilambo,Male,1970-11-03,Gilgil,Carpenter,2021-11-23,51,Sinopharm
+1458,Mary,Mtambo,Male,2002-04-20,Gilgil,Farmer,2021-08-09,19,Pfizer
+950,Joseph,Mtambo,Male,2000-08-18,Subukia,Farmer,2021-10-28,21,Sputnik V
+291,Omar,Mcharo,Male,1974-06-06,Molo,Mason,2022-08-18,48,Moderna
+155,Michael,Mwakalinga,Male,1989-02-18,Gilgil,Mason,2021-11-23,33,Sinopharm
+862,Michael,Mwadime,Male,2002-07-20,Naivasha,Carpenter,2021-05-26,19,Sinopharm
+211,Sauda,Mcharo,Female,2003-01-05,Njoro,Trader,2022-12-08,20,Moderna
+1022,Rahma,Musa,Female,2003-11-15,Njoro,Mason,2021-11-16,18,Sputnik V
+947,Omar,Chilambo,Female,2002-01-18,Bahati,Farmer,2021-07-13,19,Sinopharm
+157,Michael,Mwakalinga,Male,1993-04-10,Molo,Fisherman,2022-07-27,29,Johnson and Johnson
+943,Rahma,Nyaga,Female,1989-02-06,Rongai,Teacher,2021-07-23,32,Johnson and Johnson
+485,Sarah,Mwadime,Female,2001-12-15,Bahati,Mason,2022-01-17,20,Pfizer
+743,David,Mcharo,Female,1995-09-06,Subukia,Carpenter,2021-02-09,25,Moderna
+1148,Sarah,Mwashigadi,Female,1965-06-21,Bahati,Fisherman,2021-11-13,56,Pfizer
+1115,Rahma,Chilambo,Male,1961-07-15,Gilgil,Trader,2021-08-14,60,Moderna
+137,Sarah,Mwashigadi,Male,1957-05-09,Rongai,Tailor,2021-07-29,64,Pfizer
+916,Joseph,Zuberi,Female,2001-07-06,Gilgil,Fisherman,2021-02-13,20,Sinopharm
+1109,Rahma,Musa,Male,1997-06-08,Molo,Fisherman,2022-01-03,25,Moderna
+827,David,Musa,Male,1999-07-15,Subukia,Carpenter,2021-07-06,22,Pfizer
+951,Mary,Chilambo,Male,1964-02-05,Gilgil,Tailor,2021-05-29,57,Sinopharm
+358,Elizabeth,Mtambo,Male,1973-11-18,Subukia,Tailor,2022-02-20,48,Moderna
+1443,Rahma,Chilambo,Male,1990-02-06,Gilgil,Carpenter,2022-09-29,33,Sinopharm
+472,Paul,Musa,Male,1981-05-13,Naivasha,Fisherman,2021-07-03,40,Pfizer
+1203,Sauda,Zuberi,Male,1996-09-22,Gilgil,Tailor,2022-07-03,26,Sinopharm
+1038,Mary,Mwadime,Female,1991-08-15,Naivasha,Carpenter,2022-08-08,31,Moderna
+728,Mary,Mwakalinga,Male,2002-08-14,Naivasha,Fisherman,2021-11-14,19,Sputnik V
+219,David,Mwashigadi,Male,1983-01-16,Bahati,Trader,2021-09-18,39,Moderna
+724,Elizabeth,Mwakalinga,Male,1980-05-26,Gilgil,Carpenter,2021-06-29,41,Oxford-AstraZeneca
+861,Sauda,Mcharo,Female,2001-11-30,Gilgil,Fisherman,2021-01-16,19,Sinopharm
+467,Joseph,Zuberi,Male,1997-06-25,Gilgil,Mason,2022-06-25,25,Pfizer
+1095,Michael,Chilambo,Female,1992-04-19,Gilgil,Tailor,2021-01-19,29,Oxford-AstraZeneca
+789,Sarah,Chilambo,Female,1981-06-25,Molo,Tailor,2022-09-26,41,Johnson and Johnson
+73,Rahma,Chilambo,Female,1988-04-20,Naivasha,Carpenter,2022-10-16,34,Moderna
+1309,Sarah,Zuberi,Male,1978-06-05,Gilgil,Carpenter,2021-06-30,43,Sputnik V
+1090,Michael,Mwadime,Male,2003-03-19,Njoro,Teacher,2021-06-16,18,Moderna
+648,Paul,Mwashigadi,Male,1986-09-05,Njoro,Fisherman,2022-06-17,36,Sputnik V
+1275,Sarah,Zuberi,Male,1968-04-25,Njoro,Trader,2021-05-24,53,Moderna
+352,Mary,Nyaga,Female,2003-04-06,Naivasha,Mason,2022-02-23,19,Oxford-AstraZeneca
+322,Joseph,Ngoma,Male,1984-08-18,Naivasha,Carpenter,2021-08-26,37,Moderna
+648,Sarah,Chilambo,Female,1989-01-22,Bahati,Fisherman,2022-09-15,34,Moderna
+1263,Omar,Musa,Female,1987-05-28,Gilgil,Carpenter,2021-11-21,34,Moderna
+55,Omar,Mwashigadi,Female,1987-09-05,Subukia,Carpenter,2021-05-07,34,Sinopharm
+1111,Michael,Chilambo,Male,1995-07-26,Rongai,Farmer,2021-01-29,26,Johnson and Johnson
+1470,Michael,Mcharo,Male,1963-08-05,Rongai,Carpenter,2022-02-18,59,Moderna
+844,Mary,Zuberi,Male,1991-10-11,Rongai,Carpenter,2021-08-29,30,Moderna
+298,Michael,Chilambo,Female,1997-03-26,Gilgil,Tailor,2021-08-28,24,Sinopharm
+1332,Paul,Mwashigadi,Male,1985-04-08,Gilgil,Farmer,2022-08-16,37,Sputnik V
+1027,Mary,Mtambo,Male,1959-04-30,Naivasha,Fisherman,2022-06-26,63,Pfizer
+297,Sauda,Zuberi,Male,2002-03-05,Gilgil,Teacher,2021-06-29,19,Sputnik V
+1184,David,Ngoma,Male,1992-07-16,Njoro,Fisherman,2021-08-24,29,Pfizer
