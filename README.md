@@ -16,3 +16,11 @@ The central idea is to <b>develop and validate linkage methodology in a controll
 <hr>
 <br>
 🎯 <b>Research Objectives</b><BR><BR>
+The repository is designed to investigate the following questions:
+<UL>
+<LI>Can realistic synthetic population data be generated while preserving important source-data characteristics?</LI><BR>
+<LI>How can synthetic datasets be used to develop and benchmark record linkage methods?</LI><BR>
+<LI>Which data-quality and similarity features are most informative for identifying matching records?</LI><BR>
+<LI>How can machine learning improve linkage beyond simple deterministic rules?</LI><BR>
+<LI>How can validated linkage approaches be transferred from synthetic data to real-world longitudinal datasets?</LI><BR>
+</UL>
