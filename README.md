@@ -65,7 +65,8 @@ This project explores the use of the <B>OMOP Common Data Model (CDM)</B> as a st
 The objective is to create <B>standardised, interoperable, and research-ready data </B>while preserving the information required for longitudinal analysis and record linkage.
 <BR><BR>
 <B>OMOP CDM Standardisation Workflow</B><BR>
-
+<img src="images/Clipboard_08-11-2026_04.jpg" alt="Project Banner" width="250" height="950" align="center">
+<BR><BR>
 <B>3. 🧬 Synthetic Data Generation</B>
 <BR><BR> 
 Synthetic data generation is a central component of this research workflow. It provides a controlled environment for developing and evaluating record linkage methods while reducing the need to expose identifiable individual-level population data during methodological development.
