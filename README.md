@@ -31,3 +31,5 @@ The repository is designed to investigate the following questions:<BR><BR>
 Population health research frequently requires information from multiple data sources.
 <BR>
 For example:<BR><BR>
+<img src="images/Clipboard_08-11-2026_02.jpg" alt="Project Banner" width="250" height="950" align="center">
+<BR><BR>
