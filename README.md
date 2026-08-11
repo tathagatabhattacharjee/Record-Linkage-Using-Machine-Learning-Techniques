@@ -429,4 +429,104 @@ The objective is to transform heterogeneous population attributes into a consist
 <BR><BR>
 <B>5. 🤖 Machine Learning for Record Linkage</B>
 <BR><BR>
-
+After candidate pairs have been represented using comparison features, the linkage problem can be formulated as a <B>classification problem</B>.
+<BR><BR>
+The model learns to distinguish between:
+<BR><BR>
+<B>Match</B> — two records represent the same individual.
+<B>Non-match</B> — two records represent different individuals.
+<BR>
+<img src="images/Clipboard_08-11-2026_10.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<BR>
+<B>Synthetic Data and Ground Truth</B>
+<BR><BR>
+Synthetic data provides an important methodological advantage: the relationship between records can be controlled.
+<BR><BR>
+This makes it possible to construct labelled candidate pairs where the expected linkage status is known.
+<BR><BR>
+To generate labeled training data for record linkage models, a synthetic population is linked to known individual identities to form candidate pairs. Each candidate pair is then assigned a ground-truth label—classified as either a match or a non-match—which serves as the benchmark dataset to train and evaluate machine learning linkage models.
+<BR><BR>
+<B>Model Development Strategy</B>
+<BR><BR>
+The research workflow is designed around the following sequence:<BR><BR>
+<OL>
+<LI>Generate synthetic population data.</LI><BR>
+<LI>Validate the synthetic distributions.</LI><BR>
+<LI>Construct candidate record pairs.</LI><BR>
+<LI>Generate comparison features.</LI><BR>
+<LI>Establish matching and non-matching labels.</LI><BR>
+<LI>Train machine-learning models.</LI><BR>
+<LI>Evaluate model predictions.</LI><BR>
+<LI>Investigate linkage errors.</LI><BR>
+<LI>Refine the feature representation and decision process.</LI><BR>
+<LI>Validate the methodology against appropriate real-world data.</LI><BR>
+</OL>
+<BR>
+<B>Linkage Probability</B>
+<BR><BR>
+A machine-learning approach can produce a score representing the likelihood that a candidate pair is a true match.
+<BR><BR>
+In record linkage, a candidate pair is evaluated by generating comparison features, which are fed into a machine learning model to compute a match probability. This probability is then evaluated against a pre-defined decision threshold to classify the pair as either a match or a non-match.
+<BR><BR>
+The threshold is an important research parameter because different applications may place different importance on avoiding false matches versus recovering as many true matches as possible.
+<BR><BR>
+<B>Model performance, feature importance, and threshold selection should be determined empirically through validation rather than assumed in advance.</B>
+<BR><BR>
+<B>6. 📊 Evaluation Framework</B><BR><BR>
+Record linkage should be evaluated carefully because both types of linkage error can affect downstream population-health research.
+<BR>
+Two fundamental errors: <BR>
+A <B>false match</B> occurs when records belonging to different individuals are incorrectly linked.<BR>
+A <B>false non-match</B> occurs when records belonging to the same individual fail to be linked.<BR>
+<BR>
+Both can affect the quality of downstream analyses.
+<BR><BR>
+<TABLE>
+<TR>
+   <TH>Metric</TH>
+   <TH>Interpretation</TH>
+</TR>
+<TR>
+   <TD>Precision</TD>
+   <TD>How many predicted matches are actually correct</TD>
+</TR>
+<TR>
+   <TD>Recall / Sensitivity</TD>
+   <TD>How many true matches are successfully identified</TD>
+</TR>
+<TR>
+   <TD>F1-score</TD>
+   <TD>Balance between precision and recall</TD>
+</TR>
+<TR>
+   <TD></TD>
+   <TD></TD>
+</TR>
+<TR>
+   <TD>Specificity</TD>
+   <TD>Ability to identify non-matching records correctly</TD>
+</TR>
+<TR>
+   <TD>Accuracy</TD>
+   <TD>Overall classification performance</TD>
+</TR>
+<TR>
+   <TD>ROC-AUC</TD>
+   <TD>Discrimination between matches and non-matches</TD>
+</TR>
+<TR>
+   <TD>PR-AUC</TD>
+   <TD>Particularly useful when matches are relatively rare</TD>
+</TR>
+<TR>
+   <TD>False Match Rate</TD>
+   <TD>Frequency of incorrect links</TD>
+</TR>
+<TR>
+   <TD>False Non-Match Rate</TD>
+   <TD>Frequency of missed true links</TD>
+</TR> 
+</TABLE>
+<BR>
+<B>Precision–Recall Trade-off</B>
+<BR><BR>
