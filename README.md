@@ -122,6 +122,12 @@ The standardisation process addresses several dimensions of heterogeneous source
    </tr>
 </TABLE>
 <BR><BR>
+<B>Source-to-OMOP Transformation<B>
+<BR><BR>
+The ETL process can be conceptualised as:
+<BR>
+<img src="images/Clipboard_08-11-2026_05.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<BR><BR>
 <B>3. 🧬 Synthetic Data Generation</B>
 <BR><BR> 
 Synthetic data generation is a central component of this research workflow. It provides a controlled environment for developing and evaluating record linkage methods while reducing the need to expose identifiable individual-level population data during methodological development.
