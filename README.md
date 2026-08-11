@@ -56,8 +56,19 @@ The file <B>Converting Long to Wide Format.pdf</B> in the folder <B>01 Convert S
 <BR><BR>
 This stage provides a reproducible ETL foundation for longitudinal population data. This conversion is only done to convert the records from events to episodes and therefore make it easy for record linkage, as only the individual's details are needed for the purpose. 
 <BR><BR>
-<B>2. 🧬 Synthetic Data Generation</B>
-<BR><BR> Synthetic data generation is a central component of this research workflow. It provides a controlled environment for developing and evaluating record linkage methods while reducing the need to expose identifiable individual-level population data during methodological development.
+<B>2. 🔄 Data Standardisation</B>
+<BR><BR>
+Data standardisation is a foundational component of this research workflow. Population-health, HDSS, clinical, and longitudinal datasets are often collected using different structures, variable definitions, coding systems, and data formats. These differences make it difficult to integrate datasets and perform reliable downstream analyses.
+<BR><BR>
+This project explores the use of the <B>OMOP Common Data Model (CDM)</B> as a standardised framework for transforming heterogeneous health and population data into a common structure.
+<BR><BR>
+The objective is to create <B>standardised, interoperable, and research-ready data </B>while preserving the information required for longitudinal analysis and record linkage.
+<BR><BR>
+<B>OMOP CDM Standardisation Workflow</B><BR>
+
+<B>3. 🧬 Synthetic Data Generation</B>
+<BR><BR> 
+Synthetic data generation is a central component of this research workflow. It provides a controlled environment for developing and evaluating record linkage methods while reducing the need to expose identifiable individual-level population data during methodological development.
 <BR><BR>
 The project explores <B>CTGAN (Conditional Tabular Generative Adversarial Network)</B> for generating synthetic tabular population data while attempting to preserve important characteristics of the underlying source data.
 <BR><BR>
