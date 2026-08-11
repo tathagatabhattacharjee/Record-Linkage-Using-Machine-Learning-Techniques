@@ -127,6 +127,15 @@ The standardisation process addresses several dimensions of heterogeneous source
 The ETL process can be conceptualised as:
 <BR>
 <img src="images/Clipboard_08-11-2026_05.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<BR>
+* The data need to be transformed and harmonised before being incorporated into an OMOP-oriented analytical environment.
+<BR><BR>
+<B>OMOP CDM as an Interoperability Layer</B>
+<BR><BR>
+One of the major advantages of using the OMOP CDM is that it separates source-specific data structures from the common analytical representation.
+<BR>
+<img src="images/Clipboard_08-11-2026_06.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<BR>
 <BR><BR>
 <B>3. 🧬 Synthetic Data Generation</B>
 <BR><BR> 
