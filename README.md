@@ -52,7 +52,8 @@ The repository includes <B>Pentaho Data Integration (.ktr)</B> transformations f
 <BR><BR>
 The current repository contains multiple versions of the transformation:
 <BR><BR>
-01 Convert Source Data From Long to Wide/
-|
-|-- Data Preparation Longitudinal 1 v2.ktr
-|-- 
+The file <B>Converting Long to Wide Format.pdf</B> in the folder <B>01 Convert Source Data From Long to Wide/</B> describes the process of converting the data from Long to Wide
+<BR><BR>
+This stage provides a reproducible ETL foundation for longitudinal population data. This conversion is only done to converte the records from events to episodes and therefor are easy for the record libkage as only the invididual's details are needed for the purpose. 
+<BR><BR>
+
