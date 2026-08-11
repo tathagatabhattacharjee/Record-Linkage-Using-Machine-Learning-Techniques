@@ -122,7 +122,7 @@ The standardisation process addresses several dimensions of heterogeneous source
    </tr>
 </TABLE>
 <BR><BR>
-<B>Source-to-OMOP Transformation<B>
+<B>Source-to-OMOP Transformation</B>
 <BR><BR>
 The ETL process can be conceptualised as:
 <BR>
