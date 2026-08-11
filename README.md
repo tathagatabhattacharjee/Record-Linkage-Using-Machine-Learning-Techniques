@@ -10,4 +10,4 @@ A reproducible research workflow for synthetic data generation, longitudinal dat
 This repository presents a research-oriented workflow for developing and evaluating <b>>machine learning–based record linkage methods, particularly in the context of population health, longitudinal studies, and health and demographic surveillance data</b>.
 <BR><BR>
 The project follows a synthetic-to-real-data strategy:<BR><BR>
-![Logo](images/Clipboard_08-11-2026_01.jpg)
+![Logo]([images/Clipboard_08-11-2026_01.jpg](https://github.com/tathagatabhattacharjee/Record-Linkage-Using-Machine-Learning-Techniques/blob/main/images/Clipboard_08-11-2026_01.jpg))
