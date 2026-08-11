@@ -415,11 +415,11 @@ Two records may contain:
 </TABLE>
 <BR>
 Although the names are not exactly equal, the pair contains several pieces of supporting evidence:
-<BR>
+<BR><I>
 Name similarity → High <BR>
 Date of Birth → Exact agreement <BR>
 Sex → Exact agreement <BR>
-Village → Exact agreement <BR>
+Village → Exact agreement <BR></I>
 <BR>
 The machine-learning model can use this combined evidence rather than relying on a strict all-fields-match rule.
 <BR>
