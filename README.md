@@ -1,3 +1,13 @@
-# Record-Linkage-Using-Machine-Learning-Techniques
-
-This repository details the process of record linkage utilizing machine learning techniques, starting with the generation of synthetic datasets. Initially, synthetic data is created to simulate realistic scenarios and assess linkage models in a controlled environment. Following the validation and refinement of these models, the techniques are deployed on real-world data, enhancing the robustness and accuracy of the record linkage process. This comprehensive approach allows for a thorough evaluation of methods before applying them to actual datasets, ensuring reliable and insightful outcomes in population health research.
+<h1>Record Linkage Using Machine Learning Techniques</h1>
+<p align="center"><b>
+A reproducible research workflow for synthetic data generation, longitudinal data preparation, and machine learning–based record linkage
+</b>  </p>
+<hr>
+📌<b> Overview</b>
+<BR><Br>
+<B>Record linkage</B> is the process of determining whether records from different datasets refer to the same underlying individual or entity.
+<BR><BR>
+This repository presents a research-oriented workflow for developing and evaluating <b>>machine learning–based record linkage methods, particularly in the context of population health, longitudinal studies, and health and demographic surveillance data</b>.
+<BR><BR>
+The project follows a synthetic-to-real-data strategy:<BR><BR>
+![Logo](images/Clipboard_08-11-2026_01.jpg)
