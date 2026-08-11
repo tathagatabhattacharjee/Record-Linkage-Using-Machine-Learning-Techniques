@@ -44,3 +44,15 @@ Incorrect linkage can introduce:<BR><BR>
 <LI>Reduced statistical power — fragmented records can lead to incomplete trajectories.</LI><BR>
 </UL>
 <HR>
+🔬 <B>Methodology</B>
+<BR>
+<B>1. Longitudinal Data Preparation</B>  
+<BR><BR>
+The repository includes <B>Pentaho Data Integration (.ktr)</B> transformations for converting source longitudinal data from long format into a structure suitable for subsequent processing.
+<BR><BR>
+The current repository contains multiple versions of the transformation:
+<BR><BR>
+01 Convert Source Data From Long to Wide/
+|
+|-- Data Preparation Longitudinal 1 v2.ktr
+|-- 
