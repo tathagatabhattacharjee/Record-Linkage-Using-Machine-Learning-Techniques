@@ -325,4 +325,4 @@ The next stage of the methodology is therefore to transform record pairs into co
 <BR><BR>
 <B>Pairwise Comparison</B>
 <BR><BR>
-<U>Record A</U>&tab;&tab;&tab;&tab; <U>Record B</U><BR>
+<U>Record A</U> &emsp;;&tab;&tab;&tab; <U>Record B</U><BR>
