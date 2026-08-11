@@ -136,6 +136,42 @@ One of the major advantages of using the OMOP CDM is that it separates source-sp
 <BR>
 <img src="images/Clipboard_08-11-2026_06.jpg" alt="Project Banner" width="600" height="1500" align="center">
 <BR>
+Instead of developing every analysis separately for every source system, data can be transformed into a common representation.
+<BR><BR>
+This supports:
+<BR><BR>
+<UL>
+<LI>Cross-dataset interoperability</LI><BR>
+<LI>Consistent analytical definitions</LI><BR>
+<LI>Reusable research workflows</LI><BR>
+<LI>Standardised observational research</LI><BR>
+<LI>Cross-site data harmonisation</LI><BR>
+<LI>Improved data quality</LI><BR>
+<LI>More reproducible analyses</LI><BR>
+</UL>
+<BR><BR>
+<B>OMOP CDM and Record Linkage</B>
+<BR><BR>
+Data standardisation and record linkage are complementary components of the overall research workflow.
+<BR><BR>
+Standardisation provides a consistent representation of the data, while record linkage addresses the question of whether observations from different sources correspond to the same underlying individual.
+<BR>
+<img src="images/Clipboard_08-11-2026_07.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<BR>
+Importantly, OMOP standardisation does not itself perform record linkage. Instead, it establishes a common data structure and vocabulary that can support subsequent integration, analysis, and linkage workflows.
+<BR><BR>
+<B>OMOP CDM and Population Health Research</B><BR><BR>
+The standardised data environment can support downstream research activities such as:<BR><BR>
+<UL>
+<LI>Population-level descriptive analyses</LI><BR>
+<LI>Longitudinal cohort construction</LI><BR>
+<LI>Epidemiological studies</LI><BR>
+<LI>Health outcome research</LI><BR>
+<LI>Cross-site observational research</LI><BR>
+<LI>Data quality assessment</LI><BR>
+<LI>Record linkage and data integration</LI><BR>
+<LI>Reproducible population-health analyses</LI><BR>
+</UL>
 <BR><BR>
 <B>3. 🧬 Synthetic Data Generation</B>
 <BR><BR> 
