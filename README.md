@@ -65,7 +65,7 @@ This project explores the use of the <B>OMOP Common Data Model (CDM)</B> as a st
 The objective is to create <B>standardised, interoperable, and research-ready data </B>while preserving the information required for longitudinal analysis and record linkage.
 <BR><BR>
 <B>OMOP CDM Standardisation Workflow</B><BR>
-<img src="images/Clipboard_08-11-2026_04.jpg" alt="Project Banner" width="250" height="950" align="center">
+<img src="images/Clipboard_08-11-2026_04.jpg" alt="Project Banner" width="600" height="1500" align="center">
 <BR><BR>
 <B>What is Being Standardised?</B><BR><BR>
 The OMOP CDM provides a common structure and vocabulary framework for representing observational health data.
@@ -143,7 +143,7 @@ The synthetic-data experiments include distributions for:
 </UL>
 <BR>
 The repository contains separate CTGAN experiments, including an experiment specifically designed to investigate <B>well-distributed Date-of-Birth</B> data. The generated outputs include distribution plots, HTML analysis, PDF reports, and comparison results.
-<img src="images/Clipboard_08-11-2026_03.jpg" alt="Project Banner" width="250" height="950" align="center">
+<img src="images/Clipboard_08-11-2026_03.jpg" alt="Project Banner" width="600" height="1500" align="center">
 <BR>
 <B>Why Synthetic Data?</B><BR><BR>
 Synthetic data is particularly useful for this research because record linkage requires controlled experiments in which the researcher can understand the underlying relationships between records.
