@@ -56,4 +56,40 @@ The file <B>Converting Long to Wide Format.pdf</B> in the folder <B>01 Convert S
 <BR><BR>
 This stage provides a reproducible ETL foundation for longitudinal population data. This conversion is only done to convert the records from events to episodes and therefore make it easy for record linkage, as only the individual's details are needed for the purpose. 
 <BR><BR>
-
+<B>2. 🧬 Synthetic Data Generation</B>
+<BR><BR> Synthetic data generation is a central component of this research workflow. It provides a controlled environment for developing and evaluating record linkage methods while reducing the need to expose identifiable individual-level population data during methodological development.
+<BR><BR>
+The project explores <B>CTGAN (Conditional Tabular Generative Adversarial Network)</B> for generating synthetic tabular population data while attempting to preserve important characteristics of the underlying source data.
+<BR><BR>
+The current experiments focus particularly on demographic, geographic, and date-related variables that may subsequently contribute to record linkage.
+<BR><BR>
+<B>Variables Considered</B>
+<BR><BR>
+The synthetic-data experiments include distributions for:
+<UL>
+<LI>Date of birth — day</LI><BR>
+<LI>Date of birth — month</LI><BR>
+<LI>Date of birth — year</LI><BR>
+<LI>Sex</LI><BR>
+<LI>Village</LI><BR>
+<LI>Sub-village</LI><BR>
+</UL>
+<BR>
+The repository contains separate CTGAN experiments, including an experiment specifically designed to investigate <B>well-distributed Date-of-Birth</B> data. The generated outputs include distribution plots, HTML analysis, PDF reports, and comparison results.
+<img src="images/Clipboard_08-11-2026_03.jpg" alt="Project Banner" width="250" height="950" align="center">
+<BR>
+<B>Why Synthetic Data?</B><BR><BR>
+Synthetic data is particularly useful for this research because record linkage requires controlled experiments in which the researcher can understand the underlying relationships between records.
+<BR><BR>
+It provides opportunities to:
+<BR><BR>
+<UL>
+<LI>Develop methodology without exposing identifiable records.</LI><BR>
+<LI>Create controlled matching and non-matching scenarios.</LI><BR>
+<LI>Introduce realistic data variation.</LI><BR>
+<LI>Investigate the effect of missing or inconsistent information.</LI><BR>
+<LI>Benchmark alternative linkage approaches.</LI><BR>
+<LI>Repeat experiments under controlled conditions.</LI><BR>
+<LI>Study the behaviour of linkage methods at different scales.</LI><BR>
+</UL>
+<BR>
