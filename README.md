@@ -172,6 +172,39 @@ The standardised data environment can support downstream research activities suc
 <LI>Record linkage and data integration</LI><BR>
 <LI>Reproducible population-health analyses</LI><BR>
 </UL>
+<BR>
+<B>OMOP Vocabulary Standardisation</B>
+<BR><BR>
+Where applicable, source-specific codes can be mapped to standard OMOP concepts.
+<BR><BR>
+The ETL process transforms source data into the OMOP Common Data Model by sequentially mapping native terminology to standardised medical concepts. It begins with Local Source Code, which represents the raw, unstandardised clinical data in its native format (such as local lab codes or proprietary diagnoses). This data is then extracted to construct the Source Vocabulary, cataloging all unique native terms used within the source database. Next, Vocabulary Mapping takes place, utilising tools like USAGI or standardised crosswalks to systematically translate each native source term into its corresponding Standard OMOP Concept within the OHDSI standardised vocabularies (e.g., SNOMED CT for conditions or RxNorm for medications). Finally, these standardised concepts, along with their structured domain attributes, are loaded into the target OMOP CDM tables, completing the transition from disparate local data to a globally unified, analytics-ready schema.
+<BR><BR>
+This vocabulary standardisation is particularly important when combining information from multiple systems that use different coding schemes.
+<BR><BR>
+<B>Data Quality Before and After ETL</B>
+<BR><BR>
+An important part of the standardisation workflow is documenting data-quality issues before and after transformation.<BR>
+Examples include:
+<BR><BR>
+<UL>
+<LI>Missing demographic information</LI><BR>
+<LI>Invalid dates</LI><BR>
+<LI>Inconsistent categorical values</LI><BR>
+<LI>Duplicate records</LI><BR>
+<LI>Inconsistent identifiers</LI><BR>
+<LI>Unmapped source codes</LI><BR>
+<LI>Invalid concept mappings</LI><BR>
+<LI>Unexpected values</LI><BR>
+<LI>Inconsistent geographic classifications</LI><BR>
+</UL>
+<BR>
+The goal is not simply to move data into OMOP tables, but to create a well-documented and quality-assessed research dataset.
+<BR><BR>
+<B>Role in the Overall Research Pipeline</B>
+   <BR><BR>
+The OMOP CDM data standardisation stage establishes a foundation by converting raw source data into a unified format, which sequentially enables synthetic data generation, validation, and record linkage feature engineering. This structured pipeline then supports machine learning model development for record linkage, rigorous evaluation, and reproducible research—ultimately driving impactful population health applications.
+<BR><BR>
+The use of OMOP CDM provides a common foundation for transforming heterogeneous population and health data into interoperable, research-ready datasets suitable for reproducible observational and population-health research.
 <BR><BR>
 <B>3. 🧬 Synthetic Data Generation</B>
 <BR><BR> 
