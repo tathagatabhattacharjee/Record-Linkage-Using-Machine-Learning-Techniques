@@ -530,3 +530,38 @@ Both can affect the quality of downstream analyses.
 <BR>
 <B>Precision–Recall Trade-off</B>
 <BR><BR>
+A highly permissive linkage model may identify more true matches but also produce more false matches.
+<BR><BR>
+A highly conservative model may reduce false matches but fail to recover genuine relationships.
+<BR>
+<img src="images/Clipboard_08-11-2026_11.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<BR>
+The appropriate operating point should therefore be determined according to the intended research application.
+<BR><BR>
+<B>Ground-Truth Evaluation</B>
+<BR><BR>
+Synthetic data provides a known ground truth, allowing candidate pairs generated from the dataset to undergo feature engineering and machine learning prediction. By comparing these predicted linkages directly against the ground truth, you can precisely evaluate model performance across key linkage metrics such as Precision, Recall, F1 score, Specificity, False Match Rate, and False Non-Match Rate.
+<BR><BR>
+<B>Error Analysis</B>
+<BR><BR>
+Evaluation should not stop at aggregate metrics.
+<BR><BR>
+The project should also investigate:
+<BR><BR>
+<UL>
+<LI>Which fields contribute to incorrect decisions?</LI><BR>
+<LI>How does missing data affect linkage?</LI><BR>
+<LI>Which name patterns are difficult to resolve?</LI><BR>
+<LI>Does geographic information improve linkage?</LI><BR>
+<LI>Are particular population groups more affected by linkage errors?</LI><BR>
+<LI>How does model performance change at different thresholds?</LI><BR>
+<LI>Which true matches are most frequently missed?</LI><BR>
+<LI>Which non-matches are most frequently incorrectly linked?</LI><BR>
+</UL>
+<BR>
+This provides insight into why a linkage model succeeds or fails.
+<BR><BR>
+<B>7. 🧪 Reproducibility</B>
+<BR><BR>
+Reproducibility is a key principle of this research project.
+<BR><BR>
