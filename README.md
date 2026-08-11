@@ -256,3 +256,64 @@ This project therefore includes a dedicated synthetic-data validation and compar
 <BR>
 <img src="images/Clipboard_08-11-2026_08.jpg" alt="Project Banner" width="600" height="1500" align="center">
 <BR>
+<B>Distributional Validation</B>
+<BR><BR>
+The repository contains visual comparisons for several variables:
+<TABLE>
+   <tr>
+      <th>Variable</th>
+      <th>Validation Focus</th>
+   </tr>
+   <tr>
+      <td>Day of Birth</td>
+      <td>Distribution of birth days</td>
+   </tr>
+   <tr>
+      <td>Month of Birth</td>
+      <td>Distribution across months</td>
+   </tr>
+   <tr>
+      <td>Year of Birth</td>
+      <td>Distribution of birth years</td>
+   </tr>
+   <tr>
+      <td>Sex</td>
+      <td>Demographic composition</td>
+   </tr>
+   <tr>
+      <td>Village</td>
+      <td>Geographic distribution</td>
+   </tr>
+   <tr>
+      <td>Sub-village</td>
+      <td>Local geographic distribution</td>
+   </tr>
+</TABLE>
+<BR>
+The repository contains separate outputs for the standard CTGAN experiment and the CTGAN experiment with a specifically improved/well-distributed Date-of-Birth component. These include PNG distributions and PDF comparison reports.
+<BR><BR>
+<B>Why Date of Birth Requires Particular Attention</B>
+<BR><BR>
+Date of Birth can be an important discriminating attribute in record linkage. However, its distribution can also be affected by:
+<BR>
+<UL>
+<LI>Missing or incomplete dates</LI><BR>
+<LI>Approximate dates</LI><BR>
+<LI>Data-entry practices</LI><BR>
+<LI>Digit preference</LI><BR>
+<LI>Concentration around particular dates</LI><BR>
+<LI>Different recording conventions</LI><BR>   
+</UL>
+<BR>
+An unrealistic synthetic Date-of-Birth distribution could therefore create a linkage problem that is substantially different from the real-world problem.
+<BR><BR>
+For this reason, the project explicitly investigates <B>CTGAN generation with a more appropriately distributed Date-of-Birth variable</B>.
+<BR><BR>
+<B>Validation Principle</B>
+<BR><BR>
+Synthetic data should be validated for the characteristics that matter to the downstream record linkage problem before it is used as a benchmark dataset.
+<BR><BR>>BR>
+The purpose is not necessarily to reproduce every property of the source data exactly, but to ensure that the synthetic dataset provides a meaningful experimental representation of the population characteristics relevant to the research.
+<BR><BR>
+<B>4. 🧩 Record Linkage Feature Engineering</B>
+<BR><BR>
