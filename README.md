@@ -79,7 +79,47 @@ The standardisation process addresses several dimensions of heterogeneous source
    <tr>
       <td>Data Structure</td>
       <td>Transform source data into appropriate OMOP CDM tables</td>
-   </tr>  
+   </tr>
+      <tr>
+      <td>Variable Definitions</td>
+      <td>Map source variables to standard OMOP concepts and fields</td>
+   </tr>
+      <tr>
+      <td>Clinical Concepts</td>
+      <td>Map local clinical codes to standard OMOP concepts where applicable</td>
+   </tr>
+      <tr>
+      <td>Dates & Times</td>
+      <td>Harmonise date and datetime representations</td>
+   </tr>
+      <tr>
+      <td>Demographics</td>
+      <td>Standardise person-level demographic information</td>
+   </tr>
+      <tr>
+      <td>Geography</td>
+      <td>Harmonise geographic and location-related information</td>
+   </tr>
+      <tr>
+      <td>Identifiers</td>
+      <td>Manage source identifiers and person identifiers appropriately</td>
+   </tr>
+      <tr>
+      <td>Observation Periods</td>
+      <td>Represent longitudinal periods consistently</td>
+   </tr>
+      <tr>
+      <td>Events</td>
+      <td>Organise clinical and observational events according to the CDM structure</td>
+   </tr>
+      <tr>
+      <td>Vocabulary</td>
+      <td>Use standardised OMOP vocabularies where appropriate</td>
+   </tr>
+      <tr>
+      <td>Data Quality</td>
+      <td>Identify inconsistencies, missing values, invalid values, and structural problems</td>
+   </tr>
 </TABLE>
 <BR><BR>
 <B>3. 🧬 Synthetic Data Generation</B>
