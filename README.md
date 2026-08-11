@@ -325,4 +325,108 @@ The next stage of the methodology is therefore to transform record pairs into co
 <BR><BR>
 <B>Pairwise Comparison</B>
 <BR><BR>
-<U>Record A</U> &emsp;;&tab;&tab;&tab; <U>Record B</U><BR>
+<U>Record A</U> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <U>Record B</U><BR>
+Name &emsp; &emsp; &emsp; &emsp; -------> &emsp; &emsp; Name<BR>
+DoB &emsp; &emsp; &emsp; &emsp; -------> &emsp; &emsp; DoB<BR>
+Sex &emsp; &emsp; &emsp; &emsp; -------> &emsp; &emsp; Sex<BR>
+Village &emsp; &emsp; &emsp; &emsp; -------> &emsp; &emsp; Village<BR>
+SubVillage &emsp; &emsp; &emsp; &emsp; -------> &emsp; &emsp; SubVillage<BR>
+These are comparison features<BR> <BR>
+For each candidate pair, the available information can be converted into numerical or categorical evidence describing how similar the two records are.
+<BR><BR>
+<B>Feature Categories</B><BR>
+<TABLE>
+   <tr>
+      <th>Feature</th>
+      <th>Example</th>
+      <th>Purpose</th>
+   </tr>
+   <tr>
+      <td>Exact agreement</td>
+      <td>Sex is identical</td>
+      <td>Capture direct agreement</td>
+   </tr>
+  <tr>
+      <td>Name similarity</td>
+      <td>Similar character sequence</td>
+      <td>Handle spelling variation</td>
+   </tr>
+   <tr>
+      <td>Edit distance</td>
+      <td>Number of character changes</td>
+      <td>Quantify textual differences</td>
+   </tr>
+   <tr>
+      <td>Date similarity</td>
+      <td>Exact or near DOB</td>
+      <td>Capture temporal agreement</td>
+   </tr>
+   <tr>
+      <td>Geographic agreement</td>
+      <td>Same village</td>
+      <td>Use contextual information</td>
+   </tr>
+   <tr>
+      <td>Partial agreement</td>
+      <td>Matching name components</td>
+      <td>Handle incomplete similarity</td>
+   </tr>
+   <tr>
+      <td>Missingness</td>
+      <td>DOB unavailable</td>
+      <td>Represent data availability</td>
+   </tr>
+   <tr>
+      <td>Combined evidence</td>
+      <td>Multiple agreeing fields</td>
+      <td>Capture overall linkage strength</td>
+   </tr>
+</TABLE>
+<BR>
+<B>Example</B>
+<BR>
+Two records may contain:
+<TABLE>
+   <tr>
+      <th>Attribute</th>
+      <th>Record A</th>
+      <th>Record B</th>
+   </tr>
+   <tr>
+      <td>Name</td>
+      <td>Alexander Smith-Smyth</td>
+      <td>Alex Smith-Smythe</td>
+   </tr>
+   <tr>
+      <td>DoB</td>
+      <td>1985-07-14</td>
+      <td>1985-07-14</td>
+   </tr>
+  <tr>
+      <td>Sex</td>
+      <td>Male</td>
+      <td>Male</td>
+   </tr>
+ <tr>
+      <td>Village</td>
+      <td>Springfield</td>
+      <td>Springfield</td>
+   </tr>
+</TABLE>
+<BR>
+Although the names are not exactly equal, the pair contains several pieces of supporting evidence:
+<BR>
+Name similarity → High <BR>
+Date of Birth → Exact agreement <BR>
+Sex → Exact agreement <BR>
+Village → Exact agreement <BR>
+<BR>
+The machine-learning model can use this combined evidence rather than relying on a strict all-fields-match rule.
+<BR>
+<img src="images/Clipboard_08-11-2026_09.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<BR>
+The objective is to transform heterogeneous population attributes into a consistent representation that can be used for statistical modelling and machine-learning-based linkage.
+<BR><BR>
+<B>5. 🤖 Machine Learning for Record Linkage</B>
+<BR><BR>
+
