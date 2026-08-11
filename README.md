@@ -565,3 +565,48 @@ This provides insight into why a linkage model succeeds or fails.
 <BR><BR>
 Reproducibility is a key principle of this research project.
 <BR><BR>
+The repository preserves important components of the workflow, including the Pentaho Data Integration transformations, synthetic-data generation experiments, distribution visualizations, HTML analyses, PDF reports, and supporting training/case-study materials.
+<BR>
+<img src="images/Clipboard_08-11-2026_12.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<BR>
+<B>Reproducibility Principles</B><BR>
+<TABLE>
+   <TR>
+      <TH>Principle</TH>
+      <TH>Implementation</TH>
+   </TR>
+      <TR>
+      <TD>Documented ETL</TD>
+      <TD>Pentaho .ktr transformations and Python programs are retained</TD>
+   </TR>
+   <TR>
+      <TD>Controlled synthetic data</TD>
+      <TD>CTGAN experiments provide a repeatable development environment</TD>
+   </TR>
+   <TR>
+      <TD>Validation artifacts</TD>
+      <TD>Distribution plots and comparison reports are preserved</TD>
+   </TR>
+   <TR>
+      <TD>Research documentation</TD>
+      <TD>HTML and PDF outputs document analytical work</TD>
+   </TR>
+   <TR>
+      <TD>Ground-truth evaluation</TD>
+      <TD>Synthetic data can support controlled linkage evaluation</TD>
+   </TR>
+   <TR>
+      <TD>Version control</TD>
+      <TD>Research materials are maintained within Git/GitHub</TD>
+   </TR>
+   <TR>
+      <TD>Privacy-aware development</TD>
+      <TD>Sensitive individual-level data should remain outside the public repository</TD>
+   </TR>
+</TABLE>
+<BR>
+<B>Reproducibility Goal</B>
+<BR><BR>
+To build a fully documented and reproducible research pipeline for machine-learning-based record linkage, a researcher must be able to trace every stage of the workflow. This includes understanding what data were used, how they were transformed, and how synthetic data were generated and validated. Additionally, the pipeline should clearly demonstrate how linkage features were constructed, how models were trained, how performance was evaluated, and how errors were ultimately investigated.
+<BR><BR>
+<B>8. 🔐 Data Privacy & Ethics</B>
