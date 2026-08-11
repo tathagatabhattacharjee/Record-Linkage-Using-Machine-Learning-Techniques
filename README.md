@@ -32,4 +32,15 @@ Population health research frequently requires information from multiple data so
 <BR>
 For example:<BR><BR>
 <img src="images/Clipboard_08-11-2026_02.jpg" alt="Project Banner" width="250" height="950" align="center">
+<BR>
+The quality of downstream epidemiological analyses depends heavily on the quality of this integration.
 <BR><BR>
+Incorrect linkage can introduce:<BR><BR>
+<UL>
+<LI>False matches — records belonging to different individuals are linked.</LI><BR>
+<LI>False non-matches — records belonging to the same individual are not linked.</LI><BR>
+<LI>Selection bias — linkage errors are not distributed uniformly across populations.</LI><BR>
+<LI>Loss of longitudinal information — repeated observations may fail to connect.</LI><BR>
+<LI>Reduced statistical power — fragmented records can lead to incomplete trajectories.</LI><BR>
+</UL>
+<HR>
