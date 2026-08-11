@@ -149,7 +149,7 @@ This supports:
 <LI>Improved data quality</LI><BR>
 <LI>More reproducible analyses</LI><BR>
 </UL>
-<BR><BR>
+<BR>
 <B>OMOP CDM and Record Linkage</B>
 <BR><BR>
 Data standardisation and record linkage are complementary components of the overall research workflow.
