@@ -67,6 +67,11 @@ The objective is to create <B>standardised, interoperable, and research-ready da
 <B>OMOP CDM Standardisation Workflow</B><BR>
 <img src="images/Clipboard_08-11-2026_04.jpg" alt="Project Banner" width="250" height="950" align="center">
 <BR><BR>
+<B>What is Being Standardised?</B><BR><BR>
+The OMOP CDM provides a common structure and vocabulary framework for representing observational health data.
+<BR><BR>
+The standardisation process addresses several dimensions of heterogeneous source data:
+
 <B>3. 🧬 Synthetic Data Generation</B>
 <BR><BR> 
 Synthetic data generation is a central component of this research workflow. It provides a controlled environment for developing and evaluating record linkage methods while reducing the need to expose identifiable individual-level population data during methodological development.
