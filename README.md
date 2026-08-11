@@ -16,7 +16,7 @@ The central idea is to <b>develop and validate linkage methodology in a controll
 <hr>
 <br>
 🎯 <b>Research Objectives</b><BR><BR>
-The repository is designed to investigate the following questions:
+The repository is designed to investigate the following questions:<BR><BR>
 <UL>
 <LI>Can realistic synthetic population data be generated while preserving important source-data characteristics?</LI><BR>
 <LI>How can synthetic datasets be used to develop and benchmark record linkage methods?</LI><BR>
