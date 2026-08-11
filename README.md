@@ -24,3 +24,10 @@ The repository is designed to investigate the following questions:<BR><BR>
 <LI>How can machine learning improve linkage beyond simple deterministic rules?</LI><BR>
 <LI>How can validated linkage approaches be transferred from synthetic data to real-world longitudinal datasets?</LI><BR>
 </UL>
+<HR>
+<BR><BR>
+🧬 <B>Why Record Linkage?</B>
+<BR><BR>
+Population health research frequently requires information from multiple data sources.
+<BR>
+For example:<BR><BR>
