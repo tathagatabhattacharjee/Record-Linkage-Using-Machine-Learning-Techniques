@@ -45,7 +45,7 @@ Incorrect linkage can introduce:<BR><BR>
 </UL>
 <HR>
 🔬 <B>Methodology</B>
-<BR>
+<BR><BR>
 <B>1. Longitudinal Data Preparation</B>  
 <BR><BR>
 The repository includes <B>Pentaho Data Integration (.ktr)</B> transformations for converting source longitudinal data from long format into a structure suitable for subsequent processing.
@@ -54,6 +54,6 @@ The current repository contains multiple versions of the transformation:
 <BR><BR>
 The file <B>Converting Long to Wide Format.pdf</B> in the folder <B>01 Convert Source Data From Long to Wide/</B> describes the process of converting the data from Long to Wide
 <BR><BR>
-This stage provides a reproducible ETL foundation for longitudinal population data. This conversion is only done to converte the records from events to episodes and therefor are easy for the record libkage as only the invididual's details are needed for the purpose. 
+This stage provides a reproducible ETL foundation for longitudinal population data. This conversion is only done to convert the records from events to episodes and therefore make it easy for record linkage, as only the individual's details are needed for the purpose. 
 <BR><BR>
 
