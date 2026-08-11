@@ -317,3 +317,12 @@ The purpose is not necessarily to reproduce every property of the source data ex
 <BR><BR>
 <B>4. 🧩 Record Linkage Feature Engineering</B>
 <BR><BR>
+Record linkage involves determining whether two records refer to the same underlying individual.
+<BR><BR>
+The original values in two records cannot always be compared using simple equality because real-world population data frequently contain spelling differences, formatting differences, missing values, transcription errors, and other inconsistencies.
+<BR><BR>
+The next stage of the methodology is therefore to transform record pairs into comparison features.
+<BR><BR>
+<B>Pairwise Comparison</B>
+<BR><BR>
+<U>Record A</U>&tab;&tab;&tab;&tab; <U>Record B</U><BR>
