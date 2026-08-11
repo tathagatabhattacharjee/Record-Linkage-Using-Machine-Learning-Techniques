@@ -610,3 +610,51 @@ The repository preserves important components of the workflow, including the Pen
 To build a fully documented and reproducible research pipeline for machine-learning-based record linkage, a researcher must be able to trace every stage of the workflow. This includes understanding what data were used, how they were transformed, and how synthetic data were generated and validated. Additionally, the pipeline should clearly demonstrate how linkage features were constructed, how models were trained, how performance was evaluated, and how errors were ultimately investigated.
 <BR><BR>
 <B>8. 🔐 Data Privacy & Ethics</B>
+<BR><BR>
+Record linkage in population and health research can involve highly sensitive information.
+<BR><BR>
+The project therefore treats privacy, ethical governance, and responsible data use as fundamental considerations rather than as secondary technical requirements.
+<BR>
+<img src="images/Clipboard_08-11-2026_13.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<BR><BR>
+<B>Data Protection Principles</B>
+<BR><BR>
+<UL>
+<LI>Do not commit personally identifiable information to the public repository.</LI><BR>
+<LI>Do not commit passwords, API keys, database credentials, or connection strings.</LI><BR>
+<LI>Use synthetic data wherever possible for methodological development.</LI><BR>
+<LI>Use appropriately anonymized or de-identified data when real-world data are required.</LI><BR>
+<LI>Follow institutional data-governance policies.</LI><BR>
+<LI>Obtain appropriate ethical approval where required.</LI><BR>
+<LI>Follow applicable privacy and data-protection legislation.</LI><BR>
+<LI>Respect data-use agreements and restrictions associated with research datasets.</LI><BR>
+</UL>
+<BR>
+<B>Ethical Implications of Linkage Errors</B>
+<BR><BR>
+Record linkage errors can have consequences beyond technical model performance.
+<BR><BR>
+Incorrect linkage may lead to:
+<BR><BR>
+<UL>
+   <LI>Incorrect attribution of health outcomes.</LI><BR>
+   <LI>Incorrect longitudinal histories.</LI><BR>
+   <LI>Biased epidemiological estimates.</LI><BR>
+   <LI>Misclassification of study participants.</LI><BR>
+</UL>
+<BR>
+Failure to link genuine records can result in:
+<BR><BR>
+<UL>
+   <LI>Fragmented individual histories.</LI><BR>
+   <LI>Loss of longitudinal observations.</LI><BR>
+   <LI>Reduced statistical power.</LI><BR>
+   <LI>Potential selection bias.</LI><BR>
+</UL>
+<BR>
+Consequently, linkage methodology should be evaluated in the context of its <B>potential impact on downstream population-health research</B>.
+<BR><BR>
+<B>9. 🌍 Population Health Applications</B>
+<BR><BR>
+Reliable record linkage is an important foundation for integrating fragmented population and health information.
+<BR><BR>
