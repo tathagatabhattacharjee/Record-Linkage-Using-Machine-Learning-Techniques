@@ -244,3 +244,15 @@ It provides opportunities to:
 <LI>Study the behaviour of linkage methods at different scales.</LI><BR>
 </UL>
 <BR>
+The synthetic-data component is therefore intended to serve as a methodological bridge between controlled experimentation and real-world population-health data.
+<BR><BR>
+<B>3. 🔍 Synthetic Data Validation</B>
+<BR><BR>
+Synthetic data generation alone does not establish that the generated dataset is suitable for research.
+<BR><BR>
+A synthetic dataset must be assessed against the source data to determine whether it preserves the characteristics that are important for the intended analysis.
+<BR><BR>
+This project therefore includes a dedicated synthetic-data validation and comparison stage.
+<BR>
+<img src="images/Clipboard_08-11-2026_08.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<BR>
