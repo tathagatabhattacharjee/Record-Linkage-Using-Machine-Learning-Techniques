@@ -296,7 +296,7 @@ OMOP CDM uses a standardised relational structure for observational health data.
 
 A simplified conceptual structure is:
 <BR>
-<img src="images/Clipboard_08-11-2026_14.jpg" alt="Project Banner" width="400" height="1200" align="center">
+<img src="Record-Linkage-Using-Machine-Learning-Techniques/images/Clipboard_08-11-2026_14.jpg" alt="Project Banner" width="400" height="1200" align="center">
 
 Not every OMOP table needs to be populated for every dataset.
 
