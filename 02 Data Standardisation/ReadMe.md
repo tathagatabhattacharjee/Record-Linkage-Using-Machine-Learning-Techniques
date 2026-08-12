@@ -139,19 +139,19 @@ Profiling examines:
 - Duplicate records
 - Relationships between variables
 
-Source Dataset
-      │
-      ▼
-Data Profiling
-      │
-      ├── Structure
-      ├── Variables
-      ├── Missingness
-      ├── Values
-      ├── Dates
-      └── Identifiers
-      │
-      ▼
+Source Dataset<BR>
+      │<BR>
+      ▼<BR>
+Data Profiling<BR>
+      │<BR>
+      ├── Structure<BR>
+      ├── Variables<BR>
+      ├── Missingness<BR>
+      ├── Values<BR>
+      ├── Dates<BR>
+      └── Identifiers<BR>
+      │<BR>
+      ▼<BR>
 Data Understanding
 
 The INSPIRE architecture incorporates profiling as an early stage of the data-harmonisation process.
