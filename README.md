@@ -686,7 +686,7 @@ Integrated population data can support research into:<BR>
 <LI>Health outcomes</LI><BR>
 <LI>Health-service utilisation</LI><BR>
 </UL>
-<BR><BR>
+<BR>
 <B>🌐 Cross-Site Data Integration</B>
 <BR><BR>
 Different research sites may use different data-collection systems, naming conventions, geographic structures, and data-quality practices.
@@ -772,3 +772,73 @@ Note: The technology stack is presented as the methodological ecosystem for the 
 <B>11. 📚 Key Concepts</B>
 <BR><BR>
 This study sits at the intersection of several research and technical domains.
+<BR>
+<TABLE>
+   <TR>
+      <TH>Concept</TH>
+      <TH>Relevance to the Study</TH>
+   </TR>
+   <TR>
+      <TD>Record Linkage</TD>
+      <TD>Identifying records that represent the same individual</TD>
+   </TR>
+   <TR>
+      <TD>Entity Resolution</TD>
+      <TD>Resolving multiple references to the same real-world entity</TD>
+   </TR>
+   <TR>
+      <TD>Machine Learning</TD>
+      <TD>Learning linkage decisions from comparison features</TD>
+   </TR>
+  <TR>
+      <TD>Synthetic Data</TD>
+      <TD>Creating controlled datasets for methodological development</TD>
+   </TR>
+   <TR>
+      <TD>CTGAN</TD>
+      <TD>Generating synthetic tabular data</TD>
+   </TR>
+   <TR>
+      <TD>Longitudinal Data</TD>
+      <TD>Connecting observations across time</TD>
+   </TR>
+   <TR>
+      <TD>Population Health</TD>
+      <TD>A strategic approach to improving health outcomes, addressing health equity, and reducing disparities across a specifically defined group of individuals. <BR>Applying linkage to population-level research</TD>
+   </TR>
+   <TR>
+      <TD>HDSS</TD>
+      <TD>Health and Demographic Surveillance Systems</TD>
+   </TR>
+   <TR>
+      <TD>Data Integration</TD>
+      <TD>Combining heterogeneous research datasets</TD>
+   </TR>
+   <TR>
+      <TD>ETL</TD>
+      <TD>Extracting, transforming, and loading data</TD>
+   </TR>
+   <TR>
+      <TD>Data Quality</TD>
+      <TD>Managing missingness, inconsistencies, and errors</TD>
+   </TR>
+   <TR>
+      <TD>Privacy-Preserving Research</TD>
+      <TD>Reducing unnecessary exposure of sensitive information</TD>
+   </TR>
+   <TR>
+      <TD>OMOP CDM</TD>
+      <TD>Standardising observational health data</TD>
+   </TR>
+   <TR>
+      <TD>OHDSI</TD>
+      <TD>Supporting collaborative observational health research</TD>
+   </TR>
+   <TR>
+      <TD>FAIR Data Principles</TD>
+      <TD>Supporting Findability, Accessibility, Interoperability, and Reusability</TD>
+   </TR>
+</TABLE>
+<BR>
+<BR>
+<HR>
