@@ -345,22 +345,22 @@ The INSPIRE datahub specifically demonstrates adapting OMOP CDM to longitudinal 
 Data standardisation must be accompanied by appropriate privacy controls.
 
 The ETL workflow can include:
-
-Identifiable Source Data
-          │
-          ▼
-Controlled Environment
-          │
-          ▼
+<BR>
+Identifiable Source Data<BR>
+          │<BR>
+          ▼<BR>
+Controlled Environment<BR>
+          │<BR>
+          ▼<BR>
 De-identification /
-Pseudonymisation
-          │
-          ▼
-Standardised OMOP Data
-          │
-          ▼
-Controlled Research Access
-
+Pseudonymisation<BR>
+          │<BR>
+          ▼<BR>
+Standardised OMOP Data<BR>
+          │<BR>
+          ▼<BR>
+Controlled Research Access<BR>
+<BR>
 Participant identifiers should be managed carefully.
 
 Where appropriate, the OMOP `person_id` can be generated as a study-specific or system-specific identifier rather than exposing the original source identifier.
@@ -386,7 +386,7 @@ A robust ETL process should document:
 - Responsible organisation/team
 - Data-access restrictions
 
-
+<BR>
 Source Data
     │
     ├── Metadata
