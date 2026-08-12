@@ -4,7 +4,7 @@ If you use this repository, methodology, synthetic-data workflow, analytical mat
 <BR><BR>
 <B>Bhattacharjee, T. (2026). Record Linkage Using Machine Learning Techniques. GitHub repository.</B>
 <BR><BR>
-<B>BibTex</B>
+<B>BibTex</B><BR>
 <I>
 @misc{bhattacharjee_record_linkage_ml, <BR>
 author = {Bhattacharjee, Tathagata}, <BR>
