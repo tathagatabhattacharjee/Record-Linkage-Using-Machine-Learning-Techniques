@@ -505,23 +505,9 @@ Answers:
 
 The two processes can therefore work together:
 
-Source A ──┐
-           │
-Source B ──┼──► OMOP / Standardisation
-           │             │
-Source C ──┘             ▼
-                   Harmonised Data
-                          │
-                          ▼
-                   Record Linkage
-                          │
-                          ▼
-                Integrated Longitudinal
-                       Population
-                          │
-                          ▼
-                 Population Health
-                     Research
+<BR>
+<img src="images/Clipboard_08-11-2026_16.jpg" alt="Project Banner" width="400" height="1200" align="center">
+<BR>
 
 This distinction is particularly important when developing machine-learning-based record linkage workflows.
 
@@ -543,30 +529,30 @@ The research pipeline should preserve:
 - Quality-assessment results
 - Provenance metadata
 - Documentation
-
-Source Specification
-        │
-        ▼
-Data Profile
-        │
-        ▼
-Mapping Specification
-        │
-        ▼
-Vocabulary Mapping
-        │
-        ▼
-ETL
-        │
-        ▼
-OMOP CDM
-        │
-        ▼
-Quality Assessment
-        │
-        ▼
+<BR><BR>
+Source Specification<BR>
+&emsp;&emsp;        │<BR>
+&emsp;&emsp;        ▼<BR>
+Data Profile<BR>
+&emsp;&emsp;        │<BR>
+&emsp;&emsp;        ▼<BR>
+Mapping Specification<BR>
+&emsp;&emsp;        │<BR>
+&emsp;&emsp;        ▼<BR>
+Vocabulary Mapping<BR>
+&emsp;&emsp;        │<BR>
+&emsp;&emsp;        ▼<BR>
+ETL<BR>
+&emsp;&emsp;        │<BR>
+&emsp;&emsp;        ▼<BR>
+OMOP CDM<BR>
+&emsp;&emsp;        │<BR>
+&emsp;&emsp;        ▼<BR>
+Quality Assessment<BR>
+&emsp;&emsp;        │<BR>
+&emsp;&emsp;        ▼<BR>
 Documented Research Dataset
-
+<BR><BR>
 The INSPIRE methodology emphasises documenting ETL provenance and metadata to improve transparency, reproducibility, and reuse.
 
 ---
