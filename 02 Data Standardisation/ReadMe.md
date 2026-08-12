@@ -337,18 +337,18 @@ Data standardisation must be accompanied by appropriate privacy controls.
 The ETL workflow can include:
 <BR>
 Identifiable Source Data<BR>
-&emsp;          │<BR>
-&emsp;          ▼<BR>
+&emsp; &emsp;          │<BR>
+&emsp; &emsp;          ▼<BR>
 Controlled Environment<BR>
-&emsp;         │<BR>
-&emsp;          ▼<BR>
+&emsp; &emsp;         │<BR>
+&emsp; &emsp;          ▼<BR>
 De-identification /
 Pseudonymisation<BR>
-&emsp;          │<BR>
-&emsp;          ▼<BR>
+&emsp; &emsp;          │<BR>
+&emsp; &emsp;          ▼<BR>
 Standardised OMOP Data<BR>
-&emsp;          │<BR>
-&emsp;          ▼<BR>
+&emsp; &emsp;          │<BR>
+&emsp; &emsp;          ▼<BR>
 Controlled Research Access<BR>
 <BR>
 Participant identifiers should be managed carefully.
