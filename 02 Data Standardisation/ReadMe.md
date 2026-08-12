@@ -297,7 +297,7 @@ OMOP CDM uses a standardised relational structure for observational health data.
 A simplified conceptual structure is:
 <BR>
 <img src="images/Clipboard_08-11-2026_14.jpg" alt="Project Banner" width="400" height="1200" align="center">
-
+<BR>
 Not every OMOP table needs to be populated for every dataset.
 
 The tables populated depend on the information actually available in the source data.
@@ -454,16 +454,9 @@ Standard structures and vocabularies allow datasets to work together.
 ### ♻️ Reusable
 
 Well-documented data, metadata, provenance, and transformations improve research reuse.
-
-                FAIR
-                 │
-      ┌──────────┼──────────┐
-      ▼          ▼          ▼
-  Findable   Accessible  Interoperable
-                 │
-                 ▼
-              Reusable
-
+<BR>
+<img src="images/Clipboard_08-11-2026_15.jpg" alt="Project Banner" width="400" height="1200" align="center">
+<BR>
 FAIR principles are an important component of the INSPIRE datahub architecture.
 
 ---
