@@ -694,29 +694,29 @@ DOI: **10.13140/RG.2.2.24006.65607**
 
 # 🌍 Research Vision
 The broader research objective is to develop **scalable, interoperable, privacy-aware, and reproducible approaches for transforming heterogeneous population-health data into high-quality research resources**.
-
-Heterogeneous Population Data
-             │
-             ▼
-       Standardisation
-             │
-             ▼
-          OMOP CDM
-             │
-             ▼
-       Data Quality
-             │
-             ▼
-       Interoperability
-             │
-             ▼
-       Record Linkage
-             │
-             ▼
-    Longitudinal Integration
-             │
-             ▼
+<BR>
+Heterogeneous Population Data<BR>
+&emsp;&emsp;             │<BR>
+&emsp;&emsp;             ▼<BR>
+       Standardisation<BR>
+&emsp;&emsp;             │<BR>
+&emsp;&emsp;             ▼<BR>
+          OMOP CDM<BR>
+&emsp;&emsp;             │<BR>
+&emsp;&emsp;             ▼<BR>
+       Data Quality<BR>
+&emsp;&emsp;             │<BR>
+&emsp;&emsp;             ▼<BR>
+       Interoperability<BR>
+&emsp;&emsp;             │<BR>
+&emsp;&emsp;             ▼<BR>
+       Record Linkage<BR>
+&emsp;&emsp;             │<BR>
+&emsp;&emsp;             ▼<BR>
+    Longitudinal Integration<BR>
+&emsp;&emsp;           │<BR>
+&emsp;&emsp;             ▼<BR>
       Population Health
-          Research
+          Research<BR><BR>
 
 This study aims to contribute to a reproducible and interoperable research infrastructure for **longitudinal population-health data**, building on OMOP CDM, OHDSI, FAIR principles, and experience from African population-health data harmonisation initiatives.
