@@ -163,20 +163,20 @@ The INSPIRE architecture incorporates profiling as an early stage of the data-ha
 Source variables must be mapped to their corresponding OMOP CDM fields.
 
 Conceptually:
-
-Source Variable
-      │
-      ▼
-Source Definition
-      │
-      ▼
-Mapping Specification
-      │
-      ▼
-OMOP CDM Field
-      │
-      ▼
-Standardised Representation
+<BR>
+Source Variable<BR>
+      │<BR>
+      ▼<BR>
+Source Definition<BR>
+      │<BR>
+      ▼<BR>
+Mapping Specification<BR>
+      │<BR>
+      ▼<BR>
+OMOP CDM Field<BR>
+      │<BR>
+      ▼<BR>
+Standardised Representation<BR>
 
 
 For example:
