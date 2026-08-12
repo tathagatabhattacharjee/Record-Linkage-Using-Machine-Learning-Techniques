@@ -658,3 +658,56 @@ Consequently, linkage methodology should be evaluated in the context of its <B>p
 <BR><BR>
 Reliable record linkage is an important foundation for integrating fragmented population and health information.
 <BR><BR>
+The research workflow has potential applications in several areas.
+<BR><BR>
+<B>🏘️ Health and Demographic Surveillance Systems</B>
+<BR><BR>
+HDSS datasets often contain repeated observations of individuals and households over time.
+<BR><BR>
+Record linkage can help connect these observations and construct more complete longitudinal population histories.
+<BR><BR>
+<B>🏥 Clinical and Health Data Integration</B>
+<BR><BR>
+Linkage methods can support the integration of information originating from different clinical, health-service, or research data sources.
+<BR><BR>
+<B>📊 Longitudinal Studies</B>
+<BR><BR>
+Records collected during different study waves or observation periods can be connected to support longitudinal analysis.
+<BR><BR>
+<B>🔬 Epidemiological Research</B>
+<BR><BR>
+Integrated population data can support research into:<BR>
+<UL>
+<LI>Disease patterns</LI><BR>
+<LI>Mortality</LI><BR>
+<LI>Morbidity</LI><BR>
+<LI>Risk factors</LI><BR>
+<LI>Population dynamics</LI><BR>
+<LI>Health outcomes</LI><BR>
+<LI>Health-service utilization</LI><BR>
+</UL>
+<BR><BR>
+<B>🌐 Cross-Site Data Integration</B>
+<BR><BR>
+Different research sites may use different data-collection systems, naming conventions, geographic structures, and data-quality practices.
+<BR><BR>
+Robust record linkage can provide a mechanism for connecting such heterogeneous information while maintaining appropriate privacy controls.
+<BR><BR>
+<B>🧬 OMOP CDM / OHDSI</B>
+<BR><BR>
+A longer-term direction for this research is integration with the OMOP Common Data Model (CDM) and the OHDSI ecosystem.
+<BR><BR>
+This could support:
+<BR><BR>
+<UL>
+<LI>Standardised observational health data.</LI><BR>
+<LI>Cross-site interoperability.</LI><BR>
+<LI>Reproducible cohort construction.</LI><BR>
+<LI>Multi-database observational research.</LI><BR>
+<LI>Harmonized population-health analytics.</LI><BR>
+</UL>
+<BR>
+The overarching goal is to support the creation of higher-quality, interoperable, and research-ready population-health datasets.
+<BR><BR>
+<B>10. 🛠️ Technology Stack</B>
+<BR><BR>
