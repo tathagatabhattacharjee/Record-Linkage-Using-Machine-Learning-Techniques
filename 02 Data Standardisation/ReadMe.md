@@ -140,18 +140,18 @@ Profiling examines:
 - Relationships between variables
 
 Source Dataset<BR>
-      │<BR>
-      ▼<BR>
+&emsp;      │<BR>
+&emsp;      ▼<BR>
 Data Profiling<BR>
-      │<BR>
-      ├── Structure<BR>
-      ├── Variables<BR>
-      ├── Missingness<BR>
-      ├── Values<BR>
-      ├── Dates<BR>
-      └── Identifiers<BR>
-      │<BR>
-      ▼<BR>
+&emsp;      │<BR>
+&emsp;      ├── Structure<BR>
+&emsp;      ├── Variables<BR>
+&emsp;      ├── Missingness<BR>
+&emsp;      ├── Values<BR>
+&emsp;      ├── Dates<BR>
+&emsp;      └── Identifiers<BR>
+&emsp;      │<BR>
+&emsp;      ▼<BR>
 Data Understanding
 
 The INSPIRE architecture incorporates profiling as an early stage of the data-harmonisation process.
@@ -165,17 +165,17 @@ Source variables must be mapped to their corresponding OMOP CDM fields.
 Conceptually:
 <BR><BR>
 Source Variable<BR>
-      │<BR>
-      ▼<BR>
+&emsp;      │<BR>
+&emsp;      ▼<BR>
 Source Definition<BR>
-      │<BR>
-      ▼<BR>
+&emsp;      │<BR>
+&emsp;       ▼<BR>
 Mapping Specification<BR>
-      │<BR>
-      ▼<BR>
+&emsp;       │<BR>
+&emsp;       ▼<BR>
 OMOP CDM Field<BR>
-      │<BR>
-      ▼<BR>
+&emsp;       │<BR>
+&emsp;       ▼<BR>
 Standardised Representation<BR>
 
 
@@ -210,17 +210,17 @@ Different datasets may describe the same concept using different:
 OMOP addresses this through its standardised vocabulary framework.
 <BR><BR>
 Local Code<BR>
-    │<BR>
-    ▼<BR>
+&emsp;     │<BR>
+&emsp;     ▼<BR>
 Source Vocabulary<BR>
-    │<BR>
-    ▼<BR>
+&emsp;     │<BR>
+&emsp;     ▼<BR>
 Vocabulary Mapping<BR>
-    │<BR>
-    ▼<BR>
+&emsp;     │<BR>
+&emsp;     ▼<BR>
 Standard OMOP Concept<BR>
-    │<BR>
-    ▼<BR><BR>
+&emsp;     │<BR>
+&emsp;     ▼<BR><BR>
 OMOP CDM<BR>
 <BR>
 The ALPHA-to-OMOP work identifies vocabulary mapping as a core component of the ETL process.
@@ -295,18 +295,8 @@ The transformed data are loaded into an OMOP CDM database.
 OMOP CDM uses a standardised relational structure for observational health data.
 
 A simplified conceptual structure is:
-
-                    PERSON
-                      │
-          ┌───────────┼───────────┐
-          ▼           ▼           ▼
-   OBSERVATION    CONDITION    PROCEDURE
-          │           │           │
-          ▼           ▼           ▼
-     MEASUREMENT   DRUG       VISIT
-                      │
-                      ▼
-             OBSERVATION PERIOD
+<BR>
+<img src="images/Clipboard_08-11-2026_14.jpg" alt="Project Banner" width="600" height="1500" align="center">
 
 Not every OMOP table needs to be populated for every dataset.
 
@@ -347,18 +337,18 @@ Data standardisation must be accompanied by appropriate privacy controls.
 The ETL workflow can include:
 <BR>
 Identifiable Source Data<BR>
-          │<BR>
-          ▼<BR>
+&emsp;          │<BR>
+&emsp;          ▼<BR>
 Controlled Environment<BR>
-          │<BR>
-          ▼<BR>
+&emsp;         │<BR>
+&emsp;          ▼<BR>
 De-identification /
 Pseudonymisation<BR>
-          │<BR>
-          ▼<BR>
+&emsp;          │<BR>
+&emsp;          ▼<BR>
 Standardised OMOP Data<BR>
-          │<BR>
-          ▼<BR>
+&emsp;          │<BR>
+&emsp;          ▼<BR>
 Controlled Research Access<BR>
 <BR>
 Participant identifiers should be managed carefully.
@@ -387,19 +377,19 @@ A robust ETL process should document:
 - Data-access restrictions
 
 <BR>
-Source Data
-    │
-    ├── Metadata
-    ├── Mapping
-    ├── Transformation
-    ├── Vocabulary
-    └── Provenance
-            │
-            ▼
-        OMOP CDM
-            │
-            ▼
-    Reproducible Research
+Source Data<BR>
+&emsp;    │<BR>
+&emsp;    ├── Metadata<BR>
+&emsp;    ├── Mapping<BR>
+&emsp;    ├── Transformation<BR>
+&emsp;    ├── Vocabulary<BR>
+&emsp;    └── Provenance<BR>
+&emsp;            │<BR>
+&emsp;            ▼<BR>
+&emsp;        OMOP CDM<BR>
+&emsp;            │<BR>
+&emsp;            ▼<BR>
+&emsp;    Reproducible Research<BR>
 
 
 The INSPIRE datahub explicitly incorporates provenance and metadata through the ETL pipeline and describes an Implementation Guide to document the process in machine- and human-readable form.
