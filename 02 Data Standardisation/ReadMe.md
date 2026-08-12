@@ -297,7 +297,7 @@ OMOP CDM uses a standardised relational structure for observational health data.
 A simplified conceptual structure is:
 <BR>
 <img src="images/Clipboard_08-11-2026_14.jpg" alt="Project Banner" width="400" height="1200" align="center">
-
+<BR>
 Not every OMOP table needs to be populated for every dataset.
 
 The tables populated depend on the information actually available in the source data.
@@ -337,18 +337,18 @@ Data standardisation must be accompanied by appropriate privacy controls.
 The ETL workflow can include:
 <BR>
 Identifiable Source Data<BR>
-&emsp;          │<BR>
-&emsp;          ▼<BR>
+&emsp; &emsp;          │<BR>
+&emsp; &emsp;          ▼<BR>
 Controlled Environment<BR>
-&emsp;         │<BR>
-&emsp;          ▼<BR>
+&emsp; &emsp;         │<BR>
+&emsp; &emsp;          ▼<BR>
 De-identification /
 Pseudonymisation<BR>
-&emsp;          │<BR>
-&emsp;          ▼<BR>
+&emsp; &emsp;          │<BR>
+&emsp; &emsp;          ▼<BR>
 Standardised OMOP Data<BR>
-&emsp;          │<BR>
-&emsp;          ▼<BR>
+&emsp; &emsp;          │<BR>
+&emsp; &emsp;          ▼<BR>
 Controlled Research Access<BR>
 <BR>
 Participant identifiers should be managed carefully.
@@ -384,13 +384,13 @@ Source Data<BR>
 &emsp;    ├── Transformation<BR>
 &emsp;    ├── Vocabulary<BR>
 &emsp;    └── Provenance<BR>
-&emsp;            │<BR>
-&emsp;            ▼<BR>
+&emsp;&emsp;             │<BR>
+&emsp;&emsp;            ▼<BR>
 &emsp;        OMOP CDM<BR>
-&emsp;            │<BR>
-&emsp;            ▼<BR>
+&emsp;&emsp;             │<BR>
+&emsp; &emsp;            ▼<BR>
 &emsp;    Reproducible Research<BR>
-
+<BR>
 
 The INSPIRE datahub explicitly incorporates provenance and metadata through the ETL pipeline and describes an Implementation Guide to document the process in machine- and human-readable form.
 
@@ -454,16 +454,9 @@ Standard structures and vocabularies allow datasets to work together.
 ### ♻️ Reusable
 
 Well-documented data, metadata, provenance, and transformations improve research reuse.
-
-                FAIR
-                 │
-      ┌──────────┼──────────┐
-      ▼          ▼          ▼
-  Findable   Accessible  Interoperable
-                 │
-                 ▼
-              Reusable
-
+<BR>
+<img src="images/Clipboard_08-11-2026_15.jpg" alt="Project Banner" width="400" height="1200" align="center">
+<BR>
 FAIR principles are an important component of the INSPIRE datahub architecture.
 
 ---
