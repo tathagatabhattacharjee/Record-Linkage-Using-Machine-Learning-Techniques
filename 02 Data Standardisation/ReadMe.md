@@ -694,7 +694,7 @@ DOI: **10.13140/RG.2.2.24006.65607**
 
 # 🌍 Research Vision
 The broader research objective is to develop **scalable, interoperable, privacy-aware, and reproducible approaches for transforming heterogeneous population-health data into high-quality research resources**.
-<BR>
+<BR><BR>
 Heterogeneous Population Data<BR>
 &emsp;&emsp;             │<BR>
 &emsp;&emsp;             ▼<BR>
