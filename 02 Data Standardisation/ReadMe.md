@@ -581,7 +581,6 @@ The specific combination of tools should be adapted to the characteristics, gove
 
 The complete methodology can be summarised as:
 
-```text
                  SOURCE DATA
                       │
                       ▼
