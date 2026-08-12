@@ -384,13 +384,13 @@ Source Data<BR>
 &emsp;    ├── Transformation<BR>
 &emsp;    ├── Vocabulary<BR>
 &emsp;    └── Provenance<BR>
-&emsp;            │<BR>
-&emsp;            ▼<BR>
+&emsp;&emsp;             │<BR>
+&emsp;&emsp;            ▼<BR>
 &emsp;        OMOP CDM<BR>
-&emsp;            │<BR>
-&emsp;            ▼<BR>
+&emsp;&emsp;             │<BR>
+&emsp; &emsp;            ▼<BR>
 &emsp;    Reproducible Research<BR>
-
+<BR>
 
 The INSPIRE datahub explicitly incorporates provenance and metadata through the ETL pipeline and describes an Implementation Guide to document the process in machine- and human-readable form.
 
