@@ -9,8 +9,8 @@ A reproducible research workflow for synthetic data generation, longitudinal dat
 <BR><BR>
 This repository presents a research-oriented workflow for developing and evaluating <b>>machine learning–based record linkage methods, particularly in the context of population health, longitudinal studies, and health and demographic surveillance data</b>.
 <BR><BR>
-The project follows a synthetic-to-real-data strategy:<BR><BR>
-<img src="images/Clipboard_08-11-2026_01.jpg" alt="Project Banner" width="600" height="1500" align="center">
+The study follows a synthetic-to-real-data strategy:<BR><BR>
+<img src="images/Clipboard_08-11-2026_01.jpg" alt="study Banner" width="600" height="1500" align="center">
 <BR><BR>
 The central idea is to <b>develop and validate linkage methodology in a controlled environment before applying it to complex real-world population and health datasets</b>.
 <hr>
@@ -31,7 +31,7 @@ The repository is designed to investigate the following questions:<BR><BR>
 Population health research frequently requires information from multiple data sources.
 <BR>
 For example:<BR><BR>
-<img src="images/Clipboard_08-11-2026_02.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<img src="images/Clipboard_08-11-2026_02.jpg" alt="study Banner" width="600" height="1500" align="center">
 <BR>
 The quality of downstream epidemiological analyses depends heavily on the quality of this integration.
 <BR><BR>
@@ -60,12 +60,12 @@ This stage provides a reproducible ETL foundation for longitudinal population da
 <BR><BR>
 Data standardisation is a foundational component of this research workflow. Population-health, HDSS, clinical, and longitudinal datasets are often collected using different structures, variable definitions, coding systems, and data formats. These differences make it difficult to integrate datasets and perform reliable downstream analyses.
 <BR><BR>
-This project explores the use of the <B>OMOP Common Data Model (CDM)</B> as a standardised framework for transforming heterogeneous health and population data into a common structure.
+This study explores the use of the <B>OMOP Common Data Model (CDM)</B> as a standardised framework for transforming heterogeneous health and population data into a common structure.
 <BR><BR>
 The objective is to create <B>standardised, interoperable, and research-ready data </B>while preserving the information required for longitudinal analysis and record linkage.
 <BR><BR>
 <B>OMOP CDM Standardisation Workflow</B><BR>
-<img src="images/Clipboard_08-11-2026_04.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<img src="images/Clipboard_08-11-2026_04.jpg" alt="study Banner" width="600" height="1500" align="center">
 <BR><BR>
 <B>What is Being Standardised?</B><BR><BR>
 The OMOP CDM provides a common structure and vocabulary framework for representing observational health data.
@@ -126,7 +126,7 @@ The standardisation process addresses several dimensions of heterogeneous source
 <BR><BR>
 The ETL process can be conceptualised as:
 <BR>
-<img src="images/Clipboard_08-11-2026_05.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<img src="images/Clipboard_08-11-2026_05.jpg" alt="study Banner" width="600" height="1500" align="center">
 <BR>
 * The data need to be transformed and harmonised before being incorporated into an OMOP-oriented analytical environment.
 <BR><BR>
@@ -134,7 +134,7 @@ The ETL process can be conceptualised as:
 <BR><BR>
 One of the major advantages of using the OMOP CDM is that it separates source-specific data structures from the common analytical representation.
 <BR>
-<img src="images/Clipboard_08-11-2026_06.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<img src="images/Clipboard_08-11-2026_06.jpg" alt="study Banner" width="600" height="1500" align="center">
 <BR>
 Instead of developing every analysis separately for every source system, data can be transformed into a common representation.
 <BR><BR>
@@ -156,7 +156,7 @@ Data standardisation and record linkage are complementary components of the over
 <BR><BR>
 Standardisation provides a consistent representation of the data, while record linkage addresses the question of whether observations from different sources correspond to the same underlying individual.
 <BR>
-<img src="images/Clipboard_08-11-2026_07.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<img src="images/Clipboard_08-11-2026_07.jpg" alt="study Banner" width="600" height="1500" align="center">
 <BR>
 Importantly, OMOP standardisation does not itself perform record linkage. Instead, it establishes a common data structure and vocabulary that can support subsequent integration, analysis, and linkage workflows.
 <BR><BR>
@@ -210,7 +210,7 @@ The use of OMOP CDM provides a common foundation for transforming heterogeneous 
 <BR><BR> 
 Synthetic data generation is a central component of this research workflow. It provides a controlled environment for developing and evaluating record linkage methods while reducing the need to expose identifiable individual-level population data during methodological development.
 <BR><BR>
-The project explores <B>CTGAN (Conditional Tabular Generative Adversarial Network)</B> for generating synthetic tabular population data while attempting to preserve important characteristics of the underlying source data.
+The study explores <B>CTGAN (Conditional Tabular Generative Adversarial Network)</B> for generating synthetic tabular population data while attempting to preserve important characteristics of the underlying source data.
 <BR><BR>
 The current experiments focus particularly on demographic, geographic, and date-related variables that may subsequently contribute to record linkage.
 <BR><BR>
@@ -227,7 +227,7 @@ The synthetic-data experiments include distributions for:
 </UL>
 <BR>
 The repository contains separate CTGAN experiments, including an experiment specifically designed to investigate <B>well-distributed Date-of-Birth</B> data. The generated outputs include distribution plots, HTML analysis, PDF reports, and comparison results.
-<img src="images/Clipboard_08-11-2026_03.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<img src="images/Clipboard_08-11-2026_03.jpg" alt="study Banner" width="600" height="1500" align="center">
 <BR>
 <B>Why Synthetic Data?</B><BR><BR>
 Synthetic data is particularly useful for this research because record linkage requires controlled experiments in which the researcher can understand the underlying relationships between records.
@@ -252,9 +252,9 @@ Synthetic data generation alone does not establish that the generated dataset is
 <BR><BR>
 A synthetic dataset must be assessed against the source data to determine whether it preserves the characteristics that are important for the intended analysis.
 <BR><BR>
-This project therefore includes a dedicated synthetic-data validation and comparison stage.
+This study therefore includes a dedicated synthetic-data validation and comparison stage.
 <BR>
-<img src="images/Clipboard_08-11-2026_08.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<img src="images/Clipboard_08-11-2026_08.jpg" alt="study Banner" width="600" height="1500" align="center">
 <BR>
 <B>Distributional Validation</B>
 <BR><BR>
@@ -307,7 +307,7 @@ Date of Birth can be an important discriminating attribute in record linkage. Ho
 <BR>
 An unrealistic synthetic Date-of-Birth distribution could therefore create a linkage problem that is substantially different from the real-world problem.
 <BR><BR>
-For this reason, the project explicitly investigates <B>CTGAN generation with a more appropriately distributed Date-of-Birth variable</B>.
+For this reason, the study explicitly investigates <B>CTGAN generation with a more appropriately distributed Date-of-Birth variable</B>.
 <BR><BR>
 <B>Validation Principle</B>
 <BR><BR>
@@ -423,7 +423,7 @@ Village → Exact agreement <BR></I>
 <BR>
 The machine-learning model can use this combined evidence rather than relying on a strict all-fields-match rule.
 <BR>
-<img src="images/Clipboard_08-11-2026_09.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<img src="images/Clipboard_08-11-2026_09.jpg" alt="study Banner" width="600" height="1500" align="center">
 <BR>
 The objective is to transform heterogeneous population attributes into a consistent representation that can be used for statistical modelling and machine-learning-based linkage.
 <BR><BR>
@@ -436,7 +436,7 @@ The model learns to distinguish between:
 <B>Match</B> — two records represent the same individual.
 <B>Non-match</B> — two records represent different individuals.
 <BR>
-<img src="images/Clipboard_08-11-2026_10.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<img src="images/Clipboard_08-11-2026_10.jpg" alt="study Banner" width="600" height="1500" align="center">
 <BR>
 <B>Synthetic Data and Ground Truth</B>
 <BR><BR>
@@ -534,7 +534,7 @@ A highly permissive linkage model may identify more true matches but also produc
 <BR><BR>
 A highly conservative model may reduce false matches but fail to recover genuine relationships.
 <BR>
-<img src="images/Clipboard_08-11-2026_11.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<img src="images/Clipboard_08-11-2026_11.jpg" alt="study Banner" width="600" height="1500" align="center">
 <BR>
 The appropriate operating point should therefore be determined according to the intended research application.
 <BR><BR>
@@ -546,7 +546,7 @@ Synthetic data provides a known ground truth, allowing candidate pairs generated
 <BR><BR>
 Evaluation should not stop at aggregate metrics.
 <BR><BR>
-The project should also investigate:
+The study should also investigate:
 <BR><BR>
 <UL>
 <LI>Which fields contribute to incorrect decisions?</LI><BR>
@@ -563,11 +563,11 @@ This provides insight into why a linkage model succeeds or fails.
 <BR><BR>
 <B>7. 🧪 Reproducibility</B>
 <BR><BR>
-Reproducibility is a key principle of this research project.
+Reproducibility is a key principle of this research study.
 <BR><BR>
-The repository preserves important components of the workflow, including the Pentaho Data Integration transformations, synthetic-data generation experiments, distribution visualizations, HTML analyses, PDF reports, and supporting training/case-study materials.
+The repository preserves important components of the workflow, including the Pentaho Data Integration transformations, synthetic-data generation experiments, distribution visualisations, HTML analyses, PDF reports, and supporting training/case-study materials.
 <BR>
-<img src="images/Clipboard_08-11-2026_12.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<img src="images/Clipboard_08-11-2026_12.jpg" alt="study Banner" width="600" height="1500" align="center">
 <BR>
 <B>Reproducibility Principles</B><BR>
 <TABLE>
@@ -613,9 +613,9 @@ To build a fully documented and reproducible research pipeline for machine-learn
 <BR><BR>
 Record linkage in population and health research can involve highly sensitive information.
 <BR><BR>
-The project therefore treats privacy, ethical governance, and responsible data use as fundamental considerations rather than as secondary technical requirements.
+The study therefore treats privacy, ethical governance, and responsible data use as fundamental considerations rather than as secondary technical requirements.
 <BR>
-<img src="images/Clipboard_08-11-2026_13.jpg" alt="Project Banner" width="600" height="1500" align="center">
+<img src="images/Clipboard_08-11-2026_13.jpg" alt="study Banner" width="600" height="1500" align="center">
 <BR><BR>
 <B>Data Protection Principles</B>
 <BR><BR>
@@ -623,7 +623,7 @@ The project therefore treats privacy, ethical governance, and responsible data u
 <LI>Do not commit personally identifiable information to the public repository.</LI><BR>
 <LI>Do not commit passwords, API keys, database credentials, or connection strings.</LI><BR>
 <LI>Use synthetic data wherever possible for methodological development.</LI><BR>
-<LI>Use appropriately anonymized or de-identified data when real-world data are required.</LI><BR>
+<LI>Use appropriately anonymised or de-identified data when real-world data are required.</LI><BR>
 <LI>Follow institutional data-governance policies.</LI><BR>
 <LI>Obtain appropriate ethical approval where required.</LI><BR>
 <LI>Follow applicable privacy and data-protection legislation.</LI><BR>
@@ -684,7 +684,7 @@ Integrated population data can support research into:<BR>
 <LI>Risk factors</LI><BR>
 <LI>Population dynamics</LI><BR>
 <LI>Health outcomes</LI><BR>
-<LI>Health-service utilization</LI><BR>
+<LI>Health-service utilisation</LI><BR>
 </UL>
 <BR><BR>
 <B>🌐 Cross-Site Data Integration</B>
@@ -704,10 +704,71 @@ This could support:
 <LI>Cross-site interoperability.</LI><BR>
 <LI>Reproducible cohort construction.</LI><BR>
 <LI>Multi-database observational research.</LI><BR>
-<LI>Harmonized population-health analytics.</LI><BR>
+<LI>Harmonised population-health analytics.</LI><BR>
 </UL>
-<BR>
 The overarching goal is to support the creation of higher-quality, interoperable, and research-ready population-health datasets.
 <BR><BR>
 <B>10. 🛠️ Technology Stack</B>
 <BR><BR>
+The study combines data engineering, synthetic-data generation, statistical analysis, and machine learning.
+<BR>
+<TABLE>
+   <TR>
+      <TH>Technology</TH>
+      <TH>Role</TH>
+   </TR>
+   <TR>
+      <TD>Python</TD>
+      <TD>Data processing, analysis, feature engineering, and machine learning</TD>
+   </TR>
+   <TR>
+      <TD>Pandas</TD>
+      <TD>Tabular data manipulation</TD>
+   </TR>
+   <TR>
+      <TD>NumPy</TD>
+      <TD>Numerical computation</TD>
+   </TR>
+   <TR>
+      <TD>Scikit-learn</TD>
+      <TD>Machine-learning development and evaluation</TD>
+   </TR>
+   <TR>
+      <TD>CTGAN</TD>
+      <TD>Synthetic tabular-data generation</TD>
+   </TR>
+   <TR>
+      <TD>Pentaho Data Integration (PDI)</TD>
+      <TD>ETL and longitudinal data transformation</TD>
+   </TR>
+   <TR>
+      <TD>Jupyter / Notebook workflows</TD>
+      <TD>Exploratory analysis and experimentation</TD>
+   </TR>
+   <TR>
+      <TD>HTML</TD>
+      <TD>Visualisation outputs</TD>
+   </TR>
+   <TR>
+      <TD>PDF</TD>
+      <TD>Research reports and methodological documentation</TD>
+   </TR>
+   <TR>
+      <TD>PostgreSQL</TD>
+      <TD>Potential research-data storage and integration</TD>
+   </TR>
+   <TR>
+      <TD>OMOP CDM</TD>
+      <TD>Long-term health-data standardisation direction</TD>
+   </TR>
+   <TR>
+      <TD>OHDSI</TD>
+      <TD>Long-term observational health research ecosystem</TD>
+   </TR>
+</TABLE>
+<BR>
+Note: The technology stack is presented as the methodological ecosystem for the study. Individual libraries and frameworks should be added to the repository's dependency documentation as their implementation becomes part of the executable workflow.
+<BR><BR>
+<B>11. 📚 Key Concepts</B>
+<BR><BR>
+This study sits at the intersection of several research and technical domains.
