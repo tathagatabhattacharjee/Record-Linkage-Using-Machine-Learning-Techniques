@@ -163,7 +163,7 @@ The INSPIRE architecture incorporates profiling as an early stage of the data-ha
 Source variables must be mapped to their corresponding OMOP CDM fields.
 
 Conceptually:
-<BR>
+<BR><BR>
 Source Variable<BR>
       │<BR>
       ▼<BR>
@@ -208,21 +208,21 @@ Different datasets may describe the same concept using different:
 - Local classifications
 
 OMOP addresses this through its standardised vocabulary framework.
-
-Local Code
-    │
-    ▼
-Source Vocabulary
-    │
-    ▼
-Vocabulary Mapping
-    │
-    ▼
-Standard OMOP Concept
-    │
-    ▼
-OMOP CDM
-
+<BR><BR>
+Local Code<BR>
+    │<BR>
+    ▼<BR>
+Source Vocabulary<BR>
+    │<BR>
+    ▼<BR>
+Vocabulary Mapping<BR>
+    │<BR>
+    ▼<BR>
+Standard OMOP Concept<BR>
+    │<BR>
+    ▼<BR><BR>
+OMOP CDM<BR>
+<BR>
 The ALPHA-to-OMOP work identifies vocabulary mapping as a core component of the ETL process.
 
 The INSPIRE work also demonstrates source-to-OMOP vocabulary mapping for population-health data.
