@@ -139,7 +139,6 @@ Profiling examines:
 - Duplicate records
 - Relationships between variables
 
-```text
 Source Dataset
       │
       ▼
@@ -154,7 +153,6 @@ Data Profiling
       │
       ▼
 Data Understanding
-```
 
 The INSPIRE architecture incorporates profiling as an early stage of the data-harmonisation process.
 
@@ -166,7 +164,6 @@ Source variables must be mapped to their corresponding OMOP CDM fields.
 
 Conceptually:
 
-```text
 Source Variable
       │
       ▼
@@ -180,7 +177,7 @@ OMOP CDM Field
       │
       ▼
 Standardised Representation
-```
+
 
 For example:
 
@@ -212,7 +209,6 @@ Different datasets may describe the same concept using different:
 
 OMOP addresses this through its standardised vocabulary framework.
 
-```text
 Local Code
     │
     ▼
@@ -226,7 +222,6 @@ Standard OMOP Concept
     │
     ▼
 OMOP CDM
-```
 
 The ALPHA-to-OMOP work identifies vocabulary mapping as a core component of the ETL process.
 
@@ -312,7 +307,6 @@ A simplified conceptual structure is:
                       │
                       ▼
              OBSERVATION PERIOD
-```
 
 Not every OMOP table needs to be populated for every dataset.
 
