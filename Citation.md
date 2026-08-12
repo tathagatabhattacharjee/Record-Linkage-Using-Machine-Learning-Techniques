@@ -1,4 +1,4 @@
-<B>Citation</B>
+<B>📖 Citation</B>
 <BR><BR>
 If you use this repository, methodology, synthetic-data workflow, analytical materials, or derived research outputs, please cite the study.
 <BR><BR>
