@@ -100,3 +100,49 @@ Jupyter Notebook is useful for this training because it allows the user to:
    <LI>Reproduce individual steps of a data-science workflow.</LI> 
 </UL>
 Before starting the practical exercises, ensure that Python and Jupyter Notebook are installed and working correctly.
+<H3>Training Presentations</H3>
+<B>Bootcamp — Synthetic Data Creation</B><BR>
+The Bootcamp - Synthetic Data Creation.pptx.pdf presentation provides the primary bootcamp material for synthetic-data creation.
+<BR><BR>
+It is intended to be used as the conceptual and practical introduction to the synthetic-data generation exercises.
+<H3>Platform Presentation — Synthetic Data</H3>
+The Platform Presentation - Synthetic Data - I.pdf provides additional presentation material covering synthetic-data concepts and the broader context in which synthetic data can be used.
+<BR><BR>
+Together, the presentation materials provide background before proceeding to the practical case study.
+<BR>
+<H3>Case Study</H3>
+The Case Study directory contains the practical case-study component of the training.
+<BR><BR>
+The case study is intended to bridge the gap between the concepts presented in the training material and an actual synthetic-data workflow.
+<BR><BR>
+A typical case-study workflow can include:
+<br>
+```text
+1. Understand the source dataset
+          |
+          v
+2. Identify relevant attributes
+          |
+          v
+3. Prepare / clean the data
+          |
+          v
+4. Select a synthetic-data approach
+          |
+          v
+5. Train / configure the generation method
+          |
+          v
+6. Generate synthetic records
+          |
+          v
+7. Evaluate the generated data
+          |
+          v
+8. Use the synthetic data for downstream analysis
+```
+<BR>
+<H3>Recommended Learning Sequence</H3>
+For someone working through this material for the first time, the following order is recommended:
+<BR>
+<H4>Step 1 — Understand Synthetic Data</H4>
