@@ -39,3 +39,5 @@ The purpose of this task is to create realistic datasets for record-linkage expe
 The CTGAN workflows use Conditional Tabular Generative Adversarial Networks to learn relationships in tabular data and generate new synthetic records.
 <BR>
 The repository contains two related CTGAN implementations.
+<H3>Workflow</H3>
+
