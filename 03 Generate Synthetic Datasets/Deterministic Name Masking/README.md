@@ -41,9 +41,21 @@ This folder contains Python programs that implement a two-stage data engineering
 </UL>
 This script reads an Excel file containing first names, cleans and formats the data, and uploads it to a PostgreSQL database.<BR>
 <B>Key Steps</B>
-<UL>
+<OL>
   <LI>Database Verification: Connects to PostgreSQL using SQLAlchemy and runs a simple query (SELECT 1;) to verify credentials before running.</LI>  
   <LI>Data Ingestion: Reads the FirstNames sheet from Pool Name List.xlsx, loading all values as strings. </LI> 
   <LI>Cleaning & Formatting: Drops duplicate (firstname, sex) entries, randomly shuffles the rows, and assigns sequential record IDs (recnr). </LI> 
   <LI>Database Export: Creates the target schema (synthetic_data_final) if missing and uploads the processed data to the deterministic_firstname_pool table.  </LI>
+</OL>
+<UL>
+  <LI><B><I>02 deterministic name masking lastname pool.py</I></B></LI>
 </UL>
+This script extracts last-name data from an Excel spreadsheet, cleans and formats the data, and uploads it to a PostgreSQL database.<BR>
+<B>Key Steps</B>
+<OL>
+  <LI>Database Verification: Connects to PostgreSQL using SQLAlchemy and executes SELECT 1; to confirm connectivity before running.</LI>  
+  <LI>Data Ingestion: Reads the LastNames worksheet from Pool Name List.xlsx and normalizes all column headers to lowercase strings. </LI> 
+  <LI>Dynamic Column Matching & Cleaning: Automatically detects the last-name column, drops duplicates based on that column, shuffles the rows randomly, and assigns sequential record numbers (recnr). </LI> 
+  <LI>Database Export: Guarantees the existence of the synthetic_data_final schema and uploads the final dataset to the deterministic_lastname_pool table.</LI>
+</OL>
+
