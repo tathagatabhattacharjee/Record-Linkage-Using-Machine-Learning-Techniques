@@ -70,3 +70,15 @@ This script performs distribution-aware, deterministic name masking on a synthet
   <LI>Deterministic Masking: Iterates over unique individual IDs and uses them as random seeds (random.seed(str(uid))) to sample pseudonyms with random.choices. This preserves statistical distributions while ensuring reproducible outputs without lookup tables.</LI> 
   <LI>Merging & Export: Joins masked_firstname and masked_lastname back to the synthetic dataset, prints sample statistics, and overwrites the output table in PostgreSQL.</LI>
 </OL>
+<UL>
+  <LI><B><I>04 deterministic name masking comparison.py</I></B></LI>
+</UL>
+This script evaluates the privacy preservation and distribution accuracy of the deterministic name masking pipeline by comparing the original baseline dataset against the masked synthetic output.<BR>
+<B>Key Steps</B>
+<OL>
+  <LI>Database Connection & Ingestion: Connects to PostgreSQL, loads both the original cleaned table (df_orig) and masked synthetic table (df_mask), and joins them on a shared record identifier.  </LI>  
+  <LI>Statistical Evaluation: Calculates name change rates, unique name counts, and overlapping entries between original and masked sets. Prints summary statistics and highlights sample changed records to ensure masking effectiveness.</LI> 
+  <LI>Overlap Visualisation: Displays a side-by-side Venn diagram showing unique and overlapping first and last name counts between original and masked datasets.</LI> 
+  <LI>Distribution Comparison: Generates normalised histogram distribution plots comparing occurrences per name between original and masked data to verify that overall statistical frequencies are preserved.</LI>
+</OL>
+<HR>
