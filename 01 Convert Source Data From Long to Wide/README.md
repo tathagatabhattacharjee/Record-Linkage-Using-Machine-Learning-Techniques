@@ -74,31 +74,15 @@ Data Preparation Longitudinal 1.ktr
 The transformation reads the longitudinal source data and restructures it into a participant-level wide representation.
 <BR><BR>
 ### Transformation Files
-<TABLE>
-  <TR>
-    <TH>Files</TH>
-    <TH>Description</TH>
-  </TR>
-  <TR>
-    <TD>Data Preparation Longitudinal 1.ktr</TD>
-    <TD>Main Pentaho transformation for converting the longitudinal data from long to wide format.</TD>
-  </TR>
-  <TR>
-    <TD>Data Preparation Longitudinal 1 v1.ktr</TD>
-    <TD>Version 1 of the transformation.</TD>
-  </TR>
-  <TR>
-    <TD>Data Preparation Longitudinal 1 v2.ktr</TD>
-    <TD>Version 2 of the transformation containing subsequent changes/refinements.</TD>
-  </TR>
-  <TR>
-    <TD>Converting Long to Wide Format.pdf</TD>
-    <TD>Supporting documentation/presentation describing the long-to-wide conversion process.</TD>
-  </TR>
-</TABLE>
-<BR><BR>
-<H3>Transformation Workflow</H3>
-<BR>
+| File                                                                                         | Description                                                                                |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [`Data Preparation Longitudinal 1.ktr`](./Data%20Preparation%20Longitudinal%201.ktr)         | Main Pentaho transformation for converting the longitudinal data from long to wide format. |
+| [`Data Preparation Longitudinal 1 v1.ktr`](./Data%20Preparation%20Longitudinal%201%20v1.ktr) | Version 1 of the transformation.                                                           |
+| [`Data Preparation Longitudinal 1 v2.ktr`](./Data%20Preparation%20Longitudinal%201%20v2.ktr) | Version 2 of the transformation containing subsequent changes/refinements.                 |
+| [`Converting Long to Wide Format.pdf`](./Converting%20Long%20to%20Wide%20Format.pdf)         | Supporting documentation/presentation describing the long-to-wide conversion process.      |
+
+### Transformation Workflow
+
 The overall process can be represented as:
 ```text
 Kisesa HDSS Longitudinal Data
@@ -127,4 +111,4 @@ Kisesa HDSS Longitudinal Data
               v
     Record Linkage Experiments
     ```
-    <H3>Why Convert to Wide Format?</H3>
+    ### Why Convert to Wide Format?
