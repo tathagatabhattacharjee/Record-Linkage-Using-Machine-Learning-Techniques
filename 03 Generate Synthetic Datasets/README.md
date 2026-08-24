@@ -63,3 +63,25 @@ For reliable experiments:
   <LI>Preserve the same input/reference distributions when comparing experiments.</LI>
   <LI>For deterministic name masking, use the same record identifiers and name pools when reproducibility is required.</LI>
 </UL>
+<H3>Data Privacy</H3>
+Synthetic data is intended for experimentation and benchmarking, but synthetic generation does not automatically guarantee privacy.<BR><BR>
+Generated datasets should be evaluated for:
+<UL>
+  <LI>Unintended disclosure</LI>
+  <LI>Re-identification risk</LI>
+  <LI>Similarity to source records</LI>
+  <LI>Preservation of sensitive attributes</LI>
+</UL>
+The deterministic name-masking workflow provides an additional pseudonymisation layer for names while retaining distributional characteristics useful for record-linkage research.
+<H3>Role in the Overall Project</H3>
+This folder represents the synthetic-data generation tasks of the broader project.
+<BR><BR>
+The resulting datasets can subsequently be used to:
+<UL>
+  <LI>Develop record-linkage models</LI>
+  <LI>Train machine-learning algorithms</LI>
+  <LI>Evaluate matching performance</LI>
+  <LI>Compare different record-linkage techniques</LI>
+  <LI>Conduct reproducible benchmarking experiments</LI>
+</UL>
+<HR>
