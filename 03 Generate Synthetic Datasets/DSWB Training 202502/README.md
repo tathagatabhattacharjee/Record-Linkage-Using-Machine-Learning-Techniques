@@ -225,6 +225,6 @@ When generating synthetic datasets, consider:
 </UL>
 Synthetic-data quality should therefore be evaluated from both utility and privacy perspectives.
 <H4>Related Project Material</H4>
-More information is locaed under the folder ``` 03 Generate Synthetic Datasets  ```
+More information is locaed under the folder `03 Generate Synthetic Datasets`
 <BR>
 <HR>
