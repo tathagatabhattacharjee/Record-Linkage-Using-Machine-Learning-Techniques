@@ -58,4 +58,15 @@ This script extracts last-name data from an Excel spreadsheet, cleans and format
   <LI>Dynamic Column Matching & Cleaning: Automatically detects the last-name column, drops duplicates based on that column, shuffles the rows randomly, and assigns sequential record numbers (recnr). </LI> 
   <LI>Database Export: Guarantees the existence of the synthetic_data_final schema and uploads the final dataset to the deterministic_lastname_pool table.</LI>
 </OL>
-
+<H2>Sequence Step 2: Deterministic Distribution-Aware Name Masking</H2>
+<UL>
+  <LI><B><I>03 deterministic name masking synthetic data.py</I></B></LI>
+</UL>
+This script performs distribution-aware, deterministic name masking on a synthetic dataset by drawing pseudonyms from real-world name distributions in PostgreSQL.<BR>
+<B>Key Steps</B>
+<OL>
+  <LI>Dataset Ingestion: Loads baseline real-world data (TABLE_CLEANED) to capture name distributions and synthetic records (TABLE_SYNTHETIC) that need anonymization.</LI>  
+  <LI>Frequency Analysis: Normalises names to title case and computes relative frequency weights using collections.Counter Python library.</LI> 
+  <LI>Deterministic Masking: Iterates over unique individual IDs and uses them as random seeds (random.seed(str(uid))) to sample pseudonyms with random.choices. This preserves statistical distributions while ensuring reproducible outputs without lookup tables.</LI> 
+  <LI>Merging & Export: Joins masked_firstname and masked_lastname back to the synthetic dataset, prints sample statistics, and overwrites the output table in PostgreSQL.</LI>
+</OL>
