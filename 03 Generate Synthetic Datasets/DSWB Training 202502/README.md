@@ -86,3 +86,17 @@ Record Variations        Matching / Non-Matching
                    |
                    v
           Evaluation & Analysis
+```
+<H3>Jupyter Notebook Setup</H3>
+The Installing Jupyter Notebook.pdf document provides guidance for setting up Jupyter Notebook.
+<BR><BR>
+Jupyter Notebook is useful for this training because it allows the user to:
+<UL>
+   <LI>Execute Python code interactively.</LI>
+   <LI>Inspect datasets.</LI>
+   <LI>Visualise distributions.</LI>
+   <LI>Experiment with data-generation techniques.</LI>
+   <LI>Document analysis alongside executable code.</LI>
+   <LI>Reproduce individual steps of a data-science workflow.</LI> 
+</UL>
+Before starting the practical exercises, ensure that Python and Jupyter Notebook are installed and working correctly.
