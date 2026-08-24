@@ -33,5 +33,17 @@ Modify the connection parameters in the scripts, wherever necessary, to match yo
 </I>
 <BR>
 <H2>Module Workflow Sequence</H2>
-This folder contains Pythin programs that implement a two-stage data engineering pipeline designed to prepare reference data and execute deterministic, distribution-aware name masking for synthetic record linkage datasets.
+This folder contains Python programs that implement a two-stage data engineering pipeline designed to prepare reference data and execute deterministic, distribution-aware name masking for synthetic record linkage datasets.
 <BR>
+<H2>Step 1: Populate Reference Pools</H2>
+<UL>
+  <LI><B><I>01 deterministic name masking firstname pool.py</I></B></LI>
+</UL>
+This script reads an Excel file containing first names, cleans and formats the data, and uploads it to a PostgreSQL database.<BR>
+<B>Key Steps</B>
+<UL>
+  <LI>Database Verification: Connects to PostgreSQL using SQLAlchemy and runs a simple query (SELECT 1;) to verify credentials before running.</LI>  
+  <LI>Data Ingestion: Reads the FirstNames sheet from Pool Name List.xlsx, loading all values as strings. </LI> 
+  <LI>Cleaning & Formatting: Drops duplicate (firstname, sex) entries, randomly shuffles the rows, and assigns sequential record IDs (recnr). </LI> 
+  <LI>Database Export: Creates the target schema (synthetic_data_final) if missing and uploads the processed data to the deterministic_firstname_pool table.  </LI>
+</UL>
