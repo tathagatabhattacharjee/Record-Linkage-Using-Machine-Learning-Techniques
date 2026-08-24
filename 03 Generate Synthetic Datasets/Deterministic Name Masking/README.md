@@ -14,3 +14,24 @@ This set of Python programs achieves deterministic pseudonymization:
 <H2>Pipeline Architecture</H2>
 ─> (Step 1: Upload Script) ─> [ Excel / Raw Data ] ─> [ Name Pool Table ]<BR>
 ─> (Step 2: Masking Engine) ─> [ Cleaned Dataset  ] + [ Synthetic Target ] ─> [ Masked Output Table ]<BR>
+<H2>Getting Started</H2>
+<B>Prerequisites</B><BR>
+Ensure you have Python 3.8+ and PostgreSQL installed, along with the required libraries:<BR>
+<I>
+&nbsp;&nbsp;&nbsp;&nbsp;  pip install pandas numpy sqlalchemy psycopg2 openpyxl
+</I>
+<BR><BR>
+<B>Database Setup</B><BR>
+Modify the connection parameters in the scripts, wherever necessary, to match your database credentials:
+<I>
+<BR>&nbsp;&nbsp;&nbsp;&nbsp; DB_USER = "postgres"
+<BR>&nbsp;&nbsp;&nbsp;&nbsp; DB_PASS = "your_password"
+<BR>&nbsp;&nbsp;&nbsp;&nbsp; DB_HOST = "localhost"
+<BR>&nbsp;&nbsp;&nbsp;&nbsp; DB_PORT = "5432"
+<BR>&nbsp;&nbsp;&nbsp;&nbsp; DB_NAME = "PhD"
+<BR>&nbsp;&nbsp;&nbsp;&nbsp; SCHEMA_NAME = "synthetic_data_final"
+</I>
+<BR>
+<H2>Module Workflow Sequence</H2>
+This folder contains Pythin programs that implement a two-stage data engineering pipeline designed to prepare reference data and execute deterministic, distribution-aware name masking for synthetic record linkage datasets.
+<BR>
