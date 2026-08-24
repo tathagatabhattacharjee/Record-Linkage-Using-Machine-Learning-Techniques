@@ -71,3 +71,60 @@ The main transformation is:
 ```text
 Data Preparation Longitudinal 1.ktr
 ```
+The transformation reads the longitudinal source data and restructures it into a participant-level wide representation.
+<BR><BR>
+### Transformation Files
+<TABLE>
+  <TR>
+    <TH>Files</TH>
+    <TH>Description</TH>
+  </TR>
+  <TR>
+    <TD>Data Preparation Longitudinal 1.ktr</TD>
+    <TD>Main Pentaho transformation for converting the longitudinal data from long to wide format.</TD>
+  </TR>
+  <TR>
+    <TD>Data Preparation Longitudinal 1 v1.ktr</TD>
+    <TD>Version 1 of the transformation.</TD>
+  </TR>
+  <TR>
+    <TD>Data Preparation Longitudinal 1 v2.ktr</TD>
+    <TD>Version 2 of the transformation containing subsequent changes/refinements.</TD>
+  </TR>
+  <TR>
+    <TD>Converting Long to Wide Format.pdf</TD>
+    <TD>Supporting documentation/presentation describing the long-to-wide conversion process.</TD>
+  </TR>
+</TABLE>
+<BR><BR>
+<H3>Transformation Workflow</H3>
+<BR>
+The overall process can be represented as:
+```text
+Kisesa HDSS Longitudinal Data
+              |
+              v
+       Read Source Data
+              |
+              v
+     Identify Participant
+              |
+              v
+    Order Longitudinal Events
+              |
+              v
+   Consolidate Movement History
+              |
+              v
+       Pivot / Restructure
+              |
+              v
+     Wide Participant Dataset
+              |
+              v
+   Synthetic Data Generation
+              |
+              v
+    Record Linkage Experiments
+    ```
+    <H3>Why Convert to Wide Format?</H3>
