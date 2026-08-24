@@ -24,12 +24,12 @@ Ensure you have Python 3.8+ and PostgreSQL installed, along with the required li
 <B>Database Setup</B><BR>
 Modify the connection parameters in the scripts, wherever necessary, to match your database credentials:
 <I>
-<BR>&nbsp;&nbsp;&nbsp;&nbsp; DB_USER = "postgres"
+<BR>&nbsp;&nbsp;&nbsp;&nbsp; DB_USER = "your_database_username"
 <BR>&nbsp;&nbsp;&nbsp;&nbsp; DB_PASS = "your_password"
 <BR>&nbsp;&nbsp;&nbsp;&nbsp; DB_HOST = "localhost"
 <BR>&nbsp;&nbsp;&nbsp;&nbsp; DB_PORT = "5432"
-<BR>&nbsp;&nbsp;&nbsp;&nbsp; DB_NAME = "PhD"
-<BR>&nbsp;&nbsp;&nbsp;&nbsp; SCHEMA_NAME = "synthetic_data_final"
+<BR>&nbsp;&nbsp;&nbsp;&nbsp; DB_NAME = "your_database_name"
+<BR>&nbsp;&nbsp;&nbsp;&nbsp; SCHEMA_NAME = "your_schema_name"
 </I>
 <BR>
 <H2>Module Workflow Sequence</H2>
