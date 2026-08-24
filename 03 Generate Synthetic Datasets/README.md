@@ -40,4 +40,6 @@ The CTGAN workflows use Conditional Tabular Generative Adversarial Networks to l
 <BR>
 The repository contains two related CTGAN implementations.
 <H3>Workflow</H3>
-
+<img src="Images\Image 1.jpg" alt="Workflow Image">
+<H3>Environment</H3>
+The exact dependencies depend on the workflow being executed. Typical components include:
