@@ -110,5 +110,133 @@ Kisesa HDSS Longitudinal Data
               |
               v
     Record Linkage Experiments
-    ```
-    ### Why Convert to Wide Format?
+```
+### Why Convert to Wide Format?
+The conversion is particularly useful for the subsequent synthetic-data generation stage.
+
+A participant-level wide dataset provides a structured representation in which:
+
+- Each participant can be represented by one row.
+- Multiple residency episodes can be represented as separate columns.
+- Longitudinal characteristics can be retained within the participant record.
+- Participant-level attributes can be combined with movement history.
+- Synthetic-data generation can be performed on a consistent tabular structure.
+- Retrospective record-linkage experiments can use the complete participant history.
+
+### Relationship to PIRL
+The original data and methodology are associated with the Point-of-contact Interactive Record Linkage (PIRL) project and the use of Kisesa HDSS data for record-linkage research.
+
+The original event-history representation was designed to support record linkage using a probabilistic approach followed by prospective confirmation.
+
+The current project uses the transformed wide representation as a foundation for a retrospective record-linkage workflow and for generating synthetic datasets suitable for machine-learning experiments.
+
+For background on the original PIRL software and methodology, see: https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware
+
+### Database Configuration
+
+In this Project, the Pentaho transformation is configured to work with a PostgreSQL database.
+
+The transformation metadata contains a PostgreSQL connection configuration for the development environment.
+
+Before running the transformation, users should review and configure:
+
+- Database server
+- Database name
+- Port
+- Username
+- Password
+- Source schema
+- Source table
+- Output destination
+
+### Security
+
+The .ktr file contains credentials from a local/development environment, replace them with environment-specific configuration or Pentaho parameters before sharing the transformation.
+
+The repository should contain only non-sensitive configuration.
+
+### Prerequisites
+
+To reproduce the transformation, the following are recommended:
+
+- Pentaho Data Integration (PDI / Kettle)
+- PostgreSQL
+- Access to the authorised HDSS source data
+- Appropriate database permissions
+- Sufficient storage for the transformed dataset
+
+The exact PDI version should be recorded when conducting reproducible research because transformation behaviour and database connectivity can vary between versions.
+
+## Running the Transformation
+
+### 1. Install Pentaho Data Integration
+Install Pentaho Data Integration / Kettle on the system where the transformation will be executed.
+
+### 2. Configure the Database
+Configure the PostgreSQL connection to point to the authorised source database.
+
+Do not use credentials committed to the repository.
+
+### 3. Open the Transformation
+Open the following transformation file using using Pentaho Data Integration.
+```text
+Data Preparation Longitudinal 1.ktr
+```
+
+
+### 4. Review the Transformation
+Before execution, verify:
+
+- Input database connection
+- Input table
+- Required fields
+- Participant identifier
+- Event/movement fields
+- Date fields
+- Output structure
+- Database permissions
+
+### 5. Execute the Transformation
+
+Run the transformation through Pentaho Data Integration and monitor the execution log for:
+
+- Input records
+- Output records
+- Rejected records
+- Errors
+- Processing time
+
+### 6. Validate the Output
+
+The output should be checked to ensure that:
+
+- Each participant is represented correctly.
+- Multiple longitudinal events have been consolidated.
+- Dates remain consistent.
+- Movement sequences are preserved.
+- No unexpected records have been lost.
+- No unintended duplicate participant records have been introduced.
+
+
+### Data Quality Checks
+
+After conversion, the resulting wide dataset should be validated before being used for synthetic-data generation.
+
+Recommended checks include:
+
+### Record Counts
+
+Compare the number of unique participants in source vs. number of participant records in wide dataset
+
+### Participant Uniqueness
+Verify that the participant identifier is unique in the wide dataset.
+COUNT(DISTINCT participant_id) = COUNT(*) 
+
+### Date Consistency
+
+Check that:
+
+- Start dates precede end dates.
+- Movement episodes are chronologically ordered.
+- Missing dates are handled consistently.
+- Impossible dates are identified.
