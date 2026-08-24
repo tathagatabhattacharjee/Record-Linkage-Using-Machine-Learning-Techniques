@@ -171,3 +171,60 @@ Proceed to:
 </UL>
 Apply the concepts from the presentations in a practical setting.
 <h4>Relationship to the Main Project</h4>
+This training folder forms part of the Generate Synthetic Datasets task of the broader project.
+<BR><BR>
+The training material provides the conceptual and practical foundation for the synthetic datasets subsequently used in record-linkage experiments.
+<BR><BR>
+The broader workflow can be viewed as:
+```text
+Training & Data Understanding
+            |
+            v
+Synthetic Dataset Generation
+            |
+            v
+Synthetic Data Quality Evaluation
+            |
+            v
+Record Linkage Dataset Preparation
+            |
+            v
+Feature Engineering
+            |
+            v
+Machine Learning Models
+            |
+            v
+Record Linkage Evaluation
+```
+<BR>
+<H4>Prerequisites</H4>
+For the practical exercises, the following environment is recommended:
+<UL>
+   <LI>Python</LI>
+   <LI>Jupyter Notebook or JupyterLab</LI>
+   <LI>pandas</LI>
+   <LI>NumPy</LI>
+   <LI>matplotlib</LI>
+   <LI>scikit-learn</LI>
+   <LI>Appropriate synthetic-data generation libraries required by the case study</LI>
+  Additional dependencies may be required depending on the specific implementation used in the case study.      
+</UL>
+<H4>Important Considerations</H4>
+Synthetic data should not automatically be considered completely anonymous or risk-free.
+<BR>
+When generating synthetic datasets, consider:
+<UL>
+        <LI>Statistical comparison to the source data.</LI>
+        <LI>Preservation of important relationships.</LI>
+        <LI>Potential memorisation of source records.</LI>
+        <LI>Disclosure and re-identification risks.</LI>
+        <LI>Utility for downstream machine-learning tasks.</LI>
+        <LI>Whether sensitive attributes remain identifiable.</LI>
+        <LI>The intended use and sharing requirements of the generated data.</LI>
+</UL>
+Synthetic-data quality should therefore be evaluated from both utility and privacy perspectives.
+<H4>Related Project Material</H4>
+More information is locaed under the folder ``` 03 Generate Synthetic Datasets  ```
+<BR>
+<HR>
