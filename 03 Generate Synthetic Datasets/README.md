@@ -43,3 +43,23 @@ The repository contains two related CTGAN implementations.
 <img src="Images\Image 1.jpg" alt="Workflow Image">
 <H3>Environment</H3>
 The exact dependencies depend on the workflow being executed. Typical components include:
+<UL>
+  <LI>Python 3.8+</LI>
+  <LI>pandas</LI>
+  <LI>NumPy</LI>
+  <LI>CTGAN / SDV ecosystem packages for generative modelling</LI>
+  <LI>SQLAlchemy</LI>
+  <LI>psycopg2</LI>
+  <LI>openpyxl</LI>
+  <LI>Jupyter Notebook / JupyterLab for notebook-based workflows</LI>
+  <LI>PostgreSQL</LI>
+</UL>
+<H3>Reproducibility</H3>
+For reliable experiments:
+<UL>
+  <LI>Keep source-data preprocessing consistent across runs.</LI>
+  <LI>Record the model and library versions used for synthetic-data generation.</LI>
+  <LI>Use controlled random seeds where supported by the workflow.</LI>
+  <LI>Preserve the same input/reference distributions when comparing experiments.</LI>
+  <LI>For deterministic name masking, use the same record identifiers and name pools when reproducibility is required.</LI>
+</UL>
