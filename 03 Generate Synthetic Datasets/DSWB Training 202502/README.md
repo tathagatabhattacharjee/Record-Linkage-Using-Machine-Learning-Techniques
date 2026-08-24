@@ -146,3 +146,28 @@ A typical case-study workflow can include:
 For someone working through this material for the first time, the following order is recommended:
 <BR>
 <H4>Step 1 — Understand Synthetic Data</H4>
+Start with:
+<UL>
+        <LI>Platform Presentation - Synthetic Data - I.pdf</LI>
+</UL>
+This provides the conceptual background for synthetic data.
+<H4>Step 2 — Review the Bootcamp Material</H4>
+Continue with:
+<UL>
+        <LI>Bootcamp - Synthetic Data Creation.pptx.pdf</LI>
+</UL>
+This provides a more practical introduction to creating synthetic data.
+<H4>Step 3 — Set Up Jupyter Notebook</H4>
+Follow:
+<UL>
+    <LI>Installing Jupyter Notebook.pdf
+</LI>
+</UL>
+You can then use the Jupyter environment for the practical exercises.
+<H4>Step 4 — Complete the Case Study</H4>
+Proceed to:
+<UL>
+   <LI>Case Study</LI>
+</UL>
+Apply the concepts from the presentations in a practical setting.
+<h4>Relationship to the Main Project</h4>
