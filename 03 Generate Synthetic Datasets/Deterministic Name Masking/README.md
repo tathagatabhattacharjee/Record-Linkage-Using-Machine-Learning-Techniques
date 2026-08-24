@@ -10,4 +10,7 @@ This set of Python programs achieves deterministic pseudonymization:
   <LI>PostgreSQL Integration: Reads source datasets directly from database tables and writes masked outputs into dedicated schemas.
 </LI>
 </UL>
-<BR><BR>
+<BR>
+<H2>Pipeline Architecture</H2>
+─> (Step 1: Upload Script) ─> [ Excel / Raw Data ] ─> [ Name Pool Table ]<BR>
+─> (Step 2: Masking Engine) ─> [ Cleaned Dataset  ] + [ Synthetic Target ] ─> [ Masked Output Table ]<BR>
