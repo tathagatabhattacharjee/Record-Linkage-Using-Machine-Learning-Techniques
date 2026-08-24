@@ -226,11 +226,11 @@ Recommended checks include:
 
 ### Record Counts
 
-Compare the number of unique participants in source vs. number of participant records in wide dataset
+Compare the number of unique participants in the source vs. the number of participant records in the wide dataset
 
 ### Participant Uniqueness
 Verify that the participant identifier is unique in the wide dataset.
-COUNT(DISTINCT participant_id) = COUNT(*) 
+COUNT(DISTINCT individual_id) = COUNT(*) 
 
 ### Date Consistency
 
@@ -240,3 +240,87 @@ Check that:
 - Movement episodes are chronologically ordered.
 - Missing dates are handled consistently.
 - Impossible dates are identified.
+
+### Movement History
+
+Verify that the transformation does not unintentionally:
+
+- Remove valid movement episodes.
+- Duplicate movement episodes.
+- Change the order of events.
+- Assign events to the wrong participant.
+
+## Role in the Overall Project
+This folder represents the first major data-preparation stage of the project.
+
+The overall workflow is:
+
+```text
+01. Convert Source Data
+    Long → Wide
+          |
+          v
+02. Generate Synthetic Datasets
+          |
+          v
+03. Prepare Synthetic Linkage Data
+          |
+          v
+04. Introduce Record Variations
+          |
+          v
+05. Generate Matching / Non-Matching Pairs
+          |
+          v
+06. Feature Engineering
+          |
+          v
+07. Machine Learning
+          |
+          v
+08. Record Linkage Evaluation
+```
+
+The wide-format dataset generated here therefore serves as an important input to the subsequent synthetic-data generation process.
+
+### Reproducibility
+
+For reproducible experiments:
+
+- Record the PDI/Kettle version.
+- Record the PostgreSQL version.
+- Record the source-data version.
+- Record the transformation version.
+- Document all database and schema changes.
+- Keep track of input and output record counts.
+- Preserve the transformation configuration used for each experiment.
+- Do not modify the source data during transformation unless explicitly documented.
+
+### Data Privacy and Access
+
+The Kisesa HDSS data is potentially sensitive population-level information.
+
+- The applicable data-governance requirements have to be followed.
+- Source data is not stored or committed to the repository.
+- No personally identifiable information is published.
+- Usage of synthetic data for experiments and demonstrations.
+
+The presence of a data-processing transformation in this repository does not imply that the underlying source data is publicly available.
+
+## Summary
+
+The **Convert Source Data From Long to Wide** task transforms longitudinal HDSS event-history data into a participant-level wide dataset.
+
+This transformation:
+
+- Consolidates multiple events for each participant.
+- Retains longitudinal movement information.
+- Creates a structured tabular representation.
+- Simplifies participant-level analysis.
+- Provides a suitable foundation for synthetic-data generation.
+- Supports subsequent retrospective record-linkage and machine-learning experiments.
+
+The resulting wide-format data is subsequently used as an input to the synthetic-data generation workflows in the project.
+
+<HR>
+
