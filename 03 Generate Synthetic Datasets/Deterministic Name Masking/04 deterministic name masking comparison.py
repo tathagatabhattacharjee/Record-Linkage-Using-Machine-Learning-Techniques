@@ -1,5 +1,5 @@
 #############
-## This script evaluates and validates the effectiveness of a data anonymization
+## This script evaluates and validates the effectiveness of a data anonymisation
 # process by comparing original personal names against masked equivalents.
 #############
 
