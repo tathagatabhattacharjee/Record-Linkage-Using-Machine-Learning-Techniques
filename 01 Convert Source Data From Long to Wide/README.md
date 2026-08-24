@@ -47,7 +47,7 @@ Participant ID | Event | Location | Start Date | End Date
 10001          | Exit  | Area C   | 2007-08-21 | 2010-02-15
 ```
 The participant is therefore represented by several records.
-### Long Format
+### Wide Format
 The transformation consolidates the participant's information into a single row.
 ```text
 Participant ID | Entry 1 | Exit 1 | Entry 2 | Exit 2 | Entry 3 | Exit 3
@@ -58,3 +58,16 @@ The exact fields depend on the source data and transformation logic.
 <BR>
 This representation makes it easier to analyse the complete movement history of an individual as a single observation.
 ### Source Data
+The transformation was developed around the Kisesa HDSS data used in the original PIRL-related record-linkage work.
+<BR><BR>
+The Pentaho transformation documentation identifies the source as the longitudinal Kisesa HDSS data and describes the transformation as converting the data from long format into wide format.
+<BR><BR>
+Important: The actual source dataset is not included in this repository. Users must have the appropriate authorised source-data access and permissions before attempting to reproduce the workflow.
+
+### Pentaho Data Integration
+The conversion is implemented using Pentaho Data Integration (PDI), also known as Kettle.
+<BR>
+The main transformation is:
+```text
+Data Preparation Longitudinal 1.ktr
+```
