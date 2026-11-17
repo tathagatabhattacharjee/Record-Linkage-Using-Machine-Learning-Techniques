@@ -1,844 +1,317 @@
-<h1>Record Linkage Using Machine Learning Techniques</h1>
-<p align="center"><b>
-A reproducible research workflow for synthetic data generation, longitudinal data preparation, and machine learning–based record linkage
-</b>  </p>
-<hr>
-📌<b> Overview</b>
-<BR><Br>
-<B>Record linkage</B> is the process of determining whether records from different datasets refer to the same underlying individual or entity.
-<BR><BR>
-This repository presents a research-oriented workflow for developing and evaluating <b>>machine learning–based record linkage methods, particularly in the context of population health, longitudinal studies, and health and demographic surveillance data</b>.
-<BR><BR>
-The study follows a synthetic-to-real-data strategy:<BR><BR>
-<img src="images/Clipboard_08-11-2026_01.jpg" alt="study Banner" width="600" height="1500" align="center">
-<BR><BR>
-The central idea is to <b>develop and validate linkage methodology in a controlled environment before applying it to complex real-world population and health datasets</b>.
-<hr>
-<br>
-🎯 <b>Research Objectives</b><BR><BR>
-The repository is designed to investigate the following questions:<BR><BR>
-<UL>
-<LI>Can realistic synthetic population data be generated while preserving important source-data characteristics?</LI><BR>
-<LI>How can synthetic datasets be used to develop and benchmark record linkage methods?</LI><BR>
-<LI>Which data-quality and similarity features are most informative for identifying matching records?</LI><BR>
-<LI>How can machine learning improve linkage beyond simple deterministic rules?</LI><BR>
-<LI>How can validated linkage approaches be transferred from synthetic data to real-world longitudinal datasets?</LI><BR>
-</UL>
-<HR>
-<BR><BR>
-🧬 <B>Why Record Linkage?</B>
-<BR><BR>
-Population health research frequently requires information from multiple data sources.
-<BR>
-For example:<BR><BR>
-<img src="images/Clipboard_08-11-2026_02.jpg" alt="study Banner" width="600" height="1500" align="center">
-<BR>
-The quality of downstream epidemiological analyses depends heavily on the quality of this integration.
-<BR><BR>
-Incorrect linkage can introduce:<BR><BR>
-<UL>
-<LI>False matches — records belonging to different individuals are linked.</LI><BR>
-<LI>False non-matches — records belonging to the same individual are not linked.</LI><BR>
-<LI>Selection bias — linkage errors are not distributed uniformly across populations.</LI><BR>
-<LI>Loss of longitudinal information — repeated observations may fail to connect.</LI><BR>
-<LI>Reduced statistical power — fragmented records can lead to incomplete trajectories.</LI><BR>
-</UL>
-<HR>
-🔬 <B>Methodology</B>
-<BR><BR>
-<B>1. Longitudinal Data Preparation</B>  
-<BR><BR>
-The repository includes <B>Pentaho Data Integration (.ktr)</B> transformations for converting source longitudinal data from long format into a structure suitable for subsequent processing.
-<BR><BR>
-The current repository contains multiple versions of the transformation:
-<BR><BR>
-The file <B>Converting Long to Wide Format.pdf</B> in the folder <B>01 Convert Source Data From Long to Wide/</B> describes the process of converting the data from Long to Wide
-<BR><BR>
-This stage provides a reproducible ETL foundation for longitudinal population data. This conversion is only done to convert the records from events to episodes and therefore make it easy for record linkage, as only the individual's details are needed for the purpose. 
-<BR><BR>
-<B>2. 🔄 Data Standardisation</B>
-<BR><BR>
-Data standardisation is a foundational component of this research workflow. Population-health, HDSS, clinical, and longitudinal datasets are often collected using different structures, variable definitions, coding systems, and data formats. These differences make it difficult to integrate datasets and perform reliable downstream analyses.
-<BR><BR>
-This study explores the use of the <B>OMOP Common Data Model (CDM)</B> as a standardised framework for transforming heterogeneous health and population data into a common structure.
-<BR><BR>
-The objective is to create <B>standardised, interoperable, and research-ready data </B>while preserving the information required for longitudinal analysis and record linkage.
-<BR><BR>
-<B>OMOP CDM Standardisation Workflow</B><BR>
-<img src="images/Clipboard_08-11-2026_04.jpg" alt="study Banner" width="600" height="1500" align="center">
-<BR><BR>
-<B>What is Being Standardised?</B><BR><BR>
-The OMOP CDM provides a common structure and vocabulary framework for representing observational health data.
-<BR><BR>
-The standardisation process addresses several dimensions of heterogeneous source data:
-<TABLE>
-   <tr>
-      <th>Area</th>
-      <th>Standardisation Approach</th>
-   </tr>
-   <tr>
-      <td>Data Structure</td>
-      <td>Transform source data into appropriate OMOP CDM tables</td>
-   </tr>
-      <tr>
-      <td>Variable Definitions</td>
-      <td>Map source variables to standard OMOP concepts and fields</td>
-   </tr>
-      <tr>
-      <td>Clinical Concepts</td>
-      <td>Map local clinical codes to standard OMOP concepts where applicable</td>
-   </tr>
-      <tr>
-      <td>Dates & Times</td>
-      <td>Harmonise date and datetime representations</td>
-   </tr>
-      <tr>
-      <td>Demographics</td>
-      <td>Standardise person-level demographic information</td>
-   </tr>
-      <tr>
-      <td>Geography</td>
-      <td>Harmonise geographic and location-related information</td>
-   </tr>
-      <tr>
-      <td>Identifiers</td>
-      <td>Manage source identifiers and person identifiers appropriately</td>
-   </tr>
-      <tr>
-      <td>Observation Periods</td>
-      <td>Represent longitudinal periods consistently</td>
-   </tr>
-      <tr>
-      <td>Events</td>
-      <td>Organise clinical and observational events according to the CDM structure</td>
-   </tr>
-      <tr>
-      <td>Vocabulary</td>
-      <td>Use standardised OMOP vocabularies where appropriate</td>
-   </tr>
-      <tr>
-      <td>Data Quality</td>
-      <td>Identify inconsistencies, missing values, invalid values, and structural problems</td>
-   </tr>
-</TABLE>
-<BR><BR>
-<B>Source-to-OMOP Transformation</B>
-<BR><BR>
-The ETL process can be conceptualised as:
-<BR>
-<img src="images/Clipboard_08-11-2026_05.jpg" alt="study Banner" width="600" height="1500" align="center">
-<BR>
-* The data need to be transformed and harmonised before being incorporated into an OMOP-oriented analytical environment.
-<BR><BR>
-<B>OMOP CDM as an Interoperability Layer</B>
-<BR><BR>
-One of the major advantages of using the OMOP CDM is that it separates source-specific data structures from the common analytical representation.
-<BR>
-<img src="images/Clipboard_08-11-2026_06.jpg" alt="study Banner" width="600" height="1500" align="center">
-<BR>
-Instead of developing every analysis separately for every source system, data can be transformed into a common representation.
-<BR><BR>
-This supports:
-<BR><BR>
-<UL>
-<LI>Cross-dataset interoperability</LI><BR>
-<LI>Consistent analytical definitions</LI><BR>
-<LI>Reusable research workflows</LI><BR>
-<LI>Standardised observational research</LI><BR>
-<LI>Cross-site data harmonisation</LI><BR>
-<LI>Improved data quality</LI><BR>
-<LI>More reproducible analyses</LI><BR>
-</UL>
-<BR>
-<B>OMOP CDM and Record Linkage</B>
-<BR><BR>
-Data standardisation and record linkage are complementary components of the overall research workflow.
-<BR><BR>
-Standardisation provides a consistent representation of the data, while record linkage addresses the question of whether observations from different sources correspond to the same underlying individual.
-<BR>
-<img src="images/Clipboard_08-11-2026_07.jpg" alt="study Banner" width="600" height="1500" align="center">
-<BR>
-Importantly, OMOP standardisation does not itself perform record linkage. Instead, it establishes a common data structure and vocabulary that can support subsequent integration, analysis, and linkage workflows.
-<BR><BR>
-<B>OMOP CDM and Population Health Research</B><BR><BR>
-The standardised data environment can support downstream research activities such as:<BR><BR>
-<UL>
-<LI>Population-level descriptive analyses</LI><BR>
-<LI>Longitudinal cohort construction</LI><BR>
-<LI>Epidemiological studies</LI><BR>
-<LI>Health outcome research</LI><BR>
-<LI>Cross-site observational research</LI><BR>
-<LI>Data quality assessment</LI><BR>
-<LI>Record linkage and data integration</LI><BR>
-<LI>Reproducible population-health analyses</LI><BR>
-</UL>
-<BR>
-<B>OMOP Vocabulary Standardisation</B>
-<BR><BR>
-Where applicable, source-specific codes can be mapped to standard OMOP concepts.
-<BR><BR>
-The ETL process transforms source data into the OMOP Common Data Model by sequentially mapping native terminology to standardised medical concepts. It begins with Local Source Code, which represents the raw, unstandardised clinical data in its native format (such as local lab codes or proprietary diagnoses). This data is then extracted to construct the Source Vocabulary, cataloging all unique native terms used within the source database. Next, Vocabulary Mapping takes place, utilising tools like USAGI or standardised crosswalks to systematically translate each native source term into its corresponding Standard OMOP Concept within the OHDSI standardised vocabularies (e.g., SNOMED CT for conditions or RxNorm for medications). Finally, these standardised concepts, along with their structured domain attributes, are loaded into the target OMOP CDM tables, completing the transition from disparate local data to a globally unified, analytics-ready schema.
-<BR><BR>
-This vocabulary standardisation is particularly important when combining information from multiple systems that use different coding schemes.
-<BR><BR>
-<B>Data Quality Before and After ETL</B>
-<BR><BR>
-An important part of the standardisation workflow is documenting data-quality issues before and after transformation.<BR>
-Examples include:
-<BR><BR>
-<UL>
-<LI>Missing demographic information</LI><BR>
-<LI>Invalid dates</LI><BR>
-<LI>Inconsistent categorical values</LI><BR>
-<LI>Duplicate records</LI><BR>
-<LI>Inconsistent identifiers</LI><BR>
-<LI>Unmapped source codes</LI><BR>
-<LI>Invalid concept mappings</LI><BR>
-<LI>Unexpected values</LI><BR>
-<LI>Inconsistent geographic classifications</LI><BR>
-</UL>
-<BR>
-The goal is not simply to move data into OMOP tables, but to create a well-documented and quality-assessed research dataset.
-<BR><BR>
-<B>Role in the Overall Research Pipeline</B>
-   <BR><BR>
-The OMOP CDM data standardisation stage establishes a foundation by converting raw source data into a unified format, which sequentially enables synthetic data generation, validation, and record linkage feature engineering. This structured pipeline then supports machine learning model development for record linkage, rigorous evaluation, and reproducible research—ultimately driving impactful population health applications.
-<BR><BR>
-The use of OMOP CDM provides a common foundation for transforming heterogeneous population and health data into interoperable, research-ready datasets suitable for reproducible observational and population-health research.
-<BR><BR>
-<B>3. 🧬 Synthetic Data Generation</B>
-<BR><BR> 
-Synthetic data generation is a central component of this research workflow. It provides a controlled environment for developing and evaluating record linkage methods while reducing the need to expose identifiable individual-level population data during methodological development.
-<BR><BR>
-The study explores <B>CTGAN (Conditional Tabular Generative Adversarial Network)</B> for generating synthetic tabular population data while attempting to preserve important characteristics of the underlying source data.
-<BR><BR>
-The current experiments focus particularly on demographic, geographic, and date-related variables that may subsequently contribute to record linkage.
-<BR><BR>
-<B>Variables Considered</B>
-<BR><BR>
-The synthetic-data experiments include distributions for:
-<UL>
-<LI>Date of birth — day</LI><BR>
-<LI>Date of birth — month</LI><BR>
-<LI>Date of birth — year</LI><BR>
-<LI>Sex</LI><BR>
-<LI>Village</LI><BR>
-<LI>Sub-village</LI><BR>
-</UL>
-<BR>
-The repository contains separate CTGAN experiments, including an experiment specifically designed to investigate <B>well-distributed Date-of-Birth</B> data. The generated outputs include distribution plots, HTML analysis, PDF reports, and comparison results.
-<img src="images/Clipboard_08-11-2026_03.jpg" alt="study Banner" width="600" height="1500" align="center">
-<BR>
-<B>Why Synthetic Data?</B><BR><BR>
-Synthetic data is particularly useful for this research because record linkage requires controlled experiments in which the researcher can understand the underlying relationships between records.
-<BR><BR>
-It provides opportunities to:
-<BR><BR>
-<UL>
-<LI>Develop methodology without exposing identifiable records.</LI><BR>
-<LI>Create controlled matching and non-matching scenarios.</LI><BR>
-<LI>Introduce realistic data variation.</LI><BR>
-<LI>Investigate the effect of missing or inconsistent information.</LI><BR>
-<LI>Benchmark alternative linkage approaches.</LI><BR>
-<LI>Repeat experiments under controlled conditions.</LI><BR>
-<LI>Study the behaviour of linkage methods at different scales.</LI><BR>
-</UL>
-<BR>
-The synthetic-data component is therefore intended to serve as a methodological bridge between controlled experimentation and real-world population-health data.
-<BR><BR>
-<B>3. 🔍 Synthetic Data Validation</B>
-<BR><BR>
-Synthetic data generation alone does not establish that the generated dataset is suitable for research.
-<BR><BR>
-A synthetic dataset must be assessed against the source data to determine whether it preserves the characteristics that are important for the intended analysis.
-<BR><BR>
-This study therefore includes a dedicated synthetic-data validation and comparison stage.
-<BR>
-<img src="images/Clipboard_08-11-2026_08.jpg" alt="study Banner" width="600" height="1500" align="center">
-<BR>
-<B>Distributional Validation</B>
-<BR><BR>
-The repository contains visual comparisons for several variables:
-<TABLE>
-   <tr>
-      <th>Variable</th>
-      <th>Validation Focus</th>
-   </tr>
-   <tr>
-      <td>Day of Birth</td>
-      <td>Distribution of birth days</td>
-   </tr>
-   <tr>
-      <td>Month of Birth</td>
-      <td>Distribution across months</td>
-   </tr>
-   <tr>
-      <td>Year of Birth</td>
-      <td>Distribution of birth years</td>
-   </tr>
-   <tr>
-      <td>Sex</td>
-      <td>Demographic composition</td>
-   </tr>
-   <tr>
-      <td>Village</td>
-      <td>Geographic distribution</td>
-   </tr>
-   <tr>
-      <td>Sub-village</td>
-      <td>Local geographic distribution</td>
-   </tr>
-</TABLE>
-<BR>
-The repository contains separate outputs for the standard CTGAN experiment and the CTGAN experiment with a specifically improved/well-distributed Date-of-Birth component. These include PNG distributions and PDF comparison reports.
-<BR><BR>
-<B>Why Date of Birth Requires Particular Attention</B>
-<BR><BR>
-Date of Birth can be an important discriminating attribute in record linkage. However, its distribution can also be affected by:
-<BR>
-<UL>
-<LI>Missing or incomplete dates</LI><BR>
-<LI>Approximate dates</LI><BR>
-<LI>Data-entry practices</LI><BR>
-<LI>Digit preference</LI><BR>
-<LI>Concentration around particular dates</LI><BR>
-<LI>Different recording conventions</LI><BR>   
-</UL>
-<BR>
-An unrealistic synthetic Date-of-Birth distribution could therefore create a linkage problem that is substantially different from the real-world problem.
-<BR><BR>
-For this reason, the study explicitly investigates <B>CTGAN generation with a more appropriately distributed Date-of-Birth variable</B>.
-<BR><BR>
-<B>Validation Principle</B>
-<BR><BR>
-Synthetic data should be validated for the characteristics that matter to the downstream record linkage problem before it is used as a benchmark dataset.
-<BR><BR>>BR>
-The purpose is not necessarily to reproduce every property of the source data exactly, but to ensure that the synthetic dataset provides a meaningful experimental representation of the population characteristics relevant to the research.
-<BR><BR>
-<B>4. 🧩 Record Linkage Feature Engineering</B>
-<BR><BR>
-Record linkage involves determining whether two records refer to the same underlying individual.
-<BR><BR>
-The original values in two records cannot always be compared using simple equality because real-world population data frequently contain spelling differences, formatting differences, missing values, transcription errors, and other inconsistencies.
-<BR><BR>
-The next stage of the methodology is therefore to transform record pairs into comparison features.
-<BR><BR>
-<B>Pairwise Comparison</B>
-<BR><BR>
-<U>Record A</U> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <U>Record B</U><BR>
-Name &emsp; &emsp; &emsp; &emsp; -------> &emsp; &emsp; Name<BR>
-DoB &emsp; &emsp; &emsp; &emsp; -------> &emsp; &emsp; DoB<BR>
-Sex &emsp; &emsp; &emsp; &emsp; -------> &emsp; &emsp; Sex<BR>
-Village &emsp; &emsp; &emsp; &emsp; -------> &emsp; &emsp; Village<BR>
-SubVillage &emsp; &emsp; &emsp; &emsp; -------> &emsp; &emsp; SubVillage<BR>
-These are comparison features<BR> <BR>
-For each candidate pair, the available information can be converted into numerical or categorical evidence describing how similar the two records are.
-<BR><BR>
-<B>Feature Categories</B><BR>
-<TABLE>
-   <tr>
-      <th>Feature</th>
-      <th>Example</th>
-      <th>Purpose</th>
-   </tr>
-   <tr>
-      <td>Exact agreement</td>
-      <td>Sex is identical</td>
-      <td>Capture direct agreement</td>
-   </tr>
-  <tr>
-      <td>Name similarity</td>
-      <td>Similar character sequence</td>
-      <td>Handle spelling variation</td>
-   </tr>
-   <tr>
-      <td>Edit distance</td>
-      <td>Number of character changes</td>
-      <td>Quantify textual differences</td>
-   </tr>
-   <tr>
-      <td>Date similarity</td>
-      <td>Exact or near DOB</td>
-      <td>Capture temporal agreement</td>
-   </tr>
-   <tr>
-      <td>Geographic agreement</td>
-      <td>Same village</td>
-      <td>Use contextual information</td>
-   </tr>
-   <tr>
-      <td>Partial agreement</td>
-      <td>Matching name components</td>
-      <td>Handle incomplete similarity</td>
-   </tr>
-   <tr>
-      <td>Missingness</td>
-      <td>DOB unavailable</td>
-      <td>Represent data availability</td>
-   </tr>
-   <tr>
-      <td>Combined evidence</td>
-      <td>Multiple agreeing fields</td>
-      <td>Capture overall linkage strength</td>
-   </tr>
-</TABLE>
-<BR>
-<B>Example</B>
-<BR>
-Two records may contain:
-<TABLE>
-   <tr>
-      <th>Attribute</th>
-      <th>Record A</th>
-      <th>Record B</th>
-   </tr>
-   <tr>
-      <td>Name</td>
-      <td>Alexander Smith-Smyth</td>
-      <td>Alex Smith-Smythe</td>
-   </tr>
-   <tr>
-      <td>DoB</td>
-      <td>1985-07-14</td>
-      <td>1985-07-14</td>
-   </tr>
-  <tr>
-      <td>Sex</td>
-      <td>Male</td>
-      <td>Male</td>
-   </tr>
- <tr>
-      <td>Village</td>
-      <td>Springfield</td>
-      <td>Springfield</td>
-   </tr>
-</TABLE>
-<BR>
-Although the names are not exactly equal, the pair contains several pieces of supporting evidence:
-<BR><I>
-Name similarity → High <BR>
-Date of Birth → Exact agreement <BR>
-Sex → Exact agreement <BR>
-Village → Exact agreement <BR></I>
-<BR>
-The machine-learning model can use this combined evidence rather than relying on a strict all-fields-match rule.
-<BR>
-<img src="images/Clipboard_08-11-2026_09.jpg" alt="study Banner" width="600" height="1500" align="center">
-<BR>
-The objective is to transform heterogeneous population attributes into a consistent representation that can be used for statistical modelling and machine-learning-based linkage.
-<BR><BR>
-<B>5. 🤖 Machine Learning for Record Linkage</B>
-<BR><BR>
-After candidate pairs have been represented using comparison features, the linkage problem can be formulated as a <B>classification problem</B>.
-<BR><BR>
-The model learns to distinguish between:
-<BR><BR>
-<B>Match</B> — two records represent the same individual.
-<B>Non-match</B> — two records represent different individuals.
-<BR>
-<img src="images/Clipboard_08-11-2026_10.jpg" alt="study Banner" width="600" height="1500" align="center">
-<BR>
-<B>Synthetic Data and Ground Truth</B>
-<BR><BR>
-Synthetic data provides an important methodological advantage: the relationship between records can be controlled.
-<BR><BR>
-This makes it possible to construct labelled candidate pairs where the expected linkage status is known.
-<BR><BR>
-To generate labeled training data for record linkage models, a synthetic population is linked to known individual identities to form candidate pairs. Each candidate pair is then assigned a ground-truth label—classified as either a match or a non-match—which serves as the benchmark dataset to train and evaluate machine learning linkage models.
-<BR><BR>
-<B>Model Development Strategy</B>
-<BR><BR>
-The research workflow is designed around the following sequence:<BR><BR>
-<OL>
-<LI>Generate synthetic population data.</LI><BR>
-<LI>Validate the synthetic distributions.</LI><BR>
-<LI>Construct candidate record pairs.</LI><BR>
-<LI>Generate comparison features.</LI><BR>
-<LI>Establish matching and non-matching labels.</LI><BR>
-<LI>Train machine-learning models.</LI><BR>
-<LI>Evaluate model predictions.</LI><BR>
-<LI>Investigate linkage errors.</LI><BR>
-<LI>Refine the feature representation and decision process.</LI><BR>
-<LI>Validate the methodology against appropriate real-world data.</LI><BR>
-</OL>
-<BR>
-<B>Linkage Probability</B>
-<BR><BR>
-A machine-learning approach can produce a score representing the likelihood that a candidate pair is a true match.
-<BR><BR>
-In record linkage, a candidate pair is evaluated by generating comparison features, which are fed into a machine learning model to compute a match probability. This probability is then evaluated against a pre-defined decision threshold to classify the pair as either a match or a non-match.
-<BR><BR>
-The threshold is an important research parameter because different applications may place different importance on avoiding false matches versus recovering as many true matches as possible.
-<BR><BR>
-<B>Model performance, feature importance, and threshold selection should be determined empirically through validation rather than assumed in advance.</B>
-<BR><BR>
-<B>6. 📊 Evaluation Framework</B><BR><BR>
-Record linkage should be evaluated carefully because both types of linkage error can affect downstream population-health research.
-<BR>
-Two fundamental errors: <BR>
-A <B>false match</B> occurs when records belonging to different individuals are incorrectly linked.<BR>
-A <B>false non-match</B> occurs when records belonging to the same individual fail to be linked.<BR>
-<BR>
-Both can affect the quality of downstream analyses.
-<BR><BR>
-<TABLE>
-<TR>
-   <TH>Metric</TH>
-   <TH>Interpretation</TH>
-</TR>
-<TR>
-   <TD>Precision</TD>
-   <TD>How many predicted matches are actually correct</TD>
-</TR>
-<TR>
-   <TD>Recall / Sensitivity</TD>
-   <TD>How many true matches are successfully identified</TD>
-</TR>
-<TR>
-   <TD>F1-score</TD>
-   <TD>Balance between precision and recall</TD>
-</TR>
-<TR>
-   <TD></TD>
-   <TD></TD>
-</TR>
-<TR>
-   <TD>Specificity</TD>
-   <TD>Ability to identify non-matching records correctly</TD>
-</TR>
-<TR>
-   <TD>Accuracy</TD>
-   <TD>Overall classification performance</TD>
-</TR>
-<TR>
-   <TD>ROC-AUC</TD>
-   <TD>Discrimination between matches and non-matches</TD>
-</TR>
-<TR>
-   <TD>PR-AUC</TD>
-   <TD>Particularly useful when matches are relatively rare</TD>
-</TR>
-<TR>
-   <TD>False Match Rate</TD>
-   <TD>Frequency of incorrect links</TD>
-</TR>
-<TR>
-   <TD>False Non-Match Rate</TD>
-   <TD>Frequency of missed true links</TD>
-</TR> 
-</TABLE>
-<BR>
-<B>Precision–Recall Trade-off</B>
-<BR><BR>
-A highly permissive linkage model may identify more true matches but also produce more false matches.
-<BR><BR>
-A highly conservative model may reduce false matches but fail to recover genuine relationships.
-<BR>
-<img src="images/Clipboard_08-11-2026_11.jpg" alt="study Banner" width="600" height="1500" align="center">
-<BR>
-The appropriate operating point should therefore be determined according to the intended research application.
-<BR><BR>
-<B>Ground-Truth Evaluation</B>
-<BR><BR>
-Synthetic data provides a known ground truth, allowing candidate pairs generated from the dataset to undergo feature engineering and machine learning prediction. By comparing these predicted linkages directly against the ground truth, you can precisely evaluate model performance across key linkage metrics such as Precision, Recall, F1 score, Specificity, False Match Rate, and False Non-Match Rate.
-<BR><BR>
-<B>Error Analysis</B>
-<BR><BR>
-Evaluation should not stop at aggregate metrics.
-<BR><BR>
-The study should also investigate:
-<BR><BR>
-<UL>
-<LI>Which fields contribute to incorrect decisions?</LI><BR>
-<LI>How does missing data affect linkage?</LI><BR>
-<LI>Which name patterns are difficult to resolve?</LI><BR>
-<LI>Does geographic information improve linkage?</LI><BR>
-<LI>Are particular population groups more affected by linkage errors?</LI><BR>
-<LI>How does model performance change at different thresholds?</LI><BR>
-<LI>Which true matches are most frequently missed?</LI><BR>
-<LI>Which non-matches are most frequently incorrectly linked?</LI><BR>
-</UL>
-<BR>
-This provides insight into why a linkage model succeeds or fails.
-<BR><BR>
-<B>7. 🧪 Reproducibility</B>
-<BR><BR>
-Reproducibility is a key principle of this research study.
-<BR><BR>
-The repository preserves important components of the workflow, including the Pentaho Data Integration transformations, synthetic-data generation experiments, distribution visualisations, HTML analyses, PDF reports, and supporting training/case-study materials.
-<BR>
-<img src="images/Clipboard_08-11-2026_12.jpg" alt="study Banner" width="600" height="1500" align="center">
-<BR>
-<B>Reproducibility Principles</B><BR>
-<TABLE>
-   <TR>
-      <TH>Principle</TH>
-      <TH>Implementation</TH>
-   </TR>
-      <TR>
-      <TD>Documented ETL</TD>
-      <TD>Pentaho .ktr transformations and Python programs are retained</TD>
-   </TR>
-   <TR>
-      <TD>Controlled synthetic data</TD>
-      <TD>CTGAN experiments provide a repeatable development environment</TD>
-   </TR>
-   <TR>
-      <TD>Validation artifacts</TD>
-      <TD>Distribution plots and comparison reports are preserved</TD>
-   </TR>
-   <TR>
-      <TD>Research documentation</TD>
-      <TD>HTML and PDF outputs document analytical work</TD>
-   </TR>
-   <TR>
-      <TD>Ground-truth evaluation</TD>
-      <TD>Synthetic data can support controlled linkage evaluation</TD>
-   </TR>
-   <TR>
-      <TD>Version control</TD>
-      <TD>Research materials are maintained within Git/GitHub</TD>
-   </TR>
-   <TR>
-      <TD>Privacy-aware development</TD>
-      <TD>Sensitive individual-level data should remain outside the public repository</TD>
-   </TR>
-</TABLE>
-<BR>
-<B>Reproducibility Goal</B>
-<BR><BR>
-To build a fully documented and reproducible research pipeline for machine-learning-based record linkage, a researcher must be able to trace every stage of the workflow. This includes understanding what data were used, how they were transformed, and how synthetic data were generated and validated. Additionally, the pipeline should clearly demonstrate how linkage features were constructed, how models were trained, how performance was evaluated, and how errors were ultimately investigated.
-<BR><BR>
-<B>8. 🔐 Data Privacy & Ethics</B>
-<BR><BR>
-Record linkage in population and health research can involve highly sensitive information.
-<BR><BR>
-The study therefore treats privacy, ethical governance, and responsible data use as fundamental considerations rather than as secondary technical requirements.
-<BR>
-<img src="images/Clipboard_08-11-2026_13.jpg" alt="study Banner" width="600" height="1500" align="center">
-<BR><BR>
-<B>Data Protection Principles</B>
-<BR><BR>
-<UL>
-<LI>Do not commit personally identifiable information to the public repository.</LI><BR>
-<LI>Do not commit passwords, API keys, database credentials, or connection strings.</LI><BR>
-<LI>Use synthetic data wherever possible for methodological development.</LI><BR>
-<LI>Use appropriately anonymised or de-identified data when real-world data are required.</LI><BR>
-<LI>Follow institutional data-governance policies.</LI><BR>
-<LI>Obtain appropriate ethical approval where required.</LI><BR>
-<LI>Follow applicable privacy and data-protection legislation.</LI><BR>
-<LI>Respect data-use agreements and restrictions associated with research datasets.</LI><BR>
-</UL>
-<BR>
-<B>Ethical Implications of Linkage Errors</B>
-<BR><BR>
-Record linkage errors can have consequences beyond technical model performance.
-<BR><BR>
-Incorrect linkage may lead to:
-<BR><BR>
-<UL>
-   <LI>Incorrect attribution of health outcomes.</LI><BR>
-   <LI>Incorrect longitudinal histories.</LI><BR>
-   <LI>Biased epidemiological estimates.</LI><BR>
-   <LI>Misclassification of study participants.</LI><BR>
-</UL>
-<BR>
-Failure to link genuine records can result in:
-<BR><BR>
-<UL>
-   <LI>Fragmented individual histories.</LI><BR>
-   <LI>Loss of longitudinal observations.</LI><BR>
-   <LI>Reduced statistical power.</LI><BR>
-   <LI>Potential selection bias.</LI><BR>
-</UL>
-<BR>
-Consequently, linkage methodology should be evaluated in the context of its <B>potential impact on downstream population-health research</B>.
-<BR><BR>
-<B>9. 🌍 Population Health Applications</B>
-<BR><BR>
-Reliable record linkage is an important foundation for integrating fragmented population and health information.
-<BR><BR>
-The research workflow has potential applications in several areas.
-<BR><BR>
-<B>🏘️ Health and Demographic Surveillance Systems</B>
-<BR><BR>
-HDSS datasets often contain repeated observations of individuals and households over time.
-<BR><BR>
-Record linkage can help connect these observations and construct more complete longitudinal population histories.
-<BR><BR>
-<B>🏥 Clinical and Health Data Integration</B>
-<BR><BR>
-Linkage methods can support the integration of information originating from different clinical, health-service, or research data sources.
-<BR><BR>
-<B>📊 Longitudinal Studies</B>
-<BR><BR>
-Records collected during different study waves or observation periods can be connected to support longitudinal analysis.
-<BR><BR>
-<B>🔬 Epidemiological Research</B>
-<BR><BR>
-Integrated population data can support research into:<BR>
-<UL>
-<LI>Disease patterns</LI><BR>
-<LI>Mortality</LI><BR>
-<LI>Morbidity</LI><BR>
-<LI>Risk factors</LI><BR>
-<LI>Population dynamics</LI><BR>
-<LI>Health outcomes</LI><BR>
-<LI>Health-service utilisation</LI><BR>
-</UL>
-<BR>
-<B>🌐 Cross-Site Data Integration</B>
-<BR><BR>
-Different research sites may use different data-collection systems, naming conventions, geographic structures, and data-quality practices.
-<BR><BR>
-Robust record linkage can provide a mechanism for connecting such heterogeneous information while maintaining appropriate privacy controls.
-<BR><BR>
-<B>🧬 OMOP CDM / OHDSI</B>
-<BR><BR>
-A longer-term direction for this research is integration with the OMOP Common Data Model (CDM) and the OHDSI ecosystem.
-<BR><BR>
-This could support:
-<BR><BR>
-<UL>
-<LI>Standardised observational health data.</LI><BR>
-<LI>Cross-site interoperability.</LI><BR>
-<LI>Reproducible cohort construction.</LI><BR>
-<LI>Multi-database observational research.</LI><BR>
-<LI>Harmonised population-health analytics.</LI><BR>
-</UL>
-The overarching goal is to support the creation of higher-quality, interoperable, and research-ready population-health datasets.
-<BR><BR>
-<B>10. 🛠️ Technology Stack</B>
-<BR><BR>
-The study combines data engineering, synthetic-data generation, statistical analysis, and machine learning.
-<BR>
-<TABLE>
-   <TR>
-      <TH>Technology</TH>
-      <TH>Role</TH>
-   </TR>
-   <TR>
-      <TD>Python</TD>
-      <TD>Data processing, analysis, feature engineering, and machine learning</TD>
-   </TR>
-   <TR>
-      <TD>Pandas</TD>
-      <TD>Tabular data manipulation</TD>
-   </TR>
-   <TR>
-      <TD>NumPy</TD>
-      <TD>Numerical computation</TD>
-   </TR>
-   <TR>
-      <TD>Scikit-learn</TD>
-      <TD>Machine-learning development and evaluation</TD>
-   </TR>
-   <TR>
-      <TD>CTGAN</TD>
-      <TD>Synthetic tabular-data generation</TD>
-   </TR>
-   <TR>
-      <TD>Pentaho Data Integration (PDI)</TD>
-      <TD>ETL and longitudinal data transformation</TD>
-   </TR>
-   <TR>
-      <TD>Jupyter / Notebook workflows</TD>
-      <TD>Exploratory analysis and experimentation</TD>
-   </TR>
-   <TR>
-      <TD>HTML</TD>
-      <TD>Visualisation outputs</TD>
-   </TR>
-   <TR>
-      <TD>PDF</TD>
-      <TD>Research reports and methodological documentation</TD>
-   </TR>
-   <TR>
-      <TD>PostgreSQL</TD>
-      <TD>Potential research-data storage and integration</TD>
-   </TR>
-   <TR>
-      <TD>OMOP CDM</TD>
-      <TD>Long-term health-data standardisation direction</TD>
-   </TR>
-   <TR>
-      <TD>OHDSI</TD>
-      <TD>Long-term observational health research ecosystem</TD>
-   </TR>
-</TABLE>
-<BR>
-Note: The technology stack is presented as the methodological ecosystem for the study. Individual libraries and frameworks should be added to the repository's dependency documentation as their implementation becomes part of the executable workflow.
-<BR><BR>
-<B>11. 📚 Key Concepts</B>
-<BR><BR>
-This study sits at the intersection of several research and technical domains.
-<BR>
-<TABLE>
-   <TR>
-      <TH>Concept</TH>
-      <TH>Relevance to the Study</TH>
-   </TR>
-   <TR>
-      <TD>Record Linkage</TD>
-      <TD>Identifying records that represent the same individual</TD>
-   </TR>
-   <TR>
-      <TD>Entity Resolution</TD>
-      <TD>Resolving multiple references to the same real-world entity</TD>
-   </TR>
-   <TR>
-      <TD>Machine Learning</TD>
-      <TD>Learning linkage decisions from comparison features</TD>
-   </TR>
-  <TR>
-      <TD>Synthetic Data</TD>
-      <TD>Creating controlled datasets for methodological development</TD>
-   </TR>
-   <TR>
-      <TD>CTGAN</TD>
-      <TD>Generating synthetic tabular data</TD>
-   </TR>
-   <TR>
-      <TD>Longitudinal Data</TD>
-      <TD>Connecting observations across time</TD>
-   </TR>
-   <TR>
-      <TD>Population Health</TD>
-      <TD>A strategic approach to improving health outcomes, addressing health equity, and reducing disparities across a specifically defined group of individuals. <BR>Applying linkage to population-level research</TD>
-   </TR>
-   <TR>
-      <TD>HDSS</TD>
-      <TD>Health and Demographic Surveillance Systems</TD>
-   </TR>
-   <TR>
-      <TD>Data Integration</TD>
-      <TD>Combining heterogeneous research datasets</TD>
-   </TR>
-   <TR>
-      <TD>ETL</TD>
-      <TD>Extracting, transforming, and loading data</TD>
-   </TR>
-   <TR>
-      <TD>Data Quality</TD>
-      <TD>Managing missingness, inconsistencies, and errors</TD>
-   </TR>
-   <TR>
-      <TD>Privacy-Preserving Research</TD>
-      <TD>Reducing unnecessary exposure of sensitive information</TD>
-   </TR>
-   <TR>
-      <TD>OMOP CDM</TD>
-      <TD>Standardising observational health data</TD>
-   </TR>
-   <TR>
-      <TD>OHDSI</TD>
-      <TD>Supporting collaborative observational health research</TD>
-   </TR>
-   <TR>
-      <TD>FAIR Data Principles</TD>
-      <TD>Supporting Findability, Accessibility, Interoperability, and Reusability</TD>
-   </TR>
-</TABLE>
-<BR>
-<BR>
-<HR>
+# Machine Learning Framework for Privacy-Preserving Record Linkage in African Population Health Surveillance
+
+Official open-source repository containing code, synthetic data generation pipelines, error-injection frameworks, and machine learning models for the PhD thesis: **"Using Machine Learning Techniques for Record Linkage of Data from Health and Demographic Surveillance Systems and Health Facilities to Improve Health Monitoring in Africa"** (London School of Hygiene & Tropical Medicine, University of London, September 2026).
+
+---
+
+## 1. Executive Summary & Scientific Rationale
+
+In many Low- and Middle-Income Countries (LMICs), routine health information systems (HIS) and civil registration and vital statistics (CRVS) lack universal unique personal identifiers (UPIs). Consequently, individual patient care records in health facilities remain isolated from population-based registries. This fragmentation presents a critical barrier to public health evaluation:
+- **Clinic-based records** (e.g., HIV Care and Treatment Centres [CTC]) describe clinical encounters for patients attending care, but cannot establish population denominators required to measure true coverage, loss to follow-up, or regional disease burden.
+- **Health and Demographic Surveillance Systems (HDSS)** continuously monitor defined populations (tracking births, deaths, and migrations over decades), but lack clinical encounter records.
+
+Connecting these systems requires **retrospective entity resolution (record linkage)**. However, personal identifiers in routine health records—such as personal names, dates of birth, sex, and residential locations—are frequently affected by typographical errors, missingness, phonetic variations, and demographic mobility.
+
+This repository provides an end-to-end, privacy-preserving, and reproducible computational framework for machine learning-based record linkage between HDSS population surveillance registries and health facility datasets in resource-constrained environments.
+
+### Key Methodological Innovations
+
+1. **Interoperable Data Harmonisation**: Standardisation of heterogeneous longitudinal surveillance microdata (INDEPTH/ALPHA Network specifications) into the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM v5.4).
+2. **Generative Privacy Preservation**: A Conditional Tabular Generative Adversarial Network (CTGAN) pipeline to synthesize multi-table longitudinal demographic surveillance records, coupled with sex-aware deterministic name masking to protect patient privacy while preserving linkage semantics.
+3. **Controlled Noise Injection Framework**: An experimental benchmark evaluating entity resolution under four progressive data quality degradation tiers (*Light*, *Moderate*, *Substantial*, and *Heavy* noise).
+4. **Dual Modeling Paradigms**:
+   - **Unsupervised Entity Resolution**: Expectation–Conditional Maximisation (ECM) algorithm estimating latent match probabilities within the Fellegi–Sunter probabilistic framework.
+   - **Supervised Pairwise Classification**: Evaluation of 17 engineered comparison features across Regularised Logistic Regression (RLR), Random Forest (RF), and Constrained Extreme Gradient Boosting (XGBoost) with monotonic constraints, operating on ~40 million candidate pairs.
+5. **Explainable AI (XAI)**: Integration of global and local SHAP (SHapley Additive exPlanations) attribution to decompose matching logic into interpretable feature contributions.
+6. **Class-Imbalance Evaluation**: Comprehensive benchmarking demonstrating the critical divergence between Receiver Operating Characteristic (ROC-AUC) and Precision–Recall (PR-AUC) metrics in sparse entity resolution settings.
+
+---
+
+## 2. System Architecture & Computational Pipeline
+
+The complete entity resolution workflow is organized into eight sequential processing stages:
+
+```
+[Raw HDSS & Clinic Data] 
+          │
+          ▼
+┌─────────────────────────────────────────────────────────┐
+│ Stage 1: Extraction & Preprocessing                     │
+│ - SQL Person-Level Extraction (SELECT DISTINCT ON)      │
+│ - Standardisation to ALPHA/iSHARE Specifications        │
+└─────────────────────────┬───────────────────────────────┘
+                          │
+                          ▼
+┌─────────────────────────────────────────────────────────┐
+│ Stage 2: OMOP CDM v5.4 Harmonisation                    │
+│ - OHDSI ETL Pipeline (Pentaho Data Integration)         │
+│ - Mapping to PERSON, LOCATION, OBSERVATION, EPISODE     │
+└─────────────────────────┬───────────────────────────────┘
+                          │
+                          ▼
+┌─────────────────────────────────────────────────────────┐
+│ Stage 3: Generative Synthetic Data & Name Masking       │
+│ - CTGAN Architecture for Longitudinal Episode Modeling  │
+│ - Sex-Preserving Deterministic Name Replacement         │
+└─────────────────────────┬───────────────────────────────┘
+                          │
+                          ▼
+┌─────────────────────────────────────────────────────────┐
+│ Stage 4: Clinic Cohort & Controlled Noise Injection     │
+│ - Sampling Adult Clinic Visits (Ages 18–60)             │
+│ - Injecting Bernoulli Error Tiers (Light -> Heavy)       │
+└─────────────────────────┬───────────────────────────────┘
+                          │
+                          ▼
+┌─────────────────────────────────────────────────────────┐
+│ Stage 5: Candidate Blocking & Feature Engineering       │
+│ - Deterministic Blocking on Village Name (~40M Pairs)   │
+│ - 17 Comparison Features (Levenshtein, Jaro-Winkler, DoB)│
+└─────────────────────────┬───────────────────────────────┘
+                          │
+        ┌─────────────────┴─────────────────┐
+        ▼                                   ▼
+┌───────────────────────────────┐ ┌───────────────────────────────┐
+│ Stage 6A: Unsupervised RL     │ │ Stage 6B: Supervised ML       │
+│ - Fellegi-Sunter + ECM        │ │ - 80:20 Train/Test Partition  │
+│ - Jaro-Winkler & Gaussian Prob│ │ - RLR, Random Forest, XGBoost │
+└───────────────┬───────────────┘ └───────────────┬───────────────┘
+                │                                 │
+                └─────────────────┬───────────────┘
+                                  │
+                                  ▼
+┌─────────────────────────────────────────────────────────┐
+│ Stage 7: Model Interpretability & Explainable AI (XAI)  │
+│ - SHAP TreeExplainer & LinearExplainer Attribution      │
+│ - Local Waterfall Decision Logic Decomposition          │
+└─────────────────────────┬───────────────────────────────┘
+                          │
+                          ▼
+┌─────────────────────────────────────────────────────────┐
+│ Stage 8: Evaluation & Epidemiological Inference         │
+│ - Confusion Matrices, Precision, Recall, F1-Score       │
+│ - ROC-AUC vs PR-AUC Trade-off Analysis                  │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 3. Methodological Details
+
+### 3.1 OMOP Common Data Model (v5.4) Transformation
+Source demographic surveillance data from the Kisesa HDSS (Magu District, Mwanza Region, Tanzania) and health facility HIV Care and Treatment Centre (CTC) records were transformed using the OHDSI open-science suite (WhiteRabbit, Rabbit-in-a-Hat, Usagi, and Pentaho Data Integration). 
+- Person-level demographics mapped to `PERSON` and `LOCATION`.
+- Longitudinal residency episodes, migration events, and clinical encounters mapped to `OBSERVATION`, `VISIT_OCCURRENCE`, `EPISODE`, and `EPISODE_EVENT`.
+- Structural integrity validated via OHDSI Data Quality Dashboard (DQD) achieving a >98% pass rate across plausibility, conformance, and completeness checks.
+
+### 3.2 Generative Synthetic Population & Name Masking
+To enable privacy-preserving model development without exposing identifiable patient records:
+- **CTGAN Generator**: Trained on 107,970 cleaned surveillance episodes representing 81,885 unique individuals. Replicated joint probability distributions, person-time distributions, and age-specific mortality rates (validated via Kolmogorov-Smirnov tests and Wasserstein distance).
+- **Sex-Aware Masking**: Replaced personal names deterministically using curated Tanzanian name dictionaries while preserving sex-specific naming conventions and longitudinal consistency across repeated observations.
+
+### 3.3 Experimental Noise Injection Framework
+Synthetic clinic datasets were subjected to field-level Bernoulli error injection across five controlled experimental tiers:
+1. **Baseline**: Error-free matching reference.
+2. **Light Noise**: Typographical character transpositions and minor date shifts.
+3. **Moderate Noise**: Character insertions/deletions, 1-month/1-year date errors, subvillage spelling variations.
+4. **Substantial Noise**: Name swapping (first/last name transposition), multi-character edits, broader date shifts.
+5. **Heavy Noise**: Truncations, severe string corruption, inverted sex categories, missing values (`NULL` fields).
+
+### 3.4 Feature Engineering & Pairwise Vector Space
+Candidate record pairs were generated by blocking on standardised village names, producing a fixed comparison space of **39,950,677 candidate pairs** in each noise scenario (linking 81,885 HDSS records with 3,046 clinic records). Each pair was transformed into a 17-dimensional engineered feature vector:
+- **Exact Agreement Flags**: Binary indicators for first name, last name, date of birth, sex, village name, and subvillage.
+- **Initial Matching Flags**: Binary indicators for first-name and last-name initials.
+- **String Distance Metrics**: Levenshtein edit distance and Levenshtein similarity ratios for first name, last name, village name, and subvillage.
+- **Phonetic String Metrics**: Jaro-Winkler similarity coefficients.
+- **Temporal Metrics**: Absolute date-of-birth difference in days (`dob_diff_days`) and Gaussian similarity.
+- **Interaction Terms**: Cross-field name/location consensus and age-difference penalties.
+
+### 3.5 Machine Learning Paradigms
+- **Unsupervised Fellegi–Sunter (ECM)**: Iteratively estimates field-specific *m*-probabilities (agreement given true match) and *u*-probabilities (agreement by chance) via Expectation-Conditional Maximisation, assigning posterior match probabilities resolved via a 1:1 post-hoc assignment rule.
+- **Regularised Logistic Regression (RLR)**: Linear baseline with L2 (Ridge) penalty and feature standardization.
+- **Random Forest (RF)**: Ensemble of 300 decision trees trained with balanced bootstrap subsampling to handle extreme class imbalance.
+- **Constrained XGBoost**: Sequential gradient-boosted ensemble of 1,000 shallow decision trees (depth = 4) incorporating domain-informed monotonic constraints enforcing non-decreasing match probability with increasing identifier similarity.
+
+---
+
+## 4. Benchmark Results & Key Findings
+
+### 4.1 Supervised Model Performance Across Degradation Tiers
+
+Evaluated against the ground-truth golden dataset (2,496 true matches among ~40M candidate pairs), the supervised models exhibited distinct operational trade-offs as data quality deteriorated:
+
+| Classifier | Noise Tier | True Positives (TP) | False Positives (FP) | False Negatives (FN) | Precision | Recall | F1-Score | PR-AUC |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Constrained XGBoost** | **Baseline** | 2,496 | 127 | 0 | 0.9516 | 1.0000 | **0.9752** | **1.0000** |
+| | **Light** | 2,068 | 107 | 428 | 0.9508 | 0.8285 | **0.8855** | **1.0000** |
+| | **Moderate** | 1,780 | 98 | 716 | 0.9478 | 0.7131 | **0.8139** | **0.9999** |
+| | **Substantial** | 1,549 | 79 | 947 | 0.9515 | 0.6206 | **0.7512** | **0.9993** |
+| | **Heavy** | 1,194 | 64 | 1,302 | 0.9491 | 0.4784 | **0.6361** | **0.9978** |
+| **Random Forest** | **Baseline** | 2,496 | 1 | 0 | 0.9996 | 1.0000 | **0.9998** | **0.9998** |
+| | **Light** | 1,844 | 1 | 652 | 0.9995 | 0.7388 | 0.8496 | 0.8968 |
+| | **Moderate** | 1,437 | 1 | 1,059 | 0.9993 | 0.5757 | 0.7306 | 0.7979 |
+| | **Substantial** | 1,172 | 1 | 1,324 | 0.9991 | 0.4696 | 0.6389 | 0.7160 |
+| | **Heavy** | 761 | 0 | 1,735 | 1.0000 | 0.3049 | 0.4673 | 0.5859 |
+| **Regularised Logistic Regression** | **Baseline** | 2,496 | 8,643 | 0 | 0.2241 | 1.0000 | 0.3661 | 0.5652 |
+| | **Light** | 2,466 | 7,420 | 30 | 0.2494 | 0.9880 | 0.3983 | 0.5648 |
+| | **Moderate** | 2,351 | 6,106 | 145 | 0.2780 | 0.9419 | 0.4293 | 0.5627 |
+| | **Substantial** | 2,207 | 5,518 | 289 | 0.2857 | 0.8842 | 0.4319 | 0.5598 |
+| | **Heavy** | 1,916 | 3,655 | 580 | 0.3439 | 0.7676 | 0.4750 | 0.5518 |
+
+### 4.2 Unsupervised Fellegi–Sunter (ECM) Performance
+
+| Noise Tier | True Positives (TP) | False Positives (FP) | False Negatives (FN) | Precision | Recall | F1-Score | PR-AUC |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Baseline** | 2,496 | 550 | 0 | 0.8200 | 1.0000 | 0.9000 | 1.0000 |
+| **Light** | 2,347 | 699 | 149 | 0.7700 | 0.9400 | 0.8500 | 0.9200 |
+| **Moderate** | 2,242 | 804 | 254 | 0.7400 | 0.9000 | 0.8100 | 0.8700 |
+| **Substantial** | 2,146 | 900 | 350 | 0.7000 | 0.8600 | 0.7700 | 0.8200 |
+| **Heavy** | 1,868 | 1,178 | 628 | 0.6100 | 0.7500 | 0.6700 | 0.7300 |
+
+### 4.3 Key Methodological Insights
+
+1. **Constrained XGBoost is the Superior Model**: XGBoost maintains an exceptional balance between precision (~0.95) and recall across all noise scenarios, achieving the highest F1-score and preserving PR-AUC > 0.997 even under severe noise.
+2. **Random Forest Conservatism & Recall Collapse**: Random Forest provides near-zero false-positive rates (Precision ≈ 1.0000), but its recall collapses from 1.0000 to 0.3049 under heavy noise because corrupted features fail rigid decision-tree split thresholds.
+3. **Linear Model Limitation (RLR)**: Regularised Logistic Regression suffers from severe over-prediction of positive matches (Precision = 0.2241 at baseline) because a linear function cannot capture complex non-linear interaction terms among partially corrupted identifiers.
+4. **ROC-AUC vs. PR-AUC Divergence**: Due to the immense non-match background (~40M candidate pairs), ROC-AUC values remain misleadingly optimistic (>0.98 across all models and noise levels). Precision–Recall AUC (PR-AUC) provides the true operational measure of matching quality in class-imbalanced entity resolution.
+
+---
+
+## 5. Repository Layout
+
+```
+Record-Linkage-Using-Machine-Learning-Techniques/
+├── README.md                           <- Repository documentation
+├── LICENSE                             <- Open-source license
+├── requirements.txt                    <- Python dependency specification
+│
+├── etl/                                <- Data Extraction & OMOP CDM Migration
+│   ├── sql/                            <- SQL extraction queries (SELECT DISTINCT ON)
+│   ├── pentaho/                        <- Pentaho Data Integration (Kettle) ETL jobs
+│   └── omop_mapping_spec.csv           <- Source-to-target OMOP CDM v5.4 mapping
+│
+├── synthetic_generation/               <- Generative AI & Privacy Preservation
+│   ├── train_ctgan.py                  <- CTGAN model training script
+│   ├── generate_synthetic_hdss.py      <- Batch synthetic residency generation
+│   ├── deterministic_masking.py        <- Sex-aware Tanzanian name masking
+│   └── validate_synthetic_fidelity.py  <- KS-test & Wasserstein distance validation
+│
+├── noise_injection/                    <- Controlled Error Framework
+│   ├── inject_field_noise.py           <- Bernoulli field-wise error simulator
+│   └── noise_config.json               <- Probability distributions for noise tiers
+│
+├── models/                             <- Record Linkage Engines
+│   ├── unsupervised_ecm.py             <- Fellegi-Sunter model + ECM algorithm
+│   ├── feature_engineering.py          <- 17-feature comparison matrix calculation
+│   ├── train_supervised_classifiers.py <- RLR, Random Forest, & XGBoost pipelines
+│   └── serialized/                     <- Pickle (.pkl) exported trained models
+│
+├── xai_shap/                           <- Explainable AI & Model Interpretability
+│   ├── shap_global_attribution.py      <- TreeExplainer & LinearExplainer summary plots
+│   └── shap_local_waterfall.py         <- Record-pair local decision logic decomposition
+│
+└── evaluation/                         <- Benchmarking & Performance Metrics
+    ├── compute_metrics.py              <- Precision, Recall, F1, ROC-AUC, PR-AUC
+    └── generate_figures.py             <- Publication-ready ROC & PR curve plots
+```
+
+---
+
+## 6. Quick Start & Reproducibility Guide
+
+### Prerequisites
+- Python 3.12+
+- PostgreSQL 14+ (for storing OMOP CDM schemas)
+- CUDA-capable GPU (recommended for CTGAN training and XGBoost acceleration)
+
+### Step 1: Environment Setup
+
+```bash
+git clone tathagatabhattacharjee/Record-Linkage-Using-Machine-Learning-Techniques
+cd Record-Linkage-Using-Machine-Learning-Techniques
+
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+### Step 2: Synthetic Data Generation & Masking
+
+```bash
+# Train CTGAN on preprocessed residency episodes
+python synthetic_generation/train_ctgan.py --epochs 300 --batch_size 500
+
+# Generate synthetic HDSS population and apply deterministic name masking
+python synthetic_generation/generate_synthetic_hdss.py --num_records 81885
+python synthetic_generation/deterministic_masking.py --input_file data/synthetic_hdss.csv
+```
+
+### Step 3: Error Injection & Scenario Versioning
+
+```bash
+# Construct synthetic clinic datasets across 4 degradation tiers
+python noise_injection/inject_field_noise.py --scenario all
+```
+
+### Step 4: Execute Record Linkage Pipelines
+
+```bash
+# Run Unsupervised Fellegi-Sunter ECM Probabilistic Matching
+python models/unsupervised_ecm.py --scenario heavy
+
+# Train & Evaluate Supervised ML Models (RLR, Random Forest, XGBoost)
+python models/train_supervised_classifiers.py --scenario all
+```
+
+### Step 5: Generate Explainable AI (SHAP) Visualizations
+
+```bash
+# Compute global SHAP feature importance and local waterfall plots
+python xai_shap/shap_global_attribution.py --model xgboost
+python xai_shap/shap_local_waterfall.py --model xgboost --record_id 0
+```
+
+---
+
+## 7. Citation & Academic References
+
+If you use this codebase, synthetic datasets, or methodological framework in your research, please cite the thesis and associated publications:
+
+```bibtex
+@phdthesis{bhattacharjee2026recordlinkage,
+  author       = {Tathagata Bhattacharjee},
+  title        = {Using Machine Learning Techniques for Record Linkage of Data from Health and Demographic Surveillance Systems and Health Facilities to Improve Health Monitoring in Africa},
+  school       = {London School of Hygiene \& Tropical Medicine (LSHTM), University of London},
+  year         = {2026},
+  month        = {September},
+  department   = {Department of Population Health, Faculty of Epidemiology and Population Health}
+}
+
+@article{bhattacharjee2024inspire,
+  title        = {INSPIRE datahub: A pan-African integrated suite of services for harmonising longitudinal population health data using OHDSI tools},
+  author       = {Bhattacharjee, Tathagata and Kiwuwa-Muyingo, Sylvia and Kanjala, Chifundo and Maoyi, Mlamli L and Amadi, David and Ochola, Mercy and Kadengye, Felix and Gregory, Alex and Kiragga, Agnes and Taylor, Anna and Greenfield, Jim and Slaymaker, Emma and Todd, Jim and INSPIRE Network},
+  journal      = {Frontiers in Digital Health},
+  volume       = {6},
+  pages        = {1329630},
+  year         = {2024},
+  doi          = {10.3389/fdgth.2024.1329630}
+}
+
+@article{bhattacharjee2026migrating,
+  title        = {Migrating longitudinal African mental health data from staging to the OMOP common data model within the INSPIRE network datahub},
+  author       = {Bhattacharjee, Tathagata and Mugotitsa, B and Ochola, M and Momanyi, R and Andeso, P and Amadi, D and Mailosi, D and Najjemba, L and Greenfield, J and Mabe, K and Slaymaker, E and Todd, J and Kiragga, A and INSPIRE Network},
+  journal      = {Frontiers in Psychiatry},
+  volume       = {17},
+  pages        = {1751529},
+  year         = {2026},
+  doi          = {10.3389/fpsyt.2026.1751529}
+}
+```
+
+---
+
+## 8. Ethical Governance & Acknowledgments
+
+- **Ethics Approval**: Granted by the London School of Hygiene & Tropical Medicine (LSHTM) Observational Research Ethics Committee (Ref: 29794) and the Lake Zone Institutional Review Board (LZIRB / NIMR Mwanza, Tanzania; Ref: MR/53/100/762).
+- **Data Governance**: All experiments reported in this repository use non-identifiable synthetic data generated from the Kisesa HDSS and CTC clinic datasets. No real-world patient records are stored or exposed in this codebase.
+- **Institutional Affiliations**: Population Studies Group, Department of Population Health, LSHTM; Kisesa HDSS / NIMR Mwanza, Tanzania; ALPHA Network; INDEPTH Network; INSPIRE Network; OHDSI Community.
